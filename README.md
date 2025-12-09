@@ -7,9 +7,9 @@ Official Finnish translation of the FIVB Beach Volleyball Rules 2025-2028, Refer
 The compiled documents are available in this repository and on [GitHub Pages](https://jarkko.github.io/beach-volleyball-rules-fi/):
 
 **PDFs:**
-- [`rules.pdf`](rules.pdf) - Viralliset beach volleyn säännöt 2025-2028
-- [`guidelines.pdf`](guidelines.pdf) - Beach volleyn tuomariohjeet ja -ohjeistukset
-- [`casebook.pdf`](casebook.pdf) - Beach volleyn tapausesimerkit 2025
+- [rules.pdf](https://jarkko.github.io/beach-volleyball-rules-fi/rules.pdf) - Viralliset beach volleyn säännöt 2025-2028
+- [guidelines.pdf](https://jarkko.github.io/beach-volleyball-rules-fi/guidelines.pdf) - Beach volleyn tuomariohjeet ja -ohjeistukset
+- [casebook.pdf](https://jarkko.github.io/beach-volleyball-rules-fi/casebook.pdf) - Beach volleyn tapausesimerkit 2025
 
 **HTML (automatically published to GitHub Pages on each push):**
 - [Rules (HTML)](https://jarkko.github.io/beach-volleyball-rules-fi/rules.html)
@@ -36,12 +36,12 @@ typst compile src/guidelines.typ guidelines.pdf
 typst compile src/casebook.typ casebook.pdf
 ```
 
-To compile to HTML:
+To compile to HTML (experimental feature):
 
 ```bash
-typst compile --format html src/rules.typ rules.html
-typst compile --format html src/guidelines.typ guidelines.html
-typst compile --format html src/casebook.typ casebook.html
+typst compile --format html --features html src/rules.typ rules.html
+typst compile --format html --features html src/guidelines.typ guidelines.html
+typst compile --format html --features html src/casebook.typ casebook.html
 ```
 
 **Automatic Publishing:** The documents are automatically compiled to both PDF and HTML and published to GitHub Pages on each push to the `main` branch.

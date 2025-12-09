@@ -31,13 +31,13 @@ jobs:
         run: mkdir -p _site
 
       - name: Compile Rules to HTML
-        run: typst compile --format html src/rules.typ _site/rules.html
+        run: typst compile --format html --features html src/rules.typ _site/rules.html
 
       - name: Compile Guidelines to HTML
-        run: typst compile --format html src/guidelines.typ _site/guidelines.html
+        run: typst compile --format html --features html src/guidelines.typ _site/guidelines.html
 
       - name: Compile Casebook to HTML
-        run: typst compile --format html src/casebook.typ _site/casebook.html
+        run: typst compile --format html --features html src/casebook.typ _site/casebook.html
 
       - name: Compile Rules PDF
         run: typst compile src/rules.typ _site/rules.pdf
