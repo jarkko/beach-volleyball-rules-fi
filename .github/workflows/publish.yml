@@ -50,9 +50,9 @@ jobs:
 
       - name: Copy PDFs from repo
         run: |
-          cp rules.pdf _site/rules.pdf
-          cp guidelines.pdf _site/guidelines.pdf
-          cp casebook.pdf _site/casebook.pdf
+          if [ -f rules.pdf ]; then cp rules.pdf _site/rules.pdf; fi
+          if [ -f guidelines.pdf ]; then cp guidelines.pdf _site/guidelines.pdf; fi
+          if [ -f casebook.pdf ]; then cp casebook.pdf _site/casebook.pdf; fi
 
       - name: Copy assets
         run: |

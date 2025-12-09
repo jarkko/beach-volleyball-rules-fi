@@ -11,6 +11,8 @@ permissions:
 
 jobs:
   build-pdfs:
+    # Skip if commit message contains [skip ci]
+    if: "!contains(github.event.head_commit.message, '[skip ci]')"
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
@@ -40,5 +42,9 @@ jobs:
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git add rules.pdf guidelines.pdf casebook.pdf
-          git diff --staged --quiet || git commit -m "Update PDFs [skip ci]"
-          git push
+          if ! git diff --staged --quiet; then
+            git commit -m "Update PDFs [skip ci]"
+            git push
+          else
+            echo "No PDF changes to commit"
+          fi
