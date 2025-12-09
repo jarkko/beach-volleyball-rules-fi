@@ -27,32 +27,28 @@ jobs:
         with:
           typst-version: latest
 
-      - name: Install Fontist
-        uses: fontist/setup-fontist@v2
-
-      - name: Install Helvetica Font
-        run: fontist install "Helvetica"
+      - name: Install system fonts
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y fonts-liberation fonts-dejavu
 
       - name: Create output directory
         run: mkdir -p _site
 
       - name: Compile Rules to HTML
-        run: typst compile --format html --features html --font-path ~/.fontist/fonts src/rules.typ _site/rules.html
+        run: typst compile --format html --features html src/rules.typ _site/rules.html
 
       - name: Compile Guidelines to HTML
-        run: typst compile --format html --features html --font-path ~/.fontist/fonts src/guidelines.typ _site/guidelines.html
+        run: typst compile --format html --features html src/guidelines.typ _site/guidelines.html
 
       - name: Compile Casebook to HTML
-        run: typst compile --format html --features html --font-path ~/.fontist/fonts src/casebook.typ _site/casebook.html
+        run: typst compile --format html --features html src/casebook.typ _site/casebook.html
 
-      - name: Compile Rules PDF
-        run: typst compile --font-path ~/.fontist/fonts src/rules.typ _site/rules.pdf
-
-      - name: Compile Guidelines PDF
-        run: typst compile --font-path ~/.fontist/fonts src/guidelines.typ _site/guidelines.pdf
-
-      - name: Compile Casebook PDF
-        run: typst compile --font-path ~/.fontist/fonts src/casebook.typ _site/casebook.pdf
+      - name: Copy PDFs from repo
+        run: |
+          cp rules.pdf _site/rules.pdf
+          cp guidelines.pdf _site/guidelines.pdf
+          cp casebook.pdf _site/casebook.pdf
 
       - name: Copy assets
         run: |

@@ -4,7 +4,7 @@
 
 #let project(title: "", authors: (), date: none, body) = {
   set document(author: authors, title: title, date: date)
-  set text(font: "Helvetica", lang: "fi", size: 10pt)
+  set text(font: ("Helvetica", "Liberation Sans", "DejaVu Sans"), lang: "fi", size: 10pt)
   set page(
     numbering: "1",
     number-align: center,
