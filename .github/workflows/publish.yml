@@ -23,9 +23,9 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Setup Typst
-        uses: typst-dev/setup-typst@v2
+        uses: typst-community/setup-typst@v4
         with:
-          version: latest
+          typst-version: latest
 
       - name: Create output directory
         run: mkdir -p _site
