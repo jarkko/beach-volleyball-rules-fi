@@ -1,5 +1,11 @@
 #import "../lib/utils.typ": *
 
+// Global styling for all table cells in diagrams: left-aligned, no justification
+#show table.cell: it => {
+  set par(justify: false)
+  align(left)[it]
+}
+
 = OSA 2 - JAKSO 3: KAAVIOT
 
 #diagram("1", "PELIALUE")[
@@ -50,7 +56,7 @@
 
   #table(
     columns: (1fr, 1fr, 1fr, 1fr, 1fr, 2fr),
-    [LUOKAT], [TAPAHTUMA], [RIKKIJA], [SEURAAMUS], [KORTIT], [SEURAUS],
+    [LUOKAT], [TAPAHTUMA], [TEKIJÄ], [SEURAAMUS], [KORTIT], [SEURAUS],
 
     table.cell(colspan: 6, fill: luma(240))[*LIEVÄT RIKKEET*],
 
@@ -59,16 +65,36 @@
 
     table.cell(colspan: 6, fill: luma(240))[*RANGAISTAVAT RIKKEET*],
 
-    [*RÄIKEÄ KÄYTÖS*\ (samassa erässä)], [Ensimmäinen], [Kuka tahansa], [Rangaistus], [Punainen], [Piste ja aloitus vastustajalle],
+    [*RÄIKEÄ KÄYTÖS*\ (samassa erässä)],
+    [Ensimmäinen],
+    [Kuka tahansa],
+    [Rangaistus],
+    [Punainen],
+    [Piste ja aloitus vastustajalle],
     [], [Toinen], [Sama pelaaja], [Rangaistus], [Punainen], [Piste ja aloitus vastustajalle],
     [], [Kolmas], [Sama pelaaja], [Erästä poistaminen], [Pun + Kelt\ yhdessä], [Joukkue vajaa erän ajaksi],
 
-    [*RÄIKEÄ KÄYTÖS*\ (uusi erä)], [Ensimmäinen], [Kuka tahansa], [Rangaistus], [Punainen], [Piste ja aloitus vastustajalle],
+    [*RÄIKEÄ KÄYTÖS*\ (uusi erä)],
+    [Ensimmäinen],
+    [Kuka tahansa],
+    [Rangaistus],
+    [Punainen],
+    [Piste ja aloitus vastustajalle],
 
-    [*LOUKKAAVA KÄYTÖS*], [Ensimmäinen], [Kuka tahansa], [Erästä poistaminen], [Pun + Kelt\ yhdessä], [Joukkue vajaa erän ajaksi],
+    [*LOUKKAAVA KÄYTÖS*],
+    [Ensimmäinen],
+    [Kuka tahansa],
+    [Erästä poistaminen],
+    [Pun + Kelt\ yhdessä],
+    [Joukkue vajaa erän ajaksi],
     [], [Toinen], [Sama pelaaja], [Ottelusta poistaminen], [Pun + Kelt\ erillään], [Joukkue vajaa ottelun ajaksi],
 
-    [*VÄKIVALTAINEN KÄYTÖS*], [Ensimmäinen], [Kuka tahansa], [Ottelusta poistaminen], [Pun + Kelt\ erillään], [Joukkue vajaa ottelun ajaksi],
+    [*VÄKIVALTAINEN KÄYTÖS*],
+    [Ensimmäinen],
+    [Kuka tahansa],
+    [Ottelusta poistaminen],
+    [Pun + Kelt\ erillään],
+    [Joukkue vajaa ottelun ajaksi],
   )
 
   #v(1em)
@@ -78,10 +104,21 @@
 
   #table(
     columns: (1fr, 1fr, 1fr, 1fr, 1fr, 2fr),
-    [LUOKAT], [TAPAHTUMA], [RIKKIJA], [SEURAAMUS], [KORTIT], [SEURAUS],
+    [LUOKAT], [TAPAHTUMA], [TEKIJÄ], [SEURAAMUS], [KORTIT], [SEURAUS],
 
-    [*VIIVYTYS*], [Ensimmäinen], [Kuka tahansa], [Viivytysvaroitus], [Kelt. kortti ranteessa], [Ennaltaehkäisy - ei rangaistusta],
-    [], [Toinen ja seuraavat], [Kuka tahansa], [Viivytysrangaistus], [Pun. kortti ranteessa], [Piste ja aloitus vastustajalle],
+    [*VIIVYTYS*],
+    [Ensimmäinen],
+    [Kuka tahansa],
+    [Viivytysvaroitus],
+    [Kelt. kortti ranteessa],
+    [Ennaltaehkäisy - ei rangaistusta],
+
+    [],
+    [Toinen ja seuraavat],
+    [Kuka tahansa],
+    [Viivytysrangaistus],
+    [Pun. kortti ranteessa],
+    [Piste ja aloitus vastustajalle],
   )
 ]
 
