@@ -48,3 +48,6 @@ screenshots/
 # Typst cache
 .typst-cache/
 
+# Build output for GitHub Pages
+_site/
+

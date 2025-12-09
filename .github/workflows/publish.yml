@@ -1,0 +1,170 @@
+name: Publish to GitHub Pages
+
+on:
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: "pages"
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Typst
+        uses: typst-dev/setup-typst@v2
+        with:
+          version: latest
+
+      - name: Create output directory
+        run: mkdir -p _site
+
+      - name: Compile Rules to HTML
+        run: typst compile --format html src/rules.typ _site/rules.html
+
+      - name: Compile Guidelines to HTML
+        run: typst compile --format html src/guidelines.typ _site/guidelines.html
+
+      - name: Compile Casebook to HTML
+        run: typst compile --format html src/casebook.typ _site/casebook.html
+
+      - name: Compile Rules PDF
+        run: typst compile src/rules.typ _site/rules.pdf
+
+      - name: Compile Guidelines PDF
+        run: typst compile src/guidelines.typ _site/guidelines.pdf
+
+      - name: Compile Casebook PDF
+        run: typst compile src/casebook.typ _site/casebook.pdf
+
+      - name: Copy assets
+        run: |
+          cp -r src/assets _site/assets || true
+
+      - name: Create HTML index
+        run: |
+          cat > _site/index.html << 'EOF'
+          <!DOCTYPE html>
+          <html lang="fi">
+          <head>
+            <meta charset="UTF-8">
+            <meta name="viewport" content="width=device-width, initial-scale=1.0">
+            <title>Beach Volleyball Rules - Finnish Translation</title>
+            <style>
+              body {
+                font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+                max-width: 1200px;
+                margin: 0 auto;
+                padding: 2rem;
+                line-height: 1.6;
+                color: #333;
+              }
+              h1 {
+                color: #003399;
+                border-bottom: 3px solid #003399;
+                padding-bottom: 0.5rem;
+              }
+              .document-card {
+                border: 1px solid #ddd;
+                border-radius: 8px;
+                padding: 1.5rem;
+                margin: 1.5rem 0;
+                background: #f9f9f9;
+              }
+              .document-card h2 {
+                margin-top: 0;
+                color: #003399;
+              }
+              .document-card p {
+                margin: 0.5rem 0;
+              }
+              .btn {
+                display: inline-block;
+                padding: 0.75rem 1.5rem;
+                background: #003399;
+                color: white;
+                text-decoration: none;
+                border-radius: 4px;
+                margin: 0.5rem 0.5rem 0.5rem 0;
+                transition: background 0.2s;
+              }
+              .btn:hover {
+                background: #0044cc;
+              }
+              .btn-secondary {
+                background: #666;
+              }
+              .btn-secondary:hover {
+                background: #777;
+              }
+              footer {
+                margin-top: 3rem;
+                padding-top: 1rem;
+                border-top: 1px solid #ddd;
+                color: #666;
+                font-size: 0.9em;
+              }
+            </style>
+          </head>
+          <body>
+            <h1>Beach Volleyball Rules - Finnish Translation</h1>
+            <p>Virallinen suomenkielinen käännös FIVB:n beach volleyn säännöistä, tuomariohjeista ja tapausesimerkeistä vuosilta 2025-2028.</p>
+
+            <div class="document-card">
+              <h2>Viralliset beach volleyn säännöt 2025-2028</h2>
+              <p>Kattava käännös FIVB:n virallisista beach volleyn säännöistä.</p>
+              <a href="rules.html" class="btn">Lue verkossa</a>
+              <a href="rules.pdf" class="btn btn-secondary" download>Lataa PDF</a>
+            </div>
+
+            <div class="document-card">
+              <h2>Beach volleyn tuomariohjeet ja -ohjeistukset</h2>
+              <p>Tuomareiden ohjeet ja menettelytavat beach volleyn otteluissa.</p>
+              <a href="guidelines.html" class="btn">Lue verkossa</a>
+              <a href="guidelines.pdf" class="btn btn-secondary" download>Lataa PDF</a>
+            </div>
+
+            <div class="document-card">
+              <h2>Beach volleyn tapausesimerkit 2025</h2>
+              <p>Kuvitettu tapausesimerkkikokoelma säännösten soveltamisesta.</p>
+              <a href="casebook.html" class="btn">Lue verkossa</a>
+              <a href="casebook.pdf" class="btn btn-secondary" download>Lataa PDF</a>
+            </div>
+
+            <footer>
+              <p>Käännös perustuu FIVB:n virallisiin beach volleyn sääntöihin ja asiakirjoihin. Katso FIVB:n viralliset säännöt ja määräykset.</p>
+              <p><a href="https://github.com/jarkko/beach-volleyball-rules-fi">Lähdekoodi GitHubissa</a></p>
+            </footer>
+          </body>
+          </html>
+          EOF
+
+      - name: Setup Pages
+        uses: actions/configure-pages@v4
+
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: "_site"
+
+  deploy:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    needs: build
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
