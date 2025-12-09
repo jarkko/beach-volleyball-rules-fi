@@ -2,6 +2,13 @@
 
 Official Finnish translation of the FIVB Beach Volleyball Rules 2025-2028, Refereeing Guidelines, and Casebook.
 
+## Generated Documents
+
+The compiled PDF documents are available in this repository:
+- [`rules.pdf`](rules.pdf) - Viralliset beach volleyn säännöt 2025-2028
+- [`guidelines.pdf`](guidelines.pdf) - Beach volleyn tuomariohjeet ja -ohjeistukset
+- [`casebook.pdf`](casebook.pdf) - Beach volleyn tapausesimerkit 2025
+
 ## Structure
 
 - `src/rules/` - Official Beach Volleyball Rules (Viralliset beach volleyn säännöt)
