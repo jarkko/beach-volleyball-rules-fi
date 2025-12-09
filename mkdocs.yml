@@ -1,0 +1,62 @@
+site_name: Beach Volley -säännöt (FI)
+site_description: Beach Volley -säännöt, tuomariohjeet ja tapauskirja suomeksi.
+site_author: Beach Volley Rules Team
+repo_url: https://github.com/your-repo/beach-volleyball-rules
+repo_name: beach-volleyball-rules
+
+theme:
+  name: material
+  language: fi
+  palette:
+    # Light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to dark mode
+    # Dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/weather-night
+        name: Switch to light mode
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.top
+    - search.suggest
+    - search.highlight
+    - content.code.copy
+    - toc.integrate
+
+nav:
+  - Etusivu: index.md
+  - Säännöt (Rules):
+    - Sisällysluettelo: beach/rules/index.md
+    - Luku 1 (Peliolosuhteet): beach/rules/chapter-1.md
+    - Luku 2 (Osallistujat): beach/rules/chapter-2.md
+    - Luku 3 (Pelitapa): beach/rules/chapter-3.md
+    - Luku 4 (Pelaaminen): beach/rules/chapter-4.md
+    - Luku 5 (Katkot): beach/rules/chapter-5.md
+    - Luku 6 (Käytös): beach/rules/chapter-6.md
+    - Luku 7-8 (Tuomarit): beach/rules/chapter-7-8.md
+  - Tuomariohjeet (Guidelines): beach/guidelines/index.md
+  - Tapauskirja (Casebook): beach/casebook/index.md
+
+plugins:
+  - search
+  # - with-pdf:
+  #     cover_subtitle: "Viralliset säännöt"
+  #     author: "Suomen Lentopalloliitto"
+  #     copyright: "FIVB / Suomen Lentopalloliitto"
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - attr_list
+  - md_in_html

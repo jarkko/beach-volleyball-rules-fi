@@ -1,0 +1,1260 @@
+
+--- Page 1 ---
+ 
+LENTOPALLONSÄÄNNÖT 2025 Versio
+1.8.2025Tiedosto luotu: 2025-11-04 11.24.26
+--- Page 2 ---
+Johdanto
+Jakso I - Peli
+Luku 1 Peliolosuhteet ja -välineet 1. Pelialue 2. Verkko ja verkkopylväät 3. Pallot
+Luku 2 Osanottajat 4. Joukkueet 5. Joukkueen johtajat
+Luku 3 Pelitapa 6. Pisteen saaminen, erän ja ottelun voittaminen 7.Pelin rakenne
+Luku 4 Pelaaminen 8. Pelin tilanteet 9. Pallon pelaaminen 10. Pallo verkolla 11. Pelaaja verkolla 12. Aloitussyöttö 13. Hyökkäyslyönti 14. Torjunta
+Luku 5 Katkot ja viivytykset 15. Sääntömääräiset pelikatkot 16. Ottelun viivyttäminen 17. Pelin poikkeukselliset keskeytykset 18. Erätauko ja puoltenvaihto
+Luku 6 Libero-pelaaja 19. Libero-pelaaja
+Luku 7 Ottelun osanottajien käyttäytyminen 20. Käyttäytymissäännöt 21. Käyttäytymisrikkeet ja niiden rankaisu
+Jakso II - Tuomarit, heidän tehtävänsä ja viralliset käsimerkit
+Luku 8 Tuomarit 22. Tuomaristo ja menettelyt 23. Päätuomari 24. Verkkotuomari 25. Haastetuomari 26. Varalla oleva tuomari 27. Kirjuri 28. Avustava kirjuri 29. Rajatuomarit 30. Viralliset käsi- ja lippumerkit
+Määritelmät
+--- Page 3 ---
+Jakso III - Kaaviot 1 Kilpailualue ja pelialue 2 Pelikenttä 3 Verkon rakenne 4 Pelaajien sijoittuminen 5 Verkon ylittävä pallo 6 Ryhmäpeittäminen 7 Toteutunut torjunta 8 Takapelaajan hyökkäyslyönti 9 Rangaistustaulukot 10 Ottelun tuomariston sijoittuminen 11 Tuomareiden käsimerkit 12 Rajaruomareiden lippumerkit
+--- Page 4 ---
+ 
+PELIN LUONNE
+Lentopallo on kahden joukkueen verkon jakamalla kentällä pelaama urheilulaji. Lajista on olemassa eriversioita erilaisiin olosuhteisiin tarjoamaan pelin monipuolisia ominaisuuksia jokaiselle.
+Pelissä tavoite on toimittaa pallo verkon yli ja saada pallo koskettamaan vastapuolen kenttää, ja estäävastapuolta tekemästä samaa. Joukkueella on kolme lyöntiä pallon palauttamiseen (torjunnan lisäksi).
+Pallo laitetaan peliin syöttämällä: syöttäjän lyönti verkon yli vastapuolelle. Palloralli jatkuu kunnes pallokoskettaa pelikenttää, tai se menee 'ulos' tai joukkue ei onnistu palauttamaan palloa sääntöjenmukaisesti.
+Lentopallossa pallorallin voittava joukkue saa pisteen (Palloralli Pistesysteemi). Jos syötönvastaanottava joukkue voittaa pallorallin, saa se pisteen ja oikeuden syöttöön, ja sen pelaajat siirtyvätkentällä kiertovaihdolla yhden pelipaikan eteenpäin kellon pyörimissuuntaan.
+--- Page 5 ---
+Johdanto
+Lentopallo on yksi menestyneimpiä ja suosituimpia kilpa- ja harrasteurheilulajeja maailmassa. Se onnopea, jännittävä ja pelitapahtumat ovat kiivaita. Silti lentopallo sisältää useita tärkeitä ja toisilleenpäällekkäisiä osa-alueita, joiden toisiaan täydentävät vuorovaikutukset tekevät lajista ainutlaatuisenpistekilpailujen joukossa:
+Viime vuosina Kansainvälinen Lentopalloliitto (FIVB) on ottanut merkittäviä edistysaskeliamukauttaakseen peliä nykyaikaiseksi yleisölajiksi. Tämä teksti on tarkoitettu laajalle lentopalloyleisölle -pelaajat, valmentajat, tuomarit, katsojat, tiedotusvälineiden kommentaattorit - seuraavista syistä:
+pelisääntöjen ymmärtäminen mahdollistaa parempaa peliä - valmentajat voivat luoda paremmanjoukkuekoostumuksen ja pelitaktiikan, jolla pelaajille voidaan antaa vapaat kädet näyttää taitonsapelissä;sääntöjen keskinäisten suhteiden ymmärtäminen mahdollistaa toimitsijoiden paremmat ratkaisut.
+Tämä johdanto keskittyy ensin Lentopalloon kilpailulajina ennen kuin osoitetaan keskeisetominaisuudet, jotka ovat edellytyksenä menestykselle tuomaritoiminnassa.
+LENTOPALLO ON KILPAURHEILULAJI
+Kilpailussa käytetään olemassa olevia vahvuuksia. Siinä esitellään parhaat kyvyt ja luovimmat jakauneimmat suoritukset. Pelisäännöt on jäsennelty antamaan kaikille näille ominaisuuksille sijaa.Muutamaa poikkeusta lukuunottamatta lentopallossa kaikki pelaajat osallistuvat peliin verkolla(hyökkäyksessä) ja takakentällä (puolustettaessa tai syötettäessä).
+William Morgan, pelin luoja, tunnistaisi nykylentopallon hyvin, koska tietyt lajille ominaiset ja keskeisetpiirteet ovat säilyneet vuosien yli. Eräät näistä piirteistä ovat yhteisiä muiden verkko-/pallo-/mailapelienkanssa:
+syöttäminenpelaajien kiertovahto (syöttäminen vuorotellen)hyökkäyspuolustus.
+Lentopallo on kuitenkin ainutlaatuinen verkkopeli vaatiessaan pallon pysymistä ilmassa jatkuvastilentävä pallo ja että joukkueelle annetaan mahdollisuus keskinäiseen syöttelyyn ennen kuin pallo pitääpalauttaa vastustajille.
+Erikoistuneen puolustuspelaajan - Liberon - mukaantuominen peliin on vienyt peliä pallorallienpidennyttyä ja pelin monivaiheisuudella eteenpäin. Muutokset syöttösäännöissä ovat tehneet syötöstähyökkäysaseen pelkän pallon peliin toimittamisen sijasta. Kiertovaihtojärjestelmä on juurruttanutpelaajien monitaitoisuuden lajiin. Pelaajien sijoittumista koskevien sääntöjen tulee antaa joukkueillejoustoa ja mahdollisuuksia kehittää taktiikkaansa entistä kiinnostavammaksi. Kilpailijat vastaavastikäyttävät näitä puitteita kilpaillakseen suorituksissa, pelitaktiikassa ja voimassa. Puitteet antavat myöspelaajille mahdollisuuden ilmaisun vapauteen innostaakseen katsojia ja muita peliä seuraavia. Ja näinlentopallo kehittyy entistä paremmaksi.
+--- Page 6 ---
+TUOMARINA NÄISSÄ PUITTEISSA
+Hyvän toimitsijan ominaisuuksia ovat oikeudenmukaisuus ja johdonmukaisuus:
+toimitsijan tulee olla oikeudenmukainen kaikille osallistujille,toimitsijan tulee peliä seuraavien mielestä olla oikeudenmukainen.
+Jotta pelaajat voivat paneutua omaan osuuteensa, tulee tuomarin olla suuren luottamuksen arvoinen -eli hänen täytyy olla ja kaikkien muiden täytyy luottaa tuomarin:
+olevan täsmällinen ratkaisuissaan;ymmärtävän miksi sääntö on olemassa;osoittaa olevansa tehokas tilanteiden järjestelijä;antavan kilpailun edetä joustavasti ja ohjata sitä loppuratkaisuun;olevan kasvattaja - käyttämällä sääntöjä rankaisemaan epäoikeudenmukaisuudet januhdellakseen epäkohteliaisuuksista;edistävän peliä - eli sallimalla näyttävien suoritusten antaa pelin loistaa ja antamalla parhaidenpelaajien tehdä sitä mitä he parhaiten osaavat: viihdyttää yleisöä.
+Lopuksi voimme todeta, että hyvä tuomari käyttää sääntöjä tehdäkseen kilpailusta hienon kokemuksenkaikille siihen osallistuville.
+Niille, jotka olette lukeneet tähän saakka, ohjeena olkoon, että seuraavia yksityiskohtaisia sääntöjätulee tarkastella hienon pelin nykykehityksen kuvauksena, mutta nämä edeltäneet muutamat kappaleettulee olla yhtä merkityksellisiä itse kunkin roolissa tämän urheilulajin parissa.
+Tule mukaan!Pidetään pallo ilmassa!
+--- Page 7 ---
+1 PELIALUE  
+Pelialueeseen kuuluu pelikenttä ja vapaa-alue. Se on suorakulmainenja symmetrinen. 1.1, K.1a, K.1b
+1.1 KENTÄN MITAT K.2
+Pelikenttä on 18 x 9 metrin suuruinen suorakaiteen muotoinen alue,ympärillään joka puolelta vähintään 3 metrin levyinen vapaa-alue. 
+Pelialueen ilmatilan on oltava kaikista esteistä vapaa vähintään 7metrin korkeuteen asti pelialueen pinnasta lukien. 
+(Alamittaisten salien hyväksymisestä alempien kansallisten sarjojenotteluissa säädetään Suomen Lentopalloliiton sarjamääräyksissä.) 
+FIVB:n nimetyissä maailmatason ja virallisissa kilpailuissa vapaa-alueen on oltava 5 m sivurajoista ja 6,5m päätyrajoista lukien,vapaan ilmatilan on oltava vähintään 12,5 m korkuinen pelialueenpinnasta lukien.
+ 
+1.2 PELIALUEEN PINTA  
+1.2.1 Kentän on oltava tasainen, vaakasuora ja joka kohdaltaansamanlainen. Kentän pinta ei saa aiheuttaa loukkaantumisvaaraapelaajille. Pelaaminen epätasaisilla tai liukkailla pinnoilla on kielletty.
+ 
+FIVB:n maailmatason ja virallisissa kilpailuissa hyväksytään vainpuinen tai keinoaineesta tehty pinta. Kaikkiin pintoihin on ennenkisoja saatava FIVB:n hyväksyminen.
+ 
+1.2.2 Sisäkentillä kentän värin on oltava vaalea. 
+FIVB:n nimetyissä maailmatason ja virallisissa kilpailuissa rajojenon oltava valkoiset. Pelikentän ja vapaa-alueen värit on oltavakeskenään eriväriset ja muun väriset kuin rajat. Pelikenttä voi ollaerivärinen, eri värit etu- ja takakentällä.
+1.1, 1.3
+1.2.3 Ulkokentillä sallitaan 5 mm:n kaltevuus metriä kohti, jotta vesi pääseevalumaan kentältä. Rajoja ei saa tehdä kiinteästä aineesta.1.3
+1.3 KENTÄN RAJAT K.2
+1.3.1 Kaikki rajat ovat 5 cm leveät. Niiden on oltava vaaleat, ja eriväriset kuinkenttä ja muut mahdolliset rajat. 1.2.2
+1.3.2 Sivu- ja päätyrajat  
+Pelikenttä merkitään kahdella sivurajalla ja kahdella päätyrajalla. Ne onvedetty kentän mittojen sisäpuolelle.1.1
+1.3.3 Keskiraja  
+Keskirajan keskilinja jakaa kentän kahteen yhtä suureen osaankenttäpuoleen, kooltaan 9 x 9 m kumpikin; keskirajan koko leveydenkatsotaan kuitenkin kuuluvan tasapuolisesti molempiin kenttäpuoliin.Raja kulkee verkon alla ja päättyy sivurajoihin.
+K.2
+1.3.4 Hyökkäysraja  
+Kummallakin kenttäpuolella hyökkäysraja, jonka takareuna on vedetty3 m päähän keskirajan keskilinjasta, merkitsee etukentän.1.3.3, 1.4.1
+--- Page 8 ---
+FIVB:n nimetyissä maailmatason ja virallisissa kilpailuissahyökkäysraja on jatkettu sivurajoilta eteenpäin lisäämälläkatkoviivana viisi 15 cm pituista 5 cm levyistä ja 20 cm väleinolevaa viivaa yhteiseltä pituudeltaan 1.75 m. 'Valmentaja-alueenraja' (katkoviiva, joka kulkee sivurajan suuntaisena 1,75 m päässäsiitä hyökkäysrajalta alkaen päätyrajalle saakka) koostuu 15 cmpituisista 20 cm välein olevista viivoista ja merkitsee valmentajantoiminta-alueen.
+K.2
+1.4 KENTÄN ALUEET K.1b, K.2
+1.4.1 Etukenttä 19.3.1.4, 23.3.2.3e,K.2
+Molemmilla kenttäpuolilla etukenttä rajoittuu keskirajan keskilinjastahyökkäysrajan takareunaan. 1.3.3, 1.3.4, 19.3.1.4,23.3.2.3e
+Etukentän katsotaan ulottuvan sivurajojen yli vapaa-alueen reunaanasti. 1.1, 1.3.2
+1.4.2 Aloitusalue  
+Aloitusalue on 9 metriä leveä alue kummankin päätyrajan takana. 
+Sen rajaa sivuilta kaksi 15 cm:n pituista rajamerkkiä, jotka on vedettysivurajojen jatkeeksi 20 cm:n päähän päätyrajasta. Molemmatrajamerkit kuuluvat aloitusalueeseen.
+1.3.2, 12, K.1b
+Syvyydeltään aloitusalue ulottuu vapaa-alueen takareunaan.1.1
+1.4.3 Vaihtoalue  
+1.4.3 Vaihtoalue on alue, jota rajaavat molempien hyökkäysrajojen jatkeet jakirjurin pöytä. 1.3.4, 15.6.1, K.1b
+1.4.4 Libero-pelaajan korvaamisalue  
+Liberon korvaamisalue on osa vapaa-aluetta kummankin joukkueenpenkin puolella, jota rajaa hyökkäysrajan jatke ja päätyrajan oletettujatke.
+19.3.2.7, K.1b
+1.4.5 Lämmittelyalue  
+FIVB:n maailmatason ja virallisissa kilpailuissa onlämmittelyalueet, kooltaan noin 3 x 3 m, vapaa-alueen ulkopuolellapenkinpuoleisissa nurkissa missä vaihtopelaajat eivät estäkatsojien näkymää, tai vaihtoehtoisesti joukkueen penkin takana,jossa katsomo alkaa yli 2,5 metrin korkeudesta kentän pinnasta.
+24.2.5, K.1a, K.1b
+1.5 LÄMPÖTILA  
+Pelitilan lämmön on oltava vähintään 10° C (50° F). 
+FIVB:n maailmatason ja virallisissa kilpailuissa tekninendelegaatti määrittää korkeimman sallitun lämpötilan. 
+1.6 VALAISTUS  
+Valaistuksen tulee olla vähintään 300 lux.1
+FIVB:n maailmatason ja virallisissa kilpailuissa pelialueenvalaistuksen tulee olla vähintään 2000 luxia mitattuna metrinkorkeudella pelialueen pinnasta.
+ 
+--- Page 9 ---
+2 VERKKO JA VERKKOPYLVÄÄT K.3
+2.1 VERKON KORKEUS  
+2.1.1 Keskirajan yläpuolella sijaitsevan verkon korkeus on miesjoukkueilla243 cm ja naisjoukkueilla 224 cm. 1.3.3
+(Nuorten kahden ylimmän ikäluokan verkon korkeuden määrääkansainvälinen liitto, muut jäävät kansallisten liittojen määrättäväksi(ks. sarjamääräykset).)
+ 
+2.1.2 Verkon korkeus mitataan kentän keskeltä. Molemmilta laidoiltasivurajojen kohdalta on verkon oltava samankorkuinen ja enintään 2cm sääntöjen määräämää korkeammalla.
+1.1, 1.3.2, 2.1.1
+2.2 VERKON RAKENNE  
+Verkon leveys on 1 m (± 3 cm) ja pituus 9.5 m - 10 m (25 tai 50 cmpituutta kummallakin verkkomerkin ulkopuolella), ja sen neliönmuotoisten mustien silmukoiden sivut 10 cm.
+K.3
+FIVB:n maailmatason ja virallisisssa kilpailuissa, yhdessäerityisten kilpailumääräysten kanssa, verkkoa voidaan muuntaamainostamisen mahdollistamiseksi markkinointisopimuksienmukaisesti.Sen yläreunassa on vaakasuoraan 7 cm:n levyinen ommeltukangasnauha koko sen pituudelta. Nauhan päissä on reiät, joidenkautta vedetyillä naruilla nauha kiinnitetään pylväisiin sen pitämiseksikireänä.
+ 
+Nauhan sisällä kulkee notkea teräsköysi, jolla verkko kiinnitetäänpylväisiin, ja joka jännittää verkon yläreunan kireäksi. 
+Verkon alareunassa on toinen vaakasuora nauha, 5 cm levyinen,samanlainen kuin yläreunan nauha, jonka lävitse kulkee kierteinenköysi. Tällä verkko kiinnitetään pylväisiin, ja jännittää verkon alareunankireäksi.
+ 
+2.3 VERKKOMERKIT  
+Kaksi valkoista nauhaa kiinnitetään verkon päihin pystysuoraansivurajojen kohdalle. 1.3.2, K.3
+Ne ovat 5 cm:n levyisiä ja 1 m:n pituisia, ja katsotaan osaksi verkkoa. 
+2.4 ANTENNI  
+Antenni on lasikuidusta tai muusta samankaltaisesta aineestavalmistettu taipuisa keppi, jonka pituus on 1,80 m ja läpimitta 10 mm. 
+Antennit kiinnitetään verkkomerkkien ulkoreunan ulkopuolelle verkonvastakkaisille puolille. 2.3, K.3
+Molemmista antenneista 80 cm:n osuus ulottuu verkon yläpuolelle, jaantennit merkitään 10 cm:n pituisin vastakkaisvärisin juovin, mieluitenpunaisin ja valkoisin.
+ 
+Antennit katsotaan osaksi verkkoa ja ne rajaavat sivusuunnassaverkon ylityskaistan. 10.1.1, K.3, K.5a,K.5b
+2.5 VERKKOPYLVÄÄT  
+2.5.1 Verkkoa kannattavat pylväät kiinnitetään 0,50-1,00 m:n päähänsivurajojen ulkopuolelle. Ne ovat 255 cm korkeat ja mieluitensäädettävät.
+K.3
+--- Page 10 ---
+FIVB:n maailmatason ja virallisissa kilpailuissa verkkopylväidentulee olla 1 metrin päässä sivurajoista ja niiden tulee ollapehmustettuja.
+ 
+2.5.2 Verkkopylväiden tulee olla pyöristetyt, ja sileät, ja kiinnitetyt kenttäänilman vaijereita. Niissä ei saa olla muitakaan vaaraa tai haittaaaiheuttavia rakenteita.
+ 
+2.6 LISÄVARUSTEET  
+Lisävarusteiden on oltava FIVB:n määräysten mukaiset.  
+--- Page 11 ---
+3 PALLOT  
+3.1 OMINAISUUDET  
+Pallon on oltava pyöreä, ja tehty joustavasta nahka- tai synteettisestänahkakuoresta ja kumista tai vastaavasta aineesta tehdystäsisuksesta.
+ 
+Väriltään pallo on vaalea yksivärinen tai värien yhdistelmä. 
+Pallojen synteettinen nahkakuori tai värien yhdistelmä, joita käytetäänkansainvälisissä virallisissa kilpailuissa, tulee olla FIVB:n määräystenmukaisia.
+ 
+Pallon ympärysmitta on 65-67 cm, ja paino 260-280 g. 
+Pallon paine on oltava 0.30 - 0.325 kg/cm2 (4,26 - 4,61 psi)(294,3 -318,82 mbar tai hPa).  
+3.2 PALLOJEN YHDENMUKAISUUS  
+Ottelussa käytettävien pallojen on oltava ominaisuuksiltaan:ympärysmitaltaan, painoltaan, paineeltaan, tyypiltään, väriltään jne.samanlaiset.
+3.1
+FIVB:n maailmatason ja virallisissa kilpailuissa, kuten myöskansallisissa tai liigatason mestaruuskilpailuissa on pelattavaFlVB:n hyväksymillä pallomerkeillä, ellei FIVB ole muutailmoittanut hyväksyvänsä.
+ 
+3.3 VIIDEN PALLON JÄRJESTELMÄ  
+FIVB:n maailmatason ja virallisissa kilpailuissa on käytettäväviittä palloa. Tällöin ottelussa on kuusi pallonpalauttajaa, yksivapaa-alueen kussakin nurkassa ja yksi kummankin tuomarintakana.
+K.10
+--- Page 12 ---
+4 JOUKKUEET  
+4.1 JOUKKUEEN KOKOONPANO  
+4.1.1 Joukkue käsittää enintään 12 pelaajaa, ja5.2, 5.3
+- valmentajisto: yksi valmentaja ja enintään kaksi apuvalmentajaa- huoltajisto: yksi terapeutti ja yksi lääkäri.  
+Vain pöytäkirjaan merkityt henkilöt voivat mennä kilpailu-/valvotullealueelle ja voivat osallistua lämmittelyyn tai otteluun. 
+FIVB:n aikuisten maailmatason ja virallisissa kilpailuissapöytäkirjaan voidaan merkitä enintään 14 pelaajaa, jotka voivatpelata ottelussa.
+ 
+Enintään viisi joukkueen valmentajiston tai huoltajiston jäsentävoi istua penkillä (sisältäen valmentajan) valmentajan valinnanmukaisesti, mutta heidät täytyy olla merkitty pöytäkirjaan jarekisteröity O-2(bis) -lomakkeeseen.
+ 
+Joukkueen manageri ja/tai journalisti eivät saa istua joukkueenpenkillä tai sen takana valvotulla alueella. 
+FIVB:n maailmatason ja virallisissa kilpailuissa lääkärin jaterapeutin tulee olla osa joukkueen kokoonpanoa ja heidän tuleeolla FIVB:n etukäteen akkreditoituja. FIVB:n aikuistenmaailmatason ja virallisissa kilpailuissa, jos heitä ei olekuitenkaan merkitty istumaan joukkueen penkillä, heidän tuleeistua kilpailun valvonta-alueella sitä rajaavan aidan vieressä taierikseen kilpailukäsikirjassa heille mainitussa paikassa ja voivatpuuttua pelaajien hätätapauksiin vain tuomareiden pyynnöstä.Terapeutti (vaikka ei ole penkillä) voi avustaa pelaajienlämmittelyssä siihen asti, kun virallinen verkkolämmittely alkaa.
+K.1a, 7.2.1
+Viralliset määräykset kuhunkin tapahtumaan ovat erikseenkyseisessä kilpailukäsikirjassa. K.1a, 7.2.1
+4.1.2 Yksi joukkueen pelaajista on joukkueen kapteeni, jonka kohdalleottelupöytäkirjaan on tehtävä tästä merkintä.5.1
+4.1.3 Vain pöytäkirjaan merkityt pelaajat saavat mennä kentälle ja pelataottelussa. Sen jälkeen, kun joukkueen valmentaja ja joukkueenkapteeni ovat allekirjoittaneet pöytäkirjan, (elektronisen pöytäkirjantapauksessa joukkuelistan) siihen merkittyjä pelaajia ei saa muuttaa.
+1, 4.1.1, 5.1.1, 5.2.2
+4.2 JOUKKUEEN SIJAINTI  
+4.2.1 Pelaajien, jotka eivät ole pelissä, on joko istuttava joukkueensa penkillätai oltava lämmittelyalueellaan. Valmentajan ja muidenjoukkueenjäsenten on istuttava penkillä, mutta he voivat hetkellisestipoistua sieltä.
+1.4.5, 5.2.3, 7.3.3
+Joukkueiden penkit ovat kirjurin pöydän molemmin puolin, vapaa-alueen ulkopuolella. K.1a, K.1b
+4.2.2 Vain joukkueen jäsenet saavat tulla pelialueelle, istua penkillä ottelunaikana sekä osallistua lämmittelyyn. 4.1.1, 7.2
+4.2.3 Pelaajat, jotka eivät ole pelissä, saavat lämmitellä ilman pallojaseuraavasti:  
+4.2.3.1ottelun aikana: lämmittelyalueilla, 1.4.5, 8.1, K.1a, K.1b
+4.2.3.2aikalisien aikana: myös vapaa-alueella kenttänsä takana.1.3.3, 15.4
+--- Page 13 ---
+4.2.4 Erätaukojen aikana pelaajat saavat käyttää palloja lämmitellessäänvapaa-alueella. 2 ja 3 erän välisellä pidennetyllä erätauolla (jos sitäkäytetään), pelaajat voivat käyttää myös omaa kenttäpuoltaan.
+18.1
+4.3 PELAAJIEN VARUSTEET  
+Pelaajan varusteisiin kuuluvat pelipaita, -housut, -sukat (peliasu) jaurheilujalkineet.  
+4.3.1 Joukkueen pelipaitojen, -housujen ja -sukkien on oltava yhdenmukaiset(poikkeuksena Libero) ja puhtaat koko joukkueella.4.1, 19.2
+4.3.2 Jalkineiden on oltava kevyet, notkeat, korottomat ja kumi- tainahkapohjaiset.  
+4.3.3 Pelaajilla on oltava paidoissaan numerot 1 - 20.4.3.3.2
+FIVB:n aikuisten maailmatason ja virallisissa kilpailuissa, joissakäytetään suurempaa joukkuekokoonpanoa, numeroita voidaankäyttää laajemmin.
+ 
+4.3.3.1Numeron on oltava rinnassa ja selässä keskellä. Numeroiden värin jakirkkauden on poikettava paitojen vastaavista. 
+4.3.3.2Rintanumeroiden on oltava korkeudeltaan vähintään 15 cm jaselkänumeroiden vähintään 20 cm. Numeroraidan leveys on vähintään2 cm.
+ 
+4.3.4 Joukkueen kapteenilla on oltava rinnassaan pelinumeronsa alapuolellahänen asemaansa osoittava raita, kooltaan 8 x 2 cm.5.1
+4.3.5 Eriväristen kuin joukkueen muiden pelaajien (poikkeuksena Liberot)ja/tai puutteellisesti numeroitujen asujen pitäminen on kielletty. 19.2
+4.4 MUUTOKSET VARUSTEISIIN  
+Päätuomari voi sallia yhden tai useamman pelaajan:23
+4.4.1 Pelata avojaloin,  
+4.4.2 vaihtaa kostuneen tai vaurioituneen peliasun erien välillä taipelaajavaihdon jälkeen toiseen samanväriseen, -malliseen ja -numeroiseen peliasuun,
+4.3, 15.5
+4.4.3 pelata kylmällä säällä lämmittelyasussa, kunhan se on kokojoukkueella samanvärinen, -mallinen (poikkeuksena Liberot) jasäännön 4.3.3 mukaisesti numeroitu.
+4.1.1, 19.2
+4.5 KIELLETYT ESINEET  
+4.5.1 On kiellettyä pitää ottelun aikana sellaisia esineitä, jotka voivataiheuttaa loukkaantumisen tai antaa keinotekoista etua pelaajalle. 
+4.5.2 Pelaajat saavat käyttää silmälaseja tai piilolinssejä omalla vastuullaan. 
+4.5.3 Puristavia, eli kompressiopehmusteita (pehmustettuja vammojaehkäiseviä välineitä) voidaan käyttää suojana tai tukena. 
+FIVB:n aikuisten maailmatason ja virallisissa kilpailuissa nämävälineet tulee olla saman värisiä kuin vastaava peliasun osa.Mustaa, valkoista tai muuta neutraalia väriä voidaan myös käyttääedellyttäen, että kaikki pelaajat käyttävät samaa väriä.
+ 
+--- Page 14 ---
+5 JOUKKUEEN JOHTAJAT  
+Sekä joukkueen kapteeni että valmentaja ovat vastuussa joukkueensajäsenten käyttäytymisestä ja kurista.20
+Liberot voivat olla joko joukkueen kapteeni tai pelikapteeni. 
+5.1 KAPTEENI  
+5.1.1 ENNEN OTTELUA joukkueen kapteeni allekirjoittaa ottelupöytäkirjan jaedustaa joukkuettaan arvonnassa. 7.1, 27.2.1.1
+5.1.2 OTTELUN AIKANA joukkueen kapteeni toimii pelikapteenina ainaollessaan kentällä. Kun joukkueen kapteeni ei ole kentällä, valmentajatai joukkueen kapteeni itse nimeävät toisen pelaajan hänen tilalleenpelikapteeniksi. Pelikapteeni toimii tehtävässään, kunnes hänetvaihdetaan ulos tai joukkueen kapteeni palaa kentälle, tai erä päättyy.
+15.2.1
+Kun pallo ei ole pelissä, pelikapteenilla, ja vain hänellä, on oikeuspuhutella tuomareita: 8.2
+5.1.2.1pyytääkseen selvitystä suoritetusta sääntöjen soveltamisesta taitulkinnasta. Hän myös välittää joukkuetovereidensa pyynnöt taikysymykset asianomaiselle tuomarille. Jos tuomarin selitys ei häntätyydytä, hänen on ilmoitettava välittömästi tuomarille olevansa erimieltä. Täten hän varaa itselleen oikeuden tehdä ottelun loputtuaasiasta virallinen vastalause pöytäkirjaan;
+23.2.4
+5.1.2.2pyytääkseen lupaa:  
+a) varusteiden vaihtamiseen, kokonaan tai osittain,4.3, 4.4.2
+b) joukkueiden pelipaikkojen tarkistamiseen,7.4, 7.6
+c) lattian, verkon, pallon jne. tarkistamiseen.1.2, 2, 3
+5.1.2.3valmentajan ollessa poissa, ellei joukkueen apuvalmentaja ole ottanutvalmentajan tehtäviä hoitaakseen, pyytääkseen aikalisiä japelaajavaihtoja.
+5.2, 5.3, 15.3.1,15.4.1, 15.5.2
+5.1.3 OTTELUN PÄÄTYTTYÄ joukkueen kapteeni:6.3
+5.1.3.1kiittää tuomareita ja allekirjoittaa pöytäkirjan ottelun lopputuloksenvahvistamiseksi; 27.2.3.3
+5.1.3.2voi merkitä pöytäkirjaan vastalauseen asiasta, josta hän on aikanaanilmoittanut päätuomarille olevansa tämän ratkaisusta taisääntötulkinnasta eri mieltä.
+5.1.2.1, 27.2.3.2
+5.2 VALMENTAJA  
+5.2.1 Ottelussa valmentaja johtaa joukkueensa peliä pelikentän ulkopuolelta.Hän valitsee joukkueen aloituskokoonpanon ja pelaajavaihdot sekäottaa aikalisät. Näissä toimissa hänen yhteystoimitsijansa onverkkotuomari.
+1.1, 7.3.2, 15.4.1,15.5.2
+5.2.2 ENNEN OTTELUA valmentaja merkitsee ottelupöytäkirjanpelaajalistaan tai tarkistaa siitä pelaajien nimet ja numerot sekävahvistaa tämän nimikirjoituksellaan.
+4.1, 19.1.3, 27.2.1.1
+5.2.3 OTTELUN AIKANA valmentaja;  
+5.2.3.1ennen kutakin erää antaa verkkotuomarille tai kirjurillealoitusjärjestyslipukkeen(-t) asianmukaisesti täytettynä jaallekirjoitettuna;
+7.3.2, 7.4, 7.6
+5.2.3.2istuu joukkueensa penkillä, sen kirjurinpuoleisessa päässä, mutta voipoistua siitä; 4.2
+--- Page 15 ---
+5.2.3.3pyytää aikalisät ja vaihdot; 15.4, 15.5
+5.2.3.4saa antaa, kuten muutkin joukkueen jäsenet, kentälle ohjeita.Valmentaja saa antaa näitä ohjeita seisoen tai kävellen vapaa-alueellajoukkueen penkin etupuolella hyökkäysrajan jatkeeltalämmittelyalueeseen saakka, jos se on sijoitettu kulmaan, vapaa-alueen ulkopuolelle, edellyttäen ettei häiritse tai viivytä pelin kulkua.Jos lämmittelyalue on sijoitettu vaihtopenkkien taakse, silloinvalmentaja voi liikkua hyökkäysrajan jatkeen ja joukkueen pelikentänpäätyrajan jatkeen välissä, mutta häiritsemättä rajatuomarinnäkökenttää.
+1.3.4, 1.4.5, K.1a,K.1b, K.2
+5.3 APUVALMENTAJA  
+5.3.1 Apuvalmentaja istuu joukkueensa penkillä, mutta hänellä ei ole oikeuttapuuttua ottelun kulkuun.  
+5.3.2 Jos valmentaja joutuu luopumaan tehtävästään mistä tahansa syystäjohtuen, mukaan lukien rangaistus, mutta pois lukien valmentajansiirtyminen pelaajana kentälle, apuvalmentaja voi ryhtyä hoitamaanhänen tehtäviään poissaolon ajaksi. Joukkueen pelikapteenin onpyydettävä tähän lupa päätuomarilta.
+5.1.2, 5.2
+--- Page 16 ---
+6 PISTEEN SAAMINEN, ERÄN JA OTTELUN VOITTAMINEN  
+6.1 PISTEEN SAAMINEN  
+6.1.1 Piste  
+Joukkue tekee pisteen:  
+6.1.1.1saadessaan pallon koskettamaan vastapuolen kenttää;8.3, 10.1.1
+6.1.1.2jos vastapuolen joukkue tekee virheen;6.1.2
+6.1.1.3jos vastapuolen joukkueelle määrätään rangaistus.16.2.3, 21.3.1
+6.1.2 Virhe  
+Joukkue tekee virheen, kun se tekee näiden sääntöjen vastaisenpelisuorituksen, tai muuten rikkoo sääntöjä. Tuomarit arvioivat virheetja määräävät niille rangaistukset näiden sääntöjen mukaan:
+ 
+6.1.2.1Jos kaksi tai useampia virheitä tehdään peräkkäin, vain ensimmäinenniistä otetaan huomioon.  
+6.1.2.2Jos molemmat joukkueet tekevät virheen samanaikaisesti, tuomitaanKAKSOISVIRHE, ja pallo pelataan uudelleen.6.1.2, K.11(23)
+6.1.3 Palloralli ja päättynyt palloralli  
+Palloralliksi nimitetään sarjaa pelitapahtumia, jotka alkavat aloittajanaloituslyöntihetkestä ja päättyvät siihen, kun pallo kuolee. Päättynytpalloralli on sarja pelitapahtumia, joka johtaa pisteen saamiseen.Tämä pitää sisällään:- rangaistuksen saamisen- syötön menetyksen kahdeksan (8) sekunnin aloitusvirheenvuoksi.
+8.1, 8.2, 12.2.2.1,15.2.3, 15.11.1.3,19.3.2.1, 19.3.2.9,21.3.1
+6.1.3.1jos aloituksen suorittanut joukkue voittaa pallorallin, se saa pisteen jajatkaa aloittamista;  
+6.1.3.2jos aloituksen vastaanottanut joukkue voittaa pallorallin, se saa pisteenja suorittaa seuraavan aloituksen.  
+6.2 ERÄN VOITTAMINEN K.11(9)
+Erän (paitsi ratkaisevan 5. erän) voittaa joukkue, joka ensin saavuttaa25 pistettä vähintään kahden pisteen erolla vastapuoleensa. Jostilanne on tasan 24-24, peli jatkuu kunnes saavutetaan kahden pisteenero (26-24;27-25; jne.).
+6.3.2
+6.3 OTTELUN VOITTAMINEN K.11(9)
+6.3.1 Ottelun voittaa joukkue, joka ensin voittaa kolme erää.6.2
+6.3.2 Kun erätilanne on 2-2, ratkaiseva erä (viides) pelataan 15 pisteeseenvähintään kahden pisteen erolla vastapuoleen.7.1
+6.4 LUOVUTUS JA JOUKKUEEN JÄÄMINEN VAJAAKSI  
+6.4.1 Jos joukkue kieltäytyy kehotuksen jälkeenkin pelaamasta, sejulistetaan hävinneeksi ottelu luovutuksella, tuloksella 0-3 ja jokainenerä numeroin 0-25.
+6.2, 6.3
+6.4.2 Joukkueen, joka ilman asianmukaista syytä jää saapumatta pelipaikalleajoissa, katsotaan luovuttaneen ottelun; seuraukset kuten edellä,säännössä 6.4.1.
+ 
+6.4.3 Joukkue, joka todetaan VAJAAKSI erässä tai koko ottelussa menettäävastaavasti erän tai koko ottelun. Vastapuolelle annetaan erän taiottelun voittoon tarvittavat pisteet, tahi pisteet ja erät. Vajaaksi jäänytjoukkue säilyttää pisteensä ja eränsä.
+6.2, 6.3, 7.3.1
+--- Page 17 ---
+7 PELIN RAKENNE  
+7.1 ARVONTA  
+Ennen ottelua päätuomari suorittaa arvonnan ensimmäisen eränensimmäisen aloittajan ja kenttäpuolten määräämiseksi.12.1.1
+Jos joudutaan ratkaisevaan erään, arvonta suoritetaan uudelleen.6.3.2
+7.1.1 Arvonnassa ovat mukana joukkueiden kapteenit.5.1
+7.1.2 Arvonnan voittaja valitsee  
+JOKO  
+7.1.2.1aloituksen tai aloituksen vastaanoton,12.1.1
+TAI  
+7.1.2.2kenttäpuolen.  
+Hävinnyt saa jäljelle jäävän valinnan. 
+7.2 LÄMMITTELY ENNEN OTTELUA  
+7.2.1 Ennen ottelun alkua kummallakin joukkueella on käytettävissäänverkkolämmittelyyn 6 min, jos heillä on ollut vain omassa käytössäänaiemmin muu pelikenttä lämmittelyyn, mutta 10 min, jos ei ole.FIVB:n maailmatason ja virallisissa kilpailuissa joukkueilla onoikeus yhteiseen 10 min verkkolämmittelyyn.
+ 
+7.2.2 Kumman tahansa joukkueen kapteenin vaatimuksesta joukkueet voivatlämmitellä verkolla erikseen (peräjälkeen), jolloin joukkueilla on aikaa 3tai 5 minuuttia kummallakin säännön 7.2.1 mukaisesti.
+7.2.1
+7.2.3 Jos joukkueet suorittavat lämmittelyn peräkkäin, on aloituksenvalinneella joukkueella ensimmäinen vuoro verkkolämmittelyssä.7.1.2.1, 7.2.2
+FIVB:n nimetyissä maailmatason ja virallisissa kilpailuissa,kaikkien pelaajien on käytettävä peliasua protokollan jalämmittelyn aikana.
+ 
+7.3 JOUKKUEEN ALOITUSKOKOONPANO  
+7.3.1 Pelissä on joukkueella aina oltava kuusi pelaajaa.6.4.3
+Joukkueen aloituskokoonpano ilmoittaa pelaajien kiertojärjestyksenkentällä. Kiertojärjestystä on noudatettava koko erän ajan.7.6
+7.3.2 Ennen kunkin erän alkua valmentajan on annettava joukkueenaloituskokoonpano aloitusjärjestyslipukkeella tai elektronisen välineenvälityksellä, jos on käytössä. Se tulee luovuttaa oikein täytettynä jaallekirjoitettuna verkkotuomarille tai kirjurille - tai lähettää suoraankirjurille.
+5.2.3.1, 24.3.1,27.2.1.2
+7.3.3 Aloituskokoonpanoon tietyssä erässä kuulumattomat pelaajat ovat tuonerän vaihtopelaajia (lukuun ottamatta Liberoa).7.3.2, 15.5
+7.3.4 Sen jälkeen, kun aloitusjärjestyslipuke on luovutettu verkkotuomarilletai kirjurille, alkuasemiin ei saa tehdä muutoksia muuten kuin normaalinpelaajavaihdon avulla.
+15.2.2, 15.5, K.11(5)
+7.3.5 Poikkeavuus pelaajien sijoittumisessa kentällä ja merkinnässäaloitusjärjestyslipukkeessa: 24.3.1
+7.3.5.1Havaittaessa mahdollinen poikkeavuus lipukkeessa ilmoitetun jakentällä olevien pelaajien sijainnin välillä ennen erän alkua on pelaajiensijoittuminen korjattava lipukkeen mukaiseksi. Joukkuetta ei asiastarangaista.
+7.3.2
+--- Page 18 ---
+7.3.5.2Vastaavasti, ennen erän alkua, jos kentällä on pelaaja, jonka numeroaei ole lainkaan lipukkeessa, virhe on korjattava lipukkeen mukaiseksi.Joukkuetta ei tästäkään rangaista.
+7.3.2
+7.3.5.3Jos valmentaja kuitenkin haluaa pitää kentällä siellä olevan(t)pelaajan(t), hänen on pyydettävä normaalia pelaajavaihtoa. Se (ne)merkitään ottelupöytäkirjaan vaihdoiksi.
+15.2.2, K.11(5)
+Jos poikkeavuus pelaajan sijainnin ja lipukkeessa ilmoitetun välillähavaitaan myöhemmin, virheen tehneen joukkueen pelaajien onpalattava oikeisiin sijainteihinsa. Kaikki pisteet, jotka virheen tehnytjoukkue on virheen tarkasta alkuajankohdasta alkaen senhavaitsemiseen saakka, peruutetaan. Vastapuolen pisteet pysyvätvoimassa ja lisäksi sille myönnetään piste ja oikeus seuraavaanaloitukseen.
+ 
+7.3.5.4Jos kentällä havaitaan olevan pelaaja, jota ei ole merkitty pöytäkirjanpelaajaluetteloon, pysyvät vastapuolen pisteet voimassa ja lisäksi silleannetaan hyväksi piste ja oikeus aloitukseen. Virheen tehnyt joukkuemenettää kaikki pisteet ja/tai erät (0-25 pistein kun välttämätöntä) siitähetkestä alkaen kun pöytäkirjaan merkitsemätön pelaaja meni kentälleja joukkueen tulee antaa korjattu aloitusjärjestyslipuke ja lähettääkentälle pöytäkirjaan merkitty pelaaja merkitsemättömän pelaajanpaikalle.
+6.1.2, 7.3.2
+7.4 SIJOITTUMISET K.4
+Aloituksen lyönnin hetkellä on kummankin joukkueen oltava omankenttäpuolensa sisällä (aloittajaa lukuun ottamatta). Vastaanottavanjoukkueen pelaajien on sijoittauduttava kiertojärjestyksen mukaisestialoitussyöttöhetkellä.Syöttävän joukkueen pelaajat voivat sijoittua vapaasti mille tahansapelipaikalle syöttöhetkellä.
+7.6.1, 8.1, 12.4
+7.4.1 Pelaajien paikat ovat numeroidut seuraavasti: 
+7.4.1.1Verkolla olevat kolme pelaajaa ovat etupelaajia ja heidän pelipaikkansaovat 4 (vasen etupelaaja), 3 (keski-etupelaaja) sekä 2 (oikeaetupelaaja).
+ 
+7.4.1.2Muut kolme pelaajaa ovat takapelaajia ja heidän pelipaikkansa 5(vasen takapelaaja), 6 (keskitakapelaaja) ja 1 (oikea takapelaaja). 
+7.4.2 Pelaajien sijoittuminen toisiinsa nähden: 
+7.4.2.1Kunkin takapelaajan on sijoituttava etäämmäs verkosta kuin vastaavaetupelaaja;  
+7.4.2.2Etupelaajien keskenään ja takapelaajien keskenään onpoikittaissuunnassa sijoituttava edellä säännössä 7.4.1 määrättyynjärjestykseen.
+ 
+7.4.3 Pelaajien keskinäinen sijainti määräytyy heidän lattiaa koskettavienjalkojensa mukaan (viimeinen kosketus lattiaan määrittää pelaajansijainnin) ja sen tulee olla seuraava:
+K.4
+7.4.3.1takapelaajan tulee olla samassa linjassa tai jommankumman jalanjonkin osan on oltava kauempana keskirajasta kuin vastaavanetupelaajan etummainen jalka;
+1.3.3, 7.4.2.1, 7.4.3
+7.4.3.2oikean- ja vasemmanpuoleisten pelaajien tulee olla samassa linjassatai jommankumman jalan jonkin osan on oltava lähempänä ao.sivurajaa kuin samassa rivissä olevien muiden pelaajien kauempanaoleva jalka.
+1.3.2, 7.4.1.2, 7.4.2.2,7.4.3
+--- Page 19 ---
+7.4.4 Kun aloitus on suoritettu, pelaajat saavat vapaasti liikkua omallapelialueellaan, vapaa-alue mukaan lukien. 
+7.5 SIJOITTUMISVIRHE K.4, K.11(13)
+7.5.1 Joukkue tekee sijoittumisvirheen, jos pelaaja ei ole aloituslyönninhetkellä sijoittunut oikein. Jos pelaaja on kentällä säännönvastaisenpelaajavaihdon seurauksena, ja peli lähtee käyntiin uudestaan,lasketaan tämä sijoittumisvirheeksi, josta seuraa säännönvastaisenpelaajavaihdon seuraamukset.
+7.3, 7.4, 15.9
+7.5.2 Jos aloittaja tekee aloituksessaan suoritusvirheen ja vastaanottavajoukkue sijoittumisvirheen, aloittajan virhe otetaan huomioonensisijaisena.
+12.4, 12.7.1
+7.5.3 Jos oikein suoritettu aloitus tulee myöhemmin vääräksi, sijoittumisvirheon tapahtunut ensin ja rangaistaan. 12.7.2
+7.5.4 Sijoittumisvirheen seuraukset:  
+7.5.4.1joukkuetta rangaistaan antamalla piste ja seuraava aloitusvastapuolelle; 6.1.3
+7.5.4.2pelaajat palautetaan omille paikoilleen.7.3, 7.4
+7.6 KENTTÄKIERTO, ROTAATIO  
+7.6.1 Joukkueen aloituskokoonpano määrää sen kiertojärjestyksen, ja sitävalvotaan koko erän ajan aloitusjärjestyksen ja pelaajien sijoittumisenavulla.
+7.3.1, 7.4.1, 12.2
+7.6.2 Kun aloituksen vastaanottanut joukkue on saanut aloitusoikeuden, senpelaajat suorittavat kiertovaihdon myötäpäivään: pelaaja paikalla 2vaihtaa paikalle 1 suorittamaan aloituksen, pelaaja paikalla 1 paikalle 6jne.
+12.2.2.2
+7.7 VIRHEET KENTTÄKIERROSSA K.11(13)
+7.7.1 Virhe kenttäkierrossa tapahtuu, kun ALOITUSTA ei suoritetakiertojärjestyksessä. Virheen seuraukset järjestyksessä ovat:7.6.1, 12
+7.7.1.1kirjuri pysäyttää pelin summerilla; vastapuolelle annetaan piste jaseuraava aloitus; 6.1.3
+Jos sijoittumisvirhe todetaan vasta pallorallin, joka alkoisijoittumisvirheellä, päätyttyä, annetaan vastapuolelle vain yksi pisteriippumatta päättyneen pallorallin tuloksesta.
+6.1.3
+7.7.1.2sijoittumisvirheen tehneen joukkueen pelaajien kiertojärjestysoikaistaan. 7.6.1
+7.7.2 Lisäksi kirjurin on todettava virheen tapahtumahetki, ja virheen tehneenjoukkueen virheen jälkeen tekemät pisteet mitätöidään. Vastapuolenpisteet jäävät ennalleen.
+27.2.2.2
+Jos virheen alkamishetkeä ei voida todeta, aiemmin tehtyjen pisteidenmitätöintiä ei tapahdu, ja pisteen ja seuraavan aloituksen antaminenvastapuolelle jää ainoaksi rangaistukseksi.
+6.1.3
+--- Page 20 ---
+8 PELIN TILANTEET  
+8.1 PALLO PELISSÄ  
+Pallo tulee peliin aloituksen lyöntihetkellä päätuomarin annettuaaloitusluvan. 12, 12.3
+8.2 EI PELISSÄ OLEVA PALLO  
+Pallo päättyy tai ei ole enää pelissä sellaisen virheentapahtumahetkellä, jonka jompikumpi tuomari viheltää virheeksi;virheen puuttuessa, vihellyshetkellä.
+ 
+8.3 PALLO 'SISÄLLÄ' K.11(14), K.12(1)
+Pallo on 'sisällä', jos pallon koskiessa lattiaa ja millä hetkellä tahansajokin osa pallosta koskee pelikentän pintaa, rajat mukaan lukien.1.1, 1.3.2
+8.4 PALLO 'ULKONA' K.11(15)
+Pallo on 'ulkona', kun  
+8.4.1 sen lattiaa koskevat kaikki osat ovat kokonaan rajaviivojenulkopuolella; 1.3.2, K.11(15),K.12(2)
+8.4.2 se koskettaa jotain esinettä tai rakennetta kentän ulkopuolella, kattoa,tai ulkopuolista henkilöä; K.11(15), K.12(4)
+8.4.3 se koskettaa antennia, köysiä, pylvästä tai verkkoa itseäänverkkomerkkien ulkopuolella; 2.3, K.3, K.5a,K.11(15), K.12(4)
+8.4.4 se ohittaa verkkotason osittain tai kokonaan ylityskaistan ulkopuoleltapaitsi säännön 10.1.2 tarkoittamassa tapauksessa;2.3, K.5a, K.5b,K.11(15), K.12(4)
+8.4.5 se ohittaa verkkotason kokonaisuudessaan verkon alapuolella.23.3.2.3f, K.5a,K.11(22)
+--- Page 21 ---
+9 PALLON 'PELAAMINEN'  
+Joukkueen on pelattava omalla pelialueellaan ja sen ilmatilassa(poikkeuksena sääntö 10.1.2). Pallo voidaan kuitenkin palauttaa peliinjoukkueen oman vapaa-alueen ulkopuolelta sekä kirjurin pöydän päältäkoko sen laajuudessaan.
+K.1b
+9.1 JOUKKUEEN LYÖNNIT  
+Joukkueen lyönniksi lasketaan jokainen pallon koskettaminenpelaajaan. 14.4.1
+Joukkueella on lupa käyttää enintään kolme lyöntiä (torjunnan lisäksi)pallon palauttamiseen verkon yli. Jos se käyttää useampia, se tekeevirheen 'NELJÄ LYÖNTIÄ'.
+ 
+9.1.1 PERÄKKÄISET KOSKETUKSET  
+Pelaaja ei saa lyödä/koskettaa palloa kahdesti peräkkäin(poikkeuksena säännöt 9.2.3, 14.2 ja 14.4.2).9.2.3, 14.2, 14.4.2
+9.1.2 SAMANAIKAISET KOSKETUKSET  
+Kaksi tai kolme pelaajaa voi koskea palloa samalla hetkellä. 
+9.1.2.1Kun kaksi (kolme) kanssapelaajaa koskettaa palloa samanaikaisesti,se lasketaan joukkueelle kahdeksi (kolmeksi) lyönniksi (paitsitorjunnassa). Jos he tavoittelevat palloa, mutta vain yksi sitä koskettaa,se lasketaan vain yhdeksi lyönniksi. Pelaajien törmääminen toisiinsa eiole virhe.
+ 
+9.1.2.2Jos vastapelaajat koskettavat palloa verkon päällä samanaikaisesti japallo pysyy pelissä, joukkue, jonka puolelle pallo tulee, on oikeutettuuuteen kolmeen lyöntiin. Jos pallo samanaikaisen kosketuksen jälkeenputoaa kentän ulkopuolelle, on virhe vastapuolisen joukkueen.
+ 
+9.1.2.3Jos vastapuolten samanaikainen kosketus verkon yläpuolella johtaapitkittyneeseen kosketukseen, ja vaikka kosketus päättyisi kokonaantoisen joukkueen ilmatilassa, peli jatkuu.
+9.1.2.2
+9.1.3 AVUSTETTU LYÖNTI  
+Pelialueella pelaaja ei saa käyttää tukenaan kanssapelaajaansa,mitään esinettä tai rakennelmaa lyödäkseen palloa.1
+Pelaaja saa kuitenkin tarttua kanssapelaajaansa estääkseen tätätekemästä virhettä (koskettamasta verkkoa, astumasta keskirajan ylitms.).
+1.3.3, 11.4.4
+9.2 LYÖNNIN TUNNUSMERKIT  
+9.2.1 Pallo saa koskettaa mitä tahansa pelaajan ruumiinosaa. 
+9.2.2 Palloa on lyötävä. Sitä ei saa kopata ja/tai heittää. Pallo saa ponnahtaamihin suuntaan tahansa. 9.3.3
+9.2.3 Pallo saa koskettaa useampia ruumiinosia, kunhan kosketukset ovatsamanaikaisia.  
+Poikkeukset:  
+9.2.3.1Torjunnassa yhden tai useamman torjujan peräkkäiset kosketuksetovat sallittuja edellyttäen, että ne tapahtuvat yhden suorituksen aikana.14.1.1, 14.2
+9.2.3.2Joukkueen ensimmäisellä lyönnillä, pallo saa koskea eri ruumiinosiaperäkkäin, kunhan kosketukset tapahtuvat yhden suorituksen aikana.9.1, 14.4.1
+9.3 VIRHEET PELATTAESSA PALLOA  
+9.3.1 NELJÄ LYÖNTIÄ; joukkue lyö palloa neljästi ennen sen palauttamista.9.1, K.11(18)
+--- Page 22 ---
+9.3.2 AVUSTETTU LYÖNTI: pelaaja ottaa pelialueella tukeakanssapelaajasta tai jostakin rakennelmasta tai esineestä lyödäkseenpalloa.
+9.1.3
+9.3.3 KOPPI: Pelaaja ei lyö palloa, vaan koppaa ja/tai heittää sen.9.2.2, K.11(16)
+9.3.4 KAKSOISKOSKETUS: pelaaja lyö palloa kahdesti peräkkäin tai palloosuu kahdesti peräkkäin hänen kehonsa eri osiin.9.2.3, K.11(17)
+--- Page 23 ---
+10 PALLO VERKOLLA  
+10.1 VERKON YLITTÄVÄ PALLO  
+10.1.1Vastapuolelle suunnatun pallon on ylitettävä verkko ylityskaistan läpi.Ylityskaista on verkkotason se osa, jota rajaa:2.4, 10.2, K.5a
+10.1.1.1alhaalta verkon yläreuna; 2.2
+10.1.1.2sivuilta antennit, ja niiden kuvitellut jatkeet2.4
+10.1.1.3ylhäältä katto.  
+10.1.2Pallo, joka on joukkueen ensimmäisellä kosketuksella ohittanutverkkotason kokonaan tai osittain ylityskaistan ulkopuoleltavastapuolen vapaa-alueelle, voidaan hakea takaisin peliin - joukkueenlyöntien puitteissa - edellyttäen, että:
+9.1, K.5b
+10.1.2.1pelaaja ei koske vastapuolen kenttää (paitsi sääntö 11.2.2.1); 11.2.2
+10.1.2.2pallo myös palautettaessa ohittaa verkkotason kokonaan tai osittainylityskaistan ulkopuolelta samalta puolen kenttää - jos ei, pallo onulkona. Vastustava joukkue ei saa estää palautusta.
+11.4.4, K.5b
+10.1.2.3palloa, joka on lyöty vastapuolen vapaa-alueelle kokonaan tai osittainylityskaistan ulkopuolelta joukkueen toisella tai kolmannellakosketuksella, ei voida hakea takaisin peliin ja tuomitaan ULOS sillähetkellä jona se ohittaa verkkotason.
+K.5b
+10.1.3Pallo, joka on menossa vastapuolen kenttäpuolta kohden verkonalapuolelta on pelissä siihen hetkeen asti kunnes se on ohittanutverkkotason kokonaan.
+23.3.2.3f, K.5a,K.11(22)
+10.2 VERKKOA KOSKEVA PALLO  
+Ylittäessään verkon pallo saa koskettaa siihen.10.1.1
+10.3 PALLO VERKOSSA  
+10.3.1Verkkoon lyöty pallo voidaan palauttaa peliin joukkueen kolmen lyönninrajoissa. 9.1
+10.3.2Jos pallo rikkoo verkon silmukan tai repäisee verkon alas, pallorallikatkaistaan ja pelataan uudelleen.  
+--- Page 24 ---
+11 PELAAJA VERKOLLA  
+11.1 VERKON YLI KUROTTAUTUMINEN  
+11.1.1 Torjunnassa on sallittua koskea palloa verkon toisella puolella, kunhansillä ei puututa vastustajan peliin ennen sen hyökkäyslyöntiä.14.1, 14.3
+11.1.2 Hyökkäyslyönnin jälkeen on sallittua viedä lyövä käsi verkon yli,kunhan kosketus on tapahtunut verkon omalla puolella. 
+11.2 VERKON ALITTAMINEN  
+11.2.1 Verkon alittaminen ilmatilassa on sallittu, mikäli se ei häiritsevastapuolen pelaamista.  
+11.2.2 Tunkeutuminen vastapuolen pelikentälle, keskirajan yli:1.3.3, 11.2.2.1,K.11(22)
+11.2.2.1Vastapuolen kentän koskettaminen yhdellä tai useammalla jalkaterälläon sallittua siten, että ylittävän jalkaterän jokin osa joko koskettaakeskirajaa tai on sen yläpuolella ja että tämä tapahtuma ei häiritsevastapuolen pelaamista.
+1.3.3, K.11(22)
+11.2.2.2Vastapuolen kentän koskettaminen millä tahansa muulla kehonosallajalkaterän yläpuolella on sallittua, kunhan se ei häiritse vastapuolenpelaamista.
+1.3.3, 11.2.2.1,K.11(22)
+11.2.3 Vastapuolen kentälle astuminen, kun pallo ei ole enää pelissä, ei olevirhe. 8.2
+11.2.4 Pelaajat saavat tunkeutua vastapuolen vapaa-alueelle edellyttäen, ettähe eivät häiritse vastapuolen pelaamista. 
+11.3 VERKON KOSKEMINEN  
+11.3.1 Pelaajan verkkokosketus antennien välissä pallonpelaamissuorituksen aikana on virhe.Pallon pelaamissuoritus pitää sisällään (muun muassa) hypyn,lyönnin (tai yrittämisen) ja alastulon varmasti, jonka jälkeenpelaaja on valmis seuraavaan pelaamissuoritukseen.
+11.4.4, 23.3.2.3c,24.3.2.3, K.3
+11.3.2 Pelaajat saavat koskea verkkopylvästä, -köysiä tai muuta esinettäantennin ulkopuolella, verkko mukaan lukien, edellyttäen, ettei sillähäiritä peliä (poikkeuksena sääntö 9.1.3).
+K.3
+11.3.3 Jos pallo on lyöty verkkoon ja se aiheuttaa verkon osumisenvastapuoleen, ei tapahdu virhettä.  
+11.4 PELAAJAN VIRHEET VERKOLLA  
+11.4.1 Pelaaja koskettaa palloa tai vastapuolen pelaajaa vastapuolenpelitilassa ennen vastapuolen hyökkäyslyöntiä.11.1.1, K.11(20)
+11.4.2 Pelaaja häiritsee vastapuolen pelaamista tunkeutuessaan vastapuolenpelitilaan verkon ali. 11.2.1
+11.4.3 Pelaajan jalka (jalat) tunkeutuu kokonaisuudessaan vastapuolenkenttäpuolelle. 11.2.2.2, K.11(20)
+11.4.4 Pelaaja häiritsee vastapuolen pelaamista muun muassa: 
+- koskemalla verkkoa antennien välissä tai itse antennia pallonpelaamissuorituksen aikana, tai 11.3.1
+- ottamalla verkosta, antennien välissä, tukea tai apua tasapainonsaavuttamiseksi, tai K.11(19)
+- hankkimalla epäreilua etua vastapuoleen verrattuna koskemallaverkkoa, tai  
+--- Page 25 ---
+- tekemällä suorituksia joilla estetään vastapuolen pelisääntöjenmukaista oikeutta yrittää pelata palloa, 
+- tarttumalla/pitämällä kiinni verkosta 
+Jokaista pelaajien suoritusta lähellä palloa, missä sitä pelataan tai jokaitse yrittää pelata, pidetään pallon pelaamissuorituksena, vaikka palloaei koskettaisikaan.Antennien ulkopuolella verkon koskeminen ei kuitenkaan ole virhe(poikkeus sääntö 9.1.3).
+ 
+--- Page 26 ---
+12 ALOITUSSYÖTTÖ  
+Aloitussyötöllä tarkoitetaan pallon toimittamista peliin. Sen suorittaaoikeanpuoleinen takapelaaja aloitussyöttöalueelta.1.4.2, 8.1, 12.4.1
+12.1 ERÄN ENSIMMÄINEN ALOITUSSYÖTTÖ  
+12.1.1Ensimmäisen samoin kuin ratkaisevan (viidennen) erän aloittaajoukkue, joka on saanut siihen oikeuden arvonnan perusteella.6.3.2, 7.1
+12.1.2Muut erät aloittaa joukkue, joka ei aloittanut edellistä erää. 
+12.2 ALOITUSJÄRJESTYS  
+12.2.1Pelaajien on noudatettava aloitusjärjestyslipukkeeseen merkittyäaloitusjärjestystä. 7.3.1, 7.3.2
+12.2.2Erän ensimmäisen aloitussyötön jälkeen aloittava pelaaja määräytyyseuraavasti: 12.1
+12.2.2.1Kun aloitussyötön suorittanut joukkue voittaa pallorallin, sama edellisenaloitussyötön suorittanut pelaaja (tai hänen vaihtopelaajansa) aloittaauudelleen.
+6.1.3, 15.5
+12.2.2.2Kun aloitussyötön vastaanottanut joukkue voittaa pallorallin, se saaaloitussyöttöoikeuden ja suorittaa kiertovaihdon ennen aloitussyöttöä.Pelaaja, joka siirtyy oikean etupelaajan paikalta oikeaksitakapelaajaksi, on seuraava aloitussyöttäjä.
+6.1.3, 7.6.2
+12.3 ALOITUSSYÖTTÖLUVAN ANTAMINEN  
+Päätuomari antaa luvan aloitussyöttöön varmistettuaan, että joukkueetovat valmiina peliin ja aloitussyöttäjällä on pallo hallussaan.12, K.11(1)
+12.4 ALOITUSSYÖTÖN SUORITTAMINEN K.11(10)
+12.4.1Aloitussyöttö on suoritettava lyömällä palloa yhdellä kädellä taikäsivarren osalla sen jälkeen, kun se on heitetty tai irrotettu sitäpitelevästä(-istä) kädestä(käsistä).
+ 
+12.4.2Vain yksi heitto on sallittu. Pallon pompottelu tai siirtely käsissä onsallittua.  
+12.4.3Aloitussyöttölyönnin hetkellä tai ponnistaessaan hyppyaloitukseenaloitussyöttäjä ei saa koskettaa kenttää (päätyraja mukaan lukien) eikälattiaa aloitussyöttöalueen ulkopuolella.
+1.4.2, 29.2.1.4,K.11(22), K.12(4)
+Lyöntikosketuksensa jälkeen hän saa astua tai pudotaaloitussyöttöalueen ulkopuolelle tai pelikentälle. 
+12.4.4Aloitussyöttäjän on suoritettava aloituksensa kahdeksan (8) sekunninkuluessa päätuomarin viheltämällä antamasta aloitussyöttöluvasta.12.3, K.11(11)
+12.4.5Ennen tuomarin viheltämää aloitussyöttölupaa suoritettu aloitussyöttöon mitätön ja uusitaan. 12.3
+12.5 PEITTÄMINEN K.11(12)
+12.5.1Aloittavan joukkueen pelaajat eivät saa peittämällä yksin tai ryhmässäestää vastapuoltansa näkemästä aloituslyöntiä ja pallon lentorataa.12.5.2
+12.5.2Aloittavan joukkueen pelaaja yksin tai pelaajat ryhmänä peittävätheiluttamalla käsiään, hyppimällä tai liikkumalla sivusuunnassaaloitussyötön suorituksen aikana tai seisten ryhmänä, täten peittävätsekä aloituslyönnin ja pallon lentoradan ennen kuin pallo saavuttaaverkkolinjan. Jos vastaanottava joukkue näkee toisen näistä, kyse eiole peittämisestä.
+12.4, K.6
+--- Page 27 ---
+12.5.3Aloittavan joukkueen pelaajat eivät saa nostaa käsiään päänyläpuolelle syötön aikana, ennen kuin pallo on ohittanut verkkolinjan.Päätuomari saa huomauttaa asiasta pelikapteenille, mikäli arveleekyseessä olevan tahallinen peittäminen.
+12.4, 12.5.2, K.6,K.11(12)
+12.6 VIRHEET ALOITUKSEN AIKANA  
+12.6.1Aloitusvirheet  
+Joukkueelle tuomitaan pallohäviö, jos se syyllistyy seuraaviin virheisiin,silloinkin kun vastapuoli tekee sijoitusvirheen. Aloittaja: 12.2.2.2, 12.7.1
+12.6.1.1rikkoo aloitusjärjestystä, 12.2
+12.6.1.2ei suorita aloitussyöttöä oikein. 12.4
+12.6.2Virheet aloituslyönnin jälkeen  
+Kun aloituslyönti on oikein suoritettu, aloitus tulee virheelliseksi (elleivastapuoli tee sijaintivirhettä), jos pallo:12.4, 12.7.2
+12.6.2.1koskee aloittavan joukkueen pelaajaa tai pallo ei ylitä verkkotasoakokonaisuudessaan ylityskaistan läpi,8.4.4, 8.4.5, 10.1.1,K.11(19)
+12.6.2.2menee 'ulos', 8.4, K.11(15)
+12.6.2.3ylittää peiton. 12.5, K.11(12)
+12.7 VIRHEET ALOITUSLYÖNNISSÄ JA SIJOITTUMISVIRHEET 
+12.7.1Jos aloittaja tekee virheen aloituslyönnin hetkellä (virheellinen suoritus,väärä syöttöjärjestys tms.) ja vastaanottaja sijoittumisvirheen,rangaistaan aloitusvirhe.
+7.5.1, 7.5.2, 12.6.1
+12.7.2Jos sen sijaan aloitus on suoritettu oikein, mutta tulee virheelliseksialoituslyönnin jälkeen (menee ulos, ylittää peiton, tms.), sijoittumisvirheon tapahtunut ensin ja se rangaistaan.
+7.5.3, 12.6.2
+--- Page 28 ---
+13 HYÖKKÄYSLYÖNTI  
+13.1 HYÖKKÄYSLYÖNNIN OMINAISUUDET 12, 14.1.1
+13.1.1Kaikkea pallon suuntaamista vastapuolelle, paitsi aloitusta ja torjuntaa,pidetään hyökkäyslyöntinä.  
+13.1.2Hyökkäyslyönnissä, hyökkääjän sormillaan suorittama pudotuspallo('juju') on luvallinen vain, mikäli palloa selkeästi lyödään eikä palloakopata tai heitetä.
+9.2.2
+13.1.3Hyökkäyslyönti toteutuu hetkellä, jolloin pallo kokonaisuudessaanylittää verkkotason tai koskettaa vastapelaajaa. 
+13.2 HYÖKKÄYSLYÖNNIN RAJOITUKSET  
+13.2.1Etupelaaja saa toteuttaa hyökkäyslyönnin miltä korkeudelta tahansaedellyttäen, että lyöntikosketus tapahtuu hänen omassa pelitilassaan(poikkeuksena säännöt 13.2.4 ja 13.3.6).
+7.4.1.1
+13.2.2Takapelaaja saa toteuttaa hyökkäyslyönnin iskurajan takaa miltätahansa korkeudelta: 1.4.1, 7.4.1.2,19.3.1.2, K.8
+13.2.2.1kunhan hänen jalkansa ei hänen hypätessään kosketa tai ylitäiskurajaa; 1.3.4
+13.2.2.2Lyöntinsä jälkeen pelaaja saa pudota etukentälle.1.4.1
+13.2.3Myös takapelaaja saa toteuttaa hyökkäyslyönnin etukentältä, joslyönnin hetkellä osa pallosta on verkon yläreunan alapuolella.1.4.1, 7.4.1.2, K.8
+13.2.4Kukaan pelaaja ei saa toteuttaa hyökkäyslyöntiä VASTAPUOLENaloituksesta silloin kun pallo on etukentällä ja kokonaisuudessaankorkeammalla kuin verkon yläreuna.
+1.4.1
+13.3 VIRHEET HYÖKKÄYSLYÖNNISSÄ  
+13.3.1Pelaaja lyö palloa vastapuolen pelitilassa.13.2.1, K.11(20)
+13.3.2Pelaaja lyö pallon 'ulos'. 8.4, K.11(15)
+13.3.3Takapelaaja toteuttaa hyökkäyslyönnin etukentältä, kun pallo onlyöntihetkellä kokonaisuudessaan korkeammalla kuin verkon yläreuna.1.4.1, 7.4.1.2, 13.2.3,K.11(21)
+13.3.4Pelaaja toteuttaa hyökkäyslyönnin vastapuolen aloituksesta silloin, kunpallo on etukentällä ja lyöntihetkellä kokonaisuudessaan korkeammallakuin verkon yläreuna.
+1.4.1, 13.2.4, K.11(21)
+13.3.5Libero toteuttaa hyökkäyslyönnin silloin, kun pallo on lyöntihetkelläkokonaisuudessaan korkeammalla kuin verkon yläreuna.19.3.1.2, 23.3.2.3d,K.11(21)
+13.3.6Pelaaja toteuttaa hyökkäyslyönnin silloin, kun pallo on lyöntihetkelläkokonaisuudessaan korkeammalla kuin verkon yläreuna, ja pallo tuleepelaajalle Liberon etukentällä suorittamasta sormilyönnistä.
+1.4.1, 19.3.1.4,23.3.2.3e, K.11(21)
+--- Page 29 ---
+14 TORJUNTA  
+14.1 TORJUMINEN  
+14.1.1Torjuminen on pelaajien verkon tuntumassa tapahtuvaa toimintaavastapuolelta tulevan pallon pysäyttämiseksi kurottautumalla verkonyläpuolelle, riippumatta palloon koskettamisen korkeudesta. Vainetupelaajat saavat toteuttaa torjunnan, mutta palloon koskettamisenhetkellä jonkin ruumiinosan tulee olla korkeammalla kuin verkonyläreuna.
+7.4.1.1
+14.1.2Torjuntayritys  
+Torjuntayritys on suoritus, jossa palloon ei kosketa. 
+14.1.3Toteutunut torjunta K.7
+Torjunta toteutuu aina kun torjuja koskee palloa. 
+14.1.4Ryhmätorjunta  
+Ryhmätorjunta tapahtuu kahden tai kolmen kanssapelaajan torjuessatoistensa tuntumassa, ja se toteutuu kun yksi heistä koskettaa palloa. 
+14.2 TORJUNTAKOSKETUS 9.1.1, 9.2.3
+Pallo voi torjunnassa koskettaa (nopeasti yhtenä tapahtumana)peräkkäin yhtä tai useampaa torjujaa, kunhan kyseessä on vain yksitorjunnan suoritus.
+ 
+14.3 TORJUNTA VASTUSTAJAN PUOLELLA  
+Torjunnassa pelaaja voi viedä kätensä verkon toiselle puolelle,vastapuolen pelitilaan, edellyttäen ettei puutu vastapuolen peliin. Niinollen palloon koskeminen verkon toisella puolella ei ole sallittua ennenvastapuolen hyökkäyslyöntiä.
+13.1.1
+14.4 TORJUNTA JA JOUKKUEEN LYÖNNIT  
+14.4.1Torjuntakosketusta ei lasketa joukkueen lyönniksi. Niin ollentorjuntakosketuksen jälkeen joukkueella on jäljellä kolme lyöntiä pallonpalauttamiseksi.
+9.1, 14.4.2
+14.4.2Ensimmäisen lyönnin torjunnan jälkeen saa lyödä kuka tahansapelaajista, myös torjuntakosketuksen tehnyt pelaaja.14.4.1
+14.5 ALOITUKSEN TORJUMINEN 12, K.11(12)
+Vastapuolen aloituksen torjuminen on kielletty.  
+14.6 TORJUNTAVIRHEET K.11(20)
+14.6.1Torjuja koskettaa palloa VASTAPUOLEN pelitilassa ennen vastapuolenhyökkäyslyöntiä. 14.3
+14.6.2Takarivin pelaaja tai Libero suorittaa toteutuneen torjunnan taiosallistuu sellaiseen. 14.1, 14.5, 19.3.1.3
+14.6.3Vastapuolen aloitus torjutaan. 14.5, K.11(12)
+14.6.4Pallo menee torjunnasta 'ulos'. 8.4
+14.6.5Pallo torjutaan vastustajan puolella antennin ulkopuolelta. 
+14.6.6Libero yrittää torjuntaa yksin tai torjuntaryhmässä.14.1.1, 19.3.1.3
+--- Page 30 ---
+15 KATKOT  
+Pelikatko on päättyneen pallorallin ja seuraavan päätuomarinviheltämällä suorittaman aloitusluvan välinen aika.6.1.3, 8.1, 8.2, 15.4,15.5, 24.2.6
+Sääntömääräisiä pelikatkoja ovat AIKALISÄT ja PELAAJAVAIHDOT.  
+15.1 SÄÄNTÖMÄÄRÄISTEN PELIKATKOJEN LUKUMÄÄRÄ 
+Joukkue on oikeutettu pyytämään erää kohti enintään kaksi aikalisää jakuusi pelaajavaihtoa. 6.2, 15.4, 15.5
+FIVB:n aikuisten maailmatason ja virallisissa kilpailuissa FIVB voivähentää yhdellä joukkueiden aikalisien ja/tai teknisten aikalisienlukumäärää yhteistyökumppani-, markkinointi- tai tv-lähetyssopimusten mukaisesti.
+ 
+15.2 SÄÄNTÖMÄÄRÄISTEN PELIKATKOJEN PERÄKKÄISYYS 
+15.2.1Yksi tai kaksi aikalisäpyyntöä ja yksi pelaajavaihtopyyntö kummaltajoukkueelta tahansa voivat seurata toisiaan, ilman että peliä välilläjatketaan.
+15.4, 15.5
+15.2.2Joukkue ei saa kuitenkaan tehdä peräkkäisiä pelaajavaihtopyyntöjäsaman pelikatkon aikana. Kaksi tai useampia pelaajia voidaankuitenkin vaihtaa saman vaihtopyynnön aikana.
+15.5, 15.6.1
+15.2.3Saman joukkueen kahden erillisen vaihtopyynnön välillä tulee ollapäättynyt palloralli. (Poikkeus: pakollinen pelaajavaihtoloukkaantumisen tai erästä tai ottelusta poistamisen johdosta (15.5.2,15.7, 15.8))
+6.1.3, 15.5
+15.2.4Mitään sääntömääräistä pelikatkoa ei ole sallittua pyytää sen jälkeen,saman pelikatkon aikana, kun sellaisen pyyntö on jo evätty ja sanktioituviivytyksellä (eli ennen seuraavan pallorallin päättymistä).
+6.1.2
+15.3 SÄÄNTÖMÄÄRÄISTEN PELIKATKOJEN PYYTÄMINEN 
+15.3.1Sääntömääräistä pelikatkoa voi pyytää valmentaja tai hänen poissaollessa pelikapteeni. 5.1.2, 5.2, 5.3.2, 15
+15.3.2Pyydettäessä pelaajavaihtoa ennen erän alkua, se myönnetään jamerkitään alkavaan erään sääntömääräiseksi vaihdoksi.7.3.4
+15.4 AIKALISÄT  
+15.4.1Aikalisäpyynnöt tulee tehdä asianmukaista käsimerkkiä käyttäen pallonollessa kuollut ja ennen aloituslupaa. Kaikki pyydetyt aikalisät kestävät30 sekuntia.
+6.1.3, 8.2, 12.3,K.11(4)
+FIVB:n maailmatason ja virallisissa kilpailuissa aikalisän pituuttavoidaan muuttaa, mikäli FIVB hyväksyy järjestäjän esittämänmuutospyynnön.
+ 
+FIVB:n maailmatason ja virallisissa kilpailuissa aikalisäpyynnössäon pakollista käyttää summeria ja sen jälkeen asianmukaistakäsimerkkiä.
+ 
+15.4.2Kaikkien aikalisien ajaksi pelissä olevien pelaajien on mentävä vapaa-alueelle penkkinsä lähelle. K.1a
+15.5 PELAAJAVAIHTO  
+15.5.1Pelaajavaihdolla tarkoitetaan pelaajan siirtymistä, poikkeuksena Liberotai hänen korvaamansa pelaaja, kirjurin kirjattua tapahtuman, kentälletoisen pelaajan paikalle, jonka on vastaavasti siirryttävä pois kentältä.
+19.3.2.1, K.11(5)
+--- Page 31 ---
+15.5.2Kun pelaajavaihto on pakollinen, kentällä olevan pelaajanloukkaantumisen vuoksi, on valmentajan (tai pelikapteenin) näytettäväasianmukaista käsimerkkiä.
+5.1.2.3, 5.2.3.3, 8.2,12.3, K.11(5)
+15.6 PELAAJAVAIHTOJEN RAJOITUKSET  
+15.6.1Erän aloittanut pelaaja voidaan vaihtaa ulos vain kerran erässä, ja hänvoi palata alkuperäiselle paikalleen kokoonpanoon vain kerran erässä.7.3.1
+15.6.2Vaihtopelaaja voi tulla peliin vain kerran erässä, erän aloittaneenpelaajan paikalle, ja hänen tilalleen voidaan vaihtaa vain pelaaja, jonkatilalle hän tuli.
+7.3.1
+15.7 POIKKEUKSELLINEN PELAAJAVAIHTO  
+Pelaaja (paitsi Libero), joka ei kykene jatkamaan peliäloukkaantumisen/sairauden tai erästä/ottelusta poistamisen takia,pyritään vaihtamaan sääntömääräisellä pelaajavaihdolla. Jos tämä eiole mahdollista, joukkueella on oikeus suorittaa POIKKEUKSELLINENpelaajavaihto vaihtosäännön 15.6 rajoittamatta.
+15.6, 19.4.3, 21.3.2,21.3.3, K.11(5)
+Poikkeuksellinen pelaajavaihto tarkoittaa, että kuka tahansa pelaaja,joka ei ole kentällä loukkaantumisen/sairauden tai erästä/ottelustapoistamisen hetkellä, paitsi Libero, toinen Libero tai heidänkorvaamansa pelaaja, voi tulla peliin loukkaantuneen/sairastuneen taierästä/ottelusta poistetun pelaajan sijaan. Näin vaihdettu loukkaantunutpelaaja ei saa tulla takaisin otteluun.
+ 
+Poikkeuksellista vaihtoa ei koskaan lasketa sääntömääräiseksivaihdoksi, mutta tulee merkitä pöytäkirjaan osana erän ja koko ottelunpelaajavaihtojen kokonaismäärää.
+ 
+15.8 ERÄSTÄ TAI OTTELUSTA POISTETUN PELAAJAVAIHTO  
+ERÄSTÄ tai OTTELUSTA POISTETTU pelaaja on vaihdettavavälittömästi sääntömääräisen pelaajavaihdon avulla. Jos tämä ei olemahdollista, joukkueella on oikeus suorittaa poikkeuksellinenpelaajavaihto. Jos tämä ei ole mahdollista, joukkue todetaanVAJAAKSI.
+6.4.3, 7.3.1, 15.6,15.7, 21.3.2, 21.3.3,K.11(5)
+15.9 SÄÄNNÖNVASTAINEN PELAAJAVAIHTO  
+15.9.1Pelaajavaihto on säännönvastainen, jos sitä ei suoriteta säännön 15.6rajoissa (poikkeuksena sääntö 15.7), tai jos osallisena on pöytäkirjastapuuttuva pelaaja.
+ 
+15.9.2Kun joukkue on suorittanut säännönvastaisen pelaajavaihdon ja peliäon ehditty jatkaa, menetellään seuraavasti:8.1, 15.6
+15.9.2.1joukkuetta rangaistaan antamalla piste ja aloitus vastapuolelle.6.1.3
+15.9.2.2pelaajavaihto korjataan,  
+15.9.2.3joukkue menettää säännönvastaisen pelaajavaihdon jälkeen saamansapisteet. Vastapuolen pisteet säilyvät ennallaan. 
+15.10 PELAAJAVAIHTO  
+15.10.1Pelaajavaihto suoritetaan vaihtoalueella.1.4.3, K.1b
+15.10.2Vaihtokatko kestää vain sen ajan, mikä tarvitaan vaihdonmerkitsemiseen pöytäkirjaan ja pelaajien siirtymiseen kentälle ja sieltäpois.
+15.10, 24.2.6,27.2.2.3
+15.10.3.1Varsinainen vaihtopyyntö on kun vaihtopelaaja (vaihtopelaajat) astuvatvaihtoalueelle, valmiina pelaamaan, sääntömääräisen pelikatkonaikana. Valmentajan ei tarvitse näyttää käsimerkkiä paitsi jospelaajavaihto tehdään loukkaantumisen vuoksi tai ennen erän alkua.
+ 
+--- Page 32 ---
+15.10.3.2Jos pelaaja ei ole valmiina, vaihtopyynnön hetkellä, pelaajavaihtoa eimyönnetä ja joukkuetta rangaistaan viivytyksellä.16.2, K.9
+15.10.3.3Vaihtopyynnön myöntää ja ilmoittaa kirjuri summerilla tai verkkotuomariviheltäen. Verkkotuomari antaa luvan vaihtamiseen.24.2.6
+FIVB:n Maailmatason ja virallisissa kilpailuissa käytetäännumeroituja kilpiä vaihtoja helpottamaan (myös milloin sähköisiävälineitä käytetään tiedon siirtämiseen kirjurille).
+ 
+15.10.4Jos joukkue aikoo vaihtaa yhtäaikaisesti useamman kuin yhdenpelaajan, tulee jokaisen vaihtopelaajan astua vaihtoalueellesamanaikaisesti, täten se tulkitaan samaksi vaihtopyynnöksi. Tällöinvaihdot tehdään peräkkäin, pelaajapari kerrallaan. Jos yksipelaajavaihdoista on säännönvastainen, laillinen tai laillisetmyönnetään ja säännönvastainen evätään, sekä rangaistaanviivytyksellä.
+1.4.3, 15.2.2
+15.11 VIRHEELLISET KATKOPYYNNÖT  
+15.11.1 On virheellistä pyytää kaikkia katkopyyntöjä:15
+15.11.1.1pallorallin aikana tai aloitusluvan antamisen hetkellä tai sen jälkeen,12.3
+15.11.1.2kun sen esittää joukkueen jäsen, jolla ei ole siihen oikeutta,5.1.2.3, 5.2.3.3
+15.11.1.3toista kertaa pelaajavaihtokatkoa saman joukkueen toimesta, samanpelikatkon aikana (eli ennen seuraavan päättyneen pallorallin loppua),paitsi tapauksissa, jos kentällä oleva pelaaja loukkaantuu/sairastuu taipoistetaan erästä/ottelusta.
+15.2.2, 15.2.3, 16.1,27.2.2.6
+15.11.1.4aikalisää tai vaihtoa yli sallitun määrän.15.1
+15.11.2 Ensimmäinen virheellinen katkopyyntö, joka ei vaikuta pelin kulkuun taiviivytä sitä, evätään, mutta merkitään pöytäkirjaan ilman muitaseuraamuksia.
+16.1, 27.2.2.6
+15.11.3 Seuraava virheellinen katkopyyntö ottelussa saman joukkueentoimesta tulkitaan viivytykseksi. 16.1.4
+--- Page 33 ---
+16 OTTELUN VIIVYTYKSET  
+16.1 VIIVYTYSTYYPIT  
+Joukkueen virheellinen toiminta, joka lykkää pelin jatkumista, onviivytystä, ja sellaista on mm.:  
+16.1.1viivyttely sääntömääräisissä pelikatkoissa,15.10.2
+16.1.2pelikatkojen venyttäminen sen jälkeen, kun pelaajat on määrättyjatkamaan peliä, 15
+16.1.3säännönvastaisen pelaajavaihdon pyytäminen,15.9
+16.1.4virheellisen katkopyynnön toistaminen,15.11.3
+16.1.5pelin viivyttäminen joukkueen jäsenen toimesta. 
+16.2 VIIVYTYSSEURAAMUKSET K.9
+16.2.1'Viivytysvaroitus' ja 'viivytysrangaistus' ovat joukkuerangaistuksia. 
+16.2.1.1Viivytysseuraamukset pysyvät voimassa koko ottelun ajan.6.3
+16.2.1.2Kaikki viivytysseuraamukset merkitään pöytäkirjaan.27.2.2.6
+16.2.2Joukkueen jäsenen ensimmäisestä viivytyksestä ottelussa määrätäänVIIVYTYSVAROITUS. 4.1.1, K.11(25)
+16.2.3Toinen, ja sitä seuraavat, minkä tahansa tyyppiset ja kenen tahansasaman joukkueen jäsenen aiheuttamat viivytykset samassa ottelussakatsotaan virheiksi, ja niistä määrätään VIIVYTYSRANGAISTUS: pisteja aloitus vastapuolelle.
+6.1.3, K.11(25)
+16.2.4Viivytysseuraamukset, jotka määrätään ennen erän alkua tai erienvälisellä tauolla merkitään seuraavan erän seuraamuksiksi.18.1
+--- Page 34 ---
+17 POIKKEUKSELLISET PELIN KESKEYTYKSET 
+17.1 LOUKKAANTUMINEN/SAIRASTUMINEN8.1
+17.1.1Jos pelaaja loukkaantuu vakavasti kesken pallorallin, tuomarin onkatkaistava peli heti ja sallittava lääkärin saapuminen kentälle. 
+Palloralli pelataan uudelleen 6.1.3
+17.1.2Jos loukkaantunutta/sairastunutta pelaajaa ei voida vaihtaasäännönmukaisesti tai poikkeuksellisesti, pelaajalle myönnetäänkolmen minuutin toipumisaika, samalle pelaajalle kuitenkin vain kerranottelussa.
+15.6, 15.7, 24.2.8
+Jos pelaaja ei tässä ajassa toivu, joukkue todetaan vajaaksi.6.4.3, 7.3.1
+17.2 ULKOPUOLISET HÄIRIÖT  
+Jos pelin aikana esiintyy ulkopuolista häiriötä, peli on katkaistava japalloralli pelataan uudelleen. 6.1.3, K.11(23)
+17.3 PITKÄT KESKEYTYKSET  
+17.3.1Kun odottamattomat olosuhteet keskeyttävät ottelun, on päätuomarin,järjestäjän ja juryn, jos sellainen on, päätettävä tarvittavistatoimenpiteistä tavallisten otteluolosuhteiden palauttamiseksi.
+23.2.3
+17.3.2Jos yksi tai useampi keskeytys ei kestä kaiken kaikkiaan yli neljäätuntia; 17.3.1
+17.3.2.1ja ottelua jatketaan samalla kentällä, kesken jäänyt erä jatkuunormaalisti samasta pelitilanteesta, samoin pelaajin ja sijannein (paitsierästä tai ottelusta poistetut). Edellisten erien tulokset jäävät voimaan;
+1, 7.3
+17.3.2.2ja ottelua jatketaan toisella kentällä, kesken jäänyt erä peruuntuu jaaloitetaan uudelleen samalla aloituskokoonpanolla (paitsi erästä taiottelusta poistetut). Edellisten erien tulokset jäävät voimaan.
+7.3, 21.4.1, K.9
+17.3.3Jos yksi tai useampi keskeytys kestää yhteensä yli neljä tuntia, kokoottelu pelataan uudelleen.  
+--- Page 35 ---
+18 ERÄTAUKO JA PUOLTENVAIHTO  
+18.1 ERÄTAUOT  
+Erätauko on aika kahden erän välillä. Kaikki tauot erien välillä kestävät3 minuuttia. 4.2.4
+Tänä aikana suoritetaan puoltenvaihto ja aloitusjärjestystenmerkitseminen pöytäkirjaan. 7.3.2, 18.2, 27.2.1.2
+Tauko toisen ja kolmannen erän välissä voidaan pidentää 10 minuutinmittaiseksi järjestäjän pyytäessä tätä toimivaltaiseltapäätöksentekijältä.
+ 
+18.2 PUOLTENVAIHTO K.11(3)
+18.2.1Joukkueet vaihtavat kenttäpuolta jokaisen erän jälkeen, ratkaisevaaerää lukuun ottamatta. 7.1
+18.2.2Kun jompikumpi joukkue saavuttaa ratkaisevassa erässä kahdeksanpistettä, joukkueet vaihtavat kenttäpuolia viivyttelemättä. Pelaajienasemat säilyvät ennallaan.
+6.3.2, 7.4.1, 27.2.2.5
+Jos kenttäpuolia ei ole vaihdettu johtavan joukkueen saavuttaessakahdeksan pistettä, se tehdään heti, kun virhe huomataan. Pistetilannesäilyy sellaisena kuin se on vaihdon tapahtuessa.
+ 
+--- Page 36 ---
+19 LIBEROPELAAJA  
+19.1 LIBERON NIMEÄMINEN 5
+19.1.1Joukkueilla on oikeus nimetä pelaajaluettelostaan enintään kaksipuolustamiseen erikoistunutta pelaaja 'Liberoa'.FIVB:n aikuisten maailmatason ja virallisissa kilpailuissa, josjoukkueella on enemmän kuin 12 pelaajaa pöytäkirjassa, on pakkonimetä KAKSI liberoa.
+4.1.1
+19.1.2Kaikki liberot on merkittävä pöytäkirjaan ennen ottelun alkua erillisillesitä varten varatuille riveille. 5.2.2, 27.2.1.1,28.2.1.1
+19.1.3Kentällä oleva libero on pelaava libero. Jos joukkueella on toinenlibero, hän on joukkueen kakkoslibero. 
+Vain yksi libero saa olla kerrallaan kentällä. 
+19.2 VARUSTEET 4.3
+Libero pelaajalla/pelaajilla tulee olla peliasu (tai liivi uudelleennimettävää Liberoa varten), jonka hallitseva väri on erilainen kuinjoukkueen muilla pelaajilla. Peliasun tulee selkeästi ollavastakkaisvärinen kuin joukkueen muilla pelaajilla. Liberoiden peliasutvoivat olla erilaiset toisiinsa ja muun joukkueen peliasuihin nähden.
+ 
+Liberon asu tulee olla numeroitu, kuten joukkueen muilla pelaajilla. 
+FIVB:n maailmatason ja virallisissa aikuisten kilpailuissauudelleennimetyllä liberolla pitäisi olla, mikäli mahdollistasamanlainen ja -värinen pelipaita kuin alkuperäisellä, mutta hänpitää oman numeronsa.
+ 
+19.3 LIBERON SALLITTU TOIMINTA  
+19.3.1Peliin osallistuminen  
+19.3.1.1Libero voi korvata minkä tahansa takapelaajan.7.4.1.2
+19.3.1.2Libero voi pelata vain takapelaajana eikä hän saa toteuttaahyökkäyslyöntiä miltään kentän alueelta (mukaan lukien pelialue javapaa-alue), jos pallo lyönnin hetkellä on kokonaisuudessaanverkkotason yläpuolella.
+13.2.2, 13.2.3, 13.3.5
+19.3.1.3Libero ei saa suorittaa aloitusta, torjua tai tehdä torjuntayritystä.12.4.1, 14.6.2, 14.6.6,K.11(12)
+19.3.1.4Muu joukkueen pelaaja ei saa toteuttaa hyökkäyslyöntiä, kun pallo onkokonaan verkkotason yläpuolella, jos pallo tulee hänelle Liberonsormilyönnillä etukentällä tekemällä suorituksella. Pallo voidaanvapaasti pelata edelleen hyökkäyslyönnillä, jos Libero on tehnyttällaisen lyönnin etukentän takaa.
+1.4.1, 13.3.6,23.3.2.3d, e, K.1b
+19.3.2Liberokorvaamiset  
+19.3.2.1Liberokorvaamisia ei lasketa normaaleiksi pelaajavaihdoiksi.6.1.3, 15.5
+Niiden määrää ei ole rajoitettu, mutta kahden liberokorvaamisenvälissä täytyy olla päättynyt palloralli (ellei rangaistuksen vuoksi tulekiertovaihto ja liberon siirtyminen nelospaikalle, tai pelaava libero tuleekyvyttömäksi jatkamaan peliä, tehden pallorallin vajaaksi).
+ 
+19.3.2.2Kentällä oleva pelaaja voidaan korvata kummalla tahansa liberolla.Pelaava libero voidaan korvata vain pelaajalla, jonka hän korvasi taikakkosliberolla.
+ 
+19.3.2.3Jokaisen erän alussa libero ei voi mennä kentälle ennen kuinverkkotuomari on tarkistanut aloituskokoonpanot ja antanut luvanliberokorvaamiseen aloittavan pelaajan kanssa.
+7.3.2, 12.1
+--- Page 37 ---
+19.3.2.4Liberokorvaamiset voidaan suorittaa silloin, kun pallo ei ole pelissä jaennen aloituslupaa. 8.2, 12.3
+19.3.2.5Korvaamista, joka tehdään aloituslupavihellyksen jälkeen, mutta ennenaloituslyöntiä, ei tule evätä, mutta pelatun pallorallin jälkeenpelikapteenille tulee ilmoittaa, että tällainen toiminta ei ole sallittua jatoistettuna tulee johtamaan viivytysseuraamuksiin.
+12.3, 12.4, K.9
+19.3.2.6Seuraavissa myöhään suoritetuissa liberokorvaamisissa peli tuleekeskeyttää välittömästi ja määrätä viivytysseuraamus. Seuraavaksialoittava joukkue määräytyy viivytysseuraamuksen tasosta.
+16.2, K.9
+19.3.2.7Libero ja korvattu pelaaja saavat tulla kentälle tai poistua kentältä vainlibero korvaamisalueelta. 1.4.4, K.1b
+19.3.2.8Liberokorvaamiset tulee merkitä liberopöytäkirjaan (jos käytössä) taisähköiseen pöytäkirjaan. 28.2.2.1, 28.2.2.2
+19.3.2.9Virheellisiä liberokorvaamisia (muun muassa) 
+- liberokorvaamisten välissä ei ole päättynyttä pallorallia,6.1.3
+- libero korvataan toisella pelaajalla, kuin kakkosliberolla tai pelaajalla,jonka hän korvasi. 15.9
+Seuraamus virheellisestä liberokorvaamisesta on sama kuinsääntöjenvastaisessa vaihdossa: 15.9
+eli, jos säännönvastainen liberokorvaaminen huomataan ennenseuraavaa pallorallia, tulee se tuomarien korjata ja joukkuettarangaistaan viivytyksellä;
+K.9
+jos säännönvastainen liberokorvaaminen huomataan aloitussyötönjälkeen, seuraamus on sama, kuin sääntöjenvastaisessa vaihdossa.15.9
+19.4 LIBERON UUDELLEEN NIMEÄMINEN: 
+19.4.1Libero tulee kyvyttömäksi jatkamaan peliä, jos hän loukkaantuu,sairastuu tai hänet poistetaan erästä tai ottelusta.21.3.2, 21.3.3, K.9
+Valmentaja voi millä syyllä tahansa tai hänen puuttuessa pelikapteeni,ilmoittaa liberon olevan kyvytön jatkamaa peliä.5.1.2.1, 5.2.1
+19.4.2Joukkueella yksi libero  
+19.4.2.1Kun joukkueella on saatavilla vain yksi libero, säännön 19.4.1 mukaan,tai joukkue on nimennyt vain yhden liberon ja tämä libero tulee, tai onilmoitettu kyvyttömäksi jatkamaan peliä, valmentaja (tai pelikapteeni,valmentajan puuttuessa) voi tehdä liberon uudelleennimeämisenloppupelin ajaksi, kenestä tahansa, (paitsi korvauksessa oleva pelaaja)joka ei uudelleennimeämisen hetkellä ole kentällä.
+19.4, 19.4.1
+19.4.2.2Jos pelaava libero tulee kyvyttömäksi jatkamaan peliä, hänet voidaankorvata pelaajalla, jonka hän korvasi, tai välittömästi ja suoraankentälle uudelleennimetyllä liberolla. Kuitenkin libero, joka on joutunutuudelleennimetyksi, ei voi palata kentälle loppupelin aikana.
+ 
+Jos libero ei ole kentällä, kun hänet ilmoitetaan kyvyttömäksijatkamaan peliä, hänet voidaan uudelleennimetä. Libero, joka tulikyvyttömäksi jatkamaan peliä ei voi palata kentälle loppupelin aikana.
+ 
+19.4.2.3Valmentaja tai pelikapteeni, jos valmentaja ei ole läsnä, ilmoittaaverkkotuomarille uudelleennimeämisestä.5.1.2.1, 5.2.1
+19.4.2.4Jos uudelleennimetty libero tulee, tai on ilmoitettu kyvyttömäksijatkamaan peliä, seuraavat uudelleennimeämiset ovat sallittuja.19.4.1
+--- Page 38 ---
+19.4.2.5Jos valmentaja pyytää joukkueen kapteenin olevan uudelleennimettylibero, tämä tulee sallia. 5.1.2, 19.4.1
+19.4.2.6Liberon uudelleennimeämisen tapauksissa, tämän uudelleennimetynliberon pelinumero tulee merkitä pöytäkirjan huomautussarakkeeseenja liberopöytäkirjaan (tai sähköiseen pöytäkirjaan, jos se on käytössä).
+27.2.2.7, 28.2.2.1
+19.4.3Joukkueella kaksi liberoa  
+19.4.3.1Kun joukkue on nimennyt pöytäkirjaan kaksi liberoa, mutta toinen tuleekyvyttömäksi jatkamaan peliä, joukkueella on oikeus pelata vainyhdellä liberolla.
+4.1.1, 19.1.1
+Uudelleennimeämistä ei sallita, ellei jäljelle oleva libero ole kyvytönjatkamaan peliä. 19.4
+19.5 YHTEENVETO  
+19.5.1Jos libero poistetaan erästä tai ottelusta, hänen tilalleen voi välittömästitulla kakkoslibero. Jos joukkueella on vain yksi libero, silloin heillä onoikeus suorittaa uudelleennimeäminen.
+19.4, 21.3.2, 21.3.3
+--- Page 39 ---
+20 KÄYTTÄYTYMISSÄÄNNÖT  
+20.1 URHEILULLINEN KÄYTÖS  
+20.1.1Osanottajien on tunnettava viralliset lentopallosäännöt ja noudatettavaniitä.  
+20.1.2Osanottajien on hyväksyttävä tuomareiden päätökset urheiluhengenmukaisesti, niitä vastustamatta.  
+Epäselvissä tapauksissa pelikapteeni, mutta vain hän, saa pyytääselvitystä. 5.1.2.1
+20.1.3Osanottajat eivät saa toimillaan tai eleillään pyrkiä vaikuttamaantuomareiden päätöksiin tai häiritsemään heitä oman joukkueen virheenhavaitsemisessa.
+ 
+20.2 REILUN PELIN HENKI  
+20.2.1Osanottajien on käyttäydyttävä kunnioittavasti, kohteliaasti ja REILUNPELIN hengessä, ei ainoastaan tuomareita, vaan myös muitatoimitsijoita, vastustajia, pelitovereita ja yleisöä kohtaan.
+ 
+20.2.2Kaikki joukkueen jäsenet saavat ottelun aikana keskustella keskenään.5.2.3.4
+--- Page 40 ---
+21 KÄYTTÄYTYMISRIKKEET JA NIIDEN RANKAISU  
+21.1 VÄHÄISET KÄYTTÄYTYMISRIKKEET  
+Vähäiset käyttäytymisrikkeet eivät johda seuraamuksiin. Päätuomarintehtäviin kuuluu pyrkiä estämään joukkueita lähestymästärangaistusseuraamuksiin johtavaa käyttäytymisen tasoa.
+ 
+Tämä tehdään kahdessa vaiheessa:K.9, K.11(6a)
+Vaihe 1: antamalla suullinen varoitus pelikapteenin kautta; 
+Vaihe 2: annetaan KELTAINEN KORTTI asianomaiselle joukkueenjäsenelle/jäsenille. Tämä virallinen varoitus ei ole varsinainenrangaistus, mutta on merkki joukkueen jäsenelle (ja laajemminjoukkueelle), että ottelussa on saavutettu rangaistuksiin johtava taso.Tämä keltainen kortti tulee merkitä pöytäkirjaan, mutta sillä ei ole muitavälittömiä seuraamuksia.
+ 
+21.2 RANGAISTUKSIIN JOHTAVAT KÄYTTÄYTYMISRIKKEET 
+Joukkueen jäsenen asiaton käytös toimitsijoita, vastustajia,kanssapelaajia tai yleisöä kohtaan luokitellaan kolmeen luokkaanrikkomuksen vakavuudesta riippuen.
+4.1.1
+21.2.1Räikeä käytös: hyvien tapojen ja moraalin vastainen toiminta. 
+21.2.2Loukkaava käytös: herjaavat tai loukkaavat sanat tai elkeet taikaikenlaiset halveksivat ilmaisut.  
+21.2.3Väkivaltainen käytös: varsinainen fyysinen hyökkäys tai aggressiivinentai uhkaava käytös.  
+21.3 RANGAISTUSASTEIKKO K.9
+Päätuomari arvioi käyttäytymisrikkeen laadun, ja hänen käytettävänäänovat seuraavat pöytäkirjaan merkittävät rangaistukset: Rangaistus,Erästä poistaminen tai Ottelusta poistaminen.
+21.2, 27.2.2.6
+21.3.1Rangaistus K.11(6b)
+Joukkueen jäsenen räikeästä käytöksestä ensimmäistä kertaaottelussa joukkuetta rangaistaan antamalla piste ja aloitusvastapuolelle.
+4.1.1, 21.2.1
+21.3.2Erästä poistaminen K.11(7)
+21.3.2.1Joukkueen jäsen, jota rangaistaan erästä poistamisella, tulee vaihtaasääntömääräisellä/poikkeuksellisella välittömästi, jos hän on kentällä,ja hänen tulee mennä joukkueen pukuhuoneeseen erän loppuun asti,ilman muita seuraamuksia.
+4.1.1, 5.2.1, 5.3.2,K.1a, K.1b
+Erästä poistettu valmentaja menettää oikeutensa puuttua erän kulkuun,ja hänen tulee mennä joukkueen pukuhuoneeseen menossa olevanerän loppuun asti.
+5.2.3.3
+21.3.2.2Ensimmäinen joukkueen jäsenen loukkaava käytös rangaistaan erästäpoistamisella ilman muita seuraamuksia.4.1.1, 21.2.2
+21.3.2.3Toinen räikeä käytös samassa ottelussa saman joukkueen jäsenentoimesta rangaistaan erästä poistamisella ilman muita seuraamuksia.4.1.1, 21.2.1
+21.3.3Ottelusta poistaminen K.11(8)
+21.3.3.1Joukkueen jäsenen, jota rangaistaan ottelusta poistamisella tuleevaihtaa sääntömääräisellä/poikkeuksellisella välittömästi, jos hän onkentällä, ja hänen tulee mennä joukkueen pukuhuoneeseen ottelunloppuun asti, ilman muita seuraamuksia.
+4.1.1, K.1a
+--- Page 41 ---
+21.3.3.2Ensimmäinen väkivaltainen hyökkäys tai uhkaava käytös rangaistaanottelusta poistamisella ilman muita seuraamuksia.21.2.3
+21.3.3.3Toinen loukkaava käytös samassa ottelussa, saman joukkueenjäsenen toimesta rangaistaan ottelusta poistamisella ilman muitaseuraamuksia.
+4.1.1, 21.2.2
+21.3.3.4Kolmas räikeä käytös samassa ottelussa, saman joukkueen jäsenentoimesta rangaistaan ottelusta poistamisella ilman muita seuraamuksia.4.1.1, 21.2.1
+21.4 KÄYTÖSRANGAISTUSTEN SOVELTAMINEN  
+21.4.1Kaikki käytösrangaistukset ovat henkilökohtaisia ja ovat voimassa kokoottelun ajan ja ne merkitään ottelupöytäkirjaan.21.3, 27.2.2.6
+21.4.2Toistuvat käytösrikkeet joukkueen saman jäsenen toimesta, samassaottelussa rangaistaan progressiivisesti (joukkueen jäsen saa siistoistaessaan rikkeen aina edellistä ankaramman rangaistuksen).
+4.1.1, 21.2, 21.3, K.9
+21.4.3Erästä - tai ottelusta poistaminen loukkaavan käytöksen - taiväkivaltaisen käytöksen vuoksi eivät edellytä aikaisempaarangaistusta.
+21.2, 21.3
+21.5 RIKE TAUON AIKANA  
+Käytösrike ennen erää tai erien välillä rangaistaan säännön 21.3mukaisesti ja lasketaan seuraavan erän rikkeeksi.18.1, 21.2, 21.3
+(Ottelusta poistaminen johtaa aina kansallisten kilpailusääntöjen jasarjamääräysten mukaisiin lisäseuraamuksiin. Ks. SuomenLentopalloliiton Kilpailusäännöt ja Sarjamääräykset)
+ 
+21.6 YHTEENVETO KÄYTÖSRIKKEISTÄ JA KORTTIEN KÄYTTÖK.11(6a), K.11(6b),K.11(7), K.11(8)
+Varoitus: ei rangaistusta -Vaihe 1: suullinen varoitus Vaihe 2: merkkinä keltainen kortti21.1
+Rangaistus: rangaistaan - merkkinä punainen kortti21.3.1
+Erästä poistaminen: rangaistaan - merkkinä punainen + keltainen korttiyhdessä 21.3.2
+Ottelusta poistaminen: rangaistaan - punainen + keltainen korttierikseen 21.3.3
+--- Page 42 ---
+22 TUOMARISTORYHMÄ JA MENETTELYT  
+22.1 KOKOONPANO  
+Ottelun tuomaristo muodostuu seuraavista toimitsijoista: 
+- päätuomari 23
+- verkkotuomari 24
+- haastetuomari 25
+- varalla oleva tuomari 26
+- kirjuri 27, 28
+- neljä (kaksi) rajatuomaria 29
+Heidän sijaintinsa käy ilmi kaaviosta 10. 
+FIVB:n maailmatason ja virallisissa kilpailuissa haastetuomari (joshaastejärjestelmä on käytössä), varalla oleva tuomari ja avustavakirjuri on pakollinen.
+25, 26, 28
+22.2 MENETTELYT  
+22.2.1Vain päätuomari ja verkkotuomari saavat käyttää pilliä ottelun aikana: 
+22.2.1.1päätuomari antaa viheltämällä luvan aloitukseen, joka aloittaapallorallin; 6.1.3, 12.3, K.11(1)
+22.2.1.2pää- ja verkkotuomari katkaisee viheltämällä pallorallin, edellyttäen ettähe ovat varmoja virheen tapahtumisesta ja ovat todenneet sen laadun. 
+22.2.2Tuomarit voivat käyttää pilliä myös pelikatkon aikana hyväksyessääntai evätessään joukkueen esittämän pyynnön.5.1.2, 8.2
+22.2.3Välittömästi tuomarin viheltäessä pallorallin päättyneeksi heidän tuleevirallisilla käsimerkeillä näyttää: 22.2.1.2, 30.1
+22.2.3.1Jos virheen viheltää päätuomari, hänen tulee näyttää: 
+a) seuraavaksi aloittava joukkue,b) virheen laatu,c) virheen tehnyt pelaaja (jos tarpeen).
+12.2.2, K.11(2)
+22.2.3.2Jos virheen viheltää verkkotuomari, hänen tulee näyttää: 
+a) virheen laatu,b) virheen tehnyt pelaaja (jos tarpeen),c) seuraavaksi aloittava joukkue verkkotuomarin toistaessapäätuomarin käsimerkin.
+12.2.2
+Tällaisessa tapauksessa päätuomari ei näytä virhettä tai virheentehnyttä pelaajaa, vaan vain seuraavaksi aloittavan joukkueen merkin.K.11(2)
+22.2.3.3Takapelaajan tai liberon virheellisessä hyökkäyslyönnissä taitorjuntavirheessä molemmat tuomarit näyttävät käsimerkit yllä olevien22.2.3.1 ja 22.2.3.2 mukaisesti.
+12.2.2, 13.3.3, 13.3.5,19.3.1.2, 23.3.2.3d, e,K.11(21)
+22.2.3.4Kaksoisvirhetapauksissa molempien tuomareiden tulee näyttää: 
+a) virheen laatu, 17.3, K.11(23)
+b) virheen tehneet pelaajat (jos tarpeen). 
+Seuraavaksi aloittavan joukkueen näyttää päätuomari.12.2.2, K.11(2)
+--- Page 43 ---
+23 PÄÄTUOMARI  
+23.1 SIJAINTI  
+Päätuomari toimii seisten tuomaritelineellä, joka on verkon toisessapäässä, kirjuria vastapäätä. Hänen silmiensä tulee olla n. 50 cm verkonyläreunaa korkeammalla.
+K.1a, K.1b, K.10
+23.2 VALTUUDET  
+23.2.1Päätuomari johtaa ottelua alusta loppuun asti. Hänellä onmääräämisvalta kaikkiin tuomariston ja molempien joukkueidenjäseniin nähden.
+4.1.1, 6.3
+Ottelussa hänen päätöksensä ovat lopullisia. Hänellä on oikeusmuuttaa muiden toimitsijoiden päätöksiä, jos huomataan heidänerehtyneen.
+ 
+Hän voi myös vaihtaa toimitsijan toiseen, jos tämä ei hoida tehtäviäänkunnolla.  
+23.2.2Päätuomari valvoo myös pallonpalauttajien ja pikakuivaajien toimintaa.3.3
+23.2.3Päätuomarilla on valta tehdä päätös missä tahansa peliä koskevassaasiassa, myös sellaisessa, jota ei mainita pelisäännöissä. 
+23.2.4Päätuomari ei saa sallia keskustelua tekemistään päätöksistä.20.1.2
+Pelikapteenin pyynnöstä hänen on kuitenkin selitettävä, millaiseensääntösovellukseen tai -tulkintaan hänen tekemänsä päätös perustuu.5.1.2.1
+Jos pelikapteeni ilmoittaa välittömästi olevansa eri mieltä tuomarinselityksestä ja varaa itselleen oikeuden tehdä ottelun päätyttyä asiastavirallisen vastalauseen, päätuomarin on se sallittava.
+5.1.2.1, 5.1.3.2,27.2.3.2
+23.2.5Päätuomari vastaa niin ennen ottelua kuin ottelun aikanakin, ettäpelialue, varusteet ja olosuhteet ovat vaatimusten mukaiset.Luku I, 23.3.1.1
+23.3 TEHTÄVÄT  
+23.3.1Ennen ottelua päätuomari:  
+23.3.1.1tarkastaa pelialueen, -pallojen ja muiden varusteiden kunnon,Luku I, 23.2.5
+23.3.1.2suorittaa arvonnan joukkueiden kapteenien kanssa,7.1
+23.3.1.3valvoo joukkueiden lämmittelyä. 7.2
+23.3.2Ottelun aikana päätuomarilla on oikeus: 
+23.3.2.1varoittaa joukkueita, 21.1
+23.3.2.2rankaista käyttäytymisrikkeet ja viivytykset,16.2, 21.2, K.9,K.11(6a), K.11(6b),K.11(7), K.11(8),K.11(25)
+23.3.2.3päättää:  
+23.3.2.3asyöttäjän virheistä ja syöttävän joukkueen sijoittumisesta, mukaanlukien peittäminen, 7.5, 12.4, 12.5,12.7.1, K.4, K.6,K.11(12), K.11(13),K.11(22)
+23.3.2.3bvirheistä pallon pelaamisessa, 9.3, K.11(16),K.11(17), K.11(18)
+23.3.2.3cvirheistä verkon päällä ja pelaajan verkkovirheistä, ensisijaisesti (muttaei yksinomaisesti) hyökkääjän puolella,11.3.1, 11.4.1, 11.4.4,K.11(20)
+--- Page 44 ---
+23.3.2.3dliberon ja takapelaajan virheellisestä hyökkäyslyönnistä,13.3.3, 13.3.5,24.3.2.4, K.8,K.11(21)
+23.3.2.3epelaaja suorittaa, liberon etukentällä suorittamasta sormilyönnistätoteutuneen hyökkäyslyönnin, kun pallo on kokonaan verkkotasonyläpuolella.
+1.4.1, 13.3.6,24.3.2.4, K.11(21)
+23.3.2.3fvirheistä pallon alittaessa kokonaan verkkotason verkon alla.8.4.5, 24.3.2.7, K.5,K.11(22)
+23.3.2.3gtoteutuneesta takapelaajan torjunnasta tai liberon torjuntayrityksestä.14.6.2, 14.6.6,K.11(12)
+23.3.2.3hpallon mennessä vastapuolen puolelle ylittäen kokonaan tai osittainverkkolinjan ylityskaistan ulkopuolelta tai kosketukset verkkoantenniinhänen puolellaan pelikenttää.
+K.11(15)
+23.3.2.3isyötetyn pallon sekä toisen tai kolmannen kosketuksen kulkiessakokonaan tai osittain ylityskaistan ulkopuolelta hänen puolellaanpelikenttää.
+K.11(15)
+23.3.3Ottelun päättyessä hän tarkistaa ja allekirjoittaa pöytäkirjan.24.3.3, 27.2.3.3
+--- Page 45 ---
+24 VERKKOTUOMARI  
+24.1 SIJAINTI  
+Verkkotuomari toimii seisten verkkopylvään luona pelikentänulkopuolella vastapäätä päätuomaria.K.1a, K.1b, K.10
+24.2 VALTUUDET  
+24.2.1Verkkotuomari on päätuomarin apulainen, mutta hänellä on myös omavastuualueensa. 24.3
+Jos päätuomari ei pysty jatkamaan tehtäväänsä, verkkotuomari voikorvata hänet.  
+24.2.2Hän voi myös käsimerkein, viheltämättä, ilmoittaa valtuuksiensaulkopuolella tapahtuvista virheistä, mutta hän ei saa painostaa niilläpäätuomaria.
+24.3
+24.2.3Hän valvoo kirjurin (kirjureiden) työtä.27.2, 28.2
+24.2.4Hän valvoo penkillä olevia joukkueen jäseniä ja ilmoittaa heidänkäytösrikkeistään päätuomarille. 4.2.1
+24.2.5Hän valvoo pelaajia lämmittelyalueella.4.2.3
+24.2.6Hän myöntää sääntömääräiset pelikatkot, valvoo niiden pituuden jaevää virheelliset katkopyynnöt. 15, 15.11, 27.2.2.3
+24.2.7Hän valvoo joukkueiden aikalisien ja pelaajavaihtojen lukumäärää, jailmoittaa toisesta aikalisästä sekä viidennestä ja kuudennestapelaajavaihdosta päätuomarille ja kulloinkin kyseessä olevanjoukkueen valmentajalle.
+15.1, 27.2.2.3
+24.2.8Pelaajan loukkaantuessa verkkotuomari myöntää poikkeuksellisenvaihdon tai kolmen minuutin toipumisajan.15.7, 17.1.2
+24.2.9Verkkotuomari valvoo kentän pinnan pelikelpoisuutta, pääasiassaetukentällä. Hän valvoo myös ottelun aikana, että pallot pysyvätsääntöjen mukaisina.
+1.2.1, 3
+24.2.10FIVB:n maailmatason ja virallisissa kilpailuissa säännön 24.2.5velvollisuus on annettu varalla olevalle tuomarille.26.2.6
+24.3 TEHTÄVÄT  
+24.3.1Kunkin erän alussa, ratkaisevassa erässä puoltenvaihdon jälkeen jamuutenkin tarvittaessa, hän tarkistaa, että pelaajien asemat kentälläovat aloitusjärjestyslipukkeen mukaiset.
+5.2.3.1, 7.3.2, 7.3.5,18.2.2
+24.3.2Ottelun aikana verkkotuomari päättää, viheltää ja osoittaa merkeinseuraavista virheistä:  
+24.3.2.1tunkeutuminen vastustajan kentälle ja ilmatilaan verkon alitse;1.3.3, 11.2, K.5a,K.11(22)
+24.3.2.2aloitusta vastaanottavan joukkueen sijoittumisvirheet;7.5, K.4, K.11(13)
+24.3.2.3pelaajan virheellinen koskettaminen verkkoon ensisijaisesti torjujanpuolella ja antenniin hänen puolellaan kenttää;11.3.1
+24.3.2.4toteutuneen takapelaajan torjunnan tai Liberon torjuntayrityksen taiLiberon tai takapelaajan virheellisen hyökkäyslyönnin13.3.3, 14.6.2, 14.6.6,23.3.2.3d, e, g, K.8,K.11(12), K.11(21)
+24.3.2.5pallon koskettaminen pelikentän ulkopuolisiin esineisiin;8.4.2, 8.4.3, K.11(15)
+24.3.2.6pallon koskettaminen pelikenttään, silloin kun päätuomari ei paikaltaanvoi kosketusta nähdä; 8.3
+--- Page 46 ---
+24.3.2.7pallo ylittää verkkolinjan kokonaan tai osittain ylityskaistan ulkopuoleltatai koskettaa antennia hänen puolellaan kenttää.8.4.3, 8.4.4, K.5a,K.11(15)
+24.3.2.8syötetyn pallon ja toisen tai kolmannen kosketuksen kulkiessakokonaan tai osittain ylityskaistan ulkopuolelta hänen puolellaanpelikenttää.
+K.11(15)
+24.3.3Ottelun päättyessä verkkotuomari tarkistaa ja allekirjoittaa pöytäkirjan.23.3.3, 27.2.3.3
+--- Page 47 ---
+25 HAASTETUOMARI  
+FIVB:n maailmatason ja virallisissa kilpailuissa josvideohaastejärjestelmä on käytössä, haastetuomari on pakollinen. 
+25.1 SIJAINTI  
+Haastetuomari suorittaa tehtäviään haastetuomarin erillisessätyötilassa, jonka sijainnin määrittää FIVB Tekninen Delegaatti. 
+25.2 TEHTÄVÄT  
+25.2.1Hän valvoo haastoprosessin suorittamista ja varmistaa, että se eteneevoimassaolevien haastosääntöjen mukaisesti, 
+25.2.2haastetuomari pukeutuu viralliseen tuomariasuun tehtäviäänsuorittaessaan,  
+25.2.3haastoprosessin jälkeen hän ilmoittaa päätuomarille virheen laadun. 
+25.2.4ottelun päättyessä hän allekirjoittaa pöytäkirjan. 
+--- Page 48 ---
+26 VARALLA OLEVA TUOMARI  
+FIVB:n maailmatason ja virallisissa kilpailuissa varalla olevatuomari on pakollinen.  
+26.1 SIJAINTI  
+Varalla oleva tuomari suorittaa tehtäviään FIVB:n kentänpohjapiirroksen määrittämässä erillisessä paikassa. 
+26.2 TEHTÄVÄT  
+Varalla olevan tuomarin pitää:  
+26.2.1pukeutua viralliseen tuomariasuun tehtäviään suorittaessaan; 
+26.2.2korvata verkkotuomari tämän poissaollessa, tämän ollessakykenemätön jatkamaan työtään, tai jatkaa tämän työtä verkkotuomarinkorvatessa päätuomarin;
+ 
+26.2.3kontrolloida vaihtoihin käytettäviä numerotauluja (jos sellaiset onkäytössä) ennen ottelun alkua ja erien välissä; 
+26.2.4tarkistaa joukkueiden penkeillä olevien tablettien toiminta ennen erienalkua ja erien välissä, jos niissä on ongelmia; 
+26.2.5avustaa verkkotuomaria pitämään vapaa-alueen vapaana;1.1
+26.2.6avustaa verkkotuomaria ohjeistamaan erästä/ottelusta poistettuajoukkueen jäsentä poistumisessa joukkueen pukuhuoneeseen;21.3.2.1, 21.3.3.1
+26.2.7kontrolloida vaihtopelaajia lämmittelyalueella ja joukkueen penkeillä;1.4.5, 24.2.5, 24.2.10
+26.2.8toimittaa verkkotuomarille neljä pelipalloa välittömästi aloittavienpelaajien esittelyn jälkeen ja antaa verkkotuomarille pelipallon hänentarkastettua pelaajien aloitusjärjestyksen;
+24.3.1
+26.2.9avustaa verkkotuomaria opastamaan lattiankuivaajien työskentelyä.23.2.2
+--- Page 49 ---
+27 KIRJURI  
+27.1 SIJAINTI  
+Kirjuri istuu pöydän ääressä pelialueella vastapuolella päätuomaria.K.1a, K.1b, K.10
+27.2 TEHTÄVÄT  
+Hän täyttää ottelun kulusta sääntöjen mukaisesti pöytäkirjaayhteistyössä verkkotuomarin kanssa. 
+Hänellä on käytettävänään summeri tai muu äänimerkki ilmoittamiseensääntöjenvastaisuuksista tai yhteydenpitoon tuomareiden kanssahänen vastuualueensa tehtävien osalta.
+ 
+27.2.1Ennen ottelun ja erän alkua kirjuri:  
+27.2.1.1merkitsee pöytäkirjaan ottelutiedot, ja joukkueet, sekä liberoidenlukumäärät voimassa olevan menettelyn mukaan ja ottaen siihenkapteenien ja valmentajien nimikirjoitukset;
+4.1, 5.1.1, 5.2.2,7.3.2, 19.1.2, 19.4.2.6
+27.2.1.2kirjaa aloitusjärjestyslipukkeista molempien joukkueidenaloituskokoonpanot (tai tarkistaa elektronisesti lähetetyt tiedot);5.2.3.1, 7.3.2
+Jos hän ei ole saanut aloitusjärjestyslipukkeita ajoissa, hänen onvälittömästi ilmoitettava siitä verkkotuomarille;5.2.3.1
+27.2.2Ottelun aikana kirjuri:  
+27.2.2.1merkitsee pöytäkirjaan joukkueiden saamat pisteet;6.1
+27.2.2.2valvoo joukkueiden aloitusjärjestystä ja ilmoittaa virheestä tuomareilleheti aloituksen jälkeen; 12.2
+27.2.2.3on valtuutettu myöntämään ja ilmoittamaan pelaajien vaihtopyynnötsummeria käyttäen, merkitsee pöytäkirjaan aikalisät ja pelaajavaihdotvalvoen niiden lukumäärää ja ilmoittaen sen verkkotuomarille;
+15.1, 15.4.1,15.10.3.3, 24.2.6,24.2.7
+27.2.2.4ilmoittaa tuomareille virheellisistä katkopyynnöistä;15.11
+27.2.2.5ilmoittaa tuomareille erän päättymisestä ja kahdeksannen pisteensaavuttamisesta ratkaisevassa erässä;6.2, 15.4.1, 18.2.2
+27.2.2.6merkitsee pöytäkirjaan käyttäytymisrikevaroitukset, rangaistukset javirheelliset katkopyynnöt; 15.11.3, 16.2, 21.3
+27.2.2.7merkitsee kaikki verkkotuomarin määräämät merkinnät kutenpoikkeukselliset vaihdot, toipumisajan, pitkittyneet keskeytykset,ulkopuoliset häiriöt, uudelleennimeämiset jne.
+15.7, 17.1.2, 17.2,17.3, 19.4
+27.2.2.8mittaa erätaukojen pituudet 18.1
+27.2.3Ottelun loputtua kirjuri:  
+27.2.3.1merkitsee pöytäkirjaan ottelun lopputuloksen;6.3
+27.2.3.2jos ottelusta tehdään vastalause, päätuomarin antaman luvan jälkeen,kirjoittaa itse tai antaa joukkue-/pelikapteenin kirjoittaavastalausetapahtumasta lausunto pöytäkirjaan;
+5.1.2.1, 5.1.3.2,23.2.4
+27.2.3.3allekirjoittaa pöytäkirjan itse, sen jälkeen joukkueiden kapteenien jalopuksi tuomareiden allekirjoitukset. 5.1.3.1, 23.3.3, 24.3.3
+--- Page 50 ---
+28 AVUSTAVA KIRJURI  
+28.1 SIJAINTI 22.1, K.1a, K.1b, K.10
+Avustava kirjuri toimii ja istuu kirjurin vieressä kirjurin pöydän ääressä. 
+28.2 TEHTÄVÄT  
+Hän merkitsee pelaajien korvaamiset Libero pelaajalla.Hän avustaa kirjurin työhön kuuluvissa hallinnollisissa toimenpiteissä.Jos kirjuri ei pysty jatkamaan tehtäväänsä, avustava kirjuri korvaahänet.
+19.3
+28.2.1Ennen ottelun ja erän alkua avustava kirjuri: 
+28.2.1.1valmistelee liberopöytäkirjan;  
+28.2.1.2valmistelee varalle ottelupöytäkirjan; 
+28.2.2Ottelun aikana avustava kirjuri:  
+28.2.2.1merkitsee yksityiskohtaisesti liberokorvaamiset/uudelleennimeämiset;19.3.1.1, 19.4
+28.2.2.2ilmoittaa virheistä liberokorvaamisissa summeria käyttäen;19.3.2
+28.2.2.4hoitaa kirjurin pöydällä olevaa käsikäyttöistä tulostaulua; 
+28.2.2.5tarkistaa että tulostaulut täsmäävät; 27.2.2.1
+28.2.2.6Jos tarpeen, päivittää varalla olevan ottelupöytäkirjan ja antaa senkirjurille. 27.2.1.1
+28.2.3Ottelun loputtua avustava kirjuri:  
+28.2.3.1allekirjoittaa liberopöytäkirjan ja luovuttaa sen tarkistettavaksi; 
+28.2.3.2allekirjoittaa ottelupöytäkirjan.  
+FIVB:n maailmatason ja virallisissa kilpailuissa, joissa käytetäänsähköistä pöytäkirjaa, avustava kirjuri toimii kirjurin kanssailmoittaen pelaajavaihdot, ohjaa verkkotuomarin senkatkopyynnön tekevän joukkueen puoleen, ja huomioiliberokorvaamiset.
+ 
+--- Page 51 ---
+29 RAJATUOMARIT  
+29.1 SIJAINTI  
+Jos vain kahta rajatuomaria käytetään, he sijoittuvat kentän kulmiintuomareista oikealle viistosti 1-2 m päähän kulmasta.K.1a, K.1b, K.10
+Kumpikin heistä valvoo sekä pääty- että sivurajaa omalla puolellaan. 
+Jos FIVB:n nimetyissä maailmatason ja virallisissa kilpailuissakäytetään neljää rajatuomaria, tulee heidän seistä vapaa-alueella1-3 m päässä jokaisesta kulmasta valvomansa rajankuvitteellisella jatkeella.
+K.10
+29.2 TEHTÄVÄT  
+29.2.1Rajatuomarit käyttävät tehtävässään lippua (kooltaan 40 x 40 cm)osoittaakseen: K.12
+29.2.1.1'pallo sisällä' tai 'pallo ulkona' aina kun pallo putoaa heidän valvomansa(valvomiensa) rajan (rajojen) läheisyyteen;8.3, 8.4, K.12(1),K.12(2)
+29.2.1.2milloin ulosmennyttä palloa on hipaistu palloa vastaanottavanjoukkueen pelaajan toimesta; 8.4, K.12(3)
+29.2.1.3milloin pallo koskettaa antennia, syötetty pallo ylittää verkonylityskaistan ulkopuolelta, tms.; 8.4.3, 8.4.4, 10.1.1,K.5a, K.12(4)
+29.2.1.4milloin pelaaja (aloittajaa lukuun ottamatta) on aloituksen lyöntihetkelläkenttänsä ulkopuolella; 7.4, 12.4.3, K.12(4)
+29.2.1.5aloittajan jalkavirheet; 12.4.3
+29.2.1.6milloin pelaaja koskettaa yläosaa antennista, 80 cm, pelatessaanpalloa tai häiritsee peliä, rajatuomarin valvomalla kenttäpuolella;11.3.1, 11.4.4, K.3,K.12(4)
+29.2.1.7pallon verkon ylityksen ylityskaistan ulkopuolelta vastustajankenttäpuolelle tai koskettaminen antennia hänen kenttäpuolellaan.10.1.1, K.5a, K.12(4)
+29.2.2Päätuomarin pyynnöstä rajatuomarin on toistettava merkkinsä. 
+--- Page 52 ---
+30 VIRALLISET KÄSI- JA LIPPUMERKIT  
+30.1 TUOMAREIDEN KÄSIMERKIT K.11
+Tuomarien on ilmoitettava virallisia käsimerkkejä käyttäen syy heidänvihellykseensä (tapahtuneen virheen laatu tai myönnetyn katkontarkoitus). Ilmoittaminen suoritetaan siten, että käsimerkkiä näytetäänjonkin aikaa, ja jos siihen käytetään vain yhtä kättä, se tehdään virheentehneen tai katkon pyytäneen joukkueen puoleisella kädellä.
+ 
+30.2 RAJATUOMARIEN LIPPUMERKIT K.12
+Rajatuomarien on ilmoitettava virallisia lippumerkkejä käyttäen virheenlaatu ja näytettävä merkkiään jonkin aikaa. 
+--- Page 53 ---
+MÄÄRITELMÄT
+KILPAILUN VALVONTA-ALUE
+Kilpailun valvonta-alue on käytävä ja se koko alue, joka ympäröi pelikenttää ja vapaa-aluetta, ja jonkaulkoreunana on koko kilpailualueen raja-aita (katso Kaavio 1a).
+ALUEET
+Nämä ovat pelialueen (eli pelikenttä ja vapaa-alue) osia, jotka säännöissä on varattu erityistätarkoitusta varten (tai joihin soveltuu erityisiä rajoituksia). Näitä ovat muun muassa: etukenttä,aloitusalue, vaihtoalue, vapaa-alue, takakenttä ja liberokorvaamisalue.
+PELIALUEEN ULKOPUOLISET ALUEET
+Nämä ovat vapaa-alueen ULKOPUOLELLA olevat osat, joille säännöissä on määrätty erityinentehtävä. Näitä ovat muun muassa lämmittelyalue.
+VERKON ALAPUOLINEN TILA
+Yläreunastaan verkon alareunan ja sen verkkopylväisiin yhdistävän alaköyden, sivuiltaanverkkopylväiden ja alareunastaan pelikentän pinnan rajaama tila.
+YLITYSKAISTA
+Ylityskaistan rajaa:- vaakasuunnassa verkon yläreunan nauha;- antennit ja niiden kuvitellut jatkeet; ja- katto.
+Pallon on kuljettava ylityskaistan läpi mennessään vastapuolen KENTTÄPUOLELLE.
+ULKOTILA
+Ulkotila on verkkotason pystysuunnassa ylityskaistan ja verkon alapuolisen tilan ulkopuolellerajautuva tila.
+VAIHTOALUE
+Vaihtoalue on se osa vapaa-aluetta, jolla pelaajavaihdot suoritetaan.
+ELLEI FIVB:N KANSSA OLE TOISIN SOVITTU
+Näin ilmaisten on haluttu ilmoittaa, että vaikka säännöillä on vakioitu pelin varusteita ja olosuhteita,voi FIVB erityisissä tilanteissa sallia poikkeavia järjestelyjä, jotta peliä sinänsä voidaan edistää taiuusia ehtoja/sääntöjä halutaan testata.
+FIVB STANDARDIT
+Tekniset määritteet tai rajat, joita FIVB on asettanut eri varusteiden valmistajille.
+VIRHE
+a) Suoritus pelissä, joka on sääntöjen vastainen,b) Sääntöjen rikkomus, joka ei ole pelisuoritus.
+--- Page 54 ---
+POMPOTTELU
+Pompottelua on pallon pompottaminen maahan (useimmiten valmistautumisena pallon heittämiseentai syöttämiseen). Muita valmistelevia toimia voivat olla mm. pallon siirtely pelaajan kädestä toiseen.
+TEKNINEN AIKALISÄ
+Tämä pakollinen erityisaikalisä on normaalien aikalisien lisäksi tarkoitettu edistämään lentopallopeliäluomalla tilanne, jossa peliä voidaan analysoida ja samalla peliin liittyen voida luoda mahdollisuuskäyttää taukoa kaupallisiin tarkoituksiin. Tekniset aikalisät ovat pakollisia FIVB maailmatason javirallisissa kilpailuissa
+PALLONPALAUTTAJAT JA PIKAKUIVAAJAT
+Näiden ottelun toimitsijoiden tehtävä on hoitaa pelin sujumista toimittamalla palloja aloittajallepallorallien välisenä aikana.
+Pikakuivaajat ovat toimitsijoita, joiden tehtävänä on pitää lattia puhtaana ja kuivana. He kuivaavatlattian ennen ottelua, erien välillä ja tarvittaessa jokaisen pallorallin jälkeen käyttäen pieniä pyyhkeitä.
+JUOKSEVA PISTELASKU
+Tässä järjestelmässä jokaisesta voitetusta pallosta tulee piste.
+ERÄTAUKO
+Aika erien välissä. Kenttäpuolien vaihto viidennessä (ratkaisevassa) erässä ei ole erätauko.
+UUDELLEENNIMEÄMINEN
+Tämä on tapahtuma, jossa libero ei pysty jatkamaan tai on joukkueen toimesta ilmoitettukyvyttömäksi jatkamaan peliä ja hänen tehtävänsä ottaa kuka tahansa pelaaja, (paitsi korvauksessaoleva pelaaja) joka ei uudelleennimeämisen hetkellä ole kentällä.
+LIBEROKORVAAMINEN
+Tämä on tapahtuma, jossa normaali pelaaja jättää kentän ja jompikumpi libero (jos kaksi liberoa)ottaa hänen pelipaikkansa. Tämä voi olla käsittää myös liberon vaihtamisen liberoon. Normaalipelaaja voi sitten korvata jommankumman liberoista. Liberokorvaamisten välillä tulee olla päättynytpalloralli.
+HÄIRITSEMINEN
+Kaikenlainen toiminta, jolla saavutetaan etua vastustajaan nähden tai joka estää vastustajaapelaamasta palloa.
+ULKOPUOLINEN ESINE
+Esine tai henkilö, joka ulkopuolella pelikentän tai lähellä vapaan pelialueen rajaa, estää pallonlentoradan. Esim. kattovalaisimet, tuomariteline, TV välineistö, kirjurin pöytä ja verkkopylväät.Ulkopuoliset esineet eivät sisällä antenneja, niiden katsotaan olevan verkon osa.
+--- Page 55 ---
+PELAAJAVAIHTO
+Tämä on tapahtuma, jossa yksi normaali pelaaja jättää kentän ja toinen normaali pelaaja ottaa hänenpelipaikkansa.
+JOUKKUEEN ENSIMMÄINEN LYÖNTI
+Neljässä seuraavassa tilanteessa pelitapahtumaa pidetään joukkueen ensimmäisenä lyöntinä:
+syötön vastaanottovastustajajoukkueen hyökkäyksen vastaanottoomasta torjunnasta palautuvan pallon pelaaminenvastapuolen torjunnasta palautuvan pallon pelaaminen
+PROTOKOLLA
+Tapahtumien sarja ennen ottelun alkua, sisältäen arvonnan, lämmittelyn, joukkueiden ja tuomareidenesittelyn erityisessä kilpailukohtaisessa käsikirjassa kuvatulla tavalla.
+--- Page 56 ---
+ Kaavio 1a - Kilpailualue
+Säännöt: 1, 1.4.5, 4.2.1, 4.2.3.1, 15.4.2, 19.3.2.7, 21.3.2.1, 21.3.3.1, 23.1, 24.1, 27.1, 28.1
+
+--- Page 57 ---
+Kaavio 1b - Pelialue
+Suluissa olevat mitat ovat voimassa FIVB:n maailmatason ja virallisissa kilpailuissa.
+Säännöt: 1, 1.4, 1.4.2, 1.4.3, 1.4.4, 1.4.5, 4.2.1, 4.2.3.1, 15.10.1, 19.3.1.4, 19.3.2.7, 23.1, 24.1, 27.1,28.1
+
+--- Page 58 ---
+Kaavio 2 - Pelikenttä
+Säännöt: 1.1, 1.3, 1.3.3, 1.3.4, 1.4.1
+
+--- Page 59 ---
+ Kaavio 3 - Verkon rakenne
+Säännöt: 2, 2.2, 2.3, 2.4, 2.5.1, 11.3.1, 11.3.2, 29.2.1.6
+
+--- Page 60 ---
+Kaavio 4 - Pelaajien sijoittuminen
+Säännöt: 7.4, 7.4.3, 7.5, 23.3.2.3a, 24.3.2.2
+Esimerkki A: Etupelaajan ja vastaavan takapelaajan sijoittumisen määrittely
+Esimerkki B: Saman rivin pelaajien sijoittumisen määrittely
+
+--- Page 61 ---
+ Kaavio 5a - Verkon ylittävä pallo
+Säännöt: 2.4, 8.4.3, 8.4.4, 8.4.5, 10.1.1, 10.1.3, 24.3.2.7, 29.2.1.3, 29.2.1.7
+
+--- Page 62 ---
+Kaavio 5b - Vastustajan vapaa-alueelle verkon ylittävä pallo
+Säännöt: 10.1.2, 10.1.2.2, 24.3.2.7
+
+--- Page 63 ---
+Kaavio 6 - Ryhmäpeittäminen
+Säännöt: 12.5, 12.5.2, 23.3.2.3a
+
+--- Page 64 ---
+Kaavio 7 - Toteutunut torjunta
+Säännöt: 14.1.3
+
+--- Page 65 ---
+Kaavio 8 - Takapelaajan hyökkäyslyönti
+Säännöt: 13.2.2, 13.2.3, 23.3.2.3d, 24.3.2.4
+
+--- Page 66 ---
+KAAVIO 9: RANGAISTUSTAULUKOT
+Säännöt: 16.2, 21.3, 21.4.2
+9a: KÄYTÖSRIKKEIDEN RANGAISTUSTAULUKKORIKKEEN LAATU TOISTUMINEN(joukkueelle)TEKIJÄ SANKTIO NÄYTTÖ SEURAAMUKSET
+VÄHÄINENKÄYTÖSRIKKOMUSVaihe 1 Kuka tahansa Ei rangaista Ei mitään Ennaltaehkäisy
+ Vaihe 2   Keltainen  
+ Seuraavat kerrat Rangaistus; Kuten alla Kuten alla
+RÄIKEÄ KÄYTÖSEnsi kertaKuka tahansa Rangaistus Punainen Piste ja syöttö vastapuolelle
+ Toinen kertaSama henkilö Erästä poistaminenPunainen + keltainenyhdessä Siirto pukuhuoneeseen
+ Kolmas kertaSama henkilö Ottelustapoistaminen Punainen + keltainenerikseen Siirto pukuhuoneeseen
+LOUKKAAVAKÄYTÖS Ensi kertaKuka tahansa Erästä poistaminenPunainen + keltainenyhdessä Siirto pukuhuoneeseen
+ Toinen kertaSama henkilö Ottelustapoistaminen Punainen + keltainenerikseen Siirto pukuhuoneeseen
+VÄKIVALTAINENKÄYTÖS Ensi kertaKuka tahansa Ottelustapoistaminen Punainen + keltainenerikseen Siirto pukuhuoneeseen
+ 9b: VIIVYTYSRIKKEIDEN RANGAISTUSTAULUKKORIKKEENLAATU TOISTUMINEN(joukkueelle)TEKIJÄSANKTIONÄYTTÖ SEURAAMUKSET
+VIIVYTYSEnsi kerta Kukatahansa Viivytysvaroitus Käsimerkki 25 keltaisellakortilla Ei seuraamusta
+ Toinen kerta(ja seuraavat)Kukatahansa ViivytysrangaistusKäsimerkki 25 punaisellakortilla Piste ja syöttövastapuolelle
+--- Page 67 ---
+Kaavio 10 - Ottelun tuomariston sijoittuminen
+Säännöt: 3.3, 23.1, 24.1, 27.1, 28.1, 29.1
+
+--- Page 68 ---
+Kaavio 11 - Tuomareiden käsimerkit
+1    ALOITUSLUPA
+Säännöt: 12.3, 22.2.1.1
+Liikutetaan kättä viitaten aloituksen suuntaan.
+2    ALOITTAVA JOUKKUE
+Säännöt: 22.2.3.1, 22.2.3.2, 22.2.3.4
+Ojennetaan käsi seuraavaksi aloittavan joukkueen suuntaan.
+3    PUOLTENVAIHTO
+Säännöt: 18.2
+Nostetaan kyynärvarret eteen ja taakse ja kierretään nevartalon ympäri.
+4    AIKALISÄ
+Säännöt: 15.4.1
+Laitetaan toisen käden kämmen toisen kädensormien päälle, kohtisuorassa (muodostaen T-kirjain) ja sitten viitataan aikalisää pyytävänjoukkueen suuntaan.
+
+--- Page 69 ---
+5    PELAAJAVAIHTO
+Säännöt: 15.5.1, 15.5.2, 15.8
+Pyöritetään kyynärvarsia toistensa ympäri.
+6a    KÄYTÖSVAROITUS
+Säännöt: 21.1, 21.6, 23.3.2.2
+Näytetään keltaista korttia varoitukseksi.
+6b    KÄYTÖSRANGAISTUS
+Säännöt: 21.3.1, 21.6, 23.3.2.2
+Näytetään punaista korttia rangaistukseksi.
+7    ERÄSTÄ POISTAMINEN
+Säännöt: 21.3.2, 21.6, 23.3.2.2
+Näytetään molempia kortteja samassa kädessä erästä poistamiseksi.
+
+--- Page 70 ---
+8    OTTELUSTA POISTAMINEN
+Säännöt: 21.3.3, 21.6, 23.3.2.2
+Näytetään molempia kortteja eri käsissä ottelusta poistamiseksi.
+9    ERÄN TAI OTTELUN PÄÄTTYMINEN
+Säännöt: 6.2, 6.3
+Viedään käsivarret kyynärvarret rinnankorkeudella ristiin, kämmenetavoinna.
+10    PALLOA EI HEITETTY TAI IRROITETTU ALOITUSLYÖNNISSÄ
+Säännöt: 12.4.1
+Nostetaan ojennettu käsivarsi, kämmen ylöspäin.
+11    VIIVYTYS ALOITUKSESSA
+Säännöt: 12.4.4
+Nostetaan kahdeksan sormea auki levitettynä.
+
+--- Page 71 ---
+12    TORJUNTAVIRHE TAI PEITTÄMINEN
+Säännöt: 12.5, 12.6.2.3, 14.6.3, 19.3.1.3, 23.3.2.3a, g, 24.3.2.4
+Nostetaan molemmat kädet kohtisuoraan, kämmenet eteenpäin.
+13    SIJOITTUMISVIRHE TAI VIRHEET KENTTÄKIERROSSA
+Säännöt: 7.5, 7.7, 23.3.2.3a, 24.3.2.2
+Tehdään etusormella pyörittävä liike.
+14    PALLO SISÄLLÄ
+Säännöt: 8.3
+Osoitetaan kädellä käsivarrella ja sormilla kohti lattiaa.
+15    PALLO ULKONA
+Säännöt: 8.4.1, 8.4.2, 8.4.3, 8.4.4, 24.3.2.5, 24.3.2.7, 24.3.2.8
+Nostetaan molemmat käsivarret kyynärvarret kohtisuoraan,kämmenet sisäänpäin.
+
+--- Page 72 ---
+16    KOPPI
+Säännöt: 9.2.2, 9.3.3, 23.3.2.3b
+Hitaasti nostetaan kyynärvartta kämmen ylöspäin.
+17    KAKSOISKOSKETUS
+Säännöt: 9.3.4, 23.3.2.3b
+Nostetaan kaksi sormea harallaan.
+18    NELJÄ LYÖNTIÄ
+Säännöt: 9.3.1, 23.3.2.3b
+Nostetaan neljä sormea auki levitettynä.
+19    PELAAJAN VERKKOKOSKETUS / ALOITUSSYÖTÖSSÄ PALLO KOSKEE VERKKOONANTENNIEN VÄLISSÄ EIKÄ MENE VASTUSTAJAN PUOLELLE YLITYSKAISTAN LÄPI
+Säännöt: 11.4.4, 12.6.2.1
+Kosketetaan kädellä verkkoa virheen tehneen joukkueenpuolella.
+
+--- Page 73 ---
+20    VIRHEELLINEN VERKON YLITYS
+Säännöt: 11.4.1, 13.3.1, 14.3, 14.6.1, 23.3.2.3c
+Viedään käsi verkon yli, kämmen alaspäin.
+21    VIRHEELLINEN HYÖKKÄYSLYÖNTI
+Säännöt: 13.3.3, 13.3.4, 13.3.5, 13.3.6, 23.3.2.3d, e, 24.3.2.4
+Tehdään kyynärvarrella iskuliike alaspäin kämmen avoimena.
+22    TUNKEUTUMINEN VASTUSTAJAN KENTTÄÄN TAI PALLO KULKEE VERKON ALAPUOLISENTILAN LÄPI TAI SYÖTTÄJÄ KOSKETTAA KENTTÄÄ (TAKARAJA) TAI PELAAJA ON KENTTÄNSÄULKOPUOLELLA SYÖTTÖHETKELLÄ
+Säännöt: 8.4.5, 11.2.2, 12.4.3, 23.3.2.3a, f, 24.3.2.1
+Osoitetaan keskirajaa tai ko. rajaa.
+23    KAKSOISVIRHE JA UUSI PALLO
+Säännöt: 6.1.2.2, 17.2, 22.2.3.4
+Nostetaan molemmat peukalot pystysuoraan.
+
+--- Page 74 ---
+24    ULOS MENNEEN PALLON KOSKETUS
+Säännöt: 23.3.2.3b, 24.2.2
+Hipaistaan kämmenellä toisen käden pystysuorassa olevia sormenpäitä.
+25    VIIVYTYSVAROITUS/-RANGAISTUS
+Säännöt: 15.11.3, 16.2.2, 16.2.3, 23.3.2.2
+Osoitetaan rannetta keltaisella kortilla (varoitus) tai punaisellakortilla (rangaistus).
+
+--- Page 75 ---
+Kaavio 12 - Rajatuomareiden lippumerkit
+1    PALLO 'SISÄLLÄ'
+Säännöt: 8.3, 29.2.1.1
+Osoitetaan lipulla alas.
+2    PALLO 'ULKONA'
+Säännöt: 8.4.1, 29.2.1.1
+Nostetaan lippu pystysuoraan.
+3    PALLON KOSKETUS
+Säännöt: 29.2.1.2
+Nostetaan lippu ja kosketaan sen kärjellä vapaan käden kämmentä.
+4    YLITYSKAISTAN VIRHEET, PALLO KOSKETTAA ULKOPUOLISTA ESINETTÄ TAI KENENTAHANSA PELAAJAN RAJARIKKO ALOITUKSEN AIKANA
+Säännöt: 8.4.2, 8.4.3, 8.4.4, 12.4.3, 29.2.1.3, 29.2.1.4, 29.2.1.6, 29.2.1.7
+Heilutetaan lippua pään päällä ja osoitetaan toisella kädelläverkkomerkkiä, antennia tai kyseessä olevaa rajaa.
+
+--- Page 76 ---
+5    KANNANILMAISU MAHDOTON
+Säännöt:  
+Nostetaan molemmat käsivarret ja kämmenet ristiin rinnalle.

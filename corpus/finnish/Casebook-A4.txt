@@ -1,0 +1,2847 @@
+
+--- Page 1 ---
+ 
+LENTOPALLON
+SÄÄNNÖT
+CASEBOOK
+2025 Versio
+1.8.2025Tiedosto luotu: 2025-11-04 11.24.26
+--- Page 2 ---
+Casebook - Lentopallon tilannekirja
+Esipuhe
+Sääntöjen soveltamisen teoreettiset periaatteet
+Caset
+Luku 1: Osallistujat
+Kielletyt esineet (1.1-1.2)
+Kapteeni (1.3-1.5)
+Valmentajat (1.6-1.11)
+Peliasu (1.12-1.15)
+Luku 2: Pelimuoto
+Sijoittumis- ja järjestysvirheet (2.1-2.7)
+Luku 3: Pelitapahtumat
+Pallon pelaaminen (3.1-3.13)
+Tunkeutuminen vastapuolen pelialueelle (3.14-3.18)
+Pelaaja verkolla (3.19-3.27)
+Syöttö (3.28-3.31)
+Hyökkäys (3.32-3.35)
+Torjunta (3.36-3.54)
+Luku 4: Pelikatkot ja viivytykset
+Vaihdot (4.1-4.26)
+Aikalisät (4.27)
+Virheellinen katkopyyntö (4.28-4.30)
+Loukkaantumiset (4.31-4.37)
+Pelin viivyttäminen (4.38-4.41)
+Ulkopuolinen häirintä (4.42-4.49)
+Luku 5: Libero
+Libero (5.1-5.26)
+Luku 6: Osanottajien käyttäytyminen
+Osanottajien käyttäytyminen (6.1-6.11)
+Luku 7: Tuomarit ja heidän velvollisuutensa
+Tuomarit ja heidän velvollisuutensa (7.1-7.10)
+Luku 8: Erikoistilanteet
+Erikoistilanteet (8.1-8.7)
+Luku 9: Teknologian käyttöön liittyvät tilanteet
+--- Page 3 ---
+Teknologiacaset (9.1-9.9)
+--- Page 4 ---
+ESIPUHE
+Lentopallo on loistava peli - kysypä vain niiltä miljoonilta ihmisiltä, jotka pelaavat sitä, katsovat sitä,
+analysoivat ja tuomaroivat sitä. Peliä on viime vuosina edistetty aktiivisesti ja kehitetty valtavasti
+yhdeksi huippukilpailukykyisimmistä urheilumuodoista. Lisääntynyt jännitys, nopeus, räjähtävät
+suoritukset, puhdas ja terve imago ja valtavat TV:n katsojamäärät ovat luoneet sysäyksen kehittää peliä
+edelleen, tehdäksemme siitä yksinkertaisemman ja houkuttelevamman vieläkin laajemmalle yleisölle.
+Kuitenkin, oikea ja yhdenmukainen sääntöjen soveltaminen maailman näyttämöllä on myös erittäin
+tärkeää pelin jatkokehitykselle. Tämä Casebook on kokoelma pelitapahtumia ja niiden virallisia
+tuomioita, jotka sääntökomissio on viimeisimmän sääntökirjan pohjalta hyväksynyt. Nämä tuomiot
+laajentavat ja selkeyttävät virallisten sääntöjen henkeä ja tarkoitusta, ja ovat virallisia tulkintoja, joita
+tulisi noudattaa kaikissa tulevissa kilpailuissa.
+On syytä huomioida, että erotuomari on se, joka toteuttaa säännöt käytännössä. Sen vuoksi
+erotuomareiden on tunnettava säännöt virheettömästi ja sen lisäksi osattava soveltaa niitä käytännössä
+päättäväisesti ja oikein pelin kontekstissa. On tärkeää, että he oppivat ja ymmärtävät säännön taustalla
+olevat perusperiaatteet. Ilman tätä heillä olisi suuria vaikeuksia soveltaa sääntöjä oikein. Tämä pätee
+erityisesti tilanteissa, joita ei ole selkeästi ilmaistu säännöissä, jolloin erotuomarit kykenevät tekemään
+oikeita päätöksiä auktoriteetilla. Muista, että "tuomarilla on valta päättää kaikista peliin liittyvistä
+asioista, mukaan lukien niistä, joita ei ole määrätty säännöissä". Tämä on mahdollista ainoastaan kun
+tuomarilla on täysi ymmärrys edellä mainituista perusperiaatteista.
+On muistettava myös, että säännöt luonnehtivat peliä, asettavat rajoja, määrittelevät
+oikeudenmukaisuuden, laillistavat tekniikat, tarjoavat koulutuksen keinon ja muodostavat perustan
+sosiaalisuudelle. Nämä kaikki näkökohdat ovat tärkeitä.
+Tämä casebook perustuu vuosien 2025-2028 sääntötekstiin, jonka FIVB:n kongressi hyväksyi 2024.
+Useisiin caseihin liitty videoklippejä, joiden on määrä auttaa ymmärtämään tekstissä kuvattuja tilanteita
+ja tekemään caseista kiinnostavampia.
+Guillermo Paredes
+FIVB:n sääntökomission presidentti
+Suomennos
+Casebook eli lentopallon tilannekirja on pyritty suomentamaan mahdollisimman ymmärrettävällä tavalla,
+yhteistyössä Lentopalloliiton tuomariryhmän kanssa.
+Tämän version suomentajana on toiminut Jori Ostrovskij.
+Palautetta (virheet ym.) voi lähettää Jorille osoitteeseen jorio@duck.com.
+--- Page 5 ---
+SÄÄNTÖJEN SOVELTAMISEN TEOREETTISET PERIAATTEET
+Tuomari pysyttelee taustalla, mutta samalla pyrkii tuomaan pelin esiin parhaassa mahdollisessa
+valossa ja lisää samalla pelin houkuttelevuutta suurelle yleisölle.
+Haluamme pelin olevan suosittu - houkuttelevan show'n tekeminen on tapa, jolla siihen päästään.
+CASEBOOK, VUODEN 2025 VERSIO
+Vuoden 2025 casebook heijastaa niitä sääntöjä, jotka FIVB:n kongressi on ottanut käyttöön vuosien
+saatossa. Vaikka muita sääntö- ja proseduurimuutoksia aina todennäköisesti harkitaankin, niin
+tehdäksemme peliä houkuttelevammaksi urheilun ja yhteiskunnan muuttuessa, on tarpeen muistaa,
+että tässä esitetyt tuomiot liittyvät niihin sääntöihin, jotka ovat voimassa tänään.
+--- Page 6 ---
+1 Osallistujat
+1.1 Kielletyt esineet
+Onko sallittua käyttää sellaisia välineitä kuin jalkaproteesi,
+jalkatuki tai loukkaantuneen ranteen kipsisidos?
+Tulkinta:
+On tärkeää erottaa tuki- ja kangasmateriaalit niistä välineistä,
+joilla on mahdollisuus satuttaa tai vahingoittaa muita. Sen
+vuoksi kova kipsi ei olisi sallittu, mutta pehmustettu jalkatuki
+olisi.
+Kyynärvarren tuen tapauksessa se ei saa antaa pelaajalle
+etua pallon kontrolloinnissa. Säännöt sallivat pelaajien
+käyttävän kompressiovarusteita loukkaantumisilta
+suojautumiseksi säännössä 4.5.3 kuvatulla tavalla.
+(Sääntö 4.5.1, 4.5.3)
+1.2 Kielletyt esineet
+Saako pelaaja pitää sormessaan sormusta, joka
+todennäköisesti aiheuttaa vahinkoa?
+Tulkinta:
+Vahingoittumisriskin vuoksi pelaajan on poistettava sormus
+sormestaan tai teipattava se.
+(Sääntö 4.5.1)
+1.3 Kapteeni
+Miten päätuomarin pitäisi suhtautua siihen, että pelikapteeni
+jatkuvasti kyseenalaistaa hänen päätöksensä?
+Tulkinta:
+Mikäli käytös päätuomarin mielestä ylittää säännön 5.1.2
+asettamat rajat, hänen on varoitettava pelikapteenia säännön
+21.1 mukaisesti. Mikäli käyttös jatkuu samanlaisena,
+pelikapteenia on rangaistava punaisella kortilla räikeästä
+käytöksestä (piste ja syöttö vastapuolelle).
+(Sääntö 5.1.2, 20.1, 20.2, 21.1, 21.2, 21.3.1, K.9)
+1.4 Kapteeni
+Pelikapteeni pyysi päätuomaria tarkistamaan joukkueiden
+pelipaikat?
+Onko tämä sallittua?
+Tulkinta:
+On. Joukkue ei kuitenkaan saa väärinkäyttää tätä oikeutta, ja
+on kiinnitettävä huomiota siihen, pyrkiikö joukkue viivyttämään
+peliä. Yksityiskohtaista tietoa annetaan ainoastaan
+pelikapteenin omasta joukkueesta. Vastapuolen pelipaikoista
+kerrotaan ainoastaan, ovatko ne oikeat vai ei. Mitään tietoa
+siitä, ketkä ovat etu- tai takapelaajia, ei anneta.
+(Sääntö 5.1.2.2)
+1.5 Kapteeni
+Ovatko tuomareiden päätökset lopullisia? Saako tuomari
+muuttaa päätöstään, jos joukkue protestoi?
+Tulkinta:
+Kyllä. Tuomari voi muuttaa päätöstään mikäli tulee tietoiseksi
+virheestään ennen seuraavaa syöttöä.
+Toisaalta joukkueet eivät saa protestoida tuomarien
+normaaleja päätöksiä vastaan.
+(Sääntö 5.1.2.1, 23.2.4)
+1.6 Valmentajat
+Saavatko valmentajat puhutella verkkotuomaria ottelun aikana
+protestien tai hänen päätöstensä vuoksi?
+Tulkinta:
+Ainoastaan joukkueen pelikapteenilla on oikeus puhutella
+tuomareita ja pyytää selvityksiä. Valmentajalla ei ole siihen
+oikeutta.
+(Sääntö 5.1.2, 5.2.3.4, 21.1, 21.2, 21.3)
+--- Page 7 ---
+1.7 Valmentajat
+Voiko apuvalmentaja tai pelaaja painaa summeria aikalisää
+varten?
+Tulkinta:
+Voi, mutta päävalmentajan täytyy näyttää virallinen käsimerkki,
+myös silloin kun käytössä on tabletit.
+(Sääntö 5.2.1, 5.2.3.3, 5.3.1)
+1.8 Valmentajat
+Missä päävalmentaja voi liikkua ottelun aikana?
+Tulkinta:
+Päävalmentajalla ja ainoastaan päävalmentajalla on oikeus
+liikkua vapaa-alueella ottelun aikana iskurajan jatkeen ja
+lämmittelyalueen välillä siten, ettei hän häiritse peliä eikä
+rajatuomarin tai verkkotuomarin työtä.
+(Sääntö 5.2.1, 5.2.3.1, 5.2.3.4)
+1.9 Valmentajat
+Jos valmentaja on loukkaantunut, voiko hän käyttää
+kainalosauvoja vapaa-alueella hoitaessaan tehtäväänsä
+ottelun aikana?
+Tulkinta:
+Kainalosauvojen avulla seisominen tai käveleminen ei ole
+kiellettyä.
+1.10 Valmentajat
+Onko sallittua, että joukkueen valmentaja tai apuvalmentaja
+auttaa pelaajia lämmittelemään pallojen kanssa erätauoilla
+vapaa-alueella?
+Tulkinta:
+Ei. Näillä henkilöillä on oikeus siihen ainoastaan virallisessa
+lämmittelyssä ennen ottelua. Vain pelaajilla on oikeus
+lämmitellä erätaukojen aikana vapaa-alueella. Tuomareiden
+tulee ohjata valmentaja ja apuvalmentaja kohteliaasti
+palaamaan joukkueen vaihtopenkin luo.
+(Sääntö 4.2.4, 5.3.1)
+1.11 Valmentajat
+Saako kukaan joukkueen valmentajistosta tai huoltajistosta
+olla lämmittelyn aikana vastapuolen vapaa-alueella tai
+kentällä?
+Tulkinta:
+Yleinen periaate virallisen verkkolämmittelyn aikana on, että
+lämmittely voidaan suorittaa ainoastaan joukkueen OMALLA
+pelialueella. Pöytäkirjaan merkityt joukkueen toimihenkilöt
+saavat kuitenkin olla verkkopylväiden lähellä estämässä
+verkosta putoavaa palloa aiheuttamasta vaaratilannetta
+pelaajille, tai vastapuolen vapaa-alueella valvomassa omaa
+joukkuettaan. Tämä on sallittua ainoastaan valvonta- ja
+loukkaantumisten ehkäisyroolissa.
+Mikäli joukkueet lämmittelevät erikseen (peräkkäin), niin
+verkolla lämmittelevä joukkue voi käyttää koko pelialuetta.
+Toinen joukkue voi silloin käyttää vapaa-aluetta oman
+kenttäpuolensa takana, kunhan ei häiritse verkolla olevaa
+joukkuetta.
+(Sääntö Guidelines 4.1)
+--- Page 8 ---
+1.11.1 Valmentajat
+Naisten MM-kisoissa havaittiin, että ylimääräinen
+apuvalmentaja/joukkueen toimitsija syötti palloa tietyille
+pelaajille kentällä lämmittelyn aikana. FIVB:n tekninen
+delegaatti pyysi tuomareita lopettamaan tämän toiminnan.
+Oliko se oikein?
+Tulkinta:
+Oikein toimittu.
+Säännöt määräävät, että vain viisi penkillä olevaa
+toimihenkilöä saavat osallistua viralliseen lämmittelyyn.
+Ylimääräisillä henkilöillä, jotka eivät ole O2bis-ryhmässä tai
+muilla joukkueen toimihenkilöillä (esim. joukkueen manageri),
+ei ole oikeutta osallistua niin epäviralliseen kuin
+viralliseenkaan lämmittelyyn verkolla. Vain fysioterapeutti,
+mikäli hän ei ole viiden penkillä olevan toimihenkilön joukossa,
+saa avustaa lämmittelyssä, mutta vain virallisen (verkko-)
+lämmittelyn alkuun asti.
+Tuomareiden tulee saattaa tällainen toiminta FIVB:n TD:n
+tietoon.
+(Sääntö 4.1.1)
+1.11.2 Valmentajat
+Joukkueen lämmitellessä pelialueella (ei verkolla) havaittiin,
+että ylimääräisiä valmentajia oli sijoittuneena mainospaneelien
+ulkopuolelle ja he aktiivisesti lämmittelivät kentällä olevien
+pelaajien kanssa (eivät esim. vain palauttaneet palloja). Onko
+tämä sallittua?
+Tulkinta:
+Tämä ei ole sallittua. Ainoastaan pöytäkirjaan merkityt henkilöt
+saavat astua pelikenttäalueelle (Field of Play). Ja ainoastaan
+nuo valmentajat saavat osallistua lämmittelyyn. Tässä
+tapauksessa ylimääräiset valmentajat selvästikin osallistuivat
+aktiivisesti joukkueen valmistautumiseen. Tuomareiden tulisi
+informoida asiasta FIVB:n TD:lle ja toiminta pitäisi lopettaa.
+(Sääntö 4.2.2)
+1.11.3 Valmentajat
+Valmentajien nähtiin syöttävän tai lyövän palloja vastustajan
+kenttäpuolella oman joukkueensa pelaajia kohti. Onko tämä
+sallittua?
+Tulkinta:
+Ei, tämä ei ole sallittua.
+Pöytäkirjaan merkityt joukkueen toimihenkilöt saavat kuitenkin
+olla verkkopylväiden lähellä estämässä verkosta putoavaa
+palloa aiheuttamasta vaaratilannetta pelaajille. Vastustajan
+kenttäpuolella oleminen ja aktiivinen osallistuminen
+lämmittelyyn on kielletty.
+1.12 Peliasu
+Miesten World Cupissa joukkueessa oli kaksi pelaajaa, joiden
+paidoissa oli numerot 21 ja 22. Onko tämä sallittua?
+Tulkinta:
+Tavallisissa otteluissa säännöt sallivat numerot 1-20.
+Kuitenkin FIVB:n virallisissa ja aikuisten maailmatason
+kilpailuissa on sallittua käyttää numeroita, jotka ovat
+suurempia kuin 20. Kilpailusäännöissä säädetään pelaajien
+numeroiden yläraja.
+(Sääntö 4.3.3)
+1.13 Peliasu
+Joukkueella oli kaksi liberoa. Molemmilla oli erilaiset peliasut,
+jotka olivat myös erilaiset kuin muulla joukkueella. Onko tämä
+sallittua?
+Tulkinta:
+Kyllä. Liberoiden peliasujen ei tarvitse olla keskenään
+samanlaiset. Itse asiassa tämä saattaa jopa edesauttaa
+katsojia ja TV kommentaattoreita ymmärtämään kunkin
+pelaajan rooli.
+(Sääntö 19.2)
+--- Page 9 ---
+1.14 Peliasu
+Usealla joukkueen pelaajalla oli kompressiovarusteita. Jotkut
+näistä olivat valkoisia, toiset mustia.
+Onko sallittua käyttää eri värisiä kompressiovarusteita?
+Tulkinta:
+FIVB:n virallisissa kilpailuissa näiden varusteiden täytyy olla
+saman värisiä kuin vastaava peliasun osa, mutta musta,
+valkoinen ja neutraali väri ovat hyväksyttäviä. Mikäli joukkueet
+käyttävät kompressiovarusteita, niiden täytyy olla väriltään ja
+muotoilultaan samanlaisia kaikilla pelaajilla.
+FIVB:n virallisissa kilpailuissa tuomareiden täytyy valvoa tätä
+ja ilmoittaa kaikista rikkeistä FIVB:n tekniselle delegaatille,
+jolla on oikeus tehdä lopullinen päätös tässä asiassa.
+Muissa kuin FIVB:n virallisissa kilpailuissa säännöt eivät sano
+mitään eri pelaajien kompressiovarusteiden värin
+yhdenmukaisuudesta.
+(Sääntö 4.5.3)
+1.15 Peliasu
+Useilla joukkueen jäsenillä oli lämmittelyssä yllään muita
+vaatteita peliasunsa päällä tai sen sijaan. Koska pelinumerot
+eivät olleet näkyvillä, niin se esti tarkastamasta, oliko kentällä
+samat pelaajat kuin annetuissa ID-korteissa. Pitäisikö tämän
+olla sallittua?
+Tulkinta:
+Periaate on, että kaikkien pelaajien pitäisi olla peliasussaan
+siitä hetkestä alkaen, kun he astuvat kentälle lämmittelemään.
+Joissain huipputapahtumissa joukkueiden esittelyn hoitaa
+erityinen tiimi. Näissä tapauksissa säädökset saattavat olla
+erilaisia. Tuomareiden tulisi olla kunnolla informoituja tästä
+asiasta.
+2 Pelimuoto
+2.1 Sijoittumis- ja järjestysvirheet
+Joukkueen passari pelipaikalla 1 seisoi selvästi pelipaikan 2
+pelaajan etupuolella, mutta hyppäsi ilmaan juuri ennen
+syöttöhetkeä. Oliko joukkue sijoittunut oikein?
+Tulkinta:
+Virhe. Kun pelaaja hyppää ilmaan, hän säilyttää sen paikan,
+jossa hän viimeksi kosketti kenttää. Vaikka takapelaaja siis oli
+syöttöhetkellä ilmassa, paikka, jossa hän viimeksi kosketti
+kenttää, on merkitsevä.
+(Sääntö 7.4, 7.4.2, 7.4.3, 7.5)
+2.2 Sijoittumis- ja järjestysvirheet
+Onko virhe, jos syöttöhetkellä pelaajan jalkaterä koskettaa
+vastapuolen kenttää?
+Tulkinta:
+Ei.
+Tähän tilanteeseen tulisi suhtautua samoin kuin pelaajaan,
+joka koskettaa pallorallin aikana vastapuolen kenttää.
+(Sääntö 1.3.3, 7.4)
+2.3 Sijoittumis- ja järjestysvirheet
+Joukkueelle annettiin väärää tietoa syöttövuorossa olevasta
+pelaajasta. Peli jatkui. Tämä väärä tieto havaittiin myöhemmin
+erässä.
+Mitä tapahtuu seuraavaksi?
+Tulkinta:
+Joukkueet pitää palauttaa mahdollisimman lähelle
+alkuperäistä järjestystä.
+Pistetilanne palautetaan siihen tilanteeseen, jossa väärä tieto
+annettiin. Oikean syöttäjän annetaan syöttää. Annetut
+varoitukset ja sanktiot pytyvät kuitenkin voimassa.
+Nämä tapahtumat merkitään pöytäkirjaan.
+--- Page 10 ---
+2.4 Sijoittumis- ja järjestysvirheet
+Joukkueet eivät olleet valmiina pelaamaan, koska viisi tai
+seitsemän pelaajaa oli kentällä, kun päätuomari oli valmis
+viheltämään syöttöluvan merkiksi.
+Mitä olisi pitänyt tapahtua?
+Tulkinta:
+Päätuomarin pitäisi viheltää syöttöluvan merkiksi, kun hän on
+varma että joukkueet ovat valmiita pelaamaan ja syöttäjällä on
+pallo hallussaan. Joukkueella on aina oltava kuusi pelaajaa
+pelaamassa.
+Koska päätuomari huomasi virheen ennen
+syöttölupavihellystä, hänen täytyy antaa viivytyssanktio
+virheen tehneelle joukkueelle. Seuraavaksi syöttävä joukkue
+riippuu viivytyssanktion laadusta.
+Jos päätuomari kuitenkin viheltää syöttöluvan merkiksi kun
+joukkueella on viisi tai seitsemän pelaajaa kentällä, hänen
+täytyy pysäyttää palloralli välittömästi ja tuomita uusi pallo
+ilman mitään seuraamuksia.
+Jos tilanne huomataan pallorallin jälkeen, pallo perutaan ja
+pelataan uudestaan ilman seuraamuksia.
+Jos tilannetta ei huomata tai se huomataan vasta seuraavan
+pallorallin alettua, ei viidellä tai seitsemällä pelaajalla pelattua
+pallorallia voida enää pelata uudestaan.
+(Sääntö 7.3.1, 7.5, 12.3)
+2.5 Sijoittumis- ja järjestysvirheet
+Väärän pelaajan suorittaman aloitussyötön jälkeen pallo meni
+ulos. Kun palloralli oli loppunut, kirjuri painoi summeria väärän
+syöttäjän merkiksi. Kuinka monta pistettä vastaanottava
+joukkue saa?
+Tulkinta:
+Vain yksi piste kuuluu antaa, väärän syöttäjän vuoksi,
+riippumatta siitä, kumpi joukkue 'voitti' pallorallin.
+(Sääntö 7.7.1.1)
+2.6 Sijoittumis- ja järjestysvirheet
+Onko virhe, jos kentällä olevan pelaajan jalkaterä koskettaa
+syöttöhetkellä vapaa-aluetta?
+Tulkinta:
+Kyllä, tämä on virhe, koska syöttöhetkellä pelaajien syöttäjää
+lukuun ottamatta on oltava omalla kentällään. Niin muodoin on
+virhe, jos kentällä oleva pelaaja koskettaa vapaa-aluetta
+syöttöhetkellä.
+(Sääntö 7.4)
+2.7 Sijoittumis- ja järjestysvirheet
+Syöttöhetkellä vastaanottavan joukkueen I-paikan pelaajan
+takimmaisen jalan kantapää oli samalla tasalla (keskirajaan
+nähden) kuin II-paikan pelaajan etummaisen jalan varpaiden
+kärki. Miten verkkotuomarin tulisi menetellä?
+Tulkinta:
+Verkkotuomarin ei pitäisi tehdä mitään. Tämä on sallittu
+sijoittuminen 2025-28-sääntöjen mukaisesti. Vastaanottava
+joukkue tekee sijoittumisvirheen, jos pelaajat eivät ole oikeilla
+paikoillaan aloitussyöttöhetkellä.
+Tuomareiden kuuluu viheltää ainoastaan silloin, kun takarivin
+pelaaja on täysin vastaavan eturivin pelaajan etupuolella
+syöttöhetkellä. Lattiaa koskettavat jalkaterät määrittävät
+pelaajien sijainnin.
+(Sääntö 1.3.3, 7.4.3.1)
+2.8 Sijoittumis- ja järjestysvirheet
+Kahdessa eri tilanteessa päätuomari tuomitsi kahdesti
+sijoittumisvirheen syöttävälle joukkueelle pelipaikkojen V ja VI
+välillä. Miten päätuomarin tulisi soveltaa nykyisiä sääntöjä
+tässä tilanteessa?
+Tulkinta:
+Päätuomarin tulee antaa pelin jatkua.
+Tämä on syöttävälle joukkueelle Sääntöjen 2025-28 mukainen
+sijoittuminen.
+Huom: FIVB:n kongressin 2024 hyväksymä sääntömuutos ei
+koske syöttävää joukkuetta.
+(Sääntö 1.3.3, 7.4, 7.4.3.2)
+3 Pelitapahtumat
+--- Page 11 ---
+3.1 Pallon pelaaminen
+Ensimmäisen kosketuksen jälkeen pallo meni antennin
+ulkopuolelta verkon toiselle puolelle. Passari juoksi pallon
+perään vastapuolen vapaa-alueelle ja yritti palauttaa pallon -
+mutta se meni vastapuolen kenttää ja verkkoa kohti
+vastustajan puolella.
+Päätuomari vihelsi ja näytti 'pallo ulkona'.
+Millä hetkellä pallo on 'ulkona'?
+Tulkinta:
+Tämä pallo meni 'ulos', kun se kokonaisuudessaan oli vapaa-
+alueen ulkopuolella vastapuolen kenttäpuolella (eli
+vastapuolen kentän yllä).
+(Sääntö 10.1.2, 10.1.2.2)
+3.2 Pallon pelaaminen
+Voiko pelaaja laillisesti lyödä palloa alakautta kämmen
+ylöspäin käännettynä?
+Tulkinta:
+Kyllä voi.
+Kosketus on tuomittava pallokontaktin laadun perusteella, eli
+onko se pehmeä tai kova kimmoke tai onko pallo kopattu ja/tai
+heitetty. Päätuomarin ei pitäisi tällaisessa tapauksessa
+viheltää liian hätäisesti, ellei hän varmasti näe palloa
+kopattavan ja/tai heitettävän.
+(Sääntö 9.2.1, 9.2.2, 9.3.3, 9.3.4)
+3.3 Pallon pelaaminen
+Ensimmäisellä kosketuksella pallo pomppasi pelaajan
+käsivarresta toiseen ja siitä edelleen hänen rintakehäänsä,
+ilman että hän ehti reagoida tapahtumaan, eikä palloa kopattu
+eikä heitetty. Päätuomari antoi pallon jatkua. Toimiko hän
+oikein?
+Tulkinta:
+Tuomari oli oikeassa. 'Ensimmäisen kosketuksen' tilanteita,
+joissa peräkkäiset kosketukset ovat sallittuja, ovat:
+1. Syötön vastaanotto
+2. Hyökkäyksen puolustus (hyökkäys voi olla joko kova tai
+juju)
+3. Oman torjujan jälkeinen kosketus
+4. Vastapuolen torjunnasta kimmonneen pallon pelaaminen.
+Pelaajalla on oikeus peräkkäisiin pallokontakteihin
+ensimmäisellä kosketuksella, kunhan hän tekee ainoastaan
+yhden suorituksen pelatakseen palloa. On kuitenkin
+mahdollista tuomita 'koppi' tai 'heitto' ensimmäisellä
+kosketuksella mikäli kaksi erillistä vaihetta (ensin pallon kiinni
+ottaminen ja sitten heitto) on erotettavissa.
+(Sääntö 9.2.3.2, 14.2, Guidelines)
+3.4 Pallon pelaaminen
+Torjuja 'ohjasi' pallon vastapuolen kenttään. Oliko toiminta
+oikein?
+Tulkinta:
+Tämä riippuu siitä, lyötiinkö palloa oikein vai oliko kyseessä
+koppi tai heitto. On sallittua torjua pallo ja suunnata se
+takaisin vastustajan kenttään. Koppi tai heitto on mahdollinen
+vaikka kyseessä olisikin torjuntasuoritus.
+(Sääntö 9.2.2)
+3.5 Pallon pelaaminen
+Hyökkääjä pelasi palloa kahden käden heiton kaltaisella
+liikkeellä.
+Miten päätuomarin tulisi arvioida tällaista suoritusta?
+Tulkinta:
+Mikään ei estä pelaajaa tekemästä hyökkäystä kahdella
+kädellä. Palloa ei kuitenkaan saa ottaa kiinni ja heittää. Videon
+tapauksessa pallo koskettaa pelaajaan ensimmäisen kerran
+hänen päänsä takana ja irtoaa käsistä yli 50 cm myöhemmin.
+Tämä on KOPPI.
+(Sääntö 9.2.2)
+--- Page 12 ---
+3.6 Pallon pelaaminen
+Pelaaja hyppäsi ilmaan mainospaneelien yli yrittäessään
+pelastaa palloa lähellä katsomoa omalla puolellaan verkkoa.
+Kosketuksen jälkeen hän laskeutui katsomoon. Oliko tämä
+oikein?
+Tulkinta:
+Sallittu pelaaminen. Omalla kenttäpuolellaan vapaa-alueen
+(ja pelialueen) ulkopuolella pelaaja saa pelata palloa ja jopa
+ottaa tukea kanssapelaajasta tai mistä tahansa rakennelmasta
+ylettyäkseen palloon. Tähän sisältyy myös hänen oman
+puolensa vaihtopenkki, koska se on vapaa-alueen
+ulkopuolella. Vastaava toiminta toisella puolella verkkoa on
+kielletty.
+(Sääntö 9, 9.1.3, 10.1.2)
+3.7 Pallon pelaaminen
+Pallorallin aikana pelaaja haki palloa katsomosta. Juuri kun
+pelaaja oli lyömässä palloa, katsoja otti pallon kiinni.
+Valmentaja vaati pallon uusimista, koska katsoja esti peliä.
+Päätuomari kieltäytyi. Toimiko päätuomari oikein?
+Tulkinta:
+Kyllä. Pelaajalla on oikeus omalla puolellaan verkkoa yrittää
+tavoitella palloa katsomosta tai mistä tahansa pelialueen
+ulkopuolelta, mukaan lukien joukkueen penkki, katsomo jne.
+Toisaalta, vaikka pelaajalla on etuoikeus palloon pelialueella,
+pelialueen ulkopuolella tällaista oikeutta ei ole.
+(Sääntö 9, 9.1.3)
+3.8 Pallon pelaaminen
+Täytyykö päätuomarin viheltää käsittelyvirhe, jos pelaaja tekee
+näyttävän pelastuksen?
+Tulkinta:
+Tuomarin tulisi ottaa huomioon sääntöjen periaate 'Pidetään
+pallo ilmassa!'. Se tarkoittaa, että mikäli pelaaja liikkuu
+nopeasti ja näkee paljon vaivaa pelastaakseen pallon ja
+lyödessään palloa tekee lievän kaksoiskosketuksen, on
+tuomarin oltava vähemmän ankara kuin tavallisessa
+tilanteessa.
+(Sääntö 9.7, Guidelines)
+3.9 Pallon pelaaminen
+Pallo kimposi 'A'-joukkueen torjujan päästä antennin yli
+joukkueen 'B' vapaa-alueelle. 'A':n pelaaja ryntäsi pallon
+perään pelatakseen sen takaisin omalle puolelleen. Voidaanko
+pallo palauttaa tällä tavalla?
+Tulkinta:
+Kyllä. Pallo meni antennin yli vastustajan vapaa-alueelle
+osittain ylityskaistan ulkopuolelta. Sen vuoksi 'A':lla oli oikeus
+palauttaa pallo omalle kenttäpuolelleen samalta puolelta
+kenttää ylityskaistan ulkopuolelta. Rajatuomareiden ei tule
+liputtaa tällaisia palloja ennen kuin niitä ei voida enää pelata
+sääntöjenmukaisesti.
+(Sääntö 10.1.2)
+3.10 Pallon pelaaminen
+Pelaaja tavoitteli palloa kentän ulkopuolella ja otti tukea kirjurin
+pöydästä palauttaakseen pallon joukkueelleen. Pallokontakti
+tapahtui kirjurin pöydän yläpuolella, pöydän siinä päässä, joka
+oli vastustajan kenttäpuolella. Päätuomari ei reagoinut
+tilanteeseen ja antoi pelin jatkua. Oliko pelaajalla oikeus
+pelata tuossa paikassa olevaa palloa?
+Tulkinta:
+Kyllä. Kyse oli varsin näyttävästä suorituksesta. Sääntötekstin
+mukaan pallo voidaan palauttaa kirjurin pöydän päältä koko
+sen laajuudessaan, myös vastustajan kenttäpuolella olevalta
+osalta. Sen vuoksi pallon pelaaminen oli sallittua ja
+päätuomari oli oikeassa salliessaan pallorallin jatkuvan.
+(Sääntö 9)
+3.11 Pallon pelaaminen
+Pitäisikö rajatuomarin liputtaa kun pallo joukkueen toisen tai
+kolmannen kosketuksen jälkeen ohittaa verkkotason
+ylityskaistan ulkopuolelta vastustajan vapaa-alueelle?
+Tulkinta:
+Kyllä. Tällaisen pallon tuomitseminen kuuluu rajatuomareiden
+vastuualueeseen.
+(Sääntö 8.4.1, 8.4.2, 9.1, 10.1.2, 10.1.2.1, 10.1.2.2, 29.2.1.3)
+--- Page 13 ---
+3.12 Pallon pelaaminen
+Joukkueen 'A' passari kosketti palloon verkon yläpuolella
+siten, että kosketushetkellä hänen sormensa olivat
+vastapuolen ilmatilassa. Passin jälkeen pallo lensi verkon
+suuntaisesti hyökkääjälle.
+Joukkueen 'B' torjuja kosketti palloon joukkueen 'A' puolella
+siten, ettei joukkueen 'A' pelaaja voinut suorittaa
+hyökkäyslyöntiä.
+Miten päätuomarin tulisi toimia?
+Tulkinta:
+Joukkueiden tulee pelata palloa omalla kenttäpuolellaan
+(paitsi säännön 10.1.2 tapauksessa). Verkon yläreunaa
+korkeammalla käden sijainti on huomioitava.
+Sen vuoksi, koska passari kosketti palloon vastustajan
+puolella, teki passari virheen. Myös torjuja teki virheen
+koskettaessaan palloon vastustajan puolella ennen
+hyökkäyslyöntiä, koska verkon päällä käden sijainti on
+huomioitava.
+Kuitenkin vain ensimmäinen virhe otetaan huomioon.
+Palloon koskettaminen verkon alapuolella on eri asia. Silloin
+pallon sijainti ratkaisee, eli pelaaminen on kiellettyä
+ainoastaan jos pallo on kokonaan ohittanut verkkotason.
+(Sääntö 9)
+3.13 Pallon pelaaminen
+Saako valmentaja, joka seisoo omalla paikallaan joukkueensa
+vapaa-alueella, ottaa kiinni antennin yli tulleen pallon, kun
+vastapuolen pelaaja juoksee yrittämään palauttaa sitä?
+Tulkinta:
+Ei.
+Kenelläkään joukkueen jäsenellä, valmentaja mukaanlukien,
+ei ole lupaa estää vastapuolen pelaajaa palauttamasta palloa
+ylityskaistan ulkopuolelta takaisin omalle kenttäpuolelleen.
+Sillä ei ole väliä, onko tällainen kosketus tahallinen vai
+tahaton. Se tarkoittaa, että omalla paikallaan seisovan
+valmentajan on 'annettava tietä' vastapuolen pelaajalle, joka
+yrittää pelata palloa.
+(Sääntö 10.1.2.2)
+3.13.1 Pallon pelaaminen
+Joukkueen 'B' huonon vastaanoton jälkeen pallo lensi
+ylityskaistan ulkopuolelta vastustajan vapaa-alueelle. 'B'-
+joukkueen pelaaja lähti juoksemaan pelatakseen palloa. Hän
+astui verkon ali koskematta verkkoa ja vastapuolen kenttää,
+mutta koska 'A'-joukkueen pelaaja liikkui omalla kentällään
+myöskin kohti palloa, ei 'B'-joukkueen pelaaja kyennyt
+pelastamaan palloa. Estikö 'A'-joukkueen pelaaja 'B'-
+joukkueen pelaajaa pelaamasta palloa?
+Tulkinta:
+Jokaisella pelaajalla on oikeus seistä ja liikkua vapaasti omalla
+kentällään ja sen ilmatilassa. Vapaa-alueella sekä vastapuolen
+kentällä ja sen ilmatilassa pelaamisessa on joitain rajoituksia.
+Tämän johdosta sen päätteleminen, tapahtuiko tilanteessa
+estäminen vai ei, riippuu oleellisesti siitä, oliko joukkueen 'A'
+pelaaja omalla kentällään vaiko vapaa-alueella.
+Jos joukkueen 'A' pelaaja liikkui omalla kentällään, oli hänen
+pelaamisensa laillista. Jos hän sen sijaan oli vapaa-alueella ja
+hänen liikkumistaan voidaan pitää estämisenä, hän syyllistyi
+virheeseen.
+(Sääntö 10.1.2.2)
+--- Page 14 ---
+3.13.2 Pallon pelaaminen
+Pallo kimposi joukkueen 'A' torjujasta, osui verkkoon ja
+antenniin sekä verkkomerkkiin samaan aikaan joukkueen 'B'
+puolella ja putosi kenttään. Päätuomari päätti, että kyse oli
+onnistuneesta torjunnasta ja tuomitsi pallon joukkueelle 'A'.
+Oliko päätös oikea?
+Tulkinta:
+Ei.
+Kuten videolla näkyy, pallo koskettaa verkkomerkkiin ja
+muuttaa muuttaa pallon luonnollista kimpoamista (suuntaa)
+joukkueen 'B' puolella. "tuomarit katkaisevat viheltämällä
+pallorallin, edellyttäen että he ovat varmoja virheen
+tapahtumisesta ja ovat todenneet sen laadun" (Sääntö
+22.2.1.2).
+Heidän tulee välttää päätösten tekemistä ainoastaan
+oletuksiinsa perustuen, kuten videolla nähdään.
+- Jos pallo koskettaa antenniin, pallo on 'ulkona' (Sääntö 8.4.3)
+Tuomareiden tulee viheltää ja näyttää käsimerkki 'ulkona'.
+- Jos pallo koskettaa ainoastaan verkkomerkkiin, tuomarit
+eivät pysäytä peliä, kyseessä ei ole virhe.
+- Kun pallo koskettaa samaan aikaan sekä verkkomerkkiä että
+antennia, yleensä se muuttaa pallon kulkusuuntaa. Koska
+pallon koskettaminen antenniin on virhe, tuomareiden on
+vihellettävä ja näytettävä 'ulkona'-käsimerkki.
+(Sääntö 22.2.1, 8.4.3)
+3.13.3 Pallon pelaaminen
+Pallo osui verkkomerkkiin mutta ei antenniin.
+Pitäisikö verkkomerkistä kimmonnut pallo automaattisesti
+tulkita osuneeksi myös antenniin?
+Tulkinta:
+Ei, tuomareiden täytyy nähdä pallon koskettavan myös
+antennia. Pallon kimmotessa verkosta siihen vaikuttaa monia
+voimia, eikä tuomareiden tule automaattisesti olettaa
+tilanteessa tapahtuneen virhe.
+(Sääntö 22.2.1, 8.4.3)
+3.13.4 Pallon pelaaminen
+Joukkueen huonon ensimmäisen kosketuksen jälkeen passari
+juoksi pallon perään ja pelasi sitä vastapuolen vapaa-alueella.
+Mitä tuomareiden tulisi ottaa huomioon tällaisessa
+tilanteessa?
+Tulkinta:
+Hyvän näkökulman pitäisi auttaa tuomareita havaitsemaan,
+onko pallo kulkenut vastustajan kenttäpuolelle verkon
+ylityskaistan läpi. Mikäli on, tapahtuu virhe sillä hetkellä, kun
+passari koskee palloon ja se on vihellettävä.
+Jos pallo kuitenkin meni ylityskaistan ulkopuolelta, on passarin
+kosketus laillinen ja mikäli pallo palautuu hänen
+kenttäpuolelleen ylityskaistan ulkopuolelta, se voidaan
+hyökätä laillisesti.
+3.14 Tunkeutuminen vastapuolen pelialueelle
+Hyökkääjä laskeutui keskiviivalle sääntöjen mukaiseen
+asemaan, mutta vastapuolen torjuja astui hänen jalkojensa
+päälle, mikä esti häntä liikkumasta.
+Onko tämä estämistä?
+Tulkinta:
+Kyllä. Tämä on estämistä.
+Estäminen tarkoittaa, että pelaaja estää vastapuolen pelaajaa
+liikkumasta, pelaamasta palloa tai häiritsee vastapuolen
+pelaajaa tämän yrittäessä pelata palloa. Vaikka molemmat
+pelaajat olivat sääntöjen mukaisessa asemassa keskirajalla,
+toista heistä häirittiin.
+(Sääntö 11.2.1, 11.2.2.1, 11.2.4)
+3.15 Tunkeutuminen vastapuolen pelialueelle
+Onko fyysinen kontakti aina häiritsemistä?
+Tulkinta:
+Ei, ottelun aikana esiintyy useita kontaktitilanteita, mutta
+tuomarin tulisi viheltää mikäli pelaaja häiritsee tai estää
+vastapuolen pelaajaa pelaamasta.
+(Sääntö 11.2.1)
+--- Page 15 ---
+3.16 Tunkeutuminen vastapuolen pelialueelle
+Näyttävän puolustuksen aikana pelaaja tunkeutui vastustajan
+kenttäpuolelle siten, että hänen kehonsa kosketti lattiaan
+(vastustajan kenttäpuolella), mutta molemmat jalat olivat
+kokonaan ilmassa vastustajan kentän yläpuolella eikä niiden
+mikään osa ollut keskirajan yläpuolella. Vastapuolen pelaajia
+ei häiritty. Oliko kyseessä virhe?
+Tulkinta:
+Ei. Säännön 11.2.2 mukaan on sallittua koskettaa vastapuolen
+kenttää jalkaterällä, jos ylittävän jalkaterän jokin osa joko
+koskettaa keskirajaa tai on sen yläpuolella, tai muulla
+jalkaterän yläpuolisella kehonosalla, jos ei häiritä
+vastapuolen pelaamista.
+Koska jalkaterät eivät koskettaneet vastapuolen kenttää eikä
+vastapuolen peliä häiritty, ei tilannetta voida pitää virheenä.
+(Sääntö 11.2.2)
+3.17 Tunkeutuminen vastapuolen pelialueelle
+Kun katsotaan tarkasti sinisen pelaajan liikkumista, on selvää,
+että hän tekee virheen seistessään vastustajan kentällä ja
+sivurajalla, vaikka onkin alun perin uskonut voivansa pelastaa
+pallon. Vastustaja joutui kiirehtien väistämään
+yhteentörmäystä. Onko tämä estämistä?
+Tulkinta:
+Ensimmäinen virhe tapahtui, kun sinisen pelaajan jalkaterä oli
+vastapuolen kentällä ja sivurajalla.
+Mikäli näin ei olisi tapahtunut, niin estämisen määritelmä on
+estää pelaajaa pelaamasta palloa. Koska sininen pelaaja
+pakotti vastapuolen väistöliikkeeseen, voidaan tätä pitää
+estämisenä.
+(Sääntö 7.5, Guidelines)
+3.18 Tunkeutuminen vastapuolen pelialueelle
+Pelaaja tavoitteli palloa, joka oli mennyt ylityskaistan
+ulkopuolelta vastapuolen vapaa-alueelle. Matkan varrella
+hänen jalkansa kosketti vastapuolen kenttää kokonaan
+vastustajan kenttäpuolella.
+Olisiko päätuomarin pitänyt viheltää tästä virhe?
+Tulkinta:
+Kyllä, tämä on virhe.
+Sivuraja on vastustajan kentän mittojen sisällä. Jos osa
+jalkaterästä olisi koskettanut myös keskirajaa (tai osa
+jalkaterästä olisi ollut keskirajan yläpuolella), ei tilanne olisi
+ollut virhe.
+(Sääntö 11.2.2.1)
+3.19 Pelaaja verkolla
+Verkon yläpuolella tapahtuneen samanaikaisen kosketuksen
+jälkeen pallo putosi joukkueen 'A' puolelle kentän ulkopuolelle.
+Kuka saa seuraavan syötön?
+Tulkinta:
+Jos vastustajat todellakin koskettavat palloon samanaikaisesti
+juuri verkon yläpuolella (tai vaikka kontakti olisi kokonaan
+vastustajan kentän yläpuolella), peli jatkuu tilanteessa, jossa
+molemmilla pelaajilla on oikeus pelata palloa, ja se putoaa
+kentän ulkopuolelle, on virhe vastapuolisen joukkueen.
+Joukkue 'A' saa syötön.
+(Sääntö 9.1.2.2, 9.1.2.3)
+3.20 Pelaaja verkolla
+Hyökkäys työnsi verkkoa siten, että se osui torjujan
+kyynärvarsiin. Onko kyseessä verkkovirhe?
+Tulkinta:
+Ei. Jos verkko koskettaa pelaajaan, ei tapahdu virhettä.
+(Sääntö 11.3.3, 11.4.4)
+3.21 Pelaaja verkolla
+Torjujan laskeuduttua maahan torjuntasuorituksestaan hän
+kääntyi ja kosketti kevyesti olkapäällään verkkoa antennien
+välissä.
+Tulisiko tämä viheltää virheeksi?
+Tulkinta:
+Ei. Koska pelisuoritus, jossa hän pelasi palloa, oli päättynyt
+ennen kääntymistä, ei verkkokosketus ole virhe.
+(Sääntö 11.3.1, 11.4.4)
+--- Page 16 ---
+3.22 Pelaaja verkolla
+Torjuja yritti torjua lähellä olevaa palloa, mutta ei osunut
+siihen, vaan kosketti verkon ylänauhaa.
+Onko kyseessä virhe?
+Tulkinta:
+Kyllä, koska tämä on pallon pelaamista tai yritys pelata palloa,
+vaikka kontaktia siihen ei tapahtunutkaan.
+(Sääntö 11.3.1, 11.4.4)
+3.23 Pelaaja verkolla
+Keskitorjuja kurotti verkon yli ja kosketti sen ylänauhaa
+yrittäessään torjua lähellään tapahtunutta kuviohyökkäystä.
+Oliko kyseessä virhe?
+Tulkinta:
+Kyllä, verkkokosketus oli tässä tilanteessa verkkovirhe: torjuja
+oli lähellä pallon pelipaikkaa, ja verkkokosketus tapahtui
+antennien välissä.
+(Sääntö 11.3.1, 11.4.4)
+3.24 Pelaaja verkolla
+Hyökkääjä laskeutui alas tasapainossa, otti kaksi askelta ja
+kosketti verkkoa antennin ulkopuolella pallon ollessa vielä
+pelissä.
+Onko kyseessä virhe?
+Tulkinta:
+Pelaaja ei tehnyt virhettä, koska
+- kosketus tapahtui antennin ulkopuolella
+- hän ei ottanut verkosta tukea
+(Sääntö 11.3.1, 11.3.2, 11.4.4)
+3.25 Pelaaja verkolla
+Hyökkääjä laskeutui alas epätasapainossa, otti kaksi askelta
+ja työnsi rinnallaan verkkoa antennien välissä pallon ollessa
+vielä pelissä. Jos pelaaja ei olisi osunut verkkoon, hän olisi
+kaatunut vastapuolen kentälle.
+Onko kyseessä virhe?
+Tulkinta:
+Kyllä, jos pelaaja ottaa verkosta tukea, antennien välissä,
+hänen toimintansa katsotaan häiritsevän peliä.
+(Sääntö 11.3.1, 11.4.4)
+3.26 Pelaaja verkolla
+Kun hyökkääjä oli lyönyt palloa, hän myös tönäisi polvellaan
+passaria. Tönäisy aiheutti passarin osumisen kevyesti
+verkkoon.
+Oliko kyseessä virhe?
+Tulkinta:
+Kyllä, koska passari oli pelaamassa palloa.
+(Sääntö 11.3.1, 11.4.4)
+3.27 Pelaaja verkolla
+Pelaajan pelatessa palloa hänen hiuksensa osuivat verkkoon.
+Oliko tämä sallittua?
+Tulkinta:
+Kyllä. Tätä on pidettävä virheenä ainoastaan silloin, jos on
+selvää että verkkokosketus vaikutti vastapuolen
+mahdollisuuksiin pelata palloa tai se keskeytti pallorallin (esim.
+poninhäntä sotkeutuu kiinni verkkoon). Jos verkkokosketus ei
+häirinnyt vastapuolen peliä eikä pallorallia, tuomareden ei
+kuulu keskeyttää peliä.
+(Sääntö 11.3.1, 11.4.4)
+--- Page 17 ---
+3.27.1 Pelaaja verkolla
+Ensimmäisessä tapauksessa, hyökkääjän lyötyä palloa hänen
+kätensä osui torjujan käteen ja sai sen (torjujan käden)
+osumaan verkkoon.
+Toisessa tapauksessa sekä hyökkääjä että torjuja koskettivat
+palloa. Sen jälkeen hyökkääjän käsi osui torjujan käteen ja sai
+sen (torjujan käden) osumaan verkkoon.
+Voidaanko näitä tapauksia pitää verkkovirheinä tai häirintänä?
+Tulkinta:
+Ensimmäisessä tapauksessa torjujan verkkokosketusta ei
+voida pitää virheenä, koska hyökkääjän suoritus muutti hänen
+suoritustaan. Jos päätuomarin mielestä hyökkääjä ohjasi
+vastustajan käden verkkoon tahallisella liikkeellä, teki
+hyökkääjä virheen häiritessään vastapuolen pelaamista, mikä
+on vastoin REILUN PELIN henkeä. Silloin hyökkääjän toiminta
+tulisi rangaista räikeänä käytöksenä asianmukaisin sanktioin.
+Toisessa tapauksessa kyse ei ole häiritsemisestä.
+Häiritseminen tarkoittaa sitä, että vastustajaa estetään
+pelaamasta palloa. Tässä tapauksessa torjuja on jo pelannut
+palloa - joten kyse ei ole häiritsemisestä.
+Vastapuolten välillä syntyy joka tapauksessa monia
+satunnaisia ja tahattomia kontakteja, eivätkä ne ole
+automaattisesti virheitä. Tämä on selvästi yksi niistä
+tapauksista, ja tuomareiden on oltava valmiita arvioimaan tätä
+tilannetta "ei virheenä" kummaltakaan osapuolelta. Pelin
+kuuluu jatkua.
+Tietysti, mikäli hyökkääjä yrittäisi selkeästi tahallaan saada
+vastustajan käden osumaan verkkoon tai harhaanjohtaa
+tuomareita, tulisi tilanteesta antaa käytössanktio.
+(Sääntö Guidelines)
+3.27.2 Pelaaja verkolla
+Torjuntaryhmään osallistunut pelaaja oli lopettanut
+torjuntaliikkeen ja laskeutunut alas. Kuitenkin samaan
+torjuntaryhmään osallistunut toinen pelaaja kaatui
+laskeutuessaan ensin mainitun pelaajan päälle, minkä
+johdosta tämä osui verkkoon antennien välissä. Voidaako tätä
+verkkokosketusta pitää virheenä?
+Tulkinta:
+Kyllä.
+Ryhmätorjuntaan osallistuvia pelaajia on pidettävä yhtenä
+'yksikkönä'. Jos yksi heistä pelaa vielä palloa, se tarkoittaa
+että yksikkö kokonaisuudessaan pelaa vielä palloa. Sen
+vuoksi toisen pelaajan verkkokosketusta on pidettävä
+virheenä.
+(Sääntö 11.3.1)
+3.27.3 Pelaaja verkolla
+Onko pelaajan sallittua tunkeutua vastapuolen ilmatilaan
+verkon ali siten, että vastapuolen pelaaja säikähtää, vaikka
+fyysistä kontaktia ei tapahdukaan?
+Tulkinta:
+Se on sallittua edellyttäen, että vastapuolen pelaajaa ei häiritä
+estäen häntä pelaamasta palloa.
+Häiritseminen voi tapahtua vaikka pelaajien välillä ei olisikaan
+fyysistä kosketusta. Päätuomarilla on oikeus pysäyttää peli
+verkon ali tunkeutuneen pelaajan virheen vuoksi ja
+tarvittaessa antaa hänelle varoitus tai käytössanktio.
+(Sääntö 11.2.1)
+3.27.4 Pelaaja verkolla
+Joukkueen 'B' heikon vastaanoton jälkeen pallo meni verkkoon
+verkkomerkin lähelle. Joukkueen 'A' kakkospaikan pelaaja
+siirtyi selkeästi sivuttain kohti palloa ja koski siihen kohotetuin
+kyynärvarsin verkon läpi. Joukkueen 'B' pelaaja ei kyennyt
+pelaamaan palloa, koska se kimposikin verkosta eri tavalla.
+Päätuomari vihelsi joukkueen 'A' pelaajalle verkkovirheen.
+Oliko päätös oikea?
+Tulkinta:
+Kyllä, päätös oli oikea.
+Ei olisi virhe, jos pallo koskettaa pelaajaa verkon läpi
+tilanteessa, jossa verkon lähellä oleva pelaaja on
+passiivisessa/neutraalissa asennossa ilman minkäänlaista
+liikettä kohti palloa TAI suojaa kasvojaan tai kehoaan kovaa
+lyödyltä pallolta.
+Jos pelaaja liikkuu kohti palloa 'tavoitellen' sitä ja tahallisesti
+koskettaa sitä ja muuttaa verkosta kimpoavan pallon suuntaa
+tai nopeutta, on kyseessä virhe.
+(Sääntö 11.4.4)
+--- Page 18 ---
+3.27.5 Pelaaja verkolla
+Hyökätty pallo kimposi torjujista lyöjän rintaan. Tällä hetkellä
+lyöjän pää oli verkon yläreunan yläpuolella. Sitten pallo meni
+verkkoon, joka ei ollut tarpeeksi kireällä ja liikkui voimakkaasti.
+Haastevideon perusteella todettiin, että yksi torjujista kosketti
+verkkoon, joka liikkui lyöjän pelaaman pallon vuoksi.
+Tilanteessa ei tuomittu verkkovirhettä eikä kahta peräkkäistä
+kosketusta. Oliko tuomareiden päätös oikea?
+Tulkinta:
+Kyllä.
+Oikean päätöksen tekemisessä on otettava huomioon kaksi
+asiaa.
+1. Vaikka lyöjän alkuperäinen toiminta oli hyökkäys, hänestä
+tuli torjuja pallon kimmottua takaisin vastustajan torjunnasta.
+Koska hänen päänsä oli edelleen verkon yläpuolella, vaikka
+osumapiste oli alempana, hän teki toteutuneen torjunnan.
+Sen vuoksi hänen seuraava lyöntinsä oli laillinen, koska se oli
+joukkueen ensimmäisen kosketus.
+2. Vaikka toinen torjujista osui verkkoon, jos pallo lentää
+vastustajalta verkkoon ja aiheuttaa verkon kosketuksen
+pelaajaan, ei pelaaja ole syyllistynyt virheeseen.
+(Sääntö 11.4.4)
+3.27.6 Pelaaja verkolla
+Osa 1: Pelaaja hyppää verkolla tehden valehyökkäyksen. Hän
+ei siis ole pallon välittömässä läheisyydessä. Suorituksensa
+aikana osuu vastustajan käteen ja työntää sen verkkoon.
+Onko tämä virhe?
+Osa 2: Hyökkäyksen valmisteluvaiheessa passari tekee yhden
+käden passin – sitten vastustajan torjuja koskee passarin
+käteen.
+Onko tämä virhe?
+Tulkinta:
+Osa 1:
+Kyseessä oli käytös, joka johti harhaan sekä tuomareita että
+vastustajaa. Tästä syystä torjujan verkkokosketusta ei voida
+pitää virheenä. Toisaalta Sääntökirjan määritelmän ja
+Guidelinesin lähestymistavan mukaisesti keskipelaajan
+toiminta ei ollut estämistä, koska vastustajan torjuja ei ollut
+pelaamassa palloa, joten häntä ei estetty. Koska toiminnassa
+ei ollut virhettä, palloralli tulisi päättää ja sitten rangaista
+keskipelaajaa räikeästä käytöksestä.
+Osa 2:
+Vastustajan koskettaminen ei välttämättä ole virhe, joka
+tulkittaisiin estämiseksi. Pelaajaa on häirittävä tai estettävä
+pelaamasta palloa. Tässä kuvatussa tapauksessa passari oli
+jo pelannut pallon onnistuneesti, joten estämistä ei pitäisi
+tuomita.
+(Sääntö 11.3.1, 11.4.1)
+3.28 Syöttö
+Heti kun syöttö oli lähtenyt, kirjuri ilmoitti 'väärästä syöttäjästä'
+tai virheestä kokoonpanossa verkkotuomarille, joka vihelsi
+pelin poikki. Toimiko kirjuri oikein?
+Tulkinta:
+Kirjuri toimi oikein. Kun väärä syöttäjä valmistautuu
+syöttämään, kirjurin on odotettava, kunnes syöttö on
+tapahtunut ennen kuin huomauttaa asiasta tuomareille.
+(Sääntö 7.7.1, 12.2.1, 12.7.1, 27.2.2.2)
+3.29 Syöttö
+Syöttölupavihellyksen jälkeen syöttävä joukkue huomasi sillä
+olevan väärä pelaaja syöttämässä. Oikea pelaaja meni
+aloitusalueelle valmiina syöttämään. Voiko tämä pelaaja nyt
+syöttää?
+Tulkinta:
+Kyllä - edellyttäen että oikea pelaaja suorittaa syötön
+kahdeksan sekunnin kuluessa syöttöluvasta. Päätuomari ei
+vihellä toista kertaa syöttöluvan merkiksi.
+(Sääntö 12.4.4)
+3.30 Syöttö
+Joukkue 'A' syötti. Pallo osui verkkoon ja putosi kohti lattiaa
+'A':n puolella. 'B':n pelaaja kurotti verkon alta toiselle puolelle
+ja otti pallosta kopin ennen kuin se osui lattiaan.
+Onko tämä sallittua?
+Tulkinta:
+Kyllä - päätuomarin täytyy viheltää heti kun on selvää, ettei
+pallo ei tule ylittämään verkkoa sääntöjen mukaan. Tässä
+tilanteessa pallo ei enää ole pelissä.
+(Sääntö 12.6.2.1)
+--- Page 19 ---
+3.31 Syöttö
+Onko sallittua suorittaa hyppysyöttö lyöden palloa kahdella
+kädellä?
+Tulkinta:
+Ei. Sääntö 12.4.1 määrää, että syöttö, riippumatta tehdäänkö
+se hypystä vai jalat maassa, on suoritettava lyömällä palloa
+yhdellä kädellä tai käsivarren osalla. Sen vuoksi pallon
+lyöminen kahdella kädellä on virhe.
+(Sääntö 12.4.1, 12.6.1.2)
+3.31.1 Syöttö
+Syötetty pallo repii verkon keskiosan ja tunkeutuu sitten reiän
+läpi vastustajan kenttäpuolelle.
+Miten pelin tulisi jatkua?
+Tulkinta:
+Vastaanottavan joukkueen tulisi voittaa pallo.
+Virhe tapahtui, koska syötetty pallo ei kulkenut ylityskaistan
+läpi. Verkon repeäminen tapahtui tämän jälkeen, joten
+tilanteessa ei voida ottaa uutta palloa.
+Huom: Sääntö 10.3.2 verkon vahingoittumisesta viittaa
+joukkueen kolmen lyönnin aikana tapahtuviin toimiin. Verkko,
+jossa on selkeä reikä, tulee vaihtaa ennen pelin jatkumista.
+(Sääntö 8.4.4, 10.1.1, 12.6.2.1)
+3.31.2 Syöttö
+Syöttävän joukkueen kolme etupelaajaa ryhmittyivät verkon
+lähelle. Yksi heistä nosti kätensä ylös. Päätuomari tuomitsi
+peittämisen ja selitti päätöksensä selkeästi pelikapteenille.
+Toimiko tuomari oikein?
+Tulkinta:
+Kyllä. Nykyisen, FIVB-kongressin vuonna 2024 hyväksymän
+peittämissäännön mukaan kenelläkään syöttävän joukkueen
+pelaajalla ei ole oikeutta estää vastustajaa näkemästä
+syöttäjää ja pallon lentorataa nostamalla käsiä pään
+yläpuolelle, ennen kuin pallo on ohittanut verkon. Käden
+nostaneen pelaajan sijainnilla suhteessa pallon lentorataan ei
+ole merkitystä.
+Päätuomari voi, mutta ei ole velvollinen, ilmoittamaan
+asiaankuuluvalle pelaajalle/pelaajille, että heidän tulisi lopettaa
+[peittäminen]. On kuitenkin syytä ensin muistuttaa pelaajia
+siitä, mitä he voivat tehdä syötön aikana, ja jos se ei tehoa,
+tuomita peittämisvirhe.
+(Sääntö 12.5.3, Guidelines 12.5)
+3.32 Hyökkäys
+Takapassari hyppäsi etukentällä ilmaan ja passasi pallon
+hyökkääjää kohti pallon ollessa kokonaisuudessaan
+korkeammalla kuin verkon yläreuna. Ennen kuin hyökkääjä
+ehti koskea palloon, se ohitti verkkotason, missä vastapuolen
+passari torjui sen. Tapahtuiko tässä virhe?
+Tulkinta:
+Kyllä. Passista tuli takapelaajan laiton hyökkäyslyönti sillä
+hetkellä kun hyökkäyslyönti toteutui (tässä tapauksessa pallon
+osuessa vastapuolen torjuntaan). Torjuva joukkue voitti pallon.
+(Sääntö 13.1.3)
+3.33 Hyökkäys
+'A':n toisella kosketuksella pelaaja passasi pallon verkon
+lähellä viistosti kohti vastapuolen kenttäpuoliskoa.
+Päätuomarin mielestä yksikään 'A':n pelaaja ei olisi voinut
+enää tavoittaa palloa. 'B':n torjuja kurottautui verkkotason
+toiselle puolelle ja torjui pallon. Mikä on päätuomarin oikea
+päätös?
+Tulkinta:
+Vaikka kyseessä oli vasta joukkueen toinen kosketus,
+kyseessä on hyökkäyslyönti, koska pallo liikkui vastapuolen
+kenttää kohti. Koska päätuomari päätteli, ettei 'A':lla ollut enää
+mahdollisuutta koskea palloon, 'B':n torjunta oli laillinen.
+(Sääntö 13.1.1, 14.3, Guidelines 14.1)
+--- Page 20 ---
+3.34 Hyökkäys
+Takapelaaja ponnisti etukentältä ilmaan ja teki
+hyökkäyslyönnin joukkueen toisella kosketuksella pallon
+ollessa kokonaan verkon yläreunaa korkeammalla. Pallo osui
+verkkonauhaan ja kimposi takaisin hyökkääjän
+kenttäpuoliskolle eikä ohittanut verkkotasoa. Oliko kyseessä
+virhe?
+Tulkinta:
+Ei. Koska pallo ei ollut ohittanut verkkotasoa eikä koskenut
+torjuntaan, ei hyökkäyslyönti koskaan toteutunut.
+Palloralli jatkuu.
+(Sääntö 9.1, 13.1.3, 13.2.2, 13.3.3)
+3.35 Hyökkäys
+'A':n vastaanottaja hyppäsi ilmaan iskurajan takaa ja kosketti
+syötettyä palloa, joka oli kokonaan verkon yläreunaa
+korkeammalla. Kosketus tapahtui iskurajan takana ja pallo
+palautui syöttävän joukkueen (B) puolelle.
+Pitäisikö pallorallin jatkua?
+Tulkinta:
+Kyllä. Vaikka on kiellettyä torjua syöttöä tai tehdä toteutunut
+hyökkäyslyönti suoraan syötöstä pallon ollessa kokonaan
+verkon yläreunaa korkeammalla etukentän ilmatilassa, niin
+tässä tapauksessa hyökkäys oli sallittu, koska kosketus
+tapahtui kokonaan iskurajan takana.
+(Sääntö 13.3.4, 19.3.1.3)
+3.35.1 Hyökkäys
+Etukentällä ollut Libero pelasi palloa sormilyönnillä, minkä
+jälkeen joukkuetoverinsa suoritti toteutuneen hyökkäyslyönnin
+pallon ollessa verkon yläreunaa korkeammalla.
+Päätuomari tuomitsi hyökkäysvirheen Liberon etukentältä
+suorittaman sormipassin vuoksi.
+Oliko päätös oikea?
+Tulkinta:
+Kyllä, koska kyseessä oli hyökkäysvirhe Liberon etukentällä
+tekemän sormipassin vuoksi.
+Tilannetta, jossa Libero ei ole nopealla liikkeellä suojaamassa
+kasvojaan tai vartaloaan, vaan pelaamassa palloa mukavasti
+sormilyönnillä, on pidettävä normaalina pelitilanteena.
+(Sääntö 13.3.6, 19.3.1.4)
+3.36 Torjunta
+'A':n pelaaja vastaanotti huonosti ja pallo ohitti verkkotason.
+'B':n keskitorjuja löi pallon verkon yli 'A':n takapassarin käteen,
+joka oli edelleen verkon yläpuolella. Pallo pomppasi verkon yli
+'B':n kenttään.
+Kuka teki virheen?
+Tulkinta:
+Passarin 'torjunta' oli laiton, koska hän oli takapelaaja.
+Vastapuolelta tulevan pallon koskettaminen on torjunta, mikäli
+joku kehonosa on verkon yläreunaa korkeammalla.
+(Sääntö 14.1.1, 14.1.3, 14.6.2)
+3.37 Torjunta
+Joukkueen 'A' II-paikan pelaaja hyökkäsi pallon sen ollessa
+kokonaan 'A':n kenttäpuolen ilmatilassa. Samaan aikaan myös
+'B':n torjuja kosketti palloon. Onko kyse torjuntavirheestä?
+Tulkinta:
+Kumpikaan pelaaja ei tee tässä virhettä. Virhe tapahtuisi,
+mikäli torjuja koskettaisi palloon ennen hyökkääjää, mutta
+torjunta samaan aikaa EI ole virhe.
+(Sääntö 14.3)
+3.38 Torjunta
+Onko sallittua kurottautua verkon yli (kokonaan verkkotason
+ohi) torjumaan passia?
+Tulkinta:
+Ei ole sallittua. Passin torjuminen on virhe. Päätuomarin on
+kuitenkin ehdottomasti pohdittava passarin toimintaa. Hänen
+on tiedettävä, tapahtuiko passi
+- verkon suuntaisesti (torjuntavirhe) vai
+- verkkoa kohti, jolloin se olisi hyökkäyslyönti (ei virhettä, jos ei
+passarin puolen pelaajaa ole pallon lähellä yrittämässä pelata
+sitä).
+(Sääntö 14.1.1, 14.3)
+--- Page 21 ---
+3.39 Torjunta
+'A':n pelaaja torjui 'B':n hyökkäyksen. Sen jälkeen 'B':n
+keskitorjuja torjui 'A':n torjunnan.
+Onko sallittua torjua torjunnasta tuleva pallo?
+Tulkinta:
+Kyllä, torjunnassa yritetään pysäyttää vastapuolelta tulevan
+pallo, joten on sallittua torjua torjunta.
+(Sääntö 14.1.1)
+3.40 Torjunta
+'B':n torjuja torjui pallon verkon toisella puolella sääntöjen
+mukaisesti. Pallo lensi muutaman metrin verkon suuntaisesti
+ennen kuin 'B':n toinen pelaaja löi pallon torjuvalla liikkeellä
+kenttään 'A':n puolella. Pallo ei ollut missään vaiheessa tullut
+'B':n ilmatilaan. Kuka syöttää seuraavaksi?
+Tulkinta:
+Joukkue 'A'. Jälkimmäisen pelaajan toimintaa ei voida pitää
+torjuntana, koska pallo tuli hänen oman joukkuetoverinsa
+torjunnasta.
+Kyseessä oli siis hyökkäys vastapuolen ilmatilassa, ja siten
+virhe.
+(Sääntö 11.1.2, 14.1.1, 14.2, 14.3)
+3.41 Torjunta
+Saako hyökkääjä lyödä oman puolensa vastaanotosta tulevaa
+palloa molemmilla käsillään torjunnan tapaan, suunnaten
+pallon verkon toiselle puolelle?
+Tulkinta:
+Se on sallittua, edellyttäen ettei suoritus ole kaksoiskosketus,
+koppi tai heitto.
+Kosketuksen on kuitenkin tapahduttava pelaajan omalla
+puolella verkkoa - ei vastustajan.
+3.42 Torjunta
+Pallo osui monta kertaa usean torjujan päähän ja käsiin.
+Onko tämä sallittua?
+Tulkinta:
+Kunhan kyseessä on torjuntasuoritus eikä erillisiä suorituksia,
+niin tämä lasketaan yhdeksi torjuntakosketukseksi. Torjunnan
+jälkeen joukkueella on vielä kolme kosketusta jäljellä.
+(Sääntö 9.1, 9.2.3.2, 14.2, 14.4.1)
+3.42 Torjunta
+Takapelaajan laiton hyökkäys vastaan laiton torjunta (esim.
+takapelaajan samanaikainen kosketus) hyökkääjän ilmatilassa
+- mikä on virhe?
+Tulkinta:
+Kaksoisvirhe, ja siten uusi pallo.
+Takapelaajan hyökkäys oli laiton. Takapelaajan samanaikainen
+torjunta oli myös laiton.
+(Sääntö 13.3.3, 14.1.1, 14.6.2)
+3.44 Torjunta
+Takapelaaja on erillään pienen välimatkan päässä
+torjuntaryhmästä ja kokonaan verkon yläreunaa alempana,
+mutta pallo osuu häneen. Onko kyseessä virheellinen
+torjunta?
+Tulkinta:
+Ei. Pelaaja ei ollut osa torjuntaryhmää eikä ollut verkon
+yläreunaa korkeammalla pallon osuessa häneen.
+Kyseessä on joukkueen ensimmäinen kosketus.
+(Sääntö 9.3.1, 14.1.1)
+3.45 Torjunta
+Pallo osui torjujaan verkon yläreunaa alempana, vaikka osa
+hänen kädestään oli verkon yläpuolella. Onko kyseessä
+torjunta?
+Tulkinta:
+Kyllä - oleellista on se, onko jokin kehonosa verkon yläreunaa
+korkeammalla; joukkueella olisi siis vielä kolme kosketusta
+jäljellä.
+(Sääntö 9.1, 14.1.1, 14.4.1)
+--- Page 22 ---
+3.46 Torjunta
+Torjuja kosketti palloon tultuaan alas torjuntahypystä, jolloin
+hän oli kokonaan verkon yläreunaa alempana. Hänen
+koskettaessaan palloa uudelleen tuomari vihelsi
+kaksoiskosketuksen merkiksi.
+Oliko tämä oikein?
+Tulkinta:
+Päätös oli oikea. Pallon kosketuksen hetkellä ei mikään osa
+torjujasta ollut verkon yläreunaa ylempänä. Sen vuoksi
+suoritusta ei voida pitää torjuntana, ja toinen kosketus oli
+kaksoiskosketus.
+(Sääntö 9.1, 14.1.1, 14.4.1)
+3.47 Torjunta
+Takapelaajan virheellinen hyökkäys vastaan Liberon
+torjuntayritys - kumpi toteutuu ensin?
+Tulkinta:
+Hyökkäyslyönnistä tulee virheellinen sillä hetkellä jolla pallo
+ohittaa verkkotason kokonaan tai se osuu torjuntaan. Liberon
+torjuntayritys tapahtuu ennen hyökkäyslyönnin toteutumista ja
+on siksi ensimmäinen virhe.
+(Sääntö 19.3.1.3)
+3.48 Torjunta
+Joukkueen 'A' pelaaja hyökkäsi pallon, jonka joukkueen 'B'
+pelaaja torjui. Torjuntakosketuksen jälkeen pallo meni verkon
+alta joukkueen 'B' kenttään. Kumpi joukkue voitti pallon?
+Tulkinta:
+Kyse oli täydellisestä torjunnasta. Joukkue 'B' voitti pallon.
+3.49 Torjunta
+Hyökkääjä löi pallon ULOS, mutta torjujan poninhäntä kosketti
+palloon. Kosketus näkyi haastevideolta. Päätuomari päätti,
+että pallo oli koskettanut torjujaan ja tuomitsi hyökänneelle
+joukkueelle seuraavan syötön. Oliko päätös oikea?
+Tulkinta:
+Ei.
+Jos pelaajan hiukset koskettavat verkkoa, ei kyseessä ole
+virhe ellei tämä kosketus vaikuta peliin. Tämän
+lähestymistavan mukaisesti myöskään pallon koskettamista
+hiuksiin ei pidetä pelikosketuksena. Puolustaneen joukkueen
+olisi pitänyt voittaa pallo.
+3.50 Torjunta
+Pelaajan nähtiin torjuntasuorituksen aikana ottavan pallon
+kiinni ja heittävän sen.Onko se sallittua?
+Tulkinta:
+Lentopallo on laji, johon kuuluu pallon ponnahtaminen ja
+kimpoaminen osumakohdasta. Kaikenlaiset kopit ja heitot ovat
+virheitä. Pallon saa ainoastaan suunnata lattiaa kohti.
+Päätuomarin kuuluisi tuomita virhe videolla näkyvästä
+suorituksesta.
+3.51 Torjunta
+Joukkue 'A' hyökkäsi ja pallo kimposi korkealle joukkueen 'B'
+torjunnasta palaten sitten 'A' puolelle. Verkon tuntumassa ollut
+joukkueen 'A' pelaaja kurottautui verkon yläreunaa
+korkeammalle, löi palloa (torjunnan kaltaisella liikkeellä), joka
+kimposi verkon ylänauhasta ja sama pelaaja löi palloa
+uudestaan. Onko tämä sallittua?
+Tulkinta:
+Kyllä, päätuomari teki hyvän päätöksen antaessaan pallorallin
+jatkua.
+Jos pelaaja on verkon tuntumassa ja kurottautuneena verkon
+yläreunaa korkeammalle ja lyö vastapuolelta tullutta palloa,
+niin kyseessä on joko torjunta tai hyökkäyslyönti. Tilannetta
+tuomitessa pelaajan käden/käsien tai muiden ruumiinosien
+sijainti on merkittävä, mutta pallon korkeudella ei ole väliä.
+Pelaajan kosketusta pidetään "torjuntana", jos pelaaja
+kurottautuu verkon yläreunaa korkeammalle pysäyttääkseen
+pallon yhdellä tai kahdella kädellä ilman tyypillistä
+iskulyöntiliikettä, johon liittyy käden taaksevienti. Ks. case
+3.54.
+Yllä olevan tulkinnan mukaisesti videolla näkyvää tilannetta on
+pidettävä laillisena torjuntana.
+--- Page 23 ---
+3.52 Torjunta
+Joukkueen 'A' torjuja torjui pallon suoraan alaspäin. Ennen
+kuin pallo osui joukkueen 'B' kenttään, se kosketti 'A':n torjujan
+jalkaan, joka oli jo lattiassa eikä pelaajalla ollut tarkoitusta
+potkaista palloa. Ilman jalkaosumaa pallo olisi selkeästi
+päätynyt joukkueen 'B' kenttään.
+Voidaanko torjujan jalkaosumaa pitää vastapuolen pelin
+häiritsemisenä?
+Tulkinta:
+Ei.
+Koska torjujan jalkaosuma oli tahaton ja hän seisoi jo lattialla,
+hän ei tehnyt virhettä.
+Jos kosketus olisi tapahtunut reilusti lattian yläpuolella ja
+vastapuoli olisi voinut pelata palloa, niin kyse olisi
+häiritsemisestä.
+3.53 Torjunta
+Takapassari oli selin verkkoon ja hyppäsi verkon lähellä
+ilmaan, kun vastapuolen hyökkäämä pallo osui häntä päähän.
+Voidaanko tätä pitää laittomana torjuntana?
+Tulkinta:
+Kyllä, kyse on laittomasta torjunnasta, koska sen toteutti
+takapelaaja.
+Ollakseen torjunta suorituksen on täytettävä kolme vaatimusta
+samaan aikaan:
+1. Pelaaja on verkon tuntumassa
+2. Pallo tulee vastapuolelta
+3. Pelaajan jokin ruumiinosa on verkon yläreunaa
+korkeammalla
+Sillä ei ole väliä, mihin suuntaan pelaajan kasvot osoittavat.
+Jos tuomarin mielestä em. kolme vaatimusta täyttyvät, niin
+kyse on torjunnasta.
+3.54 Torjunta
+Joukkueen 'B' pelaaja hyökkäsi pallon "jujuttamalla"
+vastapuolelle. Joukkueen 'A' pelaaja oli verkon tuntumassa,
+kurottautui verkon yläreunaa korkeammalle ja löi palloa
+(iskulyönnin kaltaisella liikkeellä), joka kimposi verkon
+ylänauhasta ja sama pelaaja löi palloa uudestaan. Tekikö
+päätuomari hyvän päätöksen salliessaan pallorallin jatkuvan?
+Tulkinta:
+Ei.
+Tilanne on samankaltainen, mutta silti erilainen kuin casessa
+3.51.
+Jos pelaaja on verkon tuntumassa ja kurottautuneena verkon
+yläreunaa korkeammalle ja lyö vastapuolelta tullutta palloa,
+niin kyseessä on joko torjunta tai hyökkäyslyönti. Tilannetta
+tuomitessa pelaajan käden/käsien tai muiden ruumiinosien
+sijainti on merkittävä, mutta pallon korkeudella ei ole väliä.
+Lyönti on hyökkäys, eli joukkueen ensimmäinen kosketus, jos
+pelaaja tekee tyypillisen iskulyöntiliikkeen siihen liittyvine
+käden taaksevienteineen ja lyö palloa suunnaten sen
+vastapuolelle (kuten videolla).
+Sen vuoksi, jos pelaaja tekee ensin hyökkäävän "iskulyönnin"
+ja sitten koskettaa verkosta kimpoavaa palloa, hän tekee kaksi
+peräkkäistä kosketusta.
+Yllä olevan tulkinnan mukaisesti videolla näkyvää suoritusta
+on pidettävä kaksoiskosketuksena, eli virheenä. Pallo olisi
+pitänyt keskeyttää ja tuomita B:n voitoksi.
+4 Pelikatkot ja viivytykset
+4.1 Vaihdot
+Kaksi vaihtopelaajaa astui vaihtoalueelle. Kun kirjuri oli
+havainnut ja hyväksynyt pyynnön, valmentaja päättikin tehdä
+vain yhden vaihdon.
+Kuinka verkkotuomarin tulee menetellä?
+Tulkinta:
+Toiminta on oikein, ellei se viivytä peliä. Verkkotuomari
+yksinkertaisesti hoitaa tilanteessa vain yhden vaihdon.
+Kirjurilla on velvollisuus merkitä pöytäkirjaan ainoastaan
+vaihdot, jotka todella tapahtuvat. Tällaisessa tilanteessa
+verkkotuomarin on huolella tarkistettava, kuinka monta vaihtoa
+pöytäkirjaan merkittiin riippumatta siitä, onko käytössä
+paperinen vai sähköinen versio.
+(Sääntö 15.10.2, 15.10.3.1, 15.10.4, 16.1)
+--- Page 24 ---
+4.2 Vaihdot
+Yksi vaihtopelaaja astui vaihtoalueelle (kirjuri painoi
+summeria) ja toinen oli juuri lähdössä lämmittelyalueelta
+pyrkien vaihtoalueelle.
+Montako vaihtoa tulisi sallia?
+Tulkinta:
+Vaihtopyynnön hetki on pelaajan / pelaajien astuminen
+vaihtoalueelle. Tällaisessa tapauksessa verkkotuomarin tulee
+myöntää vaihto vain ensimmäiselle pelaajalle, joka
+vaihtoalueelle astui. Toinen pyyntö evätään erillisenä,
+ensimmäiseen pyyntöön kuulumattomana. Verkkotuomarilla
+on kuitenkin tällaisessa tilanteessa oikeus evätä pelaajan
+pääsy vaihtoalueelle ja siten estää virheellisen katkopyynnön
+tapahtuminen. Näin toimiessaan verkkotuomari osoittaa
+hallitsevansa hyvin 'tuomaroinnin taiteen'.
+(Sääntö 15.10.3.1, 15.10.3.2, 15.11.1.3)
+4.3 Vaihdot
+Palloralli täytyi keskeyttää joukkueen 'A' pelaajan
+loukkaantumisen vuoksi. Lyhyen kentällä saadun hoidon
+jälkeen pelaaja oli valmis jatkamaan pelaamista. Joukkue 'A'
+pyysi pelaajavaihtoa ennen vihellystä syöttöluvan merkiksi.
+Onko se sallittua?
+Tulkinta:
+Ei, se ei ole sallittua.
+Jos palloralli on keskeytetty loukkaantumisen, ulkopuolisten
+häiriöiden, esim. kentälle vierineen pallon, rikkoutuneen
+verkon, sähkökatkon tms. vuoksi, niin kaikkien
+sääntömääräisten pelikatkojen pyynnöt ovat virheellisiä
+katkopyyntöjä, loukkaantuneen tai rangaistun pelaajan
+pakollista vaihtoa lukuun ottamatta, mukaanlukien näistä
+syistä johtuva poikkeuksellinen vaihto.
+(Sääntö Guidelines 6, Guidelines 15.7)
+4.4 Vaihdot
+Joukkue 'A' yritti tehdä pelaajavaihdon, mutta se evättiin,
+koska vaihtopelaaja ei ollut valmiina pelaamaan. Sen
+seurauksena joukkueelle annettiin viivytysvaroitus. Seuraava
+palloralli alkoi, mutta keskeytettiin, koska ylimääräinen pallo
+tuli kentälle. Joukkue 'A' yritti tehdä välittömästi saman
+pelaajavaihdon uudestaan, ennen uuden pallorallin alkua.
+Tuomarit kieltäytyivät hyväksymästä vaihtopyyntöä. Olivatko
+tuomarit oikeassa?
+Tulkinta:
+Kyllä, tuomarit olivat oikeassa. Joukkue ei saa pyytää uutta
+sääntömääräistä pelikatkoa (pelaajavaihtoa tai aikalisää)
+ennen kuin keskeytynyt palloralli on päättynyt - eli jompikumpi
+joukkue on saanut pisteen.
+(Sääntö 15.2)
+4.5 Vaihdot
+Pelaaja astui vaihtoalueelle, mutta hänellä oli kädessään
+väärä numerokilpi (esim. oma numeronsa). Vaihtopelaaja
+vaihtoi sen nopeasti oikeaan. Päätuomari tuomitsi
+viivytysvaroituksen mutta salli vaihdon.
+Toimiko päätuomari oikein?
+Tulkinta:
+Väärin meni. Kilpailuissa, joissa numerokilpiä käytetään,
+pelaajan tulee astua vaihtoalueelle oikean numerokilven
+kanssa. Toisin toimiminen aiheuttaa hämmennennystä
+kirjurille, joukkueelle ja yleisölle - ja johtaa todennäköisesti
+viivytykseen. Siksi vaihtopyyntö tulee evätä ja joukkueelle
+antaa viivytyssanktio.
+(Sääntö 15.10.3.1, 16.1.1, 16.2)
+4.6 Vaihdot
+Jos pelaaja astuu vaihtoalueelle samaan aikaan kun
+päätuomari viheltää syöttöluvan merkiksi, niin pitäisikö
+verkkotuomarin sallia vaihto?
+Tulkinta:
+Ei, vaihtoa ei pitäisi sallia. Yleisesti ottaen tämä tilanne on
+tyypillinen virheellinen katkopyyntö: hylätään ja annetaan pelin
+jatkua, mikäli peliä ei pysäytetä ja kyseessä on joukkueen
+ensimmäinen virheellinen katkopyyntö.
+Jos peli kuitenkin pysähtyy tämän pyynnön vuoksi, niin sitä on
+pidettävä viivytyksenä ja annettava viivytyssanktio.
+Samaa menettelyä käytetään, jos kyseessä on saman
+joukkueen tekemä toistettu virheellinen katkopyyntö, jota
+pidetään viivytyksenä.
+(Sääntö 15.10.3.1, 15.11.1.1, 15.11.3, 16.2)
+--- Page 25 ---
+4.7 Vaihdot
+Pelaaja #8 astui vaihtoalueelle numerokilven #10 kanssa.
+Valmentaja vaati kaikesta huolimatta vaihtoa pelaajien #8 ja
+#9 välillä. Lyhyen keskustelun jälkeen vaihto evättiin ja
+joukkueelle annettiin viivytysvaroitus.
+Oliko päätös oikea?
+Tulkinta:
+Päätös oli oikea.
+Vaihto pelaajien #8 ja #10 välillä olisi ollut oikein. Kuitenkin
+kun valmentaja vaati vaihtoa nimenomaan pelaajien #8 ja #9
+välillä. Koska väärä numerokilpi oli näytetty ja se aiheutti
+viivytyksen, teki tuomari oikein antaessaan viivytyssanktion.
+Vaihto tulee evätä.
+(Sääntö 16.1.1, 16.2)
+4.8 Vaihdot
+Kilpailussa, jossa käytettiin täysimittaisesti teknologiaa apuna,
+ei käytetty pelaajavaihdoissa numerokilpia? Onko tämä oikea
+menettelytapa?
+Tulkinta:
+Kyllä. Numerokilvissä on käytössä ainoastaan rajallinen määrä
+numeroita, kun FIVB:n maailmatason aikuisten kilpailuissa ym.
+on käytössä laajempi määrä pelaajanumeroita joukkueen
+rosterissa. Lisäksi joukkueiden penkillä olevat tabletit sallivat
+vaihdettavien pelaajien numeroiden siirtämisen etukäteen.
+Sen vuoksi noissa kilpailuissa numerokilpien käyttämistä ei
+vaadita.
+(Sääntö 15.10.3.1)
+4.9 Vaihdot
+Pelaaja loukkaantui ja hänet oli pakko vaihtaa
+poikkeuksellisella vaihdolla. Saman pelikatkon aikana joukkue
+pyysi myös normaalia pelaajavaihtoa. Verkkotuomari hyväksyi
+vaihtopyynnön.
+Oliko verkkotuomari oikeassa hyväksyessään vaihdon?
+Tulkinta:
+Kyllä, päätös oli oikea.
+Ensimmäinen pelaaja täytyi vaihtaa poikkeuksellisella
+vaihdolla loukkaantumisen vuoksi. Joukkueella oli vielä oikeus
+normaaliin VAIHTOPYYNTööN saman pelikatkon aikana.
+(Sääntö 15.7)
+4.10 Vaihdot
+Joukkueen 'A' pelaaja #6 poistettiin ottelusta ja hänet
+vaihdettiin säännönmukaisella vaihdolla pelaajaan #7. Tämä
+oli joukkueen 'A' ensimmäinen vaihto ko. erässä ja joukkueella
+oli vielä kolme muuta vaihtopelaajaa. Seuraavan pallorallin
+aikana joukkueen 'A' pelaaja #7 loukkaantui eikä pystynyt
+jatkamaan peliä.
+Miten pelin pitäisi jatkua?
+Tulkinta:
+Koska loukkaantunutta pelaajaa #7 ei voida vaihtaa
+säännönmukaisella pelaajavaihdolla, niin hänet on vaihdettava
+poikkeuksellisella vaihdolla.
+(Sääntö 15.7, 15.8)
+4.11 Vaihdot
+Erästä poistettua pelaajaa ei voitu vaihtaa sääntömääräisellä
+pelaajavaihdolla. Mitä vaihtoehtoja valmentajalla on tässä
+tilanteessa käytettävissään?
+Tulkinta:
+Tämä sääntö otettiin käyttöön, jotta ottelu voisi jatkua sen
+sijaan, että se yleisön pettymykseksi päättyisi ennen aikojaan.
+Valmentajalla on kaksi vaihtoehtoa:
+1. Vaihtaa erästä poistettu pelaaja poikkeuksellisella
+pelaajavaihdolla tai
+2. luovuttaa erä joukkueen jäätyä vajaalukuiseksi.
+Jos vaihtoehto 1 valitaan, ei erästä poistettu pelaaja (joka
+normaalisti olisi voinut jatkaa seuraavassa erässä) voi enää
+palata otteluun. Siinä tapauksessa erä kuitenkin jatkuu.
+Jos vaihtoehto 2 valitaan, häviää joukkue sen erän, mutta
+erästä poistettu pelaaja voi palata seuraavaan erään.
+(Sääntö 15.8)
+--- Page 26 ---
+4.12 Vaihdot
+Aloitusjärjestyslipukkeeseen merkitty pelaaja loukkaantui
+ennen ottelun alkua. Voidaanko hänet vaihtaa ennen ottelua?
+Tulkinta:
+Kyllä - mutta sekä valmentajan että verkkotuomarin pitäisi
+näyttää muodollinen käsimerkki (jotta kaikki ymmärtävät
+tilanteen) ja vaihto merkitä pöytäkirjaan normaalina
+pelaajavaihtona.
+Tietyissä huipputason kilpailuissa on mahdollista olla erityisiä
+sääntöjä, jotka mahdollistavat pelaajan vaihtamisen
+kokoonpanoon ilman, että sitä lasketaan normaaleihin
+pelaajavaihtoihin. Siinä tapauksessa tämä sääntö on kirjattu
+ko. kilpailun sääntökirjaan (Specific Competition Regulations
+in the Playbook).
+(Sääntö 7.3.2, 7.3.4)
+4.13 Vaihdot
+Joukkueen 'A' pelaaja #7 oli kentällä, kun hänen piti olla
+vaihdossa. Joukkue 'A' oli käyttänyt kaikki sallitut kuusi
+vaihtoaan. Koska jäljellä ei enää ollut sallittuja vaihtoja, miten
+tilanteessa tuli toimia?
+Tulkinta:
+Koska joukkueella 'A' oli sijoittumisvirhe, sääntöjen kohdassa
+15.9.2 kuvattua menettelytapaa on noudatettava:
+a) Piste ja syöttö joukkueelle 'B'.
+b) Vaihto oikaistaan. #7 penkille ja oikea pelaaja kentälle. Tätä
+vaihtoa ei lasketa mukaan vaihtoihin.
+c) Kaikki pisteet, jotka joukkue 'A' saavutti #7 ollessa kentällä,
+mitätöidään, mutta vastapuolen pisteet säilyvät.
+d) Joukkueelle 'A' ei tule muita rangaistuksia.
+(Sääntö 15.9.2)
+4.14 Vaihdot
+Joukkueen 'B' käytettyä viisi vaihtoa kaksi pelaajaa astuu
+vaihtoalueelle.
+Miten verkkotuomarin tulee toimia?
+Tulkinta:
+Verkkotuomarin täytyy muistuttaa valmentajaa, että vain yksi
+vaihto on mahdollinen ja kysyttävä valmentajalta, kumpi
+suoritetaan.
+Edellyttäen että tapahtuma ei viivytä peliä, toinen vaihto
+evätään virheellisenä katkopyyntönä ja merkitään
+pöytäkirjaan.
+(Sääntö 15.5, 15.6, 15.11, 16.1)
+4.15 Vaihdot
+Joukkue pyysi kahta vaihtoa. Tarkistaessaan vaihtoja kirjuri
+huomasi, että toinen vaihdoista oli laillinen ja toinen laiton.
+Miten verkkotuomarin tulee toimia kyseisessä tilanteessa?
+Tulkinta:
+Verkkotuomari sallii oikean vaihdon suoritettavan.
+Sääntöjenvastainen vaihto tulee evätä riippumatta siitä, missä
+järjestyksessä vaihtopelaajat lähestyvät sivurajaa.
+Virheellisestä vaihtopyynnöstä annetaan viivytyssanktio.
+(Sääntö 15.6, 16.1.3)
+4.16 Vaihdot
+Kirjuri eväsi joukkueelta pelaajavaihdon painamalla summeria
+toistamiseen. Kun verkkotuomari tarkisti asian pöytäkirjasta,
+hän huomasi vaihdon olevankin sallittu, ja 'uudelleenkorjasi'
+tilanteen. Tämä oli melko noloa. Kuinka verkkotuomarin olisi
+pitänyt toimia?
+Tulkinta:
+Verkkotuomari toimi tilanteessa oikein. Jos tuomaristo
+havaitsee yhden jäsenensä tehneen virheen, on virhe
+korjattava ja päätös muutettava, vaikka se loisikin
+epäsuotuisan vaikutelman koko tuomaristoa kohtaan.
+--- Page 27 ---
+4.17 Vaihdot
+Vaihtopelaaja seisoi vaihtoalueella valmiina astumaan
+kentälle. Kentällä oleva pelaaja kieltäytyi kuitenkin aluksi
+tulemasta vaihtoon. Onko tämä viivyttämistä?
+Pitäisikö vaihto evätä?
+Tulkinta:
+Kyllä, se on viivyttämistä.
+TÄSSÄ TAPAUKSESSA vaihto pitäisi kuitenkin hyväksyä,
+koska vaihtopyyntö oli tehty asianmukaisesti ja viivytyksen
+aiheutti kentällä ollut pelaaja eikä vaihtopelaaja.
+(Sääntö 16.1.1, 23.2.3)
+4.18 Vaihdot
+Jos aloitusjärjestyslipuke ei vastaa kentällä olevien pelaajien
+kokoonpanoa, miten verkkotuomarin kuuluu menetellä?
+Tulkinta:
+Verkkotuomarin tulee näyttää aloitusjärjestyslipuketta
+valmentajalle ja kysyä mitä tämä haluaa tehdä. Jos valmentaja
+haluaa säilyttää kentällä olevan kokoonpanon, on hänen
+tehtävä tarvittavat pelaajavaihdot tilanteessa 0-0. Tämä on
+yksi tilanteista, joissa valmentajan on näytettävä
+pelaajavaihdon käsimerkkiä väärinkäsitysten välttämiseksi.
+Myös verkkotuomarin on toimittava tilanteessa muodollisesti,
+jotta yleisö, tilastohenkilöt jne. voisivat ymmärtää tapahtuneen.
+(Sääntö 7.3.5.2, 7.3.5.3)
+4.19 Vaihdot
+Pelaaja #6 astui pelikatkolla vaihtoalueelle valmiina astumaan
+kentälle. Kirjuri painoi summeria vaihtopyynnön merkiksi.
+Samalla hetkellä valmentaja muutti mieltään ja komensi
+pelaajan takaisin lämmittelyalueelle.
+Olisiko vaihto pitänyt suorittaa ja miten tuomareiden olisi
+kuulunut toimia tässä tilanteessa?
+Tulkinta:
+Vaihtopyyntö oli oikea ja kirjuri oli vahvistanut sen painamalla
+summeria. Pyynnön johdosta peli keskeytettiin. Vaihtoa ei ole
+pakko suorittaa, mutta tilanteesta aiheutuneesta viivytyksestä
+tulisi antaa sanktio.
+(Sääntö 15.10.3.1, 15.10.3.3, 16.1.1)
+4.20 Vaihdot
+Pelaaja astui vaihtoalueelle sen jälkeen, kun päätuomari oli
+viheltänyt syöttöluvan merkiksi. Kirjuri ei vaihtopyyntöä
+huomioinut eikä peli pysähtynyt. Pallorallin jälkeen
+verkkotuomari pyysi kirjuria merkitsemään pöytäkirjaan
+virheellisen katkopyynnön. Toimittiinko tilanteessa oikein?
+Tulkinta:
+Verkkotuomari oli oikeassa. Tämä oli tyypillinen esimerkki
+virheellisestä katkopyynnöstä, joka tulee merkitä pöytäkirjaan.
+Verkkotuomarin on kerrottava asiasta valmentajalle. Jos kyse
+on toistetusta virheellisestä katkopyynnöstä, kuuluu siitä antaa
+viivytyssanktio.
+(Sääntö 15.11.1.1, 15.11.2, 16.1.1)
+4.21 Vaihdot
+Jos kirjuri painaa vahingossa summeria pelaajavaihdon
+merkiksi (syöttölupavihellyksen jälkeen / pelaaja ei astu
+vaihtoalueelle), niin pitäisikö joukkueelle merkitä virheellinen
+katkopyyntö?
+Tulkinta:
+Koska virheen tekee kirjuri, ei tätä tule pitää virheellisenä
+katkopyyntönä eikä viivyttämisenä.
+(Sääntö 15.10.3.1, 15.10.3.3)
+--- Page 28 ---
+4.22 Vaihdot
+Kentällä oli pelaaja, jota ei ollut merkitty pöytäkirjaan.
+Miten toimitsijoiden tulisi menetellä?
+Tulkinta:
+Valmentajalla ja joukkueen kapteenilla on velvollisuus tarkistaa
+pelaajaluettelo ja vahvistaa se allekirjoituksillaan. Pelaajat,
+joita ei ole pöytäkirjassa ja jotka pelaavat ottelussa poistetaan
+kentältä heti kun tilanne huomataan, ja tilalle tulee
+pöytäkirjassa oleva pelaaja. Kaikki pisteet, jotka joukkue on
+tehnyt tämän listaamattoman pelaajan ollessa kentällä
+perutaan, ja vastapuoli saa pisteen sekä syötön.
+Jos virhe huomattaisiin vasta erän päätyttyä, olisi virheen
+tehnyt joukkue hävinnyt erän. Jos virhe olisi huomattu vasta
+ottelun päätyttyä, olisi koko ottelu hävitty listaamattoman
+pelaajan vuoksi. Tällaisen tilanteen välttämiseksi
+verkkotuomarin ja kirjurin tulee tarkistaa, että
+aloitusjärjestyslipukkeeseen merkityt numerot vastaavat
+pöytäkirjaan merkittyjä pelaajanumeroita.
+(Sääntö 4.1.3, 4.2.2, 5.1.1, 5.2.2, 7.3.5.4, 15.9.2)
+4.23 Vaihdot
+Pelikatkon aikana vastaanottava joukkue 'A' pyysi
+pelaajavaihtoa. Tämän katkon aikana joukkue 'B' sai
+rangaistuksen, jonka seurauksena joukkue 'A' suoritti
+kiertovaihdon. Tämän jälkeen 'A' pyysi uutta pelaajavaihtoa.
+Onko tämä sallittua?
+Tulkinta:
+Kyllä. Sen vuoksi, että tässä oli vaihtopyyntöjen välissä
+sääntöjen määrittämä päättynyt palloralli.
+(Sääntö 6.1.3, 15.2.3)
+4.24 Vaihdot
+Tarkistaessaan joukkueen aloitusjärjestystä verkkotuomari
+huomasi, että Liberon numero oli merkitty aloituskuusikkoon.
+Hän pyysi valmentajaa korjaamaan aloitusjärjestyslipukkeen ja
+ilmoitti kirjurille asiasta. Tämän jälkeen ottelu aloitettiin.
+Toimittiinko tilanteessa oikein?
+Tulkinta:
+Kyllä, toimintatapa oli oikea. Tässä tilanteessa verkkotuomarin
+tulisi pyytää valmentajalta uusi, korjattu aloitusjärjestyslipuke
+(jota voidaan muuttaa vain vahingossa väärin merkityn
+Liberon osalta). Kun joukkueen kokoonpanon on tarkistettu
+vastaavan korjattua aloitusjärjestyslipuketta, antaa
+verkkotuomari Liberolle luvan astua kentälle.
+(Sääntö 7.3.5.2)
+4.25 Vaihdot
+Joukkue pyysi vaihtoa, joka evättiin väärän numerokilven
+vuoksi. Tästä annettiin viivytysrangaistus, koska joukkueelle
+oli jo aiemmin annettu viivytysvaroitus. Voiko joukkue nyt
+tehdä uuden vaihtopyynnön?
+Tulkinta:
+Kyllä. Koska rangaistuksia pidetään päättyneinä palloralleina,
+voidaan uusi vaihtopyyntö tässä tapauksessa hyväksyä.
+(Sääntö 6.1.3, 15.2.3)
+4.26 Vaihdot
+Joukkue halusi tehdä tuplavaihdon. Yksi pelaaja astui
+vaihtoalueelle valmiina pelaamaan, kun toinen pelaaja etsi
+vielä numerokilpeä. Ennen kuin ensimmäisen vaihdon
+hallinnollinen osuus oli saatu hoidettua, toinenkin pelaaja oli
+valmiina vaihtoalueella. Olivatko tuomarit oikeassa salliessaan
+molemmat vaihdot niihin puuttumatta?
+Tulkinta:
+Kyllä. Tuomarit sovelsivat hyvin usean pelaajavaihdon
+menettelytapaa. Mikäli todellista viivytystä ei tapahdu, tulee
+tuomareiden olla joustavia.
+Ero caseen 4.2 on siinä, että ko. tapauksessa vaihtopelaaja oli
+liian kaukana vaihtoalueelta.
+(Sääntö Guidelines)
+--- Page 29 ---
+4.26.1 Vaihdot
+Vaihtopelaaja astui vaihtoalueelle numerokilpi kädessään ja
+lämmittelypaita yllään. Sivurajalla, kesken vaihtotapahtuman,
+hän huomasi tämän, riisui lämmittelypaitansa ja antoi sen
+kentältä poistuvalle pelaajalle. Onko tämä sallittu
+vaihtomenettely?
+Tulkinta:
+Ei. Vaihtopelaajan tulee olla vaihtopyynnön hetkellä valmiina
+pelaamaan. Pelaajaa, jolla on yllään lämmittelypaita, ei voida
+pitää valmiina pelaamaan. Sen vuoksi vaihtopyyntö on
+evättävä ja annettava viivytyssanktio.
+(Sääntö 15.10.3.1, 15.10.3.2)
+4.27 Aikalisät
+Aikalisän kestoksi on määrätty 30 sekuntia. Onko tätä
+mahdollista muuttaa?
+Tulkinta:
+Kyllä. Aikalisän kestoa on mahdollista muuttaa kilpailun
+tarpeiden mukaan. Käytettäessä sähköistä pöytäkirjaa
+voidaan kello asettaa vastaamaan asetusta.
+(Sääntö 15.4.1)
+4.28 Virheellinen katkopyyntö
+Voiko joukkue pyytää vaihtoa ennen aikalisää SEKÄ sen
+jälkeen, samalla pelikatkolla?
+Tulkinta:
+Ei - vaikka joukkue voi pyytää kaksi aikalisää samalla
+pelikatkolla, kaksi erillistä peräkkäistä vaihtopyyntöä EI ole
+sallittu ja jälkimmäistä pidetään virheellisenä katkopyyntönä.
+(Sääntö 15.3.1, 15.3.2, 15.10.3.1, 15.11.1.3, 27.2.2.6)
+4.29 Virheellinen katkopyyntö
+Valmentaja pyysi kolmatta aikalisää, jonka verkkotuomari
+hyväksyi. Samalla hetkellä kirjuri huomasi, että kyseessä oli
+joukkueen kolmas aikalisä ja ilmoitti siitä verkkotuomarille.
+Kuinka tämän jälkeen kuuluu toimia?
+Tulkinta:
+Tavallisesti kyseessä on virheellinen katkopyyntö - mutta tässä
+tapauksessa tapahtui todellinen viivytys. Sen vuoksi aikalisä
+evätään tai keskeytetään välittömästi. Pelaajat palaavat
+kentälle. Pelikapteenille ilmoitetaan viivyttämisestä ja
+annetaan viivytyssanktio.
+(Sääntö 15.11.1.4, 16.1.5, 27.2.2.6)
+4.30 Virheellinen katkopyyntö
+Voiko joukkue tehdä virheellisen katkopyynnön sen jälkeen
+kun joukkueelle on jo annettu viivytysvaroitus tai -rangaistus?
+Tulkinta:
+Kyllä voi. Vaikka se onkin epätavallista, virheellinen
+katkopyyntö voi tapahtua viivytyksen jälkeen - se ei eskaloi
+viivytystä.
+Säännöt koskien sekä virheellisiä katkopyyntöjä että
+viivytyksiä ovat melko tarkkoja sen suhteen, mitkä tapahtumat
+ovat virheellisiä katkopyyntöjä ja mitkä viivytyksiä. Sen vuoksi,
+vaikka joukkue olisikin jo syyllistynyt viivytykseen, jotkut
+tapahtumat ovat VAIN virheellisiä katkopyyntöjä eikä niitä
+yhdistetä aiempaan viivytykseen.
+(Sääntö 15.5, 16.1)
+4.30.1 Virheellinen katkopyyntö
+Onko sallittua pyytää aikalisää tai normaalia pelaajavaihtoa,
+jos pelikatkopyyntö on jo evätty ja siitä annettu
+viivytyssanktio?
+Tulkinta:
+Ei.
+Tällaisessa tilanteessa joukkueen on odotettava seuraavan
+päättyneen pallorallin loppumista ennen kuin se voi tehdä
+seuraavan pelikatkopyynnön.
+Jos joukkue kuitenkin tekee pyynnön, ei sitä tule pitää
+virhellisenä katkopyyntönä, vaan joukkuetta muistutetaan
+asiasta.
+(Sääntö 15.2.4, Guidelines)
+--- Page 30 ---
+4.31 Loukkaantumiset
+Saako pelaaja pelata nenä verta vuotaen?
+Tulkinta:
+Ei.
+Tuomareiden tulee toimia harkiten tilanteissa, joissa tapahtuu
+loukkaantuminen jossa pelaaja vuotaa verta. Mikäli vamman
+välitön hoito ei auta, on hänet vaihdettava tai korvattava
+kunnes verenvuoto on tyrehtynyt ja veri on poistettu
+peliasusta.
+Vaihtopelaajalle suodaan kohtuullinen aika verryttelyasun
+riisumiseen ja kentälle tuloon ilman sanktioita.
+On hyväksyttävää, että päätuomari ei anna viivytyssanktiota
+tai kehota joukkuetta pelikatkoon.
+(Sääntö 4.4, 15.5, 15.10.2, 15.10.3.1, 17.1.1)
+4.32 Loukkaantumiset
+Libero loukkasi kätensä puolustuksessa. Lyhyen hoidon
+jälkeen libero ilmoitti pystyvänsä jatkamaan peliä. Päätuomari
+näytti sen jälkeen pelin jatkuvan normaalisti.
+Oliko päätuomarin päätös oikea?
+Tulkinta:
+Päätuomarin päätös oli oikea. Pelaajan turvallisuuden vuoksi
+tuomarin on pysäytettävä peli heti, kun loukkaantuminen
+tapahtuu ja sallittava lääkärin/lääkintähenkilökunnan tulla
+kentälle. Jos loukkaantuminen näyttää olevan riittävän vakava,
+on pelaajan poistuttava kentältä turvallisen toipumisen
+takaamiseksi.
+Periaate on, että päätuomarin on annettava pelaajalle ja/tai
+joukkueen lääkärille kohtuullinen aika loukkaantumisen
+vakavuuden toteamiseen, ennen kuin on turvauduttava
+pelaajavaihtoon.
+(Sääntö 15.7, 17.1.2)
+4.33 Loukkaantumiset
+Pelaajavaihtoa suoritettaessa sattuu vahinko, jonka
+seurauksena vaihtopelaajan nenä alkaa vuotaa verta.
+Miten tulisi menetellä?
+Tulkinta:
+Aivan ensiksi tuomarin pitäisi pyytää lääkintähenkilökunnan
+apua. Peli on pysäytettävä. Mikäli pelaaja ei voi toipua
+pelikuntoiseksi, voidaan pelaajavaihto perua tai toinen
+vaihtopelaaja voidaan valita hänen tilalleen.
+Koska peliä ei ole jatkettu, ei pelaajavaihtoa vahvisteta.
+(Sääntö 15.2.3, 15.7)
+4.34 Loukkaantumiset
+Joukkueen kapteeni loukkaantui ennen ottelun alkua.
+Miten tulisi menetellä?
+Tulkinta:
+Menettelytapa riippuu loukkaantumisen ajankohdasta.
+Pääperiaate on kirjoitettu säännössä 4.1.3, silloin kun
+kapteenit ja valmentajat ovat allekirjoittaneet pöytäkirjan, eli
+arvonnan jälkeen, joukkueella ei ole oikeutta muuttaa
+joukkueen kokoonpanoa (paitsi jos libero loukkaantuu ja
+valmentaja haluaa uudelleennimetä joukkueen kapteenin
+uudeksi liberoksi).
+Tämän perusteella mikäli joukkueen kapteeni loukkaantuu
+ennen arvontaa ja hän tulee pelikyvyttömäksi, tulee
+valmentajan nimetä uusi kapteeni, jonka pelinumeron alle
+laitetaan raita ja numero ympyröidään pöytäkirjassa. Tällä
+uudella kapteenilla on kaikki kapteenin oikeudet ja
+velvollisuudet (esim. hän osallistuu arvontaan).
+Jos kapteeni loukkaantuu arvonnan jälkeen, ei valmentajalla
+ole oikeutta nimetä toista pelaajaa kapteeniksi. Valmentajan
+tulee kuitenkin nimetä 'yleinen pelikapteeni', jolla on kapteenin
+oikeudet ja velvollisuudet ja allekirjoittaa pöytäkirjan ottelun
+jälkeen.
+Molemmissa tapauksissa loukkaantuminen merkitään
+pöytäkirjaan.
+(Sääntö 4.1.3, 5.1, 5.2.1, 5.2.2)
+--- Page 31 ---
+4.35 Loukkaantumiset
+Mikä on oikea menettelytapa, jos loukkaantunut pelaaja ei
+kykene osallistumaan muodolliseen pelaajavaihtoon
+vaihtoalueella? (Esim. hänet kannetaan pois kentältä)?
+Tulkinta:
+Jotta vaihdon tapahtuminen olisi kaikille selvää,
+vaihtopelaajan on otettava loukkaantuneen pelaajan
+numerokilpi ja astuttava vaihtoalueelle. Verkkotuomari ottaa
+numerokilven ja palauttaa sen joukkueelle.
+(Sääntö 15.10.1, 17.1.1)
+4.36 Loukkaantumiset
+Kaksi japanilaista pelaajaa kaatuu lattialle kesken pallorallin.
+Se todennäköisesti estää vastapuolta voittamasta palloa.
+Pitäisikö tuomareiden pysäyttää peli välittömästi?
+Tulkinta:
+Viimeisimpien ohjeiden mukaisesti, ellei tilanne aiheuta
+pahemman loukkaantumisen vaaraa tai vaaraa muita pelaajia
+kohtaan, tuomareiden tulee harkita ennen pallorallin
+keskeyttämistä, onko kyseessä todellinen loukkaantuminen.
+(Sääntö 17.1.1, Guidelines 15.3)
+4.37 Loukkaantumiset
+Oikeanpuoleisen joukkueen pelaaja tajuaa, että hänen
+joukkueensa todennäköisesti häviää pallon, ja kaatuu sen
+vuoksi lattialle
+Mikä olisi tässä tilanteessa paras menettelytapa?
+Tulkinta:
+Viimeisimmän ohjeistuksen mukaan tuomareiden kuuluu
+keskeyttää peli ainoastaan jos tapahtuu verta vuotava
+loukkaantuminen tai pelaaja aiheuttaa vaaraa
+kanssapelaajilleen tai on itse heidän vuokseen vaarassa.
+Koska pallorallit usein kestävät korkeintaan viisi sekuntia,
+pieni harkinta-aika ennen automaattista vihellystä uuden
+pallon merkiksi saattaa vähentää niitä jatkossa. Ilmiselvät
+teeskennellyt loukkaantumiset ovat käytösrikkeitä.
+(Sääntö 17.1.1, Guidelines 15.3)
+4.38 Pelin viivyttäminen
+Päätuomari vihelsi joukkueet kentälle ennen kolmannen erän
+alkua. Toinen joukkueista ei reagoinut mitenkään. Hidastelun
+vuoksi päätuomari antoi heille viivytysvaroituksen.
+Sen jälkeen joukkue astui kentälle. Toimiko päätuomari oikein?
+Tulkinta:
+Kyllä. Joukkueet on kutsuttava paikoilleen kentälle. Jos he
+eivät reagoi, on päätuomarin annettava viivytysvaroitus. Mikäli
+joukkue ei tämän jälkeenkään reagoisi, annettaisiin
+viivytysrangaistus. Mikäli sekin osoittautuisi tehottomaksi,
+tulkittaisiin joukkueen kieltäytyneen pelaamasta ja heidän
+tuomittaisiin luovuttaneen ottelun. Siinä tapauksessa ottelun
+lopputulokseksi merkittäisiin 0-3 (0-25, 0-25, 0-25).
+Jos joukkue hidastelee vastaavalla tavalla palatessaan
+kentälle aikalisältä, sovelletaan samaa menettelytapaa.
+(Sääntö 6.4.1, 16.1)
+4.39 Pelin viivyttäminen
+Sanktioidaanko joukkuetta viivyttämisestä, jos se kokoontuu
+kentällä yhteen (pallorallin jälkeen)?
+Tulkinta:
+Päätuomarin ei tarvitse sallia enempää kuin kohtuullinen aika
+siirtymiseen pelipaikoille seuraavaa pallorallia varten. On
+sallittava normaali tuuletus ja hengenluonti, muttei kuitenkaan
+pelin viivyttämistä. Päätuomarin tulee kehottaa joukkuetta
+siirtymään paikoilleen. Jos päätuomarin mielestä pelaajat
+käyttävät tätä jatkuvasti taktisesti viivyttääkseen peliä, on
+joukkuetta sanktioitava viivytyksestä.
+(Sääntö 16.1.2, 16.1.5)
+--- Page 32 ---
+4.40 Pelin viivyttäminen
+Pelaaja kieltäytyi pelaamasta, koska hänen
+kenttäpuoliskollaan oli tiikeripuolustuksesta aiheutunut märkä
+kohta.
+Kuinka päätuomarin tulee toimia?
+Tulkinta:
+Maalaisjärjen käyttö on tässä avainasia.
+Päätuomarin velvollisuuksiin kuuluu päättää siitä, viivyttävätkö
+pelaajien lattiankuivauspyynnöt selvästi peliä ja antaa niistä
+tarvittaessa viivytyssanktio.
+Kun päätuomarin mielestä lattiaa on kuivattava, voi hän antaa
+siihen määräyksen. Päätuomari on aina se, joka kontrolloi
+ottelun etenemistä.
+(Sääntö 1.5, 5.1.2.2, 6.4.1, 16.2)
+4.41 Pelin viivyttäminen
+Erätauolla joukkue meni kokonaisuudessaan
+pukuhuoneeseen ja palasi sieltä viiden minuutin kuluttua.
+Päätuomari antoi viivytyssanktion ja peliä jatkettiin.
+Toimiko tuomari oikein?
+Tulkinta:
+Ensiksikin, joukkueella ei ole lupaa poistua kilpailualueelta
+ilman tuomareiden lupaa. Kahden ja puolen minuutin jälkeen
+verkkotuomarin pitäisi kuitenkin mennä joukkueen luo
+kehottamaan heitä palaamaan kentälle välittömästi, tai heidän
+katsottaisiin luovuttaneen ottelun. Kun he ovat palanneet
+kentälle, päätuomarin tulee antaa viivytyssanktio.
+(Sääntö 4.2, 6.4.1, 6.4.2, 18.1)
+4.42 Ulkopuolinen häirintä
+Miten päätuomarin kuuluu toimia, jos katsojat keskeyttävät
+ottelun?
+Tulkinta:
+Päätuomarin tulee keskeyttää ottelu ja järjestäjän tai
+kontrollikomitean tulisi palauttaa järjestys. Tapahtuma
+merkitään pöytäkirjaan.
+(Sääntö 17.2, 17.3)
+4.43 Ulkopuolinen häirintä
+Neljännessä erässä tilanteessa 27-27 päätuomari antoi ensin
+liberolle käytösrangaistuksen (punainen kortti, pistilanne on
+nyt 27-28 mustan joukkueen eduksi). Päätuomarin päätöksen
+jälkeen valkoisen joukkueen päävalmentaja ei halunnut jatkaa
+peliä ja pyysi joukkueen pois kentältä protestoidakseen
+päätuomarin käytösrangaistuspäätöstä vastaan. Valmentajan
+reaktion jälkeen päätuomari näytti punaista korttia
+päävalmentajalle, ja ottelu päättyi siihen.
+Oliko päätuomarin päätös oikea?
+Tulkinta:
+Jälkimmäinen punainen kortti ei ollut oikein. Päätuomarin olisi
+pitänyt kutsua pelaamasta kieltäytyneen joukkueen kapteeni
+tuomaritelineen luokse ja pyytää häntä tuomaan joukkueensa
+takaisin kentälle jatkamaan peliä. Mikäli joukkue ei reagoisi
+pyyntöön ja edelleen kieltäytyisi pelaamasta, tulisi tuomarin
+antaa ensin viivytyssanktio ja sitten todeta joukkueen
+luovuttaneen.
+(Sääntö 17.2)
+4.44 Ulkopuolinen häirintä
+Pelaaja puolusti palloa vapaa-alueella kentän takana, minkä
+jälkeen pallo osui pelialueen ilmatilassa olevan tv-kameran
+puomiin. Tuomareiden oli pysäytettävä peli. Miten
+päätuomarin pitäisi tuomita tämä tilanne; pallo 'ULKONA' vai
+'Ulkopuolisena häiriönä'?
+Tulkinta:
+Pelialueella pelaajilla on etuoikeus pelata palloa. Jos pallo
+osuu ulkopuoliseen esineeseen tai henkilöön, joka tunkeutuu
+pelialueelle pelialueen ulkopuolelta, esim. tv-kameran puomiin
+tai journalistiin, joka ottaa pallon kiinni, on kyse 'ulkopuolisesta
+häiriöstä' ja pallo kuuluu pelata uudestaan.
+Caseen liittyvällä videolla Libero yritti pelata palloa ja jatkaa
+siten pallorallia, mutta kameran puomi esti häntä tekemästä
+sitä. Tätä tulisi pitää 'Ulkopuolisena häiriönä' ja pallo pelata
+uudestaan.
+Jos puolustus olisi suuntautunut katsomoa kohti siten, ettei
+kukaan pelaajista kykenisi sitä enää pelaamaan, ei tuomari
+tuomitsisi 'Ulkopuolista häiriötä' vaan pallo 'ULKONA'.
+(Sääntö 17.2)
+--- Page 33 ---
+4.45 Ulkopuolinen häirintä
+Keskipelaajan valmistautuessa hyökkäykseen häneltä irtosi
+kenkä jalasta ja putosi etukentälle. Hän löi palloa ja sitten
+joukkue hävisi pallorallin. Pallorallin jälkeen keskipelaaja pyysi
+saada laittaa kenkänsä takaisin. Tuomarit eivät puuttuneet
+tilanteeseen pallon aikana eikä sen jälkeen. Miten
+tuomareiden tulisi toimia?
+Tulkinta:
+Pääperiaatteena on pelaajien turvallisuus. Jos tuomareiden
+mielestä kenkä, osana pelaajan varusteita, aiheuttaa vaaran,
+on peli keskeytettävä.
+Koska oli ilmeistä, että kenkä ei irronnut jalasta tahallisesti,
+hänen pyyntöään saada laittaa se takaisin ei voida pitää
+viivyttämisenä.
+(Sääntö 17.2)
+4.46 Ulkopuolinen häirintä
+Jos palloa tavoitteleva pelaaja törmää tuomaritelineeseen,
+pitäisikö palloralli automaattisesti keskeyttää ja pelata
+uudelleen?
+Tulkinta:
+Ei.
+Tuomarin tulisi arvioida, vaikuttaako törmäys hänen
+toimintaansa tai aiheuttaa pelaajan loukkaantumisen.
+Jos tuomari ei kykene jatkamaan toimintaansa normaalisti,
+pallo pitäisi keskeyttää ja pelata uudelleen. Jos törmäys ei
+häiritse, antaa pallorallin jatkua keskeytyksettä.
+(Sääntö 17.2)
+4.47 Ulkopuolinen häirintä
+Videotarkistuksen jälkeen pallorallin hävinneen joukkueen
+kannattajat siirtyivät kentän laidalle osoittamaan
+tyytymättömyyttään tulosta kohtaan.
+Miten tuomareiden pitäisi menetellä?
+Tulkinta:
+Tässä tapauksessa erityisesti verkkotuomari reagoi tyynesti ja
+sujuvan tuomaroinnin ohjeistuksen mukaisesti ohjatessaan
+kannattajat takaisin katsomoon. Mikäli mielenosoitus olisi
+laajempi, on tuomareilla oikeus keskeyttää ottelu ja pyytää
+järjestäjiä palauttamaan järjestys.
+(Sääntö 23.2.3)
+4.48 Ulkopuolinen häirintä
+Pallonpalauttajan tarkkaamattomuuden vuoksi toinen pallo
+pääsee vierimään kentälle. Niin pää- kuin verkkotuomarikaan
+eivät huomaa tilannetta. Pallorallin päätyttyä päätuomari päätti
+tuomita pallon pelattavaksi uudelleen ulkopuolisen häiriön
+vuoksi. Oliko päätös oikea?
+Tulkinta:
+Päätös ei ollut oikea. Koska pallo meni kentälle aivan
+pallorallin viime hetkillä eikä siten häirinnyt peliä tai
+aiheuttanut pelaajille loukkaantumisriskiä.
+Pelaajien turvallisuus on tärkein periaate. Sen vuoksi, jos
+tuomarit huomaavat ylimääräisen pallon kentällä tai
+vierimäisillään kentälle, heidän on keskeytettävä palloralli
+välittömästi.
+Jos joukkueen jäsen lähettää tahallaan ylimääräisen pallon
+kentälle, niin filosofian pitäisi olla sama, mutta tätä on
+pidettävä aggressiivisena tekona, joka johtaa ko. joukkueen
+jäsenen Ottelusta poistamiseen.
+Kuten casessa 8.2 on mainittu, mikäli päätuomarin mielestä
+aiheutuu vaaraa tai tilanne todella vaikuttaa pelin jatkumiseen,
+on hänen keskeytettävä peli välittömästi ja tuomittava uusi
+pallo. Toisaalta, jos palloralli on jo päättynyt eikä tilanne
+vaikuta sen lopputulokseen, ei ole tarpeen tuomita uutta
+palloa.
+Tuomareiden on kyettävä erottamaan nämä kaksi tapausta
+toisistaan.
+(Sääntö 17.2)
+--- Page 34 ---
+4.49 Ulkopuolinen häirintä
+Valmentaja laittoi jalkansa vastapuolen hyökkäämän pallon
+eteen juuri ennen kuin se olisi osunut lattiaan. Tämä tapahtui
+aivan sivurajan tuntumassa siten, ettei ollut varmaa, olisiko
+pallo päätynyt rajojen sisä- vai ulkopuolelle.
+Mitä päätuomarin pitäisi tässä tehdä?
+Tulkinta:
+Hyökkäyslyönti, joka osuu vastapuolen valmentajaan vapaa-
+aluella on sääntöjen mukaan ulkona.
+Jos valmentaja kuitenkin koskettaa palloon sivurajan lähellä
+eivätkä tuomarit ja rajatuomarit pysty kosketuksen johdosta
+päättelemään minne pallo olisi päätynyt, on todettava pallon
+olevan SISÄLLÄ ja valmentajalle annettava suullinen varoitus.
+Mikäli aiempia käytössanktioita on alla, sovelletaan
+voimakkaampaa sanktiota käytösriketaulukon mukaisesti.
+(Sääntö 17.2)
+5 Libero
+5.1 Libero
+Voiko Libero astua kentälle erän alussa ilman verkkotuomarin
+lupaa aloitusjärjestyksen tarkastamisen jälkeen?
+Tulkinta:
+Kyllä voi.
+Aloituskokoonpanon pelaajan on oltava kentällä kun
+aloitusjärjestystä tarkistetaan. Kun verkkotuomari on
+tarkistanut järjestyksen, voi Libero korvata takapelaajan.
+(Sääntö 19.3.2.4, 19.3.2.8, 24.3.1)
+5.2 Libero
+Joukkue oli käyttänyt kaikki vaihtonsa, kun kentällä olevaa
+pelaajaa rangaistiin erästä poistamisella ja Libero oli
+vaihtopenkillä.
+Miten ottelua jatketaan?
+Tulkinta:
+Pöytäkirjaan merkitystä liberosta ei voi milloinkaan tulla
+ottelussa tavallista pelaajaa. (Suom. huom: tähän on
+poikkeuksia kansallisissa sarjamääräyksissä.)
+Poikkeuksellinen vaihto (johon ei kuulu liberoa) on kuitenkin
+tässä tapauksessa mahdollinen, jos valmentaja haluaa niin
+tehdä. Siinä tapauksessa erästä poistettu pelaaja ei voi enää
+palata otteluun.
+(Sääntö 6.4.3, 15.7, 15.8)
+5.3 Libero
+Voidaanko Libero vaihtaa loukkaantuneen pelaajan tilalle
+normaalilla pelaajavaihdolla?
+Tulkinta:
+Ei. Libero ei voi olla osallisena pelaajavaihdossa, ei
+tavallisessa eikä poikkeuksellisessa.
+(Sääntö 15.5, 15.7, 17)
+5.4 Libero
+Libero oli kentällä korvaten pelaajan #5 ja poistettiin erästä
+käytösrangaistuksen vuoksi. Miten ottelua kuuluu jatkaa?
+Tulkinta:
+Jos joukkueella on kaksi Liberoa, voi valmentaja vaihtaa
+rangaistun Liberon välittömästi toiseen Liberoon tai pelaajaan
+#5.
+Jos joukkueella on vain yksi Libero, voi joukkue valita
+seuraavista:
+- palauttaa pelaajan #5 kentälle Liberon paikalle ja pelata
+ilman Liberoa lopun erän ajan. Vaihtoehtoisesti
+- valmentaja voi uudelleennimetä uuden Liberon niiden
+pelaajien joukosta, jotka eivät ole kentällä
+uudelleennimeämisen hetkellä ja uusi Libero voi välittömästi
+ottaa erästä poistetun Liberon paikan (joka ei enää voi pelata
+ottelussa).
+(Sääntö 6.4.3, 19.1.1, 19.3.2, 19.3.2.8)
+--- Page 35 ---
+5.5 Libero
+Voiko liberokorvaaminen tapahtua samaan aikaan
+pelaajavaihdon kanssa?
+Tulkinta:
+Kyllä - koska 'korvaaminen' ei ole 'vaihto' ja päinvastoin.
+(Sääntö 15.3.2, 19.3.2, 19.3.2.8)
+5.6 Libero
+Libero tuli kentälle korvaamaan pelaajaa pelipaikalle 1 sen
+jälkeen, kun tuomari oli viheltänyt syöttöluvan merkiksi, mutta
+ennen syöttöhetkeä. Miten päätuomarin tulisi toimia?
+Tulkinta:
+Mikäli tämä tapahtui ensimmäisen kerran ottelun aikana, tulisi
+päätuomarin antaa pallorallin jatkua keskeytyksettä. Pallorallin
+jälkeen hänen täytyy huomauttaa pelikapteenille, ettei tämä
+ole oikea menettelytapa. Seuraavista myöhäisistä
+korvaamisista annetaan viivytyssanktio välittömästi,
+keskeyttäen palloralli. Liberon korvaaminen kuitenkin pysyy
+voimassa.
+Jos korvaaminen tapahtuisi vasta syöttöhetken jälkeen,
+pitäisi päätuomarin tuomita sijoittumisvirhe.
+(Sääntö 19.3.2.5)
+5.7 Libero
+Joukkue teki laittoman liberokorvaamisen, mutta se huomattiin
+ennen syöttöhetkeä.
+Miten tulisi menetellä?
+Tulkinta:
+Kun asia huomataan, verkkotuomari viheltää ja kutsuu
+pelaajan takaisin. Laiton korvaaminen perutaan ja joukkueelle
+annetaan viivytyssanktio.
+Jos tilanne huomataan vasta kun peli on jo jatkunut,
+seuraukset ovat samat kuin sääntöjenvastaisella vaihdolla.
+(Sääntö 19.3.2.1, 19.3.2.9, 23.2.3)
+5.8 Libero
+Libero oli kentällä korvaamassa pelaajaa #4. Juostessaan
+pallon perään Libero loukkasi jalkansa eikä kyennyt jatkamaan
+peliä.
+Valmentaja päätti haluavansa pelaajan #4 nimettävän uudeksi
+Liberoksi. Onko tämä mahdollista?
+Tulkinta:
+Ei suoraan. Valmentaja voi nimetä uuden Liberon niistä
+pelaajista, jotka eivät ole kentällä uudelleennimeämisen
+hetkellä, liberon korvaama pelaaja pois lukien.
+Jos siis valmentaja haluaa pelaajasta #4 uuden Liberon, on #4
+ensin palattava kentälle ja vaihdettava säännönmukaisella
+vaihdolla pois kentältä. Sen jälkeen hänet voidaan nimetä
+uudeksi Liberoksi ja hän voi palata kentälle liberona yhden
+päättyneen pallorallin jälkeen, koska kahta liberokorvausta ei
+voida tehdä samalla pelikatkolla.
+(Sääntö 19.1.3, 19.3.2.2, 19.3.2.8, 19.4.2)
+5.9 Libero
+Voiko valmentaja olla samaan aikaan myös joukkueensa
+Libero?
+Tulkinta:
+Kyllä.
+Säännöt eivät estä Liberoa olemasta valmentaja.
+(Sääntö 5.2.3.4)
+5.10 Libero
+Joukkueen kapteeni loukkaantui ollessaan kentällä ja hänet oli
+vaihdettava pois. Valmentaja valitsi Liberon uudeksi
+pelikapteeniksi. Onko tämä sallittua?
+Tulkinta:
+On. Libero voi olla sekä joukkueen kapteeni että pelikapteeni.
+(Sääntö 5)
+--- Page 36 ---
+5.11 Libero
+Liberon korvaama pelaaja tuli erehdyksessä kentälle Liberon
+paikalle hetkeksi (tätä ei ehditty edes merkitä
+liberopöytäkirjaan) - mutta he korjasivat erehdyksensä saman
+tien itse.
+Lasketaanko tämä korvaamiseksi?
+Tulkinta:
+Ei, tätä ei lasketa korvaamiseksi, koska liberokorvaamisten
+välillä on oltava päättynyt palloralli. Tässä oli kyseessä
+ilmeinen erehdys, eikä sitä pitäisi laskea virheeksi.
+(Sääntö 19.3.2.1, 19.3.2.2)
+5.12 Libero
+Joukkue unohti korvata Liberon kenttäpelaajalla Liberon
+siirtyessä nelospaikalle.
+Mikä on oikea menettelytapa, kun tuomarit huomaavat tämän
+ilmeisen erehdyksen?
+Tulkinta:
+Liberolla ei ole oikeutta pelata etukenttäkierroksella, ja hänen
+on poistuttava kentältä sen kiertovaihdon jälkeen, jolla hän
+siirtyisi nelospaikalle. Päätuomarin on viivytettävä vihellystä
+syöttöluvan merkiksi kohtuullisen ajan. Mikäli liberokorvausta
+ei vieläkään suoriteta, on joukkuetta muistutettava heidän
+velvollisuudestaan, liberokorvaus on suoritettava ja sen
+jälkeen joukkueelle annetaan aiheutuneesta viivytyksestä
+sanktio.
+(Sääntö 19.3.1.1, 28.2.2.1, 28.2.2.2)
+5.13 Libero
+Libero korvattiin pois kentältä ja hän palasi sinne välittömästi
+toisen pelaajan paikalle (korvaamisten välissä ei ollut
+pallorallia).
+Onko tämä sallittua?
+Tulkinta:
+Ei. Tämä on tyypillinen esimerkki virheellisestä
+liberokorvaamisesta. Jälkimmäisen korvaamisen kohdalla
+verkkotuomarin pitäisi evätä se, ja päätuomarin antaa
+viivytyssanktio. Otteluissa, joissa on avustava kirjuri, on hänen
+tehtävänsä valvoa liberokorvaamisia.
+Tässä tapauksessa hänen pitäisi painaa summeria tehdyn
+virheen merkiksi.
+(Sääntö 19.3.2.9, 23.2.3)
+5.14 Libero
+Libero korvattiin tavallisella kenttäpelaajalla. Syötön jälkeen
+varapallo ajautui kentälle ja palloralli keskeytettiin. Ennen
+uusintapallon aloituslupavihellystä Libero yritti korvata
+pelaajan kuutospaikalla. Verkkotuomari kutsui hänet takaisin.
+Toimiko verkkotuomari oikein?
+Tulkinta:
+Kyllä, verkkotuomari toimi oikein.
+Tämä on esimerkki virheellisestä liberokorvaamisesta, koska
+kahden liberokorvaamisen välissä ei ollut päättynyttä
+pallorallia. Jälkimmäisen korvaamisen hetkellä verkkotuomarin
+tulisi evätä se ja päätuomarin antaa viivytyssanktio.
+(Sääntö 19.3.2.1)
+5.15 Libero
+Libero loukkaantui ottelun aikana ja verkkotuomari antoi
+lääkärille ja häntä avustaneelle valmentajalle luvan astua
+kentälle tutkimaan loukkaantumisen vakavuutta. He päättivät
+ottaa Liberon pois kentältä ja lähettää hänen korvaamansa
+pelaaja takaisin kentälle. Kun Libero oli saatettu pois kentältä,
+hän ilmoitti toipuneensa ja vaati saada palata takaisin kentälle.
+Tuomarit sallivat Liberon palaavan kentälle ja jatkavan peliä.
+Oliko tämä oikein?
+Tulkinta:
+Ei, sitä ei olisi pitänyt sallia. Vaikka kyse oli
+loukkaantumisesta, Libero voitiin korvata tavallisella
+liberokorvaamisella. Liberolla on myös oikeus osallistua
+otteluun kunnes hänet on julistettu kyvyttömäksi jatkamaan
+peliä.
+Sen vuoksi tilanteessa tapahtui virhe, kun kaksi peräkkäistä
+liberokorvaamista tapahtui ilman välissä ollutta päättynyttä
+pallorallia. Tämä on virheellinen liberokorvaaminen.
+(Sääntö 19.3.2.1, 19.3.2.8)
+--- Page 37 ---
+5.16 Libero
+Joukkueen 'A' Libero loukkasi käsivartensa ottelun aikana, ja
+hänen tilalleen uudelleennimettiin uusi Libero. Alkuperäinen
+Libero istui vaihtopenkillä ottelun loppuun asti.
+Oliko tämä sallittua?
+Tulkinta:
+Kyllä. Pelaaja kykeni liikkumaan eikä luonut minkäänlaista
+estettä tai vaaraa joukkueille.
+Tämä seikka on oleellinen tuomion suhteen. Pelaajan pitäisi
+sallia olla vaihtopenkillä. Jos pelaaja tarvitsisi hoitoa, pitäisi
+opastaa joukkueen lääkäri sijoittamaan pelaaja vaihtopenkin
+taakse tai muuhun turvalliseen paikkaan pelikenttäalueen
+(Field of play) ulkopuolelle.
+(Sääntö K.1a, 19.3.2.8)
+5.17 Libero
+Milloin kaksi liberokorvaamista voi tapahtua saman pelikatkon
+aikana samalle joukkueelle?
+Tulkinta:
+Vain kahdessa tapauksessa voi kaksi liberokorvaamista
+tapahtua saman pelikatkon aikana.
+1. Kun on annettu rangaistus
+2. Kun tuomitaan uusi pallo pelaavan Liberon
+loukkaantumisen vuoksi tilanteessa, jossa hän on juuri tullut
+kentälle.
+(Sääntö 6.1.3, 19.3.2.1)
+5.18 Libero
+Pelaava Libero valitti huonovointisuuttaan.
+Onko sallittua uudelleennimetä uusi Libero?
+Tulkinta:
+Jos joukkueella on kaksi Liberoa, niin loukkaantumisen tai
+sairastumisen sattuessa pelaava Libero voidaan vaihtaa
+toiseen Liberoon. Jos joukkueella on vain yksi Libero tai
+toinenkin Libero loukkaantuu ollessaan kentällä, voidaan
+nimetä uusi Libero asianmukaisen proseduurin mukaisesti.
+(Sääntö 19.3.2.2)
+5.19 Libero
+Kirjuri merkitsi pelinumeron '15' liberolle '5':n sijaan.
+Valmentaja ja kapteeni allekirjoittivat pöytäkirjan.
+Mitä pitäisi tapahtua, kun tilanne huomataan?
+Tulkinta:
+Kyseessä on hallinnollinen virhe eikä sillä ole seurauksia
+joukkueelle. Kirjuri korjaa numeron huomautussarakkeeseen.
+(Sääntö 19.1.2)
+5.20 Libero
+Ottelun ensimmäisessä erässä joukkueen 'A' Libero pelasi
+samanvärisellä ja muutenkin samanlaisella pelipaidalla kuin
+muu joukkue. Ennen toisen erän alkua joukkueen 'B'
+valmentaja protestoi tilannetta vastaan. Mikä on oikea päätös
+tilanteessa?
+Tulkinta:
+Koska väärällä pelipaidalla ei ollut vaikutusta peliin, ei
+ensimmäisen erän lopputulosta peruta eikä 'A':ta sanktioida.
+Tekninen delegaatti päättää, onko Liberon on kuitenkin
+vaihdettava pelipaitansa.
+(Sääntö 19.2)
+5.21 Libero
+Kaksi pelaajaa yritti torjua vastapuolen hyökkäystä ja hyppäsi
+verkolla. Heidän välissään myös Libero hyppäsi, muttei
+missään vaiheessa kurottautunut millään ruumiinosalla verkon
+yläreunaa korkeammalle. Siitä huolimatta verkkotuomari
+vihelsi torjuntayrityksen. Oliko päätös oikea?
+Tulkinta:
+Päätös ei ollut oikea. Koska Libero ei missään vaiheessa
+kurottautunut millään ruumiinosalla verkon yläreunaa
+korkeammalle, ei hänen hyppyään voida pitää
+torjuntayrityksenä.
+(Sääntö 14.1.1, 14.1.2, 14.1.3, 14.1.4, 14.6.6)
+--- Page 38 ---
+5.22 Libero
+Libero poistui kentältä. Syöttäjälle tuomittiin kahdeksan
+sekunnin ylitys syötössä.
+Voiko Libero nyt palata kentälle?
+Tulkinta:
+Kyllä voi.
+Tätä syöttöä (virhettä) pidetään päättyneenä pallorallina. Sen
+vuoksi liberon sallitaan palata kentälle.
+(Sääntö 6.1.3, 19.3.2.1, 19.3.2)
+5.23 Libero
+Valmentaja julisti joukkueen ainoan Liberon pelikyvyttömäksi
+ja halusi uudelleennimetä uuden Liberon.
+Kenet voidaan uudelleennimetä uudeksi Liberoksi ja milloin?
+Tulkinta:
+Liberon korvaamaa pelaajaa lukuun ottamatta kenet tahansa
+uudelleennimeämispyynnön hetkellä vaihdossa oleva pelaaja
+voidaan uudelleennimetä uudeksi Liberoksi. Alkuperäinen
+Libero ei voi enää palata otteluun missään tapauksessa.
+Jos valmentaja haluaa Liberon korvaaman pelaajan uudeksi
+Liberoksi, hänen on ensin suoritettava sääntöjen mukainen
+pelaajavaihto.
+Jos pelaava libero julistetaan pelikyvyttömäksi, hänet on
+korvattava liberon korvaamalla pelaajalla ja uusi Libero saa
+tulla kentälle päättyneen pallorallin jälkeen.
+(Sääntö 19.3.2.8, 19.4.2.1, 19.4.2.4)
+5.24 Libero
+Joukkueella oli kaksi liberoa, #11 ja #16. Jälkimmäisellä oli
+samanlainen pelipaita kuin muulla joukkueella. Joukkue pyysi
+pelaajavaihtoa ja pelaaja #16 saapui vaihtoalueelle
+mennäkseen kentälle. Kirjuri ilmoitti välittömästi, että tämä
+vaihtopyyntö oli laiton. Miten pelin tulisi jatkua?
+Tulkinta:
+Liberolla ei ole oikeutta olla osallisena tavallisessa eikä
+poikkeuksellisessa pelaajavaihdossa. Sen vuoksi
+vaihtopyyntöä on pidettävä säännönvastaisena. Koska tämä
+huomattiin ennen pelin jatkumista, pyyntö pitäisi evätä ja
+antaa joukkueelle viivytyssanktio.
+Liberon on kuitenkin vaihdettava pelipaitansa.
+Tuomareiden pitäisi valvoa huolellisesti joukkueiden
+kokoonpanoa ja peliasuja ja verrata pelaajien ja paitojen
+numeroita ennen ottelun alkua jotta tällaisilta tilanteilta
+vältyttäisiin.
+(Sääntö 15.5.1, 15.7, 16.1.3, 19.2)
+5.25 Libero
+Joukkueella oli kaksi liberoa. Toisen erän jälkeen valmentaja
+julisti molemmat liberot pelikyvyttömiksi ja uudelleennimesi
+yhden uuden liberon heidän tilalleen. Onko tämä sallittua?
+Tulkinta:
+Kyllä, se on sallittua.
+Ei ole kiellettyä julistaa molempia liberoita pelikyvyttömiksi
+samalla kertaa. Kumpikaan alkuperäisistä liberoista ei saa
+palata otteluun uudelleennimeämisen jälkeen, mutta heillä on
+oikeus istua vaihtopenkillä tai olla lämmittelyalueellla.
+(Sääntö 19.4.2.1, 19.4.2.2)
+5.26 Libero
+Joukkueen 'A' Libero puolusti etukentällä palloa yhden käden
+sormilla siten, että käsi oli pään yläpuolella. Liberon
+kosketuksen jälkeen joukkueen 'A' pelaaja hyökkäsi pallon
+siten, että kosketushetkellä pallo oli kokonaan verkon
+yläreunaa korkeammalla. Oliko tämä sallittua?
+Tulkinta:
+Säännön hengen mukaisesti, jos liberon kosketus tehtiin
+avonaisin sormin, tavanomaisen, tarkoituksellisen passin
+tapaan, se on virhe. Jos taas libero yritti suojata
+päätään/kasvojaan passaamisen sijaan, on tilanne sallittu.
+(Sääntö 13.3.6, 19.3.1.4)
+--- Page 39 ---
+5.27 Libero
+Libero teki klassisen sormipassin etukentältä. Kosketuksen
+hetkellä hän astui hyökkäysrajan taakse ja nosti samalla
+etukentällä olleen jalkansa ilmaan. Hänen joukkuetoverinsa
+toteutti hyökkäyksen lyömällä pallon, joka oli verkon yläreunaa
+korkeammalla. Päätuomari tuomitsi toiminnan virheeksi ja
+antoi pallon vastapuolelle.
+Oliko se päätös oikea?
+Tulkinta:
+Kyllä. Tällaisessa tilanteessa Liberon viimeinen kosketus
+lattiaan on ratkaiseva. Tätä periaatetta käytetään myös
+hyppysyötössä ja takapelaajan hyökkäyksessä.
+Vaikka vasen jalka on ilmassa, sen viimeinen kosketuspiste oli
+ETUKENTÄLLÄ. Siksi hyökkäyslyönnin toteuttaminen tähän
+palloon, sen ollessa kokonaan verkon yläreunaa
+korkeammalla, on virhe.
+(Sääntö 13.3.6, 19.3.1.4)
+6 Osanottajien käyttäytyminen
+6.1 Osanottajien käyttäytyminen
+Päätuomari varoitti pelaajaa käytösrikkeestä mennen suoraan
+vähäisten käytösrikkeiden rankaisun VAIHEESEEN 2, ja näytti
+pelaajalle keltaista korttia, joka merkittäisiin pöytäkirjaan.
+Toimiko päätuomari oikein?
+Tulkinta:
+Tuomari toimi oikein. Päätuomarin on kontrolloitava tällaisia
+käytösrikkeitä. Keltainen kortti on merkittävä pöytäkirjaan.
+Päätuomari voi antaa suullisen varoituksen pelikapteenin
+kautta (vaihe 1), jos käytösrike on yleisluonteinen.
+Hän voi myös rikkeen vakavuudesta riippuen aloittaa suoraan
+vaiheesta 2 näyttäen keltaista korttia suoraan rikkeen
+tehneelle pelaajalle tai pelikapteenin kautta muulle joukkueen
+jäsenelle.
+(Sääntö 21.1, 21.2)
+6.2 Osanottajien käyttäytyminen
+Verkkotuomari huomasi yrityksen harhauttaa tuomareita
+(torjuja nykäisi verkkoa) ja tuomitsi pallon hyökkääjän
+joukkueelle. Päätuomari antoi sen jälkeen torjuneen
+joukkueen pelaajalle varoituksen keltaisella kortilla.
+Oliko tämä oikea sanktio tilanteessa?
+Tulkinta:
+Päätuomarin päätös ei ollut oikea.
+Hyökänneen joukkueen kuului voittaa pallo, koska
+vastapuolen pelaaja kosketti verkkoon häiriten peliä. Torjujalle
+olisi pitänyt antaa käytösrangaistus räikeästä käytöksestä
+yrityksestä johtaa tuomareita harhaan.
+(Sääntö 21.2.1, 21.3)
+6.3 Osanottajien käyttäytyminen
+Joukkueen 'A' valmentaja nousi seisomaan pallon päätteeksi
+ja heilutti käsiään tavalla, joka osoitti halveksuntaa tuomarin
+päätöstä kohtaan.
+Onko tämä sallittua?
+Tulkinta:
+Valmentajan on saatava ilmaista itseään tietyillä normaaleilla
+tavoilla ja tuomarin kuuluu vain rauhoitella häntä ilman muita
+seurauksia.
+Jos valmentajan reaktion katsotaan saavuttavan vähäisten
+käytösrikkeiden vaiheen 2, on päätuomarin varoitettava häntä
+keltaisella kortilla. Jos sama toistuu, on annettava rangaistus
+punaisella kortilla.
+(Sääntö 5.2, 21.1, 21.2, 21.3)
+--- Page 40 ---
+6.4 Osanottajien käyttäytyminen
+Päätuomari tuomitsi erien välisellä tauolla joukkueen 'A'
+pelaajalle käytösrangaistuksen (punainen kortti) räikeästä
+käytöksestä. Joukkueella 'A' oli seuraavan erän aloitus.
+Mitä tapahtuu seuraavaksi?
+Tulkinta:
+Käytösrangaistukset erien välillä merkitään seuraavan erän
+rangaistuksiksi ja huomioidaan erää aloitettaessa. Siispä
+ennen ensimmäistä syöttöä tuomari viheltää pilliin ja antaa
+joukkueelle 'A' rangaistuksen. Joukkue 'B' saa pisteen,
+suorittaa kiertovaihdon ja syöttää.
+Seuraavassa on yhteenveto erien välillä tapahtuvista
+rikkomuksista, jotka on merkittävä pöytäkirjaan:
+- Varoitus kenelle tahansa joukkueen jäsenelle (keltainen
+kortti).
+- Rangaistus syöttävän joukkueen jäsenelle. Vastaanottava
+joukkue saa pisteen, suorittaa kiertovaihdon ja saa aloituksen
+- Rangaistus vastaanottavan joukkueen jäsenelle. Syöttävä
+joukkue saa pisteen.
+- Rangaistus molemmille joukkueille järjestyksestä riippumatta.
+Molemmat joukkueet saavat pisteen (tilanne 1-1) ja suorittavat
+kiertovaihdon.
+Pistetilanne vaihtuu vasta sitten kun molempia joukkueita on
+rangaistu.
+(Sääntö 21.5)
+6.5 Osanottajien käyttäytyminen
+Pallorallin päätyttyä passari nykäisi turhautuneena verkon
+alanarua.
+Oliko tämä virhe?
+Tulkinta:
+Ei.
+Koska videolla näkyvä verkkokosketus tapahtui pallorallin
+jälkeen, ei sitä voida pitää virheenä.
+Käytösrikemielessä säännön 21.3 mukaan päätuomarilla on
+oikeus rangaista pelaajaa teon vakavuuden mukaan. Verkon
+nykiminen voi olla normaali pettyneen pelaajan tunnereaktio,
+jonka hallitseminen kuuluu tuomaroinnin taiteeseen. Joissain
+tapauksissa tarkoituksellinen verkon repiminen voi olla räikeää
+käytöstä, esim. pallorallin aikana tuomareiden tai vastapuolen
+harhaanjohtamiseksi, ja rangaistaan sen mukaisesti.
+(Sääntö 21.2, 21.2.1, 21.3, Guidelines 24.7)
+6.6 Osanottajien käyttäytyminen
+Pelaaja käveli päätuomaria kohti elehtien vilkkaasti ja huutaen
+vaikka häntä oli jo varoitettu.
+Miten tähän pitäisi suhtautua?
+Tulkinta:
+Tätä tulisi pitää loukkaavana käytöksenä ja rangaista erästä
+poistamisella keltaisella ja punaisella kortilla yhdessä.
+(Sääntö 21.1, 21.2, 21.3)
+6.7 Osanottajien käyttäytyminen
+Pelaajaa rangaistiin erästä poistamisella ilman edeltävää
+varoitusta. Joukkue ei ollut aiemmin saanut käytösvaroitusta
+tai -rangaistusta.
+Miten päätuomarin tulisi reagoida seuraaviin saman joukkueen
+muiden jäsenten käytösrikkeisiin?
+Tulkinta:
+Päätuomarin tulisi normaaliin tapaan yrittää estää joukkueen
+käytöstä päätymästä rangaistavalle tasolle.
+Kuitenkin selkeässä loukkaavan käytöksen tapauksessa
+tuomarin on rangaistava pelaajaa suoraan erästä
+poistamisella, vaikkei aiempia sanktioita olisikaan annettu.
+Päätuomari voi antaa varoituksia ja käytösrangaistuksia muille
+joukkueen jäsenille erästä poistamisen jälkeenkin - mutta kun
+keltainen kortti on annettu, ei sitä voi antaa uudestaan
+kenellekään saman joukkueen jäsenelle.
+(Sääntö 21)
+--- Page 41 ---
+6.8 Osanottajien käyttäytyminen
+Pelaajaa #5 rangaistiin erästä poistamisella. Minne tämä
+pelaaja menee poistuttuaan kentältä?
+Tulkinta:
+Pelaajan, jota on rangaistu erästä poistamisella, tulee mennä
+joukkueen pukuhuoneeseen (varalla olevan tuomarin
+saattamana) lopun erän ajaksi. Erän päätyttyä pelaajan on
+palattava kilpailualueelle.
+(Sääntö 21.3.2.1, K.9)
+6.9 Osanottajien käyttäytyminen
+Aloitussyötön jälkeen verkkotuomari viheltää vastaanottavalle
+joukkueelle sijoittumisvirheen. Valmentaja protestoi
+voimakkaasti ja väittää joukkueensa sijoittuneen oikein
+"uusien sääntöjen mukaisesti", ylittäen vielä kaikki hyvän
+käytöksen rajat sanoen tuomarille useaan kertaan: "Sinä et
+tunne sääntöjä."
+Tulkinta:
+Tämä on tilanne, jossa päätuomarin on suojeltava
+verkkotuomaria. Valmentajan käytös ja sanat ylittävät
+hyväksyttävän rajan. Sallimalla tällaisen käytöksen valmentaja
+pääsee kaikkien huomion keskipisteeseen. Vaikka
+verkkotuomari yritti selittää tilannetta pelikapteenille, jatkoi
+valmentaja protestointiaan ja yritti horjuttaa verkkotuomarin
+päätöstä.
+Päätuomarin olisi pitänyt antaa valmentajalle käytösrangaistus
+räikeästä käytöksestä.
+(Sääntö 21)
+6.10 Osanottajien käyttäytyminen
+Ottelun jälkeen joukkueen kapteeni käyttäytyi päätuomaria
+kohtaan hyvin epäurheilijamaisesti.
+Miten päätuomarin tulisi toimia?
+Tulkinta:
+Pelaajaa on rangaistava jollain tavalla.
+FIVB:n tapahtumissa ottelu ei suinkaan pääty tuomarien
+viimeiseen vihellykseen, joten kapteenin käytös on
+raportoitava ottelun jurylle, ja käytöksen yksityiskohdat
+merkittävä pöytäkirjan huomautussarakkeeseen. FIVB:n
+valvontakomitealla on käytettävissään eriasteisia sanktioita,
+kilpailukielto mukaan lukien.
+6.11 Osanottajien käyttäytyminen
+Liberon korvaama pelaaja istui penkillä. Päätuomari rankaisi
+häntä käytösrangaistuksella. Pelaaja jatkoi käytöstään ja hän
+antoi aplodit tuomarille. Päätuomari rankaisi häntä erästä
+poistamisella. Pelaaja jatkoi käytöstään ja häntä rangaistiin
+ottelusta poistamisella.
+Miten tilanteessa kuuluu menetellä?
+Tulkinta:
+Koska libero ei voi pelata etukenttäkierroksella, on erästä tai
+ottelusta poistettu vaihdettava välittömästi
+sääntöjenmukaisella tai poikkeuksellisella pelaajavaihdolla.
+Tämä voidaan tehdä ilman Liberon poistumista kentältä tai
+joukkueen pelaamista ilman korvaavaa pelaajaa.
+Kun rangaistuksen hallinnollinen osuus on suoritettu, tulee
+valmentajan (tai kapteenin) näyttää asianmukaista
+käsimerkkiä, yksinkertaisesti informoidakseen tuomaria siitä,
+minkä numeroinen pelaaja tulee rangaistun pelaajan tilalle.
+Tämä merkitään pöytäkirjaan.
+(Sääntö 6.4.3, 15.5.2)
+7 Tuomarit ja heidän velvollisuutensa
+7.1 Tuomarit ja heidän velvollisuutensa
+Verkkotuomari kielsi valmentajaa häiritsemästä kirjuria tai
+puhumasta tälle.
+Toimiko verkkotuomari oikein?
+Tulkinta:
+Kyllä, verkkotuomari toimi oikein.
+Tuomaroinnin taiteen hengessä, mikäli tällaiset tilanteet ovat
+selvitettävissä verkkotuomarin huomautuksella ilman
+muodollisuuksia, näin voidaan tehdä.
+(Sääntö 23.3.2.2)
+--- Page 42 ---
+7.2 Tuomarit ja heidän velvollisuutensa
+Saako vaihtopelaaja istua lämmittelyalueen lattialla
+seisomisen tai venyttelyn sijaan?
+Tulkinta:
+Pelaajien ei tarvitse seistä lämmittelyalueella. Toisaalta he
+eivät saa tällä alueella myöskään istua penkillä, tuolilla,
+kaiteella tai muurilla, ellei tekninen delegaatti ole sitä
+erityisestä syystä sallinut.
+(Sääntö 4.2.1, 4.2.3, 24.2.4, 24.2.5)
+7.3 Tuomarit ja heidän velvollisuutensa
+Voiko valmentaja kysyä kirjurilta vastapuolen ottamien
+aikalisien lukumäärästä?
+Tulkinta:
+Kirjurin ei pidä vastata valmentajalle.
+Yleisesti ottaen valmentajilla ei ole oikeutta kysyä kirjureilta
+mitään tietoja.
+Jos kuitenkin sähköinen tulostaulu on käytössä eikä
+käytettyjen pelikatkojen määrä ole nähtävissä, on valmentajilla
+oikeus kysyä kirjurilta tätä asiaa, mutta ainoastaan oman
+joukkueensa osalta ja vain sellaisella hetkellä, jolloin se ei
+häiritse kirjurin työtä tai viivytä peliä.
+(Sääntö 27.2.2)
+7.4 Tuomarit ja heidän velvollisuutensa
+Voiko joukkueen kapteeni tehdä virallisen vastalauseen
+pöytäkirjaan, jollei hän ole ilmoittanut tuomarille
+aikomuksestaan ottelun aikana?
+Tulkinta:
+Jos ei pelikapteeni ole tapahtuman aikaan maininnut
+vastalauseesta, ei hän voi tehdä kirjallista vastalausetta
+pöytäkirjaan ottelun lopussa.
+(Sääntö 5.1.2.1, 5.1.3.2, 23.2.4)
+7.5 Tuomarit ja heidän velvollisuutensa
+Voidaanko tuomareiden päätöksiä kumota vielä erän
+päätyttyä?
+Tulkinta:
+Kyllä. Tuomarit saavat seuraavan erän alkamiseen saakka
+muuttaa sääntöjen soveltamista koskevia päätöksiään, mikäli
+huomaavat erehtyneensä. Pistetilanne oikaistaan
+asianmukaisesti.
+7.6 Tuomarit ja heidän velvollisuutensa
+Sen jälkeen kun kolmas aikalisäpyyntö oli evätty virheellisenä
+katkopyyntönä, valmentaja muuttikin mieltään ja lähetti
+pelaajan vaihtoalueelle.
+Onko tämä sallittua?
+Tulkinta:
+Edellyttäen ettei syöttöluvan merkiksi ollut vihelletty, olisi
+vaihtopyyntö pitänyt sallia, ainoastaan aikalisäpyyntö oli
+virheellinen. Tämä aikalisäpyyntö pitäisi kuitenkin merkitä
+pöytäkirjaan virheellisenä katkopyyntönä.
+(Sääntö 15.1, 15.2.1, 15.11, 16.1, 16.2, 24.2.6, 24.2.7)
+7.7 Tuomarit ja heidän velvollisuutensa
+Aikalisällä valmentaja kokoontui koko joukkueensa kanssa
+aivan vapaa-alueen takakulmaan, lähelle lämmittelyaluetta.
+Onko tämä sallittua?
+Tulkinta:
+Säännöt määräävät 'pelissä olevat pelaajat menemään vapaa-
+alueelle penkkinsä lähelle' aikalisän ajaksi ja verkkotuomarin
+pitäisi kehottaa joukkuetta tekemään siten.
+(Sääntö 15.4.2)
+--- Page 43 ---
+7.8 Tuomarit ja heidän velvollisuutensa
+Apuvalmentaja tuli sivurajan luo auttamaan pelaajia löytämään
+märän kohdan kentällä.
+Päätuomari kutsui pelikapteenin luokseen ja käski häntä
+kehottamaan apuvalmentajaa pysymään penkillä.
+Oliko päätuomarin päätös oikea?
+Tulkinta:
+Päätuomarin päätös oli oikea. Apuvalmentajalla on oikeus
+istua penkillä eikä hän saa puuttua otteluun. Vain valmentaja
+saa kävellä sivurajan lähellä.
+(Sääntö 5.2.3.4, 5.3.1)
+7.9 Tuomarit ja heidän velvollisuutensa
+Pallorallin jälkeen valmentaja kysyi verkkotuomarilta oliko
+hänen joukkueensa syöttäjä oikea. Verkkotuomari tarkisti
+syöttöjärjestyksen kirjurin kanssa ja vastasi oikean pelaajan
+olevan valmiina syöttämään. Päätuomari jatkoi peliä.
+Toimivatko tuomarit oikein?
+Tulkinta:
+Vaikka ainoa joukkueen jäsen, jolla on oikeus puhutella
+tuomareita, on pelikapteeni, ei tämä lyhyt sananvaihto
+valmentajan ja verkkotuomarin välillä vaikuta peliin millään
+tavalla. Sen vuoksi verkkotuomari voi vastata valmentajan
+tiettyihin kysymyksiin sujuvan tuomaroinnin taiteen nimissä.
+(Sääntö Guidelines, 5.1.2)
+7.10 Tuomarit ja heidän velvollisuutensa
+Onko päätuomarilla oikeus viheltää vastaanottavan joukkueen
+sijoittumisvirhe?
+Tulkinta:
+Ei.
+Päätuomari EI saa viheltää tätä virhettä, koska hän ei voi
+nähdä sitä sen täsmällisellä tapahtumahetkellä!
+Päätuomarilla on kuitenkin oikeus kumota kaikkien muiden
+tuomariston jäsenten päätökset.
+(Sääntö 23.2.1)
+8 Erikoistilanteet
+8.1 Erikoistilanteet
+Joukkue 'B' hidasti tarkoituksellisesti pelin tempoa.
+Kuinka tuomarin tulisi toimia?
+Tulkinta:
+Tuomarin on pidettävä pelin tempo vakiona, jotta peli sujuisi
+normaalisti. Tuomarin ei tule koskaan antaa ulkoisten
+vaikutusten hidastaa ottelun kulkua ja heikentää [toisen]
+joukkueen suoritustasoa.
+8.2 Erikoistilanteet
+Joukkueen 'B' pelaajalta putosi lattiankuivausliina joukkueen
+'A' kentälle.
+Kuinka tuomareiden tulisi toimia?
+Tulkinta:
+Jos tilanne aiheuttaa päätuomarin mielestä vaaraa, on
+pysäytettävä peli välittömästi ja tuomittava uusi pallo.
+Toisaalta, jos pallo on pelattu loppuun eikä liinalla ollut
+vaikutusta sen lopputulokseen, ei ole tarvetta uusia palloa.
+(Sääntö 17.2)
+8.3 Erikoistilanteet
+Ottelua jatkettiin toisella kentällä valojen sammumisen vuoksi.
+Miten tulee menetellä ottelusta poistetun pelaajan kohdalla
+pelattaessa erää uudestaan?
+Tulkinta:
+Keskeytynyt erä peruuntuu ja aloitetaan uudelleen samalla
+aloituskokoonpanolla, mutta erästä tai ottelusta poistetut
+pelaajat eivät saa siihen osallistua. Hänen tilalleen tulee
+toinen pelaaja, joka ei ole aloituskokoonpanossa.
+Edelleen, kaikki muutkin sanktiot, jotka on merkitty
+pöytäkirjaan siihen mennessä kun valot sammuivat, on
+otettava uusintaerässä huomioon.
+(Sääntö 17.3.2.2)
+--- Page 44 ---
+8.4 Erikoistilanteet
+Juostessaan ylityskaistan ulkopuolelta verkon toiselle puolelle
+menneen pallon perään pelaaja tarttui verkkopylvääseen
+kyetäkseen kääntymään riittävän nopeasti.
+Onko tämä tuen ottamista?
+Tulkinta:
+Ei. Päätettäessä onko peli sallittua, pallon pelaamisen hetki on
+ratkaiseva. Koska pelaaja ei ottanut tukea lyödessään palloa,
+ei hänen voida katsoa ottaneen tukea. Peli oli siis sallittua ja
+näyttävää.
+(Sääntö 9.1.3)
+8.5 Erikoistilanteet
+Kun pelaajavaihto oli tehty, päätuomari muutti
+haastomenettelyn johdosta alkuperäistä päätöstään ja
+määräsi pallon pelattavaksi uudelleen. Sen vuoksi valmentaja
+pyysi pelaajavaihdon perumista.
+Onko tämä mahdollista?
+Tulkinta:
+Koska päätuomari muutti päätöstään, johon pelaajavaihto
+perustui, on pelin hengen mukaista sallia valmentajan pyyntö.
+Joukkueen pelaajavaihtojen määrä pysyi ennallaan.
+8.6 Erikoistilanteet
+Verkkonauhaan (tai vastapuolen torjuntaan) osuneen
+hyökkäyksen johdosta antenni ja verkkomerkki irtosivat
+verkosta. Antenni oli jo putoamassa alas, kun punainen
+(hyökännyt) joukkue kosketti seuraavan kerran palloon.
+Mitä päätuomarin tulisi tuomita?
+Tulkinta:
+Videotarkistuksen perusteella pallo ei osunut torjuntaan.
+Antenni oli joka tapauksessa irronnut hienoisesti ennen kuin
+punaisen joukkueen pelaaja kosketti siihen, joten pallo tulee
+pelata uudestaan. Päätuomari oli oikeassa tuomitessaan
+uuden pallon.
+8.7 Erikoistilanteet
+Tilanne on kolmannessa erässä 9-7. Havaitaan, että
+jälkimmäisellä joukkueella on kentällä kaksi pelaajaa
+numerolla #11. Ilmeisesti toinen pelaajista on pelannut kaksi
+ensimmäiseä erää numerolla #10, jolla hänet on
+asianmukaisesti merkitty pöytäkirjaan. Vaihtaessaan märkää
+pelipaitaa toisen ja kolmannen erän välillä hän on vahingossa
+laittanut ylleen numeron #11.
+Kumpikaan pelaaja ei ole syöttänyt kolmannessa erässä.
+Päätuomari ohjasi pelaajan vaihtamaan ylleen oikean
+pelipaidan ja antoi joukkueelle viivytyssanktion.
+Toimiko päätuomari oikein?
+Tulkinta:
+Kyllä, tuomari oli oikeassa.
+Sekä kirjurin että verkkotuomarin olisi pitänyt huomata ennen
+erän alkua, että kentällä on kaksi pelaajaa numerolla #11 ja
+oikaista tilanne siinä vaiheessa.
+Tämä on epätavallinen tilanne, jota ei ole tarkalleen käsitelty
+sääntökirjassa ja päätuomarilla on valta päättää sellaisista
+asioista.
+Koska pelaaja oli asianmukaisesti merkitty pöytäkirjaan ja
+aloitusjärkestyslipukkeessa oli hänen oikea numeronsa (#10),
+ei sääntöä 7.3.5.4 voida soveltaa. Päätuomari oli siis
+oikeassa, kun EI vähentänyt joukkueelta pisteitä.
+Koska joukkue oli ainakin osittain vastuussa aiheutuneesta
+keskeytyksestä, oli viivytyssanktio aiheellinen ja pelaajan on
+pelattava pelipaidalla, jossa on oikea numero.
+Ottelua jatketaan samasta pistetilanteesta, missä virhe
+havaittiin.
+Yhteenveto:
+23.2.3 Päätuomarilla on valta tehdä päätös missä tahansa
+peliä koskevassa asiassa, myös sellaisessa, jota ei mainita
+pelisäännöissä.
+- pelipaita vaihdetaan oikeaan numeroon
+- annetaan viivytyssanktio
+(Sääntö 7.3.5.4, 23.2.3)
+9 Teknologian käyttöön liittyvät tilanteet
+--- Page 45 ---
+9.1 Teknologiacaset
+Haastetuomarin headset lakkasi toimimasta kesken ottelun.
+Miten tilanteessa pitäisi jatkaa, jotta voitaisiin ylläpitää
+haastemahdollisuutta?
+Tulkinta:
+Haastetuomarin luona pitäisi olla varaheadsetit.
+Ihannetilanteessa kommunikaatioverkko kattaa kaikki
+osapuolet, mutta jos varakappaleita ei ole saatavilla, on
+kirjurin toimittava ilman headsetiä käsimerkkien välityksellä
+sekä verkkotuomarin kanssa kasvotusten puhuen. Näin ollen
+haastetuomari käyttää kirjurilla ollutta headsetiä.
+9.2 Teknologiacaset
+Apuvalmentaja lähetti datan kahdesta pelaajavaihdosta.
+Vaihtoalueelle astui kuitenkin eri pelaajat. Miten tuomareiden
+ja kirjurin tulisi menetellä?
+Tulkinta:
+Vaihtopyyntö tapahtuu silloin, kun vaihtopelaajat astuvat
+vaihtoalueelle. Joukkueen tabletti ei kumoa sääntötekstiä.
+Teknologia on tarkoitettu avustamaan, mutta inhimillinen virhe
+voi silti tapahtua, eikä vaihtoa saa sen perusteella evätä.
+Verkkotuomari ja kirjuri yksinkertaisesti hyväksyvät
+vaihtoalueelle tulleiden pelaajien vaihdot sillä edellytyksellä,
+että ne ovat muutoin sallittuja. Kirjurin tulee hyväksyä vaihdot
+yksitellen sen sijaan, että hän painaisi "accept all". Kirjurin
+kuuluu sanoa headsetiin "going manual" ("mennään
+manuaalisesti"), jotta verkkotuomari tietää antaa kirjurille
+hieman lisää aikaa suorittaa vaihtotapahtuma sähköiseen
+pöytäkirjaan.
+(Sääntö 15.10.3.1, 15.10.4)
+9.3 Teknologiacaset
+FIVB:n maailmatason kilpailussa ei käytetty numerokilpiä
+pelaajavaihdoissa. Onko tämä oikein?
+Tulkinta:
+Pitkäkestoisissa huipputason tapahtumissa ottelukohtaiset
+joukkueet valitaan laajemmasta pelaajajoukosta, jolloin
+pelinumerot voivat jatkua esim. 99 saakka.
+Tämän johdosta numerokilvet ovat epäkäytännöllisiä. Lisäksi
+numerokilvet itsessään voivat johtaa moninaisiin virheisiin,
+jotka puolestaan johtavat ei-toivottuihin viivytyssanktioihin.
+Numerokilvistä luopuminen on parempi vaihtoehto.
+Mikäli teknologisia apuvälineitä ei ole täysimääräisesti
+käytössä ja pelinumerot ovat normaalikäytännön mukaisia, on
+numerokilpiä edelleen käytettävä.
+(Sääntö 15.10.3.3)
+9.4 Teknologiacaset
+Valmentaja lähetti tabletilla datan aikalisäpyyntöä varten
+sekunnin murto-osan ennen kuin kirjuri painoi "Start rally",
+mutta ratkaisevasti päätuomarin syöttölupavihellyksen
+aikana/jälkeen.
+Pelaajat olivat kävelemässä kohti vaihtopenkkiään, kun
+vastapuoli syötti pallon tyhjään kenttään.
+Miten päätuomarin pitäisi toimia ylläpitääkseen pelin
+eheyttä?
+Tulkinta:
+Hämmennyksen välttämiseksi päätuomari voi soveltaa
+sujuvan tuomaroinnin taitoa.
+Tässä tilanne kärjistyi kirjurin tarkkaamattomuuden vuoksi,
+koska aikalisäsummerin olisi pitänyt automaattisesti kytkeytyä
+pois päältä kirjurin painettua "Start rally"-painiketta.
+Päätuomari voi tässä käyttää harkintaa ylläpitääkseen lajin
+imagoa ja vaihtaa käsimerkkinsä syöttöluvasta aikalisäksi.
+(Sääntö 15.11.1, 15.11.1.1, 16.1.4.)
+--- Page 46 ---
+9.5 Teknologiacaset
+Joukkue 'A' lyö pallon verkon alanauhaan ja se tunkeutuu
+kokonaan 'B':n ilmatilaan, ennen kuin 'A' pelastaa sen takaisin
+omalle puolelleen. Se, että pallo tunkeutui kokonaisuudessaan
+'B':n puolelle varmistuu vasta siinä vaiheessa, kun 'B' on
+haastanut 'A':n verkkovirheestä. Kumpi joukkue voittaa pallon?
+Tulkinta:
+Säännöt sanovat, että pallo on "ulkona", kun se ohittaa
+kokonaisuudessaan verkkotason verkon alapuolisessa tilassa.
+Haastesäännösten mukaan ensimmäinen videolla näkyvä
+virhe ratkaisee pallorallin tuloksen, vaikka se ei olisikaan
+sama, jonka johdosta haaste on esitetty. Tässä tapauksessa
+vaikka haaste koskikin verkkovirhettä - jota ei tapahtunut -
+päätuomari sai vahvistuksen alkuperäiselle tuomiolleen, jonka
+mukaan joukkue 'A' pelasi palloa sen ollessa kokonaan 'B':n
+puolella. Tämä virhe vihellettiin, kuten pitikin.
+Toisaalta, tilanne pääsi tapahtumaan, koska verkkoa ei ollut
+kiristetty niin tiukalle kuin olisi pitänyt. Verkon kireys on
+tarkastettava ja korjattava ennen ottelua ja tarkkailtava läpi
+ottelun, jotta vältettäisiin tällaisia tilanteita, joista jää
+joukkueille katkera jälkimaku.
+(Sääntö 8.4.5)
+9.6 Teknologiacaset
+Joukkueen lähettämään aloitusjärjestykseen merkitty pelaaja
+loukkaantui ennen ottelun alkua. Voidaanko hänet vaihtaa
+ennen ottelun alkua?
+Tulkinta:
+Tabletilla lähetyt aloitusjärjestykset toimivat samoin kuin
+paperiset. Sen vuoksi pelaaja voidaan vaihtaa, mutta se
+lasketaan erän pelaajavaihtoihin, ellei tapahtumassa ole
+käytössä erikoissäädöksiä.
+(Sääntö 7.3.2, 7.3.4)
+9.7 Teknologiacaset
+Pelaaja astui vaihtoalueelle oikeaan aikaan, mutta dataa ei
+ollut siirretty. Miten tilanne hoidetaan?
+Tulkinta:
+Virallinen vaihtopyyntö tapahtuu pelaajan astuessa
+vaihtoalueelle. Sen vuoksi kirjurin on ennen muita
+toimenpiteitä tarkastettava, onko pyyntö laillinen.
+Jos se on, hänen tulee hyväksyä pyyntö manuaalisesti ja
+sanoa headsetiin "going manual ("mennään manuaalisesti"),
+jotta vaihtotapahtumalle osattaisiin antaa hieman enemmän
+aikaa.
+Jos pyyntö on laiton, se evätään ja tuomarit seuraavat
+asianmukaisia sääntöjä.
+(Sääntö 15.5.1, 16.1.3)
+9.8 Teknologiacaset
+Haasteen jälkeen tuli ilmeiseksi, että videohaasteoperaattorit
+olivat näyttäneet väärän videoklipin.
+Mitä vaihtoehtoja päätuomarilla on tässä tilanteessa?
+Tulkinta:
+Päätuomarin on kunnioitettava sitä seikkaa, että
+videohaastejärjestelmä on luotu, jotta päätöksenteossa
+päästäisiin mahdollisimman reiluun lopputulokseen.
+Sen vuoksi päätuomarin on vaadittava oikean videon
+näyttämistä eikä ehdoitta hyväksyä ensimmäistä.
+9.9 Teknologiacaset
+Kun videohaastemahdollisuus on käytössä, joukkueet voivat
+haastaa epäiltyjä tilanteita, jotka ovat kenties jääneet
+tuomareilta huomaamatta. Miten tuomareden pitäisi suhtautua
+siihen, jos vastapuoli tunnustaa virheen?
+Tulkinta:
+Reilun pelin hengessä vastapuolen tunnustus on tervetullut.
+Päätuomari voi siten hyväksyä pelaajan tunnustuksen ja siten
+välttää tai peruuttaa haasteprosessin. Vuoden 2023 VNL
+finaalissa Fair Play -säädöstä kokeiltiin ajan säästämiseksi
+videohaastetilanteissa, jos joukkue tunnusti torjunta- ja
+verkkokosketuksen.
+(Sääntö 7.3.2, 7.3.4)

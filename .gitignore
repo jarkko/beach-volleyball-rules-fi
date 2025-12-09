@@ -1,0 +1,47 @@
+# Generated PDFs
+*.pdf
+!documents/**/*.pdf
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+.venv
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.log
+view_*.html
+translation_brief*.md
+
+# Screenshots (keep diagram images)
+screenshots/
+*.png
+!src/assets/images/**/*.png
+*.jpg
+!src/assets/images/**/*.jpg
+*.jpeg
+!src/assets/images/**/*.jpeg
+*.jp2
+*.tif
+*.tiff
+
+# Typst cache
+.typst-cache/
+

@@ -1,0 +1,92 @@
+extends: substitution
+ignorecase: true
+level: error
+message: Use '%s' instead of '%s'
+swap:
+  1st referee: "p\xE4\xE4tuomari"
+  2nd referee: verkkotuomari
+  aggression: "v\xE4kivaltainen k\xE4yt\xF6s"
+  antennae: antennit
+  assistant scorer: avustava kirjuri
+  assisted hit: "avustettu ly\xF6nti"
+  attack hit: "hy\xF6kk\xE4ysly\xF6nti"
+  ball: pallo
+  ball in play: "pallo peliss\xE4"
+  ball out of play: "ei peliss\xE4 oleva pallo"
+  block: torjunta
+  block contact: torjuntakosketus
+  captain: kapteeni
+  catch: koppi
+  challenge referee: haastetuomari
+  change of courts: puoltenvaihto
+  coaching: valmennus
+  completed rally: "p\xE4\xE4ttynyt palloralli"
+  composition: kokoonpano
+  contact with the net: verkkokosketus
+  court: "kentt\xE4"
+  court lines: "kent\xE4n rajat"
+  crossing space: ylityskaista
+  default: luovutus
+  delay penalty: viivytysrangaistus
+  delay warning: viivytysvaroitus
+  dimensions: mitat
+  disqualification: ottelusta poistaminen
+  double contact: kaksoiskosketus
+  exceptional interruptions: poikkeukselliset keskeytykset
+  expulsion: "er\xE4st\xE4 poistaminen"
+  external assistance: ulkopuolinen apu
+  fair play: reilun pelin henki
+  fault: virhe
+  free zone: vapaa-alue
+  game delays: "pelin viivytt\xE4minen"
+  incomplete team: "joukkueen j\xE4\xE4minen vajaaksi"
+  injury: loukkaantuminen
+  interval: "er\xE4tauko"
+  intervals: "er\xE4tauot"
+  lighting: valaistus
+  line judge: rajatuomari
+  line-up: kokoonpano
+  match: ottelu
+  misconduct: "k\xE4ytt\xE4ytymisrikkeet"
+  offensive conduct: "loukkaava k\xE4yt\xF6s"
+  official signals: "viralliset k\xE4simerkit"
+  participants: osallistujat
+  penalty: rangaistus
+  penetration into opponent's space: tunkeutuminen vastustajan tilaan
+  player: pelaaja
+  playing area: pelialue
+  playing surface: pelialusta
+  playing the ball: pallon pelaaminen
+  positional fault: sijoittumisvirhe
+  positions: sijoittumiset
+  posts: "pylv\xE4\xE4t"
+  procedures: menettelyt
+  rally: palloralli
+  reaching beyond the net: verkon yli kurottautuminen
+  recovery time: toipumisaika
+  referee: tuomari
+  refereeing team: tuomaristo
+  regular game interruptions: "s\xE4\xE4nt\xF6m\xE4\xE4r\xE4iset pelikatkot"
+  reserve referee: varalla oleva tuomari
+  rotation: kiertovaihto
+  rude conduct: "r\xE4ike\xE4 k\xE4yt\xF6s"
+  score sheet: "p\xF6yt\xE4kirja"
+  scorer: kirjuri
+  screening: "peitt\xE4minen"
+  service: aloitus
+  service order: "sy\xF6tt\xF6j\xE4rjestys"
+  service zone: aloitusalue
+  sportsmanlike conduct: "urheilullinen k\xE4yt\xF6s"
+  states of play: pelin tilanteet
+  team: joukkue
+  team hits: "joukkueen ly\xF6nnit"
+  teams: joukkueet
+  technical time-out: "tekninen aikalis\xE4"
+  time-out: "aikalis\xE4"
+  tipping: "sormily\xF6nti"
+  to score a point: pisteen saaminen
+  to win a set: "er\xE4n voittaminen"
+  toss: arvonta
+  warm-up: "l\xE4mmittely"
+  warning: varoitus
+  weather: "s\xE4\xE4"
