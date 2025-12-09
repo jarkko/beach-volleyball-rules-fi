@@ -156,14 +156,6 @@ jobs:
           </html>
           EOF
 
-      # Note: GitHub Pages must be manually enabled in repository Settings → Pages → Source: GitHub Actions
-      # The enablement parameter may not work if Pages hasn't been enabled at least once manually
-      - name: Setup Pages
-        continue-on-error: true
-        uses: actions/configure-pages@v4
-        with:
-          enablement: true
-
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
