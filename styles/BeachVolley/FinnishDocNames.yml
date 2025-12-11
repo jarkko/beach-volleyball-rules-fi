@@ -1,0 +1,13 @@
+extends: substitution
+ignorecase: false
+level: error
+message: Use '%s' instead of '%s' (use exact Finnish document names from corpus)
+swap:
+  # Incorrect variants -> Correct from corpus
+  "Tuomariohjeet ja instruktiot": "Beach volleyn tuomariohjeet ja -ohjeistukset"
+  "Tapauskirja": "Beach volleyn tapausesimerkit"
+  "Viralliset Beach Volley -säännöt": "viralliset beach volleyn säännöt"
+  "Beach Volley -säännöt": "viralliset beach volleyn säännöt"
+  "Beach Volleyn säännöt": "beach volleyn säännöt"
+  "Beach Volleyn": "beach volleyn"
+  "Tapausesimerkit": "Beach volleyn tapausesimerkit"

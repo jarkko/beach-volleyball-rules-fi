@@ -1,0 +1,73 @@
+# Beach Volleyball Rules Translation Project - Agent Guidelines
+
+## CRITICAL: Always Use Corpus Terminology
+
+Before making ANY edits to Finnish text, you MUST:
+
+1. **Check terminology first**: Use `python3 scripts/get_term.py <term>` to look up correct translations
+2. **Validate before writing**: Use `python3 scripts/validate_terminology.py <text>` to check proposed text
+3. **Check document names**: Use `python3 scripts/get_term.py --doc-names` for exact document titles
+
+## Mandatory Terminology Rules
+
+### Document Names (CRITICAL - use exact forms from corpus):
+- ❌ "Tapauskirja" → ✅ "Beach volleyn tapausesimerkit"
+- ❌ "Tuomariohjeet ja instruktiot" → ✅ "Beach volleyn tuomariohjeet ja -ohjeistukset"
+- ❌ "Beach Volley" → ✅ "beach volley" (always lowercase)
+- ❌ "Viralliset Beach Volley -säännöt" → ✅ "viralliset beach volleyn säännöt"
+
+### Key Terms:
+- All terminology comes from `data/memory.json`
+- NEVER translate on the fly - always check the corpus first
+- When in doubt, use `scripts/get_term.py` to look up
+
+### Finnish Grammar Rules Learned:
+- Use genitive forms instead of compounds when natural: "lentopallon säännöt" NOT "lentopallosäännöt"
+- Always check corpus for idiomatic Finnish phrasing
+- "uudistaa" means "to renew/update" - use "luoda uudelleen" (regenerate) for recreating rules
+- "tapaus" means "case" (not "approach") - use "käännöstapa" for translation method
+- "siihen" (singular) vs "niihin" (plural) - match the referent's number
+- "indoor volleyball" = "lentopallo" (not "sisäpallokenttä" which doesn't exist)
+
+## Workflow for Editing Finnish Text
+
+1. **Before editing**: Check existing terminology in the file
+2. **Look up terms**: Use `python3 scripts/get_term.py <english-term>`
+3. **Propose changes**: Validate with `python3 scripts/validate_terminology.py`
+4. **After editing**: Run `vale README.md docs/` to verify
+
+## Files to Check
+
+- `data/memory.json` - Source of truth for all terminology
+- `styles/BeachVolley/FinnishDocNames.yml` - Vale rules for document names
+- `corpus/finnish/` - Reference corpus for correct forms
+
+## Automatic Enforcement
+
+- Vale runs automatically in CI
+- Pre-commit hooks validate terminology
+- Agents must validate before writing Finnish text
+
+## Example Commands
+
+```bash
+# Look up a term
+python3 scripts/get_term.py "Beach Volleyball"
+
+# Validate text before writing
+echo "Tapauskirja" | python3 scripts/validate_terminology.py
+
+# Check document names
+python3 scripts/get_term.py --doc-names
+
+# Validate a file
+python3 scripts/validate_terminology.py README.md
+```
+
+## Common Mistakes to Avoid
+
+1. ❌ Creating made-up words like "sisäpallokenttä" - check corpus first
+2. ❌ Using compound words when genitive is more natural
+3. ❌ Mixing singular/plural pronouns ("siihen" vs "niihin")
+4. ❌ Using wrong word forms ("uudistaa" vs "luoda uudelleen", "tapaus" vs "tapa")
+5. ❌ Not checking corpus for idiomatic Finnish expressions

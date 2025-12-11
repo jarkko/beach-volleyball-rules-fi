@@ -1,0 +1,21 @@
+repos:
+  - repo: local
+    hooks:
+      - id: validate-terminology
+        name: Validate Terminology
+        entry: python3 scripts/validate_terminology.py
+        language: system
+        types: [text, markdown]
+        files: README\.md|docs/.*\.md|.*\.typ
+        pass_filenames: true
+        require_serial: true
+      
+      - id: vale
+        name: Vale Lint
+        entry: bash -c 'vale --config .vale.ini --output=line --sort'
+        language: system
+        types: [text, markdown]
+        files: README\.md|docs/.*\.md|.*\.typ
+        pass_filenames: true
+        require_serial: true
+        additional_dependencies: []

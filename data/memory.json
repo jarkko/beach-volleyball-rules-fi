@@ -91,7 +91,17 @@
     "offender": "tekijä",
     "Beach Volleyball": "beach volley",
     "Official Beach Volleyball Rules": "viralliset beach volleyn säännöt",
-    "FIVB Beach Volleyball": "beach volley"
+    "FIVB Beach Volleyball": "beach volley",
+    "Refereeing Guidelines and Instructions": "Beach volleyn tuomariohjeet ja -ohjeistukset",
+    "Casebook": "Beach volleyn tapausesimerkit",
+    "Guidelines": "Beach volleyn tuomariohjeet ja -ohjeistukset",
+    "Rules": "viralliset beach volleyn säännöt",
+    "indoor volleyball rules": "lentopallon säännöt",
+    "Finnish indoor volleyball rules": "suomenkieliset lentopallon säännöt"
   },
-  "phrases": {}
+  "phrases": {
+    "Beach volleyn tuomariohjeet ja -ohjeistukset": "Beach volleyn tuomariohjeet ja -ohjeistukset",
+    "Beach volleyn tapausesimerkit": "Beach volleyn tapausesimerkit",
+    "viralliset beach volleyn säännöt": "viralliset beach volleyn säännöt"
+  }
 }

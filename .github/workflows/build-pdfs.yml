@@ -18,6 +18,19 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
+      - name: Install Vale
+        uses: errata-ai/vale-action@reviewdog
+        with:
+          version: latest
+
+      - name: Regenerate Vale rules from memory.json
+        run: |
+          pip3 install pyyaml
+          python3 scripts/generate_vale_vocab.py
+
+      - name: Run Vale
+        run: vale --config .vale.ini --output=line --sort README.md docs/ || exit 1
+
       - name: Setup Typst
         uses: typst-community/setup-typst@v4
         with:
