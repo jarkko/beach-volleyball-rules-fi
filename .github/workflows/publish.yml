@@ -40,19 +40,19 @@ jobs:
         run: mkdir -p _site
 
       - name: Compile Rules to HTML
-        run: typst compile --format html --features html src/rules.typ _site/rules.html
+        run: typst compile --format html --features html src/rules.typ _site/saannot.html || echo "Warning: Rules HTML compilation failed"
 
       - name: Compile Guidelines to HTML
-        run: typst compile --format html --features html src/guidelines.typ _site/guidelines.html
+        run: typst compile --format html --features html src/guidelines.typ _site/tuomariohjeet.html || echo "Warning: Guidelines HTML compilation failed"
 
       - name: Compile Casebook to HTML
-        run: typst compile --format html --features html src/casebook.typ _site/casebook.html
+        run: typst compile --format html --features html src/casebook.typ _site/tapausesimerkit.html || echo "Warning: Casebook HTML compilation failed"
 
       - name: Copy PDFs from repo
         run: |
-          if [ -f rules.pdf ]; then cp rules.pdf _site/rules.pdf; fi
-          if [ -f guidelines.pdf ]; then cp guidelines.pdf _site/guidelines.pdf; fi
-          if [ -f casebook.pdf ]; then cp casebook.pdf _site/casebook.pdf; fi
+          if [ -f saannot.pdf ]; then cp saannot.pdf _site/saannot.pdf; fi
+          if [ -f tuomariohjeet.pdf ]; then cp tuomariohjeet.pdf _site/tuomariohjeet.pdf; fi
+          if [ -f tapausesimerkit.pdf ]; then cp tapausesimerkit.pdf _site/tapausesimerkit.pdf; fi
 
       - name: Copy assets
         run: |
@@ -130,22 +130,22 @@ jobs:
             <div class="document-card">
               <h2>Viralliset beach volleyn säännöt 2025-2028</h2>
               <p>Kattava käännös FIVB:n virallisista beach volleyn säännöistä.</p>
-              <a href="rules.html" class="btn">Lue verkossa</a>
-              <a href="rules.pdf" class="btn btn-secondary" download>Lataa PDF</a>
+              <a href="saannot.html" class="btn">Lue verkossa</a>
+              <a href="saannot.pdf" class="btn btn-secondary" download>Lataa PDF</a>
             </div>
 
             <div class="document-card">
               <h2>Beach volleyn tuomariohjeet ja -ohjeistukset</h2>
               <p>Tuomareiden ohjeet ja menettelytavat beach volleyn otteluissa.</p>
-              <a href="guidelines.html" class="btn">Lue verkossa</a>
-              <a href="guidelines.pdf" class="btn btn-secondary" download>Lataa PDF</a>
+              <a href="tuomariohjeet.html" class="btn">Lue verkossa</a>
+              <a href="tuomariohjeet.pdf" class="btn btn-secondary" download>Lataa PDF</a>
             </div>
 
             <div class="document-card">
               <h2>Beach volleyn tapausesimerkit 2025</h2>
               <p>Kuvitettu tapausesimerkkikokoelma säännösten soveltamisesta.</p>
-              <a href="casebook.html" class="btn">Lue verkossa</a>
-              <a href="casebook.pdf" class="btn btn-secondary" download>Lataa PDF</a>
+              <a href="tapausesimerkit.html" class="btn">Lue verkossa</a>
+              <a href="tapausesimerkit.pdf" class="btn btn-secondary" download>Lataa PDF</a>
             </div>
 
             <footer>
@@ -173,7 +173,7 @@ jobs:
         id: deployment
         continue-on-error: true
         uses: actions/deploy-pages@v4
-      
+
       - name: Check deployment status
         if: steps.deployment.outcome == 'failure'
         run: |

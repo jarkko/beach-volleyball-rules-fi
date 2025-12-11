@@ -1,4 +1,4 @@
-# Beach Volleyball Rules - Finnish Translation / beach volleyn säännöt - Suomennos
+# Beach Volleyball Rules - Finnish Translation / Beach volleyn sääntöjen suomennos
 
 **English** | [Suomeksi](#suomi)
 
@@ -13,14 +13,14 @@ Official Finnish translation of the FIVB Beach Volleyball Rules 2025-2028, Refer
 The compiled documents are available in this repository and on [GitHub Pages](https://jarkko.github.io/beach-volleyball-rules-fi/):
 
 **PDFs:**
-- [rules.pdf](https://jarkko.github.io/beach-volleyball-rules-fi/rules.pdf) - Official Beach Volleyball Rules 2025-2028
-- [guidelines.pdf](https://jarkko.github.io/beach-volleyball-rules-fi/guidelines.pdf) - Refereeing Guidelines and Instructions
-- [casebook.pdf](https://jarkko.github.io/beach-volleyball-rules-fi/casebook.pdf) - Casebook
+- [saannot.pdf](https://jarkko.github.io/beach-volleyball-rules-fi/saannot.pdf) - Official Beach Volleyball Rules 2025-2028
+- [tuomariohjeet.pdf](https://jarkko.github.io/beach-volleyball-rules-fi/tuomariohjeet.pdf) - Refereeing Guidelines and Instructions
+- [tapausesimerkit.pdf](https://jarkko.github.io/beach-volleyball-rules-fi/tapausesimerkit.pdf) - Casebook
 
 **HTML (automatically published to GitHub Pages on each push):**
-- [Rules (HTML)](https://jarkko.github.io/beach-volleyball-rules-fi/rules.html)
-- [Guidelines (HTML)](https://jarkko.github.io/beach-volleyball-rules-fi/guidelines.html)
-- [Casebook (HTML)](https://jarkko.github.io/beach-volleyball-rules-fi/casebook.html)
+- [Rules (HTML)](https://jarkko.github.io/beach-volleyball-rules-fi/saannot.html)
+- [Guidelines (HTML)](https://jarkko.github.io/beach-volleyball-rules-fi/tuomariohjeet.html)
+- [Casebook (HTML)](https://jarkko.github.io/beach-volleyball-rules-fi/tapausesimerkit.html)
 
 ### Structure
 
@@ -37,17 +37,17 @@ The compiled documents are available in this repository and on [GitHub Pages](ht
 The documents are written in [Typst](https://typst.app/). To compile to PDF:
 
 ```bash
-typst compile src/rules.typ rules.pdf
-typst compile src/guidelines.typ guidelines.pdf
-typst compile src/casebook.typ casebook.pdf
+typst compile src/rules.typ saannot.pdf
+typst compile src/guidelines.typ tuomariohjeet.pdf
+typst compile src/casebook.typ tapausesimerkit.pdf
 ```
 
 To compile to HTML (experimental feature):
 
 ```bash
-typst compile --format html --features html src/rules.typ rules.html
-typst compile --format html --features html src/guidelines.typ guidelines.html
-typst compile --format html --features html src/casebook.typ casebook.html
+typst compile --format html --features html src/rules.typ saannot.html
+typst compile --format html --features html src/guidelines.typ tuomariohjeet.html
+typst compile --format html --features html src/casebook.typ tapausesimerkit.html
 ```
 
 **Automatic Publishing:** The documents are automatically compiled to both PDF and HTML and published to GitHub Pages on each push to the `main` branch.
@@ -88,14 +88,14 @@ Virallinen suomennos FIVB:n beach volleyn säännöistä 2025-2028, tuomariohjei
 Käännettyjä dokumentteja on saatavilla tässä repositoriossa ja [GitHub Pagesissa](https://jarkko.github.io/beach-volleyball-rules-fi/):
 
 **PDF-tiedostot:**
-- [rules.pdf](https://jarkko.github.io/beach-volleyball-rules-fi/rules.pdf) - Viralliset beach volleyn säännöt 2025-2028
-- [guidelines.pdf](https://jarkko.github.io/beach-volleyball-rules-fi/guidelines.pdf) - Beach volleyn tuomariohjeet ja -ohjeistukset
-- [casebook.pdf](https://jarkko.github.io/beach-volleyball-rules-fi/casebook.pdf) - Beach volleyn tapausesimerkit 2025
+- [saannot.pdf](https://jarkko.github.io/beach-volleyball-rules-fi/saannot.pdf) - Viralliset beach volleyn säännöt 2025-2028
+- [tuomariohjeet.pdf](https://jarkko.github.io/beach-volleyball-rules-fi/tuomariohjeet.pdf) - Beach volleyn tuomariohjeet ja -ohjeistukset
+- [tapausesimerkit.pdf](https://jarkko.github.io/beach-volleyball-rules-fi/tapausesimerkit.pdf) - Beach volleyn tapausesimerkit 2025
 
 **HTML (julkaistaan automaattisesti GitHub Pagesiin jokaisella push-operaatiolla):**
-- [Säännöt (HTML)](https://jarkko.github.io/beach-volleyball-rules-fi/rules.html)
-- [Tuomariohjeet (HTML)](https://jarkko.github.io/beach-volleyball-rules-fi/guidelines.html)
-- [Beach volleyn tapausesimerkit (HTML)](https://jarkko.github.io/beach-volleyball-rules-fi/casebook.html)
+- [Säännöt (HTML)](https://jarkko.github.io/beach-volleyball-rules-fi/saannot.html)
+- [Tuomariohjeet (HTML)](https://jarkko.github.io/beach-volleyball-rules-fi/tuomariohjeet.html)
+- [Beach volleyn tapausesimerkit (HTML)](https://jarkko.github.io/beach-volleyball-rules-fi/tapausesimerkit.html)
 
 ### Rakenne
 
@@ -112,22 +112,22 @@ Käännettyjä dokumentteja on saatavilla tässä repositoriossa ja [GitHub Page
 Dokumentit on kirjoitettu [Typst](https://typst.app/)-muodossa. PDF-tiedostojen kääntäminen:
 
 ```bash
-typst compile src/rules.typ rules.pdf
-typst compile src/guidelines.typ guidelines.pdf
-typst compile src/casebook.typ casebook.pdf
+typst compile src/rules.typ saannot.pdf
+typst compile src/guidelines.typ tuomariohjeet.pdf
+typst compile src/casebook.typ tapausesimerkit.pdf
 ```
 
 HTML-tiedostojen kääntäminen (kokeellinen ominaisuus):
 
 ```bash
-typst compile --format html --features html src/rules.typ rules.html
-typst compile --format html --features html src/guidelines.typ guidelines.html
-typst compile --format html --features html src/casebook.typ casebook.html
+typst compile --format html --features html src/rules.typ saannot.html
+typst compile --format html --features html src/guidelines.typ tuomariohjeet.html
+typst compile --format html --features html src/casebook.typ tapausesimerkit.html
 ```
 
 **Automaattinen julkaisu:** Dokumentit käännetään automaattisesti sekä PDF- että HTML-muotoon ja julkaistaan GitHub Pagesiin jokaisella `main`-haaraan tehdyssä push-operaatiossa.
 
-### Käännöstyönkulku
+### Käännösprosessi
 
 Tämä projekti käyttää oppimispohjaista käännöstapaa:
 - Terminologia ylläpidetään tiedostossa `data/memory.json`

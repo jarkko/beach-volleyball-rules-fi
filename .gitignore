@@ -1,9 +1,9 @@
 # Generated PDFs (exclude, but allow source PDFs and final outputs)
 *.pdf
 !documents/**/*.pdf
-!rules.pdf
-!guidelines.pdf
-!casebook.pdf
+!saannot.pdf
+!tuomariohjeet.pdf
+!tapausesimerkit.pdf
 
 # Python
 __pycache__/
