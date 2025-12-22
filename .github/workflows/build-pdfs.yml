@@ -30,7 +30,13 @@ jobs:
           python3 scripts/generate_vale_vocab.py
 
       - name: Run Vale
-        run: vale sync && vale --config .vale.ini --output=line --sort README.md docs/ src/ src-rules/ || exit 1
+        run: |
+          vale sync
+          # Check Finnish content only, exclude English corpus
+          vale --config .vale.ini --output=line --sort \
+            --glob='!corpus/english/**' \
+            --glob='!documents/english/**' \
+            README.md docs/ src/ src-rules/ || exit 1
 
       - name: Setup Typst
         uses: typst-community/setup-typst@v4
