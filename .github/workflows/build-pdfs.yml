@@ -30,7 +30,7 @@ jobs:
           python3 scripts/generate_vale_vocab.py
 
       - name: Run Vale
-        run: vale sync && vale --config .vale.ini --output=line --sort README.md docs/ || exit 1
+        run: vale sync && vale --config .vale.ini --output=line --sort README.md docs/ src/ src-rules/ || exit 1
 
       - name: Setup Typst
         uses: typst-community/setup-typst@v4
