@@ -17,10 +17,8 @@ The compiled documents are available in this repository and on [GitHub Pages](ht
 - [tuomariohjeet.pdf](https://jarkko.github.io/beach-volleyball-rules-fi/tuomariohjeet.pdf) - Refereeing Guidelines and Instructions
 - [tapausesimerkit.pdf](https://jarkko.github.io/beach-volleyball-rules-fi/tapausesimerkit.pdf) - Casebook
 
-**HTML (automatically published to GitHub Pages on each push):**
-- [Rules (HTML)](https://jarkko.github.io/beach-volleyball-rules-fi/saannot.html)
-- [Guidelines (HTML)](https://jarkko.github.io/beach-volleyball-rules-fi/tuomariohjeet.html)
-- [Casebook (HTML)](https://jarkko.github.io/beach-volleyball-rules-fi/tapausesimerkit.html)
+**HTML Documentation (automatically published to GitHub Pages via MkDocs):**
+- [Documentation Site](https://jarkko.github.io/beach-volleyball-rules-fi/)
 
 ### Structure
 
@@ -42,13 +40,7 @@ typst compile src/guidelines.typ tuomariohjeet.pdf
 typst compile src/casebook.typ tapausesimerkit.pdf
 ```
 
-To compile to HTML (experimental feature):
-
-```bash
-typst compile --format html --features html src/rules.typ saannot.html
-typst compile --format html --features html src/guidelines.typ tuomariohjeet.html
-typst compile --format html --features html src/casebook.typ tapausesimerkit.html
-```
+**Note:** HTML compilation via Typst is currently not supported as it's under active development and incompatible with the current document structure (see [Typst issue #5512](https://github.com/typst/typst/issues/5512)). HTML documentation is available via [MkDocs](https://www.mkdocs.org/) from the `docs/` directory.
 
 **Automatic Publishing:** The documents are automatically compiled to both PDF and HTML and published to GitHub Pages on each push to the `main` branch.
 
@@ -92,10 +84,8 @@ Käännettyjä dokumentteja on saatavilla tässä repositoriossa ja [GitHub Page
 - [tuomariohjeet.pdf](https://jarkko.github.io/beach-volleyball-rules-fi/tuomariohjeet.pdf) - Beach volleyn tuomariohjeet ja -ohjeistukset
 - [tapausesimerkit.pdf](https://jarkko.github.io/beach-volleyball-rules-fi/tapausesimerkit.pdf) - Beach volleyn tapausesimerkit 2025
 
-**HTML (julkaistaan automaattisesti GitHub Pagesiin jokaisella push-operaatiolla):**
-- [Säännöt (HTML)](https://jarkko.github.io/beach-volleyball-rules-fi/saannot.html)
-- [Tuomariohjeet (HTML)](https://jarkko.github.io/beach-volleyball-rules-fi/tuomariohjeet.html)
-- [Beach volleyn tapausesimerkit (HTML)](https://jarkko.github.io/beach-volleyball-rules-fi/tapausesimerkit.html)
+**HTML-dokumentaatio (julkaistaan automaattisesti GitHub Pagesiin MkDocs:lla):**
+- [Dokumentaatiosivusto](https://jarkko.github.io/beach-volleyball-rules-fi/)
 
 ### Rakenne
 
@@ -117,15 +107,9 @@ typst compile src/guidelines.typ tuomariohjeet.pdf
 typst compile src/casebook.typ tapausesimerkit.pdf
 ```
 
-HTML-tiedostojen kääntäminen (kokeellinen ominaisuus):
+**Huomio:** HTML-kääntäminen Typst:lla ei ole tällä hetkellä tuettu, koska se on kehityksessä ja yhteensopimaton nykyisen dokumenttirakenteen kanssa (katso [Typst issue #5512](https://github.com/typst/typst/issues/5512)). HTML-dokumentaatio on saatavilla [MkDocs](https://www.mkdocs.org/):n kautta `docs/`-kansiosta.
 
-```bash
-typst compile --format html --features html src/rules.typ saannot.html
-typst compile --format html --features html src/guidelines.typ tuomariohjeet.html
-typst compile --format html --features html src/casebook.typ tapausesimerkit.html
-```
-
-**Automaattinen julkaisu:** Dokumentit käännetään automaattisesti sekä PDF- että HTML-muotoon ja julkaistaan GitHub Pagesiin jokaisella `main`-haaraan tehdyssä push-operaatiossa.
+**Automaattinen julkaisu:** Dokumentit käännetään automaattisesti PDF-muotoon ja julkaistaan GitHub Pagesiin jokaisella `main`-haaraan tehdyssä push-operaatiossa. HTML-dokumentaatio generoidaan MkDocs:lla `docs/`-kansiosta.
 
 ### Käännösprosessi
 

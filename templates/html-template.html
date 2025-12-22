@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html lang="fi">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>$title$</title>
+  <style>
+    :root {
+      --fivb-blue: #003399;
+    }
+
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+      max-width: 1200px;
+      margin: 0 auto;
+      padding: 2rem;
+      line-height: 1.6;
+      color: #333;
+      position: relative;
+    }
+
+    /* Main content area with right margin for notes */
+    .content {
+      margin-right: 300px;
+      padding-right: 2rem;
+    }
+
+    /* Margin references */
+    .margin-ref {
+      position: absolute;
+      right: 0;
+      width: 280px;
+      font-size: 0.75em;
+      font-weight: bold;
+      color: var(--fivb-blue);
+      line-height: 1.4;
+    }
+
+    /* Rule references */
+    .rule-ref {
+      color: var(--fivb-blue);
+      text-decoration: none;
+    }
+
+    .rule-ref:hover {
+      text-decoration: underline;
+    }
+
+    /* Headings */
+    h1 {
+      color: var(--fivb-blue);
+      border-bottom: 3px solid var(--fivb-blue);
+      padding-bottom: 0.5rem;
+      margin-top: 2em;
+    }
+
+    h2 {
+      color: var(--fivb-blue);
+      font-size: 1.3em;
+      margin-top: 1.5em;
+    }
+
+    /* Rule blocks */
+    .rule {
+      border-top: 1px solid var(--fivb-blue);
+      padding-top: 1em;
+      margin: 2em 0;
+    }
+
+    .rule-title {
+      color: var(--fivb-blue);
+      font-size: 1.2em;
+      font-weight: bold;
+      margin-bottom: 0.5em;
+    }
+
+    .subrule-title {
+      font-weight: bold;
+      margin: 1.2em 0 0.3em 0;
+    }
+
+    .rule-item {
+      margin-left: 1em;
+      text-indent: -1em;
+    }
+
+    .rule-item .rule-number {
+      font-weight: bold;
+    }
+
+    /* Diagrams */
+    .diagram {
+      border-top: 1px solid var(--fivb-blue);
+      padding-top: 1em;
+      margin: 2em 0;
+    }
+
+    .diagram-title {
+      color: var(--fivb-blue);
+      font-size: 1.2em;
+      font-weight: bold;
+      margin-bottom: 0.5em;
+    }
+
+    /* Tables */
+    table {
+      border-collapse: collapse;
+      width: 100%;
+      margin: 1em 0;
+    }
+
+    th, td {
+      border: 1px solid #ddd;
+      padding: 0.5em;
+      text-align: left;
+    }
+
+    th {
+      background-color: #f9f9f9;
+      font-weight: bold;
+    }
+
+    /* Print styles */
+    @media print {
+      .margin-ref {
+        position: absolute;
+        right: 0;
+        width: 200px;
+      }
+
+      .content {
+        margin-right: 220px;
+      }
+    }
+  </style>
+</head>
+<body>
+  <div class="content">
+    $body$
+  </div>
+</body>
+</html>
+
+

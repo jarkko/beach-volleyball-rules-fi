@@ -39,17 +39,27 @@ jobs:
       - name: Create output directory
         run: mkdir -p _site
 
-      - name: Compile Rules to HTML
-        run: typst compile --format html --features html src/rules.typ _site/saannot.html || echo "Warning: Rules HTML compilation failed"
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
 
-      - name: Compile Guidelines to HTML
-        run: typst compile --format html --features html src/guidelines.typ _site/tuomariohjeet.html || echo "Warning: Guidelines HTML compilation failed"
+      - name: Install MkDocs and dependencies
+        run: |
+          pip install mkdocs-material mkdocs-minify-plugin
 
-      - name: Compile Casebook to HTML
-        run: typst compile --format html --features html src/casebook.typ _site/tapausesimerkit.html || echo "Warning: Casebook HTML compilation failed"
+      - name: Build MkDocs site
+        run: mkdocs build --site-dir _site
 
       - name: Copy PDFs from repo
         run: |
+          if [ -f saannot.pdf ]; then cp saannot.pdf _site/saannot.pdf; fi
+          if [ -f tuomariohjeet.pdf ]; then cp tuomariohjeet.pdf _site/tuomariohjeet.pdf; fi
+          if [ -f tapausesimerkit.pdf ]; then cp tapausesimerkit.pdf _site/tapausesimerkit.pdf; fi
+
+      - name: Copy PDFs to site root
+        run: |
+          mkdir -p _site
           if [ -f saannot.pdf ]; then cp saannot.pdf _site/saannot.pdf; fi
           if [ -f tuomariohjeet.pdf ]; then cp tuomariohjeet.pdf _site/tuomariohjeet.pdf; fi
           if [ -f tapausesimerkit.pdf ]; then cp tapausesimerkit.pdf _site/tapausesimerkit.pdf; fi
@@ -58,7 +68,7 @@ jobs:
         run: |
           cp -r src/assets _site/assets || true
 
-      - name: Create HTML index
+      - name: Create landing page index
         run: |
           cat > _site/index.html << 'EOF'
           <!DOCTYPE html>
@@ -130,21 +140,21 @@ jobs:
             <div class="document-card">
               <h2>Viralliset beach volleyn säännöt 2025-2028</h2>
               <p>Kattava käännös FIVB:n virallisista beach volleyn säännöistä.</p>
-              <a href="saannot.html" class="btn">Lue verkossa</a>
+              <a href="/beach/rules/" class="btn">Lue verkossa</a>
               <a href="saannot.pdf" class="btn btn-secondary" download>Lataa PDF</a>
             </div>
 
             <div class="document-card">
               <h2>Beach volleyn tuomariohjeet ja -ohjeistukset</h2>
               <p>Tuomareiden ohjeet ja menettelytavat beach volleyn otteluissa.</p>
-              <a href="tuomariohjeet.html" class="btn">Lue verkossa</a>
+              <a href="/beach/guidelines/" class="btn">Lue verkossa</a>
               <a href="tuomariohjeet.pdf" class="btn btn-secondary" download>Lataa PDF</a>
             </div>
 
             <div class="document-card">
               <h2>Beach volleyn tapausesimerkit 2025</h2>
               <p>Kuvitettu tapausesimerkkikokoelma säännösten soveltamisesta.</p>
-              <a href="tapausesimerkit.html" class="btn">Lue verkossa</a>
+              <a href="/beach/casebook/" class="btn">Lue verkossa</a>
               <a href="tapausesimerkit.pdf" class="btn btn-secondary" download>Lataa PDF</a>
             </div>
 

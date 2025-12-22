@@ -40,3 +40,6 @@ for filename in os.listdir(chapters_dir):
     if filename.endswith(".typ"):
         process_file(os.path.join(chapters_dir, filename))
 
+
+
+

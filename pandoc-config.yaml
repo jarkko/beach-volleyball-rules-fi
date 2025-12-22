@@ -1,0 +1,24 @@
+# Pandoc configuration for Beach Volleyball Rules
+
+# PDF/LaTeX options
+pdf-engine: xelatex
+pdf-engine-opt: -shell-escape
+
+# Variables for LaTeX template
+variables:
+  geometry: margin=2.5cm,right=5cm,top=2.5cm,bottom=2.5cm
+  colorlinks: true
+  linkcolor: blue
+
+# Filters
+filters:
+  - filters/margin-refs.lua
+
+# Extensions
+from: markdown+smart+raw_html+hard_line_breaks
+to: html5
+
+# Template paths (relative to project root)
+template: templates/html-template.html
+
+

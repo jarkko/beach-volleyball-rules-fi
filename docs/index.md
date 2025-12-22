@@ -12,3 +12,6 @@ Tämä sivusto sisältää suomenkieliset käännökset Beach Volleyn virallisis
 
 Tämä projekti käyttää [MkDocs](https://www.mkdocs.org/)-työkalua dokumentaation hallintaan. Lähdemateriaali on kirjoitettu Markdown-muodossa `docs`-hakemistoon.
 
+
+
+

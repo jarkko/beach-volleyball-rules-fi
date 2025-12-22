@@ -27,3 +27,6 @@ def clean_file(path):
 if __name__ == "__main__":
     clean_file("corpus/finnish/Saannot-A5.txt")
 
+
+
+

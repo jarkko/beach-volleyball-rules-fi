@@ -34,3 +34,6 @@ Esimerkiksi, jos haluat tietää miten "interference" on käännetty:
 2. Katso asiayhteys (esim. sääntökohta 11.2).
 3. Etsi vastaava kohta tiedostosta `corpus/finnish/Saannot-A5.txt`.
 
+
+
+

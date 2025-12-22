@@ -1,0 +1,48 @@
+/* Additional CSS for margin references in HTML output */
+
+/* Container for content with margin space */
+.content-with-margins {
+  position: relative;
+  margin-right: 300px;
+  padding-right: 2rem;
+}
+
+/* Margin references positioned absolutely */
+.margin-ref {
+  position: absolute;
+  right: 0;
+  width: 280px;
+  font-size: 0.75em;
+  font-weight: bold;
+  color: #003399;
+  line-height: 1.4;
+  text-align: left;
+}
+
+/* Responsive: hide margin refs on small screens */
+@media (max-width: 1200px) {
+  .content-with-margins {
+    margin-right: 0;
+    padding-right: 0;
+  }
+
+  .margin-ref {
+    display: none;
+  }
+}
+
+/* Print styles */
+@media print {
+  .margin-ref {
+    position: absolute;
+    right: 0;
+    width: 200px;
+    font-size: 0.7em;
+  }
+
+  .content-with-margins {
+    margin-right: 220px;
+  }
+}
+
+
