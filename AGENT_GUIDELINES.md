@@ -21,10 +21,10 @@ This repository now has **automatic terminology validation** that agents MUST us
    ```bash
    # Check a specific term
    python3 scripts/get_term.py "Beach Volleyball"
-   
+
    # Get all document names (critical!)
    python3 scripts/get_term.py --doc-names
-   
+
    # List all terms
    python3 scripts/get_term.py --list
    ```
@@ -33,7 +33,7 @@ This repository now has **automatic terminology validation** that agents MUST us
    ```bash
    # Validate text string
    echo "Tapauskirja" | python3 scripts/validate_terminology.py
-   
+
    # Validate a file
    python3 scripts/validate_terminology.py README.md
    ```
@@ -70,7 +70,7 @@ These are the EXACT forms that must be used (from corpus):
 # Look up a term
 python3 scripts/get_term.py "Refereeing Guidelines"
 
-# Check document names  
+# Check document names
 python3 scripts/get_term.py --doc-names
 
 # Validate before committing
