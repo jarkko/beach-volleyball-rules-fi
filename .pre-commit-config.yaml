@@ -1,4 +1,14 @@
 repos:
+  - repo: https://github.com/pre-commit/pre-commit-hooks
+    rev: v4.5.0
+    hooks:
+      - id: trailing-whitespace
+        name: Trim trailing whitespace
+        exclude: ^(corpus/|documents/)
+      - id: end-of-file-fixer
+        name: Fix end of files
+        exclude: ^(corpus/|documents/)
+  
   - repo: local
     hooks:
       - id: validate-terminology
@@ -9,7 +19,7 @@ repos:
         files: README\.md|docs/.*\.md|.*\.typ
         pass_filenames: true
         require_serial: true
-      
+
       - id: vale
         name: Vale Lint
         entry: bash -c 'vale --config .vale.ini --output=line --sort'

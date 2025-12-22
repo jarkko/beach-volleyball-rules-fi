@@ -12,7 +12,7 @@
 [subrule,number="1.1",title="MITAT"]
 ====
 
-  
+
 
 1.1.1 Pelikenttä on suorakulmio kooltaan 16 x 8 m. Sitä ympäröi vapaa-alue, joka on vähintään 3 m leveä kaikilla sivuilla.
 
@@ -20,7 +20,7 @@
 
   Vapaa pelitila on pelialueen yläpuolella oleva tila, jossa ei saa olla mitään esteitä. Vapaan pelitilan on oltava vähintään 7 m korkea pelialustasta mitattuna.
 
-  
+
 
 1.1.2 FIVB:n, maailmanlaajuisissa ja virallisissa kilpailuissa vapaa-alue on vähintään 5 m ja enintään 6 m pääty- ja sivurajoista. Vapaan pelitilan on oltava vähintään 12,5 m korkea pelialustasta mitattuna.
 
@@ -29,23 +29,23 @@
 [subrule,number="1.2",title="PELIALUSTA"]
 ====
 
-  
+
 
 1.2.1 Alustan on oltava tasoitettua hiekkaa, mahdollisimman tasainen ja yhtenäinen, vapaa kivistä, simpukankuorista ja kaikesta muusta, mikä voi aiheuttaa loukkaantumisriskin pelaajille.
 
-  
+
 
 1.2.2 FIVB:n, maailmanlaajuisissa ja virallisissa kilpailuissa hiekan on oltava vähintään 40 cm syvää ja koostuttava hienojakoisista, löyhästi pakkautuneista rakeista.
 
-  
+
 
 1.2.3 Pelialusta ei saa aiheuttaa loukkaantumisvaaraa pelaajille.
 
-  
+
 
 1.2.4 FIVB:n, maailmanlaajuisissa ja virallisissa kilpailuissa hiekka on myös seulottava sopivaan raekokoon, ei liian karkeaksi, ja sen on oltava vapaa kivistä ja vaarallisista hiukkasista. Se ei saa olla liian hienoa, jotta se ei aiheuta pölyä ja tartu ihoon.
 
-  
+
 
 1.2.5 FIVB:n, maailmanlaajuisissa ja virallisissa kilpailuissa suositellaan keskuskentän peittämistä pressulla sateen varalta.
 
@@ -54,13 +54,13 @@
 [subrule,number="1.3",title="KENTÄN RAJAT"]
 ====
 
-  
+
 
 1.3.1 Kaikki rajat ovat 5 cm leveitä. Rajojen värin on erotuttava selvästi hiekan väristä.
 
   {.refs data-refs="D2"}
 
-  
+
 
 1.3.2 Rajaviivat
 
@@ -75,7 +75,7 @@
 
   Pelialueella on vain pelikenttä, aloitusalue ja vapaa-alue, joka ympäröi pelikenttää.
 
-  
+
 
 1.4.1 Aloitusalue on 8 m leveä alue päätyrajan takana, joka ulottuu vapaa-alueen reunaan asti.
  #label("rule-1.4.2")
@@ -106,7 +106,7 @@
 [subrule,number="2.1",title="VERKON KORKEUS"]
 ====
 
-  
+
 
 2.1.1 Pystysuoraan kentän keskikohdan yläpuolelle asetetaan verkko, jonka yläreuna on 2,43 m korkeudella miehillä ja 2,24 m naisilla.
 
@@ -120,7 +120,7 @@
     [12 vuotta ja alle], [2.00 m], [2.00 m],
   )
 
-  
+
 
 2.1.2 Verkon korkeus mitataan pelikentän keskeltä mittatankolla. Verkon korkeuden (molempien sivurajojen kohdalla) on oltava täsmälleen sama, eikä se saa ylittää virallista korkeutta enempää kuin 2 cm.
 
@@ -167,13 +167,13 @@
 ====
 
   {.refs data-refs="D2,D3"}
-  
+
 
 2.5.1 Verkkoa kannattelevat pylväät sijoitetaan 0,70-1,00 m etäisyydelle kummastakin sivurajasta. Ne ovat 2,55 m korkeita ja mieluiten säädettäviä.
 
   FIVB:n, maailmanlaajuisissa ja virallisissa kilpailuissa verkkoa kannattelevat pylväät sijoitetaan 1 m etäisyydelle sivurajojen ulkopuolelle.
 
-  
+
 
 2.5.2 Pylväiden on oltava pyöreitä ja sileitä, ja ne on kiinnitettävä maahan ilman vaijereita. Ei saa olla vaarallisia tai estäviä laitteita. Pylväiden on oltava pehmustettuja.
 

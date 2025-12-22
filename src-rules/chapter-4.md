@@ -28,19 +28,19 @@
 
 #subrule("8.4", "PALLO \"ULKONA\"")[
   Pallo on "ulkona", kun se:
-  
+
 
 8.4.1 putoaa maahan kokonaan rajojen ulkopuolelle (koskettamatta niitä);
 
   {.refs data-refs="1.3.2"}", "D10 (2)")
 
-  
+
 
 8.4.2 koskettaa esinettä kentän ulkopuolella tai pelin ulkopuolella olevaa henkilöä;
 
   {.refs data-refs=""}", "D10 (4)")
 
-  
+
 
 8.4.3 koskettaa antenneja, köysiä, pylväitä tai verkkoa itseään sivunauhojen ulkopuolella;
 
@@ -51,7 +51,7 @@
   )[ylittää verkon pystytason osittain tai kokonaan ylityskaistan ulkopuolelta aloituksessa tai joukkueen toisen tai kolmannen lyönnin aikana (poikkeus: Sääntö 10.1.2).]
   {.refs data-refs="2.3,10.1.2.2,D4a"}", "D10 (4)")
 
-  
+
 
 8.4.5 ylittää kokonaan verkon alla olevan tilan.
 
@@ -77,14 +77,14 @@
 
   Näihin joukkueen lyönteihin lasketaan paitsi pelaajien tahalliset lyönnit, myös tahattomat kosketukset palloon.
 
-  
+
 
 9.1.1 PERÄKKÄISET KOSKETUKSET
 
   Pelaaja ei saa koskettaa palloa kaksi kertaa peräkkäin (poikkeukset, katso Säännöt: 9.2.2.2, 9.2.2.3, 14.2 ja 14.4.2).
   {.refs data-refs="9.2.2.1,14.2,14.4.2"}")
 
-  
+
 
 9.1.2 SAMANAIKAISET KOSKETUKSET
 
@@ -111,7 +111,7 @@
     "9.1.2.4",
   )[Jos pallo osuu antenniin kahden vastustajan samanaikaisen, verkon päällä tapahtuneen lyönnin jälkeen, palloralli pelataan uudelleen.]
 
-  
+
 
 9.1.3 AVUSTETTU LYÖNTI
 
@@ -124,24 +124,24 @@
 [subrule,number="9.2",title="LYÖNNIN OMINAISUUDET"]
 ====
 
-  
+
 
 9.2.1 Pallo saa koskettaa mitä tahansa kehon osaa.
 
-  
+
 
 9.2.2 Palloa ei saa ottaa kopiksi eikä heittää. Se voi kimmota mihin suuntaan tahansa.
 
   {.refs data-refs="9.3.3"}
 
-  
+
 
 9.2.2.1 Samanaikaiset kosketukset:
 
   Pallo voi koskettaa useita kehon osia, edellyttäen että kosketukset tapahtuvat samanaikaisesti.
   {.refs data-refs="9.2.1"}
 
-  
+
 
 9.2.2.2 Peräkkäiset kosketukset:
 
@@ -150,7 +150,7 @@
   Jos joukkueen ensimmäinen lyönti suoritetaan sormilyöntinä, pallo EI saa koskettaa sormia/käsiä peräkkäin, vaikka kosketukset tapahtuisivat yhden suorituksen aikana.
   {.refs data-refs="9.3.4"}
 
-  
+
 
 9.2.2.3 Poikkeukset:
 
@@ -162,7 +162,7 @@
 [subrule,number="9.3",title="VIRHEET PALLON PELAAMISESSA"]
 ====
 
-  
+
 
 9.3.1 NELJÄ LYÖNTIÄ: Joukkue lyö palloa neljä kertaa ennen sen palauttamista.
 
@@ -178,7 +178,7 @@
   )[KOPPI: Pallo otetaan kopiksi ja/tai heitetään; se ei kimpoa lyönnistä. (Poikkeukset: Säännöt 9.2.2.1, 9.2.2.2).]
   {.refs data-refs="9.2.2"}")
 
-  
+
 
 9.3.4 KAKSOISKOSKETUS: Pelaaja lyö palloa kaksi kertaa peräkkäin tai pallo koskettaa eri kehon osia peräkkäin.
 
@@ -197,15 +197,15 @@
   #r(
     "10.1.1",
   )[Pallo, joka lähetetään vastustajan kentälle, on mentävä verkon yli ylityskaistan kautta. Ylityskaista on osa verkon pystytasoa ja sitä rajoittavat:]
-  
+
 
 10.1.1.1 alhaalta verkon yläreuna;
 
-  
+
 
 10.1.1.2 sivuilta antennit ja niiden kuvitteelliset jatkeet;
 
-  
+
 
 10.1.1.3 ylhäältä katto tai muu este (jos on).
 
@@ -213,17 +213,17 @@
     "10.1.2",
   )[Pallo, joka on ylittänyt verkkotason (kokonaan tai osittain) ylityskaistan ulkopuolelta, voidaan palauttaa peliin joukkuetoverin toimesta, edellyttäen että:]
   {.refs data-refs="D5b"}
-  
+
 
 10.1.2.1 joukkue ei ole käyttänyt kolmea lyöntiään;
 
-  
+
 
 10.1.2.2 pallo koskettaa verkkotasoa ylittäessään jälleen ylityskaistan ulkopuolella samalla puolella kenttää.
 
   Vastustajajoukkue ei saa estää tätä toimintaa.
 
-  
+
 
 10.1.3 Pallo on "ulkona", kun se ylittää verkon kokonaan alapuolitse.
 
@@ -246,11 +246,11 @@
 [subrule,number="10.3",title="PALLO VERKOSSA"]
 ====
 
-  
+
 
 10.3.1 Verkkoon osunutta palloa saa pelata, kunhan joukkueen kolmea lyöntiä ei ole käytetty.
 
-  
+
 
 10.3.2 Jos pallo repii verkon tai pudottaa sen, palloralli mitätöidään ja pelataan uudelleen.
 
@@ -288,7 +288,7 @@
 [subrule,number="11.3",title="VERKKOKOSKETUS"]
 ====
 
-  
+
 
 11.3.1 Pelaajan verkkokosketus antennien välissä pallon pelaamisen aikana on virhe.
 
@@ -299,7 +299,7 @@
     "11.3.2",
   )[Pelaajat saavat koskettaa pylväitä, köysiä tai mitä tahansa esinettä antennien ulkopuolella, mukaan lukien verkkoa itseään, edellyttäen ettei se häiritse peliä.]
 
-  
+
 
 11.3.3 Kun pallo lyödään verkkoon, ja se aiheuttaa verkon osumisen vastustajaan, virhettä ei tuomita.
 
@@ -313,7 +313,7 @@
   )[Pelaaja koskettaa palloa tai vastustajaa vastustajan tilassa ennen vastustajan hyökkäyslyöntiä tai sen aikana.]
   {.refs data-refs="11.1.1"}")
 
-  
+
 
 11.4.2 Pelaaja häiritsee vastustajan peliä tunkeutuessaan vastustajan tilaan verkon alla.
 
@@ -336,7 +336,7 @@
 [subrule,number="12.1",title="ERÄN ENSIMMÄINEN ALOITUSSYÖTTÖ"]
 ====
 
-  
+
 
 12.1.1 Erän ensimmäisen aloitussyötön suorittaa joukkue, joka on saanut siihen oikeuden arvonnassa.
 
@@ -347,17 +347,17 @@
 [subrule,number="12.2",title="SYÖTTÖJÄRJESTYS"]
 ====
 
-  
+
 
 12.2.1 Pelaajien on noudatettava pöytäkirjaan merkittyä syöttöjärjestystä.
 
   {.refs data-refs="7.6"}
 
-  
+
 
 12.2.2 Erän ensimmäisen aloitussyötön jälkeen syöttävä pelaaja määräytyy seuraavasti:
 
-  
+
 
 12.2.2.1 kun aloitussyötön suorittanut joukkue voittaa pallorallin, sama pelaaja syöttää uudelleen.
 
@@ -384,7 +384,7 @@
   )[Aloitussyöttö on suoritettava lyömällä palloa yhdellä kädellä tai käsivarren osalla sen jälkeen, kun se on heitetty tai irrotettu kädestä.]
   {.refs data-refs=""}")
 
-  
+
 
 12.4.2 Vain yksi pallon heitto tai irrotus on sallittu. Pallon liikuttelu käsissä on sallittua.
 
@@ -393,13 +393,13 @@
   )[Syöttäjä saa liikkua vapaasti aloitusalueella. Syöttöhetkellä tai ponnistuksessa hyppysyöttöön syöttäjä ei saa koskettaa kenttää (päätyraja mukaan lukien) eikä lattiaa aloitusalueen ulkopuolella. Lyönnin jälkeen hän saa astua tai laskeutua aloitusalueen ulkopuolelle tai kentälle.]
   {.refs data-refs="1.4.2"}", "D10 (4)")
 
-  
+
 
 12.4.4 Syöttäjän on lyötävä palloa 5 sekunnin kuluessa päätuomarin vihellyksestä.
 
   {.refs data-refs=""}")
 
-  
+
 
 12.4.5 Ennen vihellystä suoritettu syöttö mitätöidään ja uusitaan.
 
@@ -409,7 +409,7 @@
     "12.4.6",
   )[Jos pallo, sen jälkeen kun syöttäjä on heittänyt tai irrottanut sen, putoaa maahan ilman että syöttäjä koskettaa tai ottaa sen kiinni, se katsotaan suoritetuksi syötöksi.]
 
-  
+
 
 12.4.7 Uutta syöttöyritystä ei sallita.
 
@@ -419,7 +419,7 @@
 ====
 
   {.refs data-refs=""}")
-  
+
 
 12.5.1 Syöttävän joukkueen pelaaja ei saa peittää vastustajalta näkyvyyttä syöttäjään tai pallon lentorataan.
 
@@ -427,7 +427,7 @@
     "12.5.2",
   )[Syöttävän joukkueen pelaaja tekee peittämisen, jos hän heiluttaa käsiään, hyppii tai liikkuu sivuttain syötön aikana, tai seisoo ryhmässä peittääkseen pallon lentoradan.]
 
-  
+
 
 12.5.3 Vastaanottavan joukkueen pyynnöstä pelaajan on siirryttävä sivusuunnassa.
 
@@ -436,38 +436,38 @@
 [subrule,number="12.6",title="VIRHEET ALOITUSLYÖNNISSÄ"]
 ====
 
-  
+
 
 12.6.1 Aloitusvirheet:
 
   Seuraavat virheet johtavat syötön vaihtumiseen. Syöttäjä:
-  
+
 
 12.6.1.1 rikkoo syöttöjärjestystä;
 
   {.refs data-refs="12.2"}")
-  
+
 
 12.6.1.2 ei suorita aloitusta oikein.
 
   {.refs data-refs="12.4"}
 
-  
+
 
 12.6.2 Virheet aloituslyönnin jälkeen:
 
   Kun pallo on lyöty oikein, aloitus on virheellinen, jos pallo:
-  
+
 
 12.6.2.1 koskettaa syöttävän joukkueen pelaajaa tai ei ylitä verkkotasoa kokonaan ylityskaistan kautta;
 
   {.refs data-refs=""}")
-  
+
 
 12.6.2.2 menee "ulos";
 
   {.refs data-refs="8.4"}")
-  
+
 
 12.6.2.3 menee peiton yli.
 
@@ -483,11 +483,11 @@
 [subrule,number="13.1",title="HYÖKKÄYSLYÖNNIN OMINAISUUDET"]
 ====
 
-  
+
 
 13.1.1 Kaikkea pallon suuntaamista vastapuolelle, paitsi aloitusta ja torjuntaa, pidetään hyökkäyslyöntinä.
 
-  
+
 
 13.1.2 Hyökkäyslyönti on suoritettu, kun pallo on ylittänyt verkkotason kokonaan tai koskettanut vastustajaa.
 
@@ -501,13 +501,13 @@
 [subrule,number="13.2",title="VIRHEET HYÖKKÄYSLYÖNNISSÄ"]
 ====
 
-  
+
 
 13.2.1 Pelaaja lyö palloa vastapuolen pelitilassa.
 
   {.refs data-refs="13.1.2"}")
 
-  
+
 
 13.2.2 Pelaaja lyö pallon "ulos".
 
@@ -542,20 +542,20 @@
     "14.1.1",
   )[Torjuminen on pelaajien verkon tuntumassa tapahtuvaa toimintaa vastapuolelta tulevan pallon pysäyttämiseksi kurottautumalla verkon yläpuolelle. Pallokosketuksen hetkellä jonkin kehon osan on oltava verkon yläreunan yläpuolella.]
 
-  
+
 
 14.1.2 Torjuntayritys
 
   Torjuntayritys on torjuntatoiminta ilman pallokosketusta.
 
-  
+
 
 14.1.3 Suoritettu torjunta
 
   Torjunta on suoritettu aina, kun torjuja koskettaa palloa.
   {.refs data-refs="D6"}
 
-  
+
 
 14.1.4 Yhteistorjunta
 
@@ -603,23 +603,23 @@
 [subrule,number="14.6",title="TORJUNTAVIRHEET"]
 ====
 
-  
+
 
 14.6.1 Torjuja koskettaa palloa VASTUSTAJAN tilassa ennen vastustajan hyökkäyslyöntiä.
 
   {.refs data-refs="14.3"}")
 
-  
+
 
 14.6.2 Pallon torjuminen vastustajan tilassa antennin ulkopuolelta.
 
-  
+
 
 14.6.3 Pelaaja torjuu vastustajan aloituksen.
 
   {.refs data-refs=""}")
 
-  
+
 
 14.6.4 Pallo menee torjunnasta "ulos".
 

@@ -225,6 +225,15 @@ def convert_file(input_path, output_path):
         typst_content = f.read()
 
     markdown_content = convert_typst_to_markdown(typst_content)
+    
+    # Strip trailing whitespace from each line
+    lines = markdown_content.split('\n')
+    lines = [line.rstrip() for line in lines]
+    markdown_content = '\n'.join(lines)
+    
+    # Ensure file ends with single newline
+    if not markdown_content.endswith('\n'):
+        markdown_content += '\n'
 
     with open(output_path, 'w', encoding='utf-8') as f:
         f.write(markdown_content)
