@@ -19,9 +19,10 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Install Vale
-        uses: errata-ai/vale-action@reviewdog
-        with:
-          version: latest
+        run: |
+          wget -qO- https://github.com/errata-ai/vale/releases/download/v3.10.0/vale_3.10.0_Linux_64-bit.tar.gz | tar -xz
+          sudo mv vale /usr/local/bin/
+          vale --version
 
       - name: Regenerate Vale rules from memory.json
         run: |
@@ -29,7 +30,7 @@ jobs:
           python3 scripts/generate_vale_vocab.py
 
       - name: Run Vale
-        run: vale --config .vale.ini --output=line --sort README.md docs/ || exit 1
+        run: vale sync && vale --config .vale.ini --output=line --sort README.md docs/ || exit 1
 
       - name: Setup Typst
         uses: typst-community/setup-typst@v4
