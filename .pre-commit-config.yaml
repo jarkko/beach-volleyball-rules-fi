@@ -8,7 +8,7 @@ repos:
       - id: end-of-file-fixer
         name: Fix end of files
         exclude: ^(corpus/|documents/)
-  
+
   - repo: local
     hooks:
       - id: validate-terminology
@@ -16,7 +16,7 @@ repos:
         entry: python3 scripts/validate_terminology.py
         language: system
         types: [text, markdown]
-        files: README\.md|docs/.*\.md|.*\.typ
+        files: README\.md|docs/.*\.md|.*\.md
         pass_filenames: true
         require_serial: true
 
@@ -25,9 +25,16 @@ repos:
         entry: bash -c 'vale --config .vale.ini --output=line --sort'
         language: system
         types: [text, markdown]
-        files: README\.md|docs/.*\.md|.*\.typ
+        files: README\.md|docs/.*\.md|.*\.md
         pass_filenames: true
         require_serial: true
         additional_dependencies: []
+
+      - id: check-untranslated-content
+        name: Check Untranslated Content
+        entry: python3 scripts/check_untranslated_content.py
+        language: system
+        pass_filenames: false
+        require_serial: true
 
 

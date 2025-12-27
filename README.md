@@ -17,32 +17,36 @@ The compiled documents are available in this repository and on [GitHub Pages](ht
 - [tuomariohjeet.pdf](https://jarkko.github.io/beach-volleyball-rules-fi/tuomariohjeet.pdf) - Refereeing Guidelines and Instructions
 - [tapausesimerkit.pdf](https://jarkko.github.io/beach-volleyball-rules-fi/tapausesimerkit.pdf) - Casebook
 
+**Single-page HTML (Pandoc):**
+- [saannot.html](https://jarkko.github.io/beach-volleyball-rules-fi/saannot.html)
+- [tuomariohjeet.html](https://jarkko.github.io/beach-volleyball-rules-fi/tuomariohjeet.html)
+- [tapausesimerkit.html](https://jarkko.github.io/beach-volleyball-rules-fi/tapausesimerkit.html)
+
 **HTML Documentation (automatically published to GitHub Pages via MkDocs):**
 - [Documentation Site](https://jarkko.github.io/beach-volleyball-rules-fi/)
 
 ### Structure
 
-- `src/rules/` - Official Beach Volleyball Rules
-- `src/guidelines/` - Refereeing Guidelines and Instructions
-- `src/casebook/` - Casebook
+- `src-rules/` - Authoritative Markdown sources
+- `docs/` - MkDocs site content (refreshed from src-rules)
 - `documents/` - Source PDFs (English and Finnish indoor volleyball for reference)
 - `scripts/` - Utility scripts for extraction, translation, and image processing
 - `data/` - Translation memory and learning corpus
-- `src/assets/` - Images and diagrams extracted from source documents
+- `src-rules/assets/` - Images and diagrams extracted from source documents
 
 ### Building
 
-The documents are written in [Typst](https://typst.app/). To compile to PDF:
+The documents are built from Markdown sources using Pandoc.
 
 ```bash
-typst compile src/rules.typ saannot.pdf
-typst compile src/guidelines.typ tuomariohjeet.pdf
-typst compile src/casebook.typ tapausesimerkit.pdf
+make combine
+make pdf
+make html
 ```
 
-**Note:** HTML compilation via Typst is currently not supported as it's under active development and incompatible with the current document structure (see [Typst issue #5512](https://github.com/typst/typst/issues/5512)). HTML documentation is available via [MkDocs](https://www.mkdocs.org/) from the `docs/` directory.
+HTML documentation is also available via [MkDocs](https://www.mkdocs.org/) from the `docs/` directory.
 
-**Automatic Publishing:** The documents are automatically compiled to both PDF and HTML and published to GitHub Pages on each push to the `main` branch.
+**Automatic Publishing:** The documents are built and published to GitHub Pages on each push to the `main` branch.
 
 ### Translation Workflow
 
@@ -95,21 +99,21 @@ Käännettyjä dokumentteja on saatavilla tässä repositoriossa ja [GitHub Page
 - `documents/` - Lähde-PDF-tiedostot (englanninkieliset ja suomenkieliset viralliset lentopallon säännöt viitteeksi)
 - `scripts/` - Apuohjelmien skriptit sisällön poimimiseen, kääntämiseen ja kuvien käsittelyyn
 - `data/` - Käännösmuisti ja oppimiskorpus
-- `src/assets/` - Lähdedokumenteista poimitut kuvat ja diagrammit
+- `src-rules/assets/` - Lähdedokumenteista poimitut kuvat ja diagrammit
 
 ### Kääntäminen
 
-Dokumentit on kirjoitettu [Typst](https://typst.app/)-muodossa. PDF-tiedostojen kääntäminen:
+Dokumentit rakennetaan Markdown-lähteistä Pandocilla.
 
 ```bash
-typst compile src/rules.typ saannot.pdf
-typst compile src/guidelines.typ tuomariohjeet.pdf
-typst compile src/casebook.typ tapausesimerkit.pdf
+make combine
+make pdf
+make html
 ```
 
-**Huomio:** HTML-kääntäminen Typst:lla ei ole tällä hetkellä tuettu, koska se on kehityksessä ja yhteensopimaton nykyisen dokumenttirakenteen kanssa (katso [Typst issue #5512](https://github.com/typst/typst/issues/5512)). HTML-dokumentaatio on saatavilla [MkDocs](https://www.mkdocs.org/):n kautta `docs/`-kansiosta.
+HTML-dokumentaatio on saatavilla myös [MkDocs](https://www.mkdocs.org/):n kautta `docs/`-kansiosta.
 
-**Automaattinen julkaisu:** Dokumentit käännetään automaattisesti PDF-muotoon ja julkaistaan GitHub Pagesiin jokaisella `main`-haaraan tehdyssä push-operaatiossa. HTML-dokumentaatio generoidaan MkDocs:lla `docs/`-kansiosta.
+**Automaattinen julkaisu:** Dokumentit rakennetaan ja julkaistaan GitHub Pagesiin jokaisella `main`-haaraan tehdyssä push-operaatiossa.
 
 ### Käännösprosessi
 

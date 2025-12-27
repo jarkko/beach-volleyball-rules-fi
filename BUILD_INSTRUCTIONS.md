@@ -19,19 +19,7 @@ This document explains how to build the Beach Volleyball Rules documents using t
 
 ## Building Documents
 
-### Step 1: Convert Typst to Markdown
-
-Convert all Typst source files to Markdown:
-
-```bash
-# Convert individual files
-make convert
-
-# This runs the conversion script on all .typ files in src/
-# Output goes to src-rules/
-```
-
-### Step 2: Combine Includes
+### Step 1: Combine Includes
 
 Combine main files with their included chapters:
 
@@ -45,7 +33,7 @@ make combine
 # - src-rules/casebook-combined.md
 ```
 
-### Step 3: Build PDFs
+### Step 2: Build PDFs
 
 Build PDFs from the combined Markdown files:
 
@@ -65,7 +53,7 @@ pandoc src-rules/rules-combined.md \
   --variable=geometry:margin=2.5cm,right=5cm
 ```
 
-### Step 4: Build HTML
+### Step 3: Build HTML
 
 Build HTML from the combined Markdown files:
 
@@ -87,8 +75,7 @@ pandoc src-rules/rules-combined.md \
 
 ## File Structure
 
-- `src/` - Original Typst source files
-- `src-rules/` - Converted Markdown files (individual chapters)
+- `src-rules/` - Markdown source files
 - `src-rules/*-combined.md` - Combined files ready for building
 - `output/` - Generated PDF and HTML files
 - `filters/` - Pandoc Lua filters for custom blocks

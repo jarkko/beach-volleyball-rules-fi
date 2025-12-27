@@ -26,145 +26,53 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Setup Typst
-        uses: typst-community/setup-typst@v4
-        with:
-          typst-version: latest
-
-      - name: Install system fonts
-        run: |
-          sudo apt-get update
-          sudo apt-get install -y fonts-liberation fonts-dejavu
-
       - name: Create output directory
         run: mkdir -p _site
+
+      - name: Install Pandoc and LaTeX
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y pandoc texlive-xetex texlive-fonts-recommended
 
       - name: Setup Python
         uses: actions/setup-python@v5
         with:
-          python-version: '3.11'
+          python-version: "3.11"
 
       - name: Install MkDocs and dependencies
         run: |
           pip install mkdocs-material mkdocs-minify-plugin
 
+      - name: Generate combined Markdown
+        run: |
+          make combine
+
+      - name: Refresh committed docs for MkDocs
+        run: |
+          make refresh-docs
+
+      - name: Build PDFs and HTML
+        run: |
+          make pdf html
+
       - name: Build MkDocs site
         run: mkdocs build --site-dir _site
 
-      - name: Copy PDFs from repo
+      - name: Build PDFs into site root
         run: |
-          if [ -f saannot.pdf ]; then cp saannot.pdf _site/saannot.pdf; fi
-          if [ -f tuomariohjeet.pdf ]; then cp tuomariohjeet.pdf _site/tuomariohjeet.pdf; fi
-          if [ -f tapausesimerkit.pdf ]; then cp tapausesimerkit.pdf _site/tapausesimerkit.pdf; fi
+          cp output/rules-combined.pdf _site/saannot.pdf
+          cp output/guidelines-combined.pdf _site/tuomariohjeet.pdf
+          cp output/casebook-combined.pdf _site/tapausesimerkit.pdf
 
-      - name: Copy PDFs to site root
+      - name: Copy HTML into site root
         run: |
-          mkdir -p _site
-          if [ -f saannot.pdf ]; then cp saannot.pdf _site/saannot.pdf; fi
-          if [ -f tuomariohjeet.pdf ]; then cp tuomariohjeet.pdf _site/tuomariohjeet.pdf; fi
-          if [ -f tapausesimerkit.pdf ]; then cp tapausesimerkit.pdf _site/tapausesimerkit.pdf; fi
+          cp output/rules-combined.html _site/saannot.html
+          cp output/guidelines-combined.html _site/tuomariohjeet.html
+          cp output/casebook-combined.html _site/tapausesimerkit.html
 
       - name: Copy assets
         run: |
-          cp -r src/assets _site/assets || true
-
-      - name: Create landing page index
-        run: |
-          cat > _site/index.html << 'EOF'
-          <!DOCTYPE html>
-          <html lang="fi">
-          <head>
-            <meta charset="UTF-8">
-            <meta name="viewport" content="width=device-width, initial-scale=1.0">
-            <title>Beach Volleyball Rules - Finnish Translation</title>
-            <style>
-              body {
-                font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
-                max-width: 1200px;
-                margin: 0 auto;
-                padding: 2rem;
-                line-height: 1.6;
-                color: #333;
-              }
-              h1 {
-                color: #003399;
-                border-bottom: 3px solid #003399;
-                padding-bottom: 0.5rem;
-              }
-              .document-card {
-                border: 1px solid #ddd;
-                border-radius: 8px;
-                padding: 1.5rem;
-                margin: 1.5rem 0;
-                background: #f9f9f9;
-              }
-              .document-card h2 {
-                margin-top: 0;
-                color: #003399;
-              }
-              .document-card p {
-                margin: 0.5rem 0;
-              }
-              .btn {
-                display: inline-block;
-                padding: 0.75rem 1.5rem;
-                background: #003399;
-                color: white;
-                text-decoration: none;
-                border-radius: 4px;
-                margin: 0.5rem 0.5rem 0.5rem 0;
-                transition: background 0.2s;
-              }
-              .btn:hover {
-                background: #0044cc;
-              }
-              .btn-secondary {
-                background: #666;
-              }
-              .btn-secondary:hover {
-                background: #777;
-              }
-              footer {
-                margin-top: 3rem;
-                padding-top: 1rem;
-                border-top: 1px solid #ddd;
-                color: #666;
-                font-size: 0.9em;
-              }
-            </style>
-          </head>
-          <body>
-            <h1>Beach Volleyball Rules - Finnish Translation</h1>
-            <p>Virallinen suomenkielinen käännös FIVB:n beach volleyn säännöistä, tuomariohjeista ja tapausesimerkeistä vuosilta 2025-2028.</p>
-
-            <div class="document-card">
-              <h2>Viralliset beach volleyn säännöt 2025-2028</h2>
-              <p>Kattava käännös FIVB:n virallisista beach volleyn säännöistä.</p>
-              <a href="/beach/rules/" class="btn">Lue verkossa</a>
-              <a href="saannot.pdf" class="btn btn-secondary" download>Lataa PDF</a>
-            </div>
-
-            <div class="document-card">
-              <h2>Beach volleyn tuomariohjeet ja -ohjeistukset</h2>
-              <p>Tuomareiden ohjeet ja menettelytavat beach volleyn otteluissa.</p>
-              <a href="/beach/guidelines/" class="btn">Lue verkossa</a>
-              <a href="tuomariohjeet.pdf" class="btn btn-secondary" download>Lataa PDF</a>
-            </div>
-
-            <div class="document-card">
-              <h2>Beach volleyn tapausesimerkit 2025</h2>
-              <p>Kuvitettu tapausesimerkkikokoelma säännösten soveltamisesta.</p>
-              <a href="/beach/casebook/" class="btn">Lue verkossa</a>
-              <a href="tapausesimerkit.pdf" class="btn btn-secondary" download>Lataa PDF</a>
-            </div>
-
-            <footer>
-              <p>Käännös perustuu FIVB:n virallisiin beach volleyn sääntöihin ja asiakirjoihin. Katso FIVB:n viralliset säännöt ja määräykset.</p>
-              <p><a href="https://github.com/jarkko/beach-volleyball-rules-fi">Lähdekoodi GitHubissa</a></p>
-            </footer>
-          </body>
-          </html>
-          EOF
+          cp -r src-rules/assets _site/assets || true
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
@@ -181,7 +89,6 @@ jobs:
     steps:
       - name: Deploy to GitHub Pages
         id: deployment
-        continue-on-error: true
         uses: actions/deploy-pages@v4
 
       - name: Check deployment status
@@ -190,4 +97,4 @@ jobs:
           echo "::warning::GitHub Pages deployment failed. This usually means GitHub Pages is not enabled."
           echo "::warning::Please enable GitHub Pages in repository Settings → Pages → Source: GitHub Actions"
           echo "::warning::Once enabled, the workflow will automatically deploy on the next run."
-          exit 0
+          exit 1

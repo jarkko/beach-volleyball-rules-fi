@@ -1,159 +1,224 @@
-CHAPTER 1
-FACILITIES AND EQUIPMENT
-See Rules
 
-## 1 PLAYING AREA
+# LUKU 1: PELIOLOSUHTEET JA -VÄLINEET
 
-The playing area includes the playing court and the free zone. It shall be
-rectangular and symmetrical.
-1.1, D1
+[rule,number="1",title="PELIALUE"]
+====
 
-### 1.1 DIMENSIONS
+  Pelialueeseen kuuluvat pelikenttä ja vapaa-alue. Sen on oltava suorakulmainen ja symmetrinen.
+  {.refs data-refs="1.1,D1"}
 
-1.1.1 The playing court is a rectangle measuring 16 x 8 m, surrounded by a
-free zone, which is a minimum of 3 m wide on all sides.
-D2
-The free playing space is the space above the playing area, which is free
-from all obstructions. The free playing space shall measure a minimum
-of 7 m in height from the playing surface.
-1.1.2 For FIVB, World and Official Competitions, the free zone is a
-minimum of 5 m and a maximum of 6 m from the end lines/side
-lines. The free playing space shall measure a minimum of 12.5 m
-in height from the playing surface.
+====
 
-### 1.2 PLAYING SURFACE
+[subrule,number="1.1",title="MITAT"]
+====
 
-1.2.1 The surface must be composed of levelled sand, as flat and uniform as
-possible, free of rocks, shells and anything else which can represent risks
-of cuts or injuries to the players.
-1.2.2 For FIVB, World and Official Competitions, the sand must be at
-least 40 cm deep and composed of fine loosely compacted grains.
-1.2.3 The playing surface must not present any danger of injury to the players.
-1.2.4 For FIVB, World and Official Competitions, the sand should also
-be sifted to an acceptable size, not too coarse, and free of stones
-and dangerous particles. It should not be too fine to cause dust
-and stick to the skin.
-1.2.5 For FIVB, World and Official Competitions, a tarp to cover the
-central court is recommended in case of rain.
-PART 2 - SECTION 1: GAME
-1.3 LINES ON THE COURT D2
-1.3.1 All lines are 5 cm wide. The lines must be of a colour which contrasts
-sharply with the colour of the sand.
-1.3.2 Boundary lines
-Two side lines and two end lines mark the playing court. There is no
-centre line. Both side and end lines are placed inside the dimensions of
-the playing court.
-Court lines should be ribbons made of a resistant material, and any
-exposed anchors should be of a soft, flexible material.
 
-### 1.4 ZONES AND AREAS
 
-There is only the playing court, service zone and the free zone
-surrounding the playing court.
-1.4.1 The service zone is an 8 m wide area behind the end line, which extends
-to the edge of the free zone.
+1.1.1 Pelikenttä on suorakulmio kooltaan 16 x 8 m. Sitä ympäröi vapaa-alue, joka on vähintään 3 m leveä kaikilla sivuilla.
 
-### 1.5 WEATHER
+  {.refs data-refs="D2"}
 
-The weather must not present any danger of injury to the players.
+  Vapaa pelitila on pelialueen yläpuolella oleva tila, jossa ei saa olla mitään esteitä. Vapaan pelitilan on oltava vähintään 7 m korkea pelialustasta mitattuna.
 
-### 1.6 LIGHTING
 
-For FIVB, World and Official Competitions, played at night,
-the lighting on the playing area should be 1,000 to 1,500 lux
-measured at 1 m above the surface of the playing area.
-2 NET AND POSTS D3
 
-### 2.1 HEIGHT OF THE NET
+1.1.2 FIVB:n, maailmanlaajuisissa ja virallisissa kilpailuissa vapaa-alue on vähintään 5 m ja enintään 6 m pääty- ja sivurajoista. Vapaan pelitilan on oltava vähintään 12,5 m korkea pelialustasta mitattuna.
 
-2.1.1 Placed vertically over the middle of the court there is a net whose top is
-set at the height of 2.43 m for men and 2.24 m for women.
-Note: The height of the net may be varied for specific age groups as
-follows:
-Age Groups Females Males
-16 years and under 2.24 m 2.24 m
-14 years and under 2.12 m 2.12 m
-12 years and under 2.00 m 2.00 m
-2.1.2 Its height is measured from the centre of the playing court with a
-measuring rod. The net height (over the two side lines) must be exactly
-the same and must not exceed the official height by more than 2 cm.
-OFFICIAL BEACH VOLLEYBALL RULES 2025-2028
+====
 
-### 2.2 STRUCTURE
+[subrule,number="1.2",title="PELIALUSTA"]
+====
 
-The net is 8.5 m long and 1 m (+/- 3 cm) wide when it is hung taut,
-placed vertically over the narrow axis at the middle of the playing court.
-D3
-It is made of 10 cm square mesh. At its top and bottom there are two
-7-10 cm wide horizontal bands made of two-fold canvas, preferably in
-dark blue or bright colours, sewn along its full length. Each extremity
-of the upper band has a hole through which passes a cord fastening
-the upper band to the posts to keep the top of the net stretched taut.
-Within the bands, there is a flexible cable in the upper one and a cord
-in the bottom one for fastening the net to the posts and keeping its top
-and bottom taut. It is permissible to have advertising on the horizontal
-bands of the net.
-For FIVB, World and Official Competitions, an 8.0 m net with
-smaller meshes and brandings displayed between the ends of
-the net and the posts may be used, provided that the visibility
-of the athletes and officials will be preserved. Publicity may be
-printed on the above items as per FIVB regulations.
 
-### 2.3 SIDE BANDS
 
-Two coloured bands, 5 cm wide (same width as the court lines) and 1
-m long, are fastened vertically to the net and placed directly above each
-side line. They are considered as part of the net.
-14.1.1, D3
-Advertising is permitted on the side bands.
+1.2.1 Alustan on oltava tasoitettua hiekkaa, mahdollisimman tasainen ja yhtenäinen, vapaa kivistä, simpukankuorista ja kaikesta muusta, mikä voi aiheuttaa loukkaantumisriskin pelaajille.
 
-### 2.4 ANTENNAE
 
-An antenna is a flexible rod, 1.80 m long and 10 mm in diameter, made
-of fibreglass or similar material.
-An antenna is fastened at the outer edge of each side band. The
-antennae are placed on opposite sides of the net.
-The top 80 cm of each antenna extends above the net and is marked
-with 10 cm stripes of contrasting colour, preferably red and white.
-The antennae are considered as part of the net and laterally delimit the
-crossing space.
-PART 2 - SECTION 1: GAME
-2.5 POSTS D2, D3
-2.5.1 The posts supporting the net are placed at a distance of 0.70-1.00 m
-outside each side line. They are 2.55 m high and preferably adjustable.
-For FIVB, World and Official Competitions, the posts supporting
-the net are placed at a distance of 1 m outside the side lines.
-2.5.2 The posts are rounded and smooth, fixed to the ground without wires.
-There shall be no dangerous or obstructing devices. Posts must be
-padded.
 
-### 2.6 ADDITIONAL EQUIPMENT
+1.2.2 FIVB:n, maailmanlaajuisissa ja virallisissa kilpailuissa hiekan on oltava vähintään 40 cm syvää ja koostuttava hienojakoisista, löyhästi pakkautuneista rakeista.
 
-All additional equipment is determined by FIVB regulations.
 
-## 3 BALLS
 
-3.1 STANDARDS 3.2
-The ball shall be spherical, made of a flexible material (leather, synthetic
-leather, or similar) which does not absorb moisture, i.e. more suitable to
-outdoor conditions since matches can be played when it is raining. The
-ball has a bladder inside made of rubber or a similar material. Approval
-of synthetic leather material is determined by FIVB regulations.
-Colour: light uniform colour or a combination of colours.
-Circumference: 66 to 68 cm.
-Weight: 260 to 280 g.
-Inside pressure: 0.175 to 0.225 kg/cm2 (171 to 221 mbar or hPa).
+1.2.3 Pelialusta ei saa aiheuttaa loukkaantumisvaaraa pelaajille.
 
-### 3.2 UNIFORMITY OF BALLS
 
-All balls used in a match must have the same standards regarding
-circumference, weight, pressure, type, colour, etc.
-FIVB, World and Official Competitions must be played with FIVB
-approved balls, unless by agreement of FIVB.
-3.1, 23.2.8
-3.3 FOUR-BALL SYSTEM
-For FIVB, World and Official Competitions, four balls shall be
-used. In this case, six ball retrievers are stationed one at each
-corner of the free zone and one behind each referee.
-D8
-OFFICIAL BEACH VOLLEYBALL RULES 2025-2028
+
+1.2.4 FIVB:n, maailmanlaajuisissa ja virallisissa kilpailuissa hiekka on myös seulottava sopivaan raekokoon, ei liian karkeaksi, ja sen on oltava vapaa kivistä ja vaarallisista hiukkasista. Se ei saa olla liian hienoa, jotta se ei aiheuta pölyä ja tartu ihoon.
+
+
+
+1.2.5 FIVB:n, maailmanlaajuisissa ja virallisissa kilpailuissa suositellaan keskuskentän peittämistä pressulla sateen varalta.
+
+====
+
+[subrule,number="1.3",title="KENTÄN RAJAT"]
+====
+
+
+
+1.3.1 Kaikki rajat ovat 5 cm leveitä. Rajojen värin on erotuttava selvästi hiekan väristä.
+
+  {.refs data-refs="D2"}
+
+
+
+1.3.2 Rajaviivat
+
+  Kaksi sivurajaa ja kaksi päätyrajaa rajaavat pelikentän. Keskirajaa ei ole. Sekä sivu- että päätyrajat sijoitetaan pelikentän mittojen sisäpuolelle.
+
+  Kentän rajojen tulisi olla kestävästä materiaalista valmistettuja nauhoja, ja kaikkien näkyvien kiinnikkeiden tulisi olla pehmeää, joustavaa materiaalia.
+
+====
+
+[subrule,number="1.4",title="ALUEET"]
+====
+
+  Pelialueella on vain pelikenttä, aloitusalue ja vapaa-alue, joka ympäröi pelikenttää.
+
+
+
+1.4.1 Aloitusalue on 8 m leveä alue päätyrajan takana, joka ulottuu vapaa-alueen reunaan asti.
+ #label("rule-1.4.2")
+
+====
+
+[subrule,number="1.5",title="SÄÄ"]
+====
+
+  Sää ei saa aiheuttaa loukkaantumisvaaraa pelaajille.
+
+====
+
+[subrule,number="1.6",title="VALAISTUS"]
+====
+
+  FIVB:n, maailmanlaajuisissa ja virallisissa kilpailuissa, jotka pelataan yöllä, pelialueen valaistuksen tulisi olla 1 000 - 1 500 luksia mitattuna 1 m korkeudella pelialueen pinnasta.
+
+====
+
+[rule,number="2",title="VERKKO JA PYLVÄÄT"]
+====
+
+  {.refs data-refs="D3"}
+
+====
+
+[subrule,number="2.1",title="VERKON KORKEUS"]
+====
+
+
+
+2.1.1 Pystysuoraan kentän keskikohdan yläpuolelle asetetaan verkko, jonka yläreuna on 2,43 m korkeudella miehillä ja 2,24 m naisilla.
+
+  Huom: Verkon korkeutta voidaan muuttaa tietyissä ikäryhmissä seuraavasti:
+
+  #table(
+    columns: (2fr, 1fr, 1fr),
+    [Ikäryhmät], [Naiset], [Miehet],
+    [16 vuotta ja alle], [2.24 m], [2.24 m],
+    [14 vuotta ja alle], [2.12 m], [2.12 m],
+    [12 vuotta ja alle], [2.00 m], [2.00 m],
+  )
+
+
+
+2.1.2 Verkon korkeus mitataan pelikentän keskeltä mittatankolla. Verkon korkeuden (molempien sivurajojen kohdalla) on oltava täsmälleen sama, eikä se saa ylittää virallista korkeutta enempää kuin 2 cm.
+
+====
+
+[subrule,number="2.2",title="VERKON RAKENNE"]
+====
+
+  Verkko on 8,5 m pitkä ja 1 m (+/- 3 cm) leveä kireänä, sijoitettuna pystysuoraan kapean akselin yläpuolelle pelikentän keskelle.
+  {.refs data-refs="D3"}
+
+  Se on valmistettu 10 cm:n neliömäisestä verkosta. Sen ylä- ja alareunassa on kaksi 7-10 cm leveää vaakasuoraa nauhaa, jotka on tehty kaksinkertaisesta kankaasta, mieluiten tummansinisestä tai kirkkaista väreistä, ommeltuna koko pituudelta. Ylä- ja alanauhan päissä on reikä, jonka läpi kulkee naru, jolla nauha kiinnitetään pylväisiin ja pidetään verkon yläosa kireänä.
+
+  Nauhojen sisällä on joustava kaapeli yläosassa ja naru alaosassa verkon kiinnittämiseksi pylväisiin ja sen ylä- ja alaosan pitämiseksi kireänä. Verkon vaakasuorissa nauhoissa on sallittua olla mainoksia.
+
+  FIVB:n, maailmanlaajuisissa ja virallisissa kilpailuissa voidaan käyttää 8,0 m verkkoa, jossa on pienemmät silmukat ja brändäys verkon päiden ja pylväiden välissä, edellyttäen että urheilijoiden ja toimitsijoiden näkyvyys säilyy. Mainoksia voidaan painaa edellä mainittuihin kohtiin FIVB:n säännösten mukaisesti.
+
+====
+
+[subrule,number="2.3",title="SIVUNAUHAT"]
+====
+
+  Kaksi värillistä nauhaa, 5 cm leveitä (sama leveys kuin kentän rajoilla) ja 1 m pitkiä, kiinnitetään pystysuoraan verkkoon ja sijoitetaan suoraan kummankin sivurajan yläpuolelle. Ne katsotaan osaksi verkkoa.
+  {.refs data-refs="14.1.1,D3"}
+
+  Mainonta on sallittua sivunauhoissa.
+
+====
+
+[subrule,number="2.4",title="ANTENNIT"]
+====
+
+  Antenni on joustava tanko, 1,80 m pitkä ja halkaisijaltaan 10 mm, valmistettu lasikuidusta tai vastaavasta materiaalista.
+
+  Antenni kiinnitetään kummankin sivunauhan ulkoreunaan. Antennit sijoitetaan verkon vastakkaisille puolille.
+
+  Kummankin antennin yläosa (80 cm) ulottuu verkon yläpuolelle ja se on merkitty 10 cm:n raidoilla, jotka ovat kontrastivärisiä, mieluiten punaisia ja valkoisia.
+
+  Antennit katsotaan osaksi verkkoa ja ne rajaavat sivusuunnassa ylityskaistan.
+
+====
+
+[subrule,number="2.5",title="PYLVÄÄT"]
+====
+
+  {.refs data-refs="D2,D3"}
+
+
+2.5.1 Verkkoa kannattelevat pylväät sijoitetaan 0,70-1,00 m etäisyydelle kummastakin sivurajasta. Ne ovat 2,55 m korkeita ja mieluiten säädettäviä.
+
+  FIVB:n, maailmanlaajuisissa ja virallisissa kilpailuissa verkkoa kannattelevat pylväät sijoitetaan 1 m etäisyydelle sivurajojen ulkopuolelle.
+
+
+
+2.5.2 Pylväiden on oltava pyöreitä ja sileitä, ja ne on kiinnitettävä maahan ilman vaijereita. Ei saa olla vaarallisia tai estäviä laitteita. Pylväiden on oltava pehmustettuja.
+
+====
+
+[subrule,number="2.6",title="LISÄVARUSTEET"]
+====
+
+  Kaikki lisävarusteet määräytyvät FIVB:n säännösten mukaan.
+
+====
+
+[rule,number="3",title="PALLOT"]
+====
+
+====
+
+[subrule,number="3.1",title="STANDARDIT"]
+====
+
+  {.refs data-refs="3.2"}
+  Pallo on pallomainen, valmistettu joustavasta materiaalista (nahka, synteettinen nahka tai vastaava), joka ei ime kosteutta, eli sopii paremmin ulko-olosuhteisiin, koska otteluita voidaan pelata sateella. Pallon sisällä on kumista tai vastaavasta materiaalista valmistettu sisäkumi. Synteettisen nahkamateriaalin hyväksyntä määräytyy FIVB:n säännösten mukaan.
+
+  Väri: vaalea yhtenäinen väri tai värien yhdistelmä.
+  Ympärysmitta: 66 - 68 cm.
+  Paino: 260 - 280 g.
+  Sisäpaine: 0,175 - 0,225 kg/cm2 (171 - 221 mbar tai hPa).
+
+====
+
+[subrule,number="3.2",title="PALLOJEN YHDENMUKAISUUS"]
+====
+
+  Kaikkien ottelussa käytettävien pallojen on oltava ominaisuuksiltaan samanlaisia (ympärysmitta, paino, paine, tyyppi, väri jne.).
+
+  FIVB:n, maailmanlaajuisissa ja virallisissa kilpailuissa on pelattava FIVB:n hyväksymillä palloilla, ellei FIVB toisin sovi.
+  {.refs data-refs="3.1,23.2.8"}
+
+====
+
+[subrule,number="3.3",title="NELJÄN PALLON JÄRJESTELMÄ"]
+====
+
+  FIVB:n, maailmanlaajuisissa ja virallisissa kilpailuissa käytetään neljää palloa. Tässä tapauksessa kuusi pallonpalauttajaa sijoitetaan yksi jokaiseen vapaa-alueen kulmaan ja yksi kummankin tuomarin taakse.
+  {.refs data-refs="D8"}
+
+====
+

@@ -9,8 +9,8 @@ def crop_diagram(input_path, output_path, crop_box):
         print(f"  Cropped {os.path.basename(input_path)} -> {os.path.basename(output_path)}")
 
 def main():
-    base_dir = "src/assets/images/rules_rendered"
-    output_dir = "src/assets/images/rules_diagrams"
+    base_dir = "src-rules/assets/images/rules_rendered"
+    output_dir = "src-rules/assets/images/rules_diagrams"
 
     if not os.path.exists(output_dir):
         os.makedirs(output_dir)

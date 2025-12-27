@@ -32,15 +32,15 @@ def main():
 
     # Rules
     rules_pdf = os.path.join(base_path, "FIVB-BeachVolleyball_Rules2025_2028-EN-v01.pdf")
-    extract_images_from_pdf(rules_pdf, "src/assets/images/rules")
+    extract_images_from_pdf(rules_pdf, "src-rules/assets/images/rules")
 
     # Guidelines
     guidelines_pdf = os.path.join(base_path, "2023_FIVB_Beach_Volleyball_Refereeing_Guidelines_and_Instructions.pdf")
-    extract_images_from_pdf(guidelines_pdf, "src/assets/images/guidelines")
+    extract_images_from_pdf(guidelines_pdf, "src-rules/assets/images/guidelines")
 
     # Casebook
     casebook_pdf = os.path.join(base_path, "2025-BVB-Illustrated-Casebook_Feb-2025.pdf")
-    extract_images_from_pdf(casebook_pdf, "src/assets/images/casebook")
+    extract_images_from_pdf(casebook_pdf, "src-rules/assets/images/casebook")
 
 if __name__ == "__main__":
     main()

@@ -1,7 +1,1472 @@
-# Tapauskirja (Casebook)
-
-Tähän osioon tulee tapauskirjan (Casebook) käännös.
 
 
+# ESIPUHE
 
+Beach volley on hieno peli – kysy vaikka miljoonilta ihmisiltä, jotka pelaavat sitä, katsovat sitä, analysoivat sitä ja toimivat siinä tuomareina. Sitä on markkinoitu aktiivisesti viime vuosina, ja se on kehittynyt valtavasti huipputason kilpaurheiluna.
 
+Lisääntynyt jännitys, nopeus, räjähtävä toiminta, puhdas terveellinen imago ja valtavat TV-katsojaluvut ovat luoneet kimmokkeen kehittää peliä vielä pidemmälle, tehdäkseen siitä yksinkertaisemman, oikeudenmukaisemman ja houkuttelevamman entistä laajemmalle katsojakunnalle.
+
+Kuitenkin näiden sääntöjen oikea ja yhdenmukainen soveltaminen maailmanlaajuisesti on myös erittäin tärkeää pelin jatkokehitykselle. Tämä beach volleyn tapausesimerkkikirja (Casebook) on kokoelma pelitilanteita, joiden viralliset päätökset on hyväksynyt FIVB:n sääntö- ja tuomarikomissio, ja se perustuu sääntöjen ajantasaisimpaan versioon. Itse säännöt tarjoavat vain viitekehyksen, jonka sisällä peliä pelataan. Nämä päätökset laajentavat ja selventävät virallisten sääntöjen henkeä ja merkitystä, ja ne ovat virallisia tulkintoja, joita on noudatettava kaikissa virallisissa kilpailuissa.
+
+Tämä laitos on lyhyempi kuin edellinen Casebook, mutta perustuu silti uuteen 2025-2028 sääntötekstiin, jonka mandaatin hyväksyi 39. FIVB:n maailmankongressi vuonna 2024.
+
+Guillermo Paredes,\
+Puheenjohtaja, FIVB:n sääntö- ja tuomarikomissio
+
+# OSA I – SOVELTAMISEN TEOREETTISET PERIAATTEET
+
+Tuomari on se, joka laittaa säännöt käytäntöön. Sääntöjen oikean soveltamisen varmistamiseksi tuomareiden on tunnettava säännöt virheettömästi ja sovellettava niitä päättäväisesti ja oikein pelin kontekstissa. Sääntö 22.2.3 toteaa: "Tuomarilla on valta päättää kaikista peliin liittyvistä asioista, myös niistä, joita ei ole säännöissä mainittu". Tämä onnistuu vain ymmärtämällä täysin, miksi sääntö on luotu.
+
+Muista, että tuomari pysyy taka-alalla, mutta toimii samalla tuodakseen pelin esiin parhaassa valossa, ja tällä tavoin peli on houkutteleva laajemmalle yleisölle.
+
+Haluamme pelin olevan suosittu – houkuttelevan show'n tekeminen on tapa saavuttaa se.
+
+## CASEBOOKIN 2025 LAITOKSEN SÄÄNNÖT
+
+Casebook on heijastus säännöistä, jotka on otettu käyttöön peräkkäisissä FIVB:n kongresseissa. Vaikka muita sääntö- ja menettelytapamuutoksia harkitaan aina todennäköisesti, jotta pelistä tulisi houkuttelevampi urheilun ja yhteiskunnan muuttuessa, on syytä muistaa, että tässä esitetyt päätökset liittyvät tänään voimassa oleviin sääntöihin (FIVB:n viralliset beach volley -säännöt 2025-2028).
+
+Jokaisessa uudessa/päivitetyssä BVB Casebookin painoksessa jatkamme uusien asiaankuuluvien tapausten lisäämistä sitä mukaa kun tunnistamme niitä kilpailukauden aikana. Tässä vuoden 2025 versiossa ei ole uusia tapauksia, mutta kaksi tarkistettua tapausta (5.5.11 ja 9.11). Siinä on myös uusi video tapaukseen 5.5.11.
+
+Huomioikaa kuitenkin, että missä viralliset säännöt ovat identtiset beach volleyn ja lentopallon välillä, voitte myös viitata ja hyödyntää asiaankuuluvaa tapausta Lentopallon Casebookissa ja soveltaa sitä beach volleyhin.
+
+Casebookin vuoden 2025 versio tarjoaa joitakin erittäin mielenkiintoisia ja tärkeitä esimerkkejä, jotka osoittavat protokollien ja menettelyjen noudattamisen tärkeyden sekä terveen järjen ja sääntöjen soveltamisen eri tilanteissa.
+
+Se tarjoaa myös linkkejä videoihin, jotka havainnollistavat tapausta ja esimerkkiä paremmin. Videoihin pääsee klikkaamalla vastaavaa linkkiä, jos sellainen on saatavilla.
+
+# OSA II - TAPAUKSET
+
+# LUKU 1 - PELIOLOSUHTEET JA -VÄLINEET
+
+# LUKU 1
+
+#case(
+  "1.1.1",
+  [Jos ottelun aikana pelaaja löytää vaarallisen esineen hiekan alta, täytyykö tuomarin pysäyttää peli ja antaa tarkistaa kenttä ennen pelin jatkamista?],
+  [Kyllä, pelaajien turvallisuuden tulee aina olla etusijalla.],
+  ("1.2.1", "1.2.3", "D1a", "D1b", "D2"),
+)
+
+#case(
+  "1.1.2",
+  [Onko tuomarilla lupa viivästyttää ottelua, jos kentän kulmissa käytetään metalliankkureita ja metallivaijerit kiinnittävät tolpan ja verkon?],
+  [Kyllä. Ottelua edeltävässä tarkastuksessa hänen tulee aina huomioida pelaajien turvallisuus.],
+  ("1.2.1", "1.2.3", "1.3.2", "D1a", "D1b", "D2"),
+)
+
+#case(
+  "1.1.3",
+  [Jos pelaaja vetää pelin aikana kentän rajaa niin, että yksi ankkureista irtoaa, tulisiko tuomarin pysäyttää peli?],
+  [Kyllä, päätuomarin tulee välittömästi viheltää ja määrätä palloralli pelattavaksi uudelleen, koska kenttä ei ole säännön 1.1.1 mukainen. Kaikki osat tulee korjata ennen pelin jatkamista.],
+  "1.1.1",
+)
+
+#case(
+  "1.1.4",
+  [Pelaaja loukkaa itsensä osuessaan ankkuriin niin, ettei pysty jatkamaan peliä. Mitä tuomarin olisi pitänyt tehdä etukäteen estääkseen tilanteen alun perin?],
+  [Tuomarien olisi pitänyt ottelua edeltävässä kenttätarkastuksessaan havaita tämä mahdollinen vaara pelaajille ja ratkaista ongelma.],
+  ("1.2.1", "1.3.2"),
+)
+
+#case(
+  "1.1.5",
+  [Onko kapteenin sallittua valittaa päätuomarille, että kenttä tulisi lanata ja tasoittaa oikein vaaran välttämiseksi molemmille joukkueille?],
+  [Kyllä, kapteenilla on oikeus kysyä tuomarilta. Tuomarin tulisi aluksi varmistaa joukkueen pyynnön oikeellisuus ja sallia lanaus, jos tarkastus paljastaa kapteenin valituksen olevan perusteltu.],
+  "1.2.1",
+)
+
+#case(
+  "1.1.6",
+  [Syöttämään menevä pelaaja seisoo mainosaitojen välissä, jotka eivät ympäröi kenttää kokonaan. Voiko tuomari antaa luvan syöttöön, kun pelaaja seisoo mainosaitojen linjan ulkopuolella?],
+  [Ei, päätuomari ei saa antaa lupaa syöttöön, vaan hänen tulisi vaatia pelaajaa siirtymään mainosaitojen linjan sisäpuolelle.],
+  ("1.1.1", "1.1.2"),
+)
+
+#case(
+  "1.1.7",
+  [Rankkasateen aikana molemmat kapteenit pyytävät päätuomaria pysäyttämään pelin. Mitä tuomarin tulisi tehdä?],
+  [Beach volleyssa päätöksen pelin pysäyttämisestä tekee turnauksen järjestelytoimikunta. Vain jos heitä ei ole tavoitettavissa ja tuomari ennakoi merkittävän vaaran pelaajille salamoinnista tai äkillisistä tuulenpuuskista, hän voi pysäyttää pelin ja pyytää pelaajia menemään penkeilleen.],
+  ("22.2.3", "22.2.5", "Tuomariohjeet ja -ohjeistukset"),
+)
+
+#case(
+  "1.1.8",
+  [Kapteeni, sen jälkeen kun päätuomari on kieltäytynyt hänen pyynnöstään kastella kentät ennen ottelua, ottaa myöhemmin itse vesiletkun ja alkaa kastella kenttää omalla puolellaan. Mikä tulisi olla päätuomarin reaktio?],
+  [Aluksi päätuomari olisi voinut pyytää teknistä delegaattia tekemään päätöksen ennen ottelua. Ottelun aikana kaikki kentän kastelut voidaan hoitaa tuomarin toimesta erien välillä / aikalisällä / teknisellä aikalisällä, mutta se tulee suorittaa niin, ettei ottelu viivästy, ja sen tulee hyödyttää molempia joukkueita tasapuolisesti. Pelaajaa tulisi rangaista (olettaen, ettei aiempia viivytysrangaistuksia ole) aluksi tuomarien pyyntöjen huomiotta jättämisestä (viivytysvaroitus) ja sitten myöhemmin ottelun viivyttämisestä kenttää kastelemalla (viivytysrangaistus).],
+  ("18.2.2", "18.2.3", "22.2.3", "22.2.5", "Tuomariohjeet ja -ohjeistukset"),
+)
+
+#case(
+  "1.1.9",
+  [Voiko kapteeni protestoida päätuomarille hiekan kuumuudesta pelin aikana, ja täytyykö päätuomarin hyväksyä tällainen protesti?],
+  [Päätuomarin olisi pitänyt tehdä parhaansa estääkseen vastalauseprotokollan tarpeen tällaisessa tilanteessa. Hänen olisi pitänyt arvioida hiekan olosuhteet tehden oman arvionsa peliolosuhteista. Jos hän ja joukkue ovat yhtä mieltä siitä, että peliolosuhteet ovat liian vaikeat, hänen tulisi pyytää tekniseltä delegaatilta valtuutus lyhyelle keskeytykselle kentän kastelemiseksi.],
+  ("1.1", "1.3", "5.1.2", "5.1.2.2"),
+)
+
+#case(
+  "1.2.1",
+  [Voiko kapteeni lämmittelyn aikana pyytää tuomaria tarkistamaan verkon korkeuden ja kireyden?],
+  [Kyllä, hän voi pyytää, ja tuomarien tulisi nopeasti tarkistaa verkko uudelleen.],
+  ("22.2.5", "Tuomariohjeet ja -ohjeistukset"),
+)
+
+#case(
+  "1.2.2",
+  [Mitä tuomarin tulisi tehdä, jos kapteeni ottelun aikana kertoo hänelle verkon olevan liian matalalla ja pyytää häntä tarkistamaan verkon?],
+  [Tuomarien tulisi tarkistaa verkko, pyytää kenttäpäällikköä korjaamaan se tarvittaessa, ja jatkaa ottelua.],
+  ("22.2.5", "Tuomariohjeet ja -ohjeistukset"),
+)
+
+#case(
+  "1.2.3",
+  [Jos päätuomari on kytketty TV-mikrofoneihin ja -kuulokkeisiin, ja peli viivästyisi, jos hän laskeutuisi tuomaritornista suorittamaan arvonnan 2. ja 3. erän välillä, voiko verkkotuomari suorittaa tämän arvonnan?],
+  [Kyllä, verkkotuomari voi suorittaa 3. erän kolikonheiton. Päätuomarin tulisi selittää tilanne ensimmäisessä kolikonheitossa ja pyytää asianomaiselta tekniseltä delegaatilta lupa sen valtuuttamiseen.],
+  ("7.1", "22.3.1.2", "23.2.9", "Tuomariohjeet ja -ohjeistukset"),
+)
+
+#case(
+  "1.3.1",
+  [Jos turnauksessa käytetään 10 pelikenttää, ja palloista ja avustavista toimitsijoista on pulaa, voidaanko joillakin kentillä käyttää 1 pallon järjestelmää?],
+  [Kyllä, turnauksen teknisen delegaatin luvalla ja selkeällä selityksellä asianomaisille pelaajille siitä, mitä pallolle tehdään pallorallien välillä.],
+  "3.3",
+)
+
+#case(
+  "1.3.2",
+  [Jos turnauksessa lämpötila on erittäin korkea, onko kapteenilla siinä tapauksessa lupa pyytää päätuomaria tarkistamaan pallon paine?],
+  [Kyllä, päätuomarin tulisi pyytää verkkotuomaria tarkistamaan pallo, koska jos pallo altistuu suoralle auringonvalolle pitkiä aikoja, sen paine muuttuu merkittävästi.],
+  ("1.5", "Tuomariohjeet ja -ohjeistukset"),
+)
+
+#case(
+  "1.3.3",
+  [Mitä tuomarin tulisi tehdä, jos pallo kastuu pelin aikana?],
+  [Tuomarien on varmistettava, ettei pallo tule kovin märäksi tai kosteaksi, mikä muuttaisi sen painetta ja painoa. Joten jokaista erää varten tulisi olla saatavilla toinen setti palloja.],
+  ("3.1", "3.2"),
+)
+
+#case(
+  "1.3.4",
+  [Jos verkkotuomari huomaa ottelun aikana, että käytössä on 5 ottelupalloa, mikä tulisi olla hänen reaktionsa?],
+  [On selvästi verkkotuomarin vastuulla valvoa ottelupallojen käyttöprosessia. Verkkotuomarin tulisi: 1) aluksi tarkistaa, että neljä ottelupalloa on valmiina käytettäväksi ottelun alussa; 2) aina varmistaa, että vähintään 1 sopiva varapallo on saatavilla, joten hänen tulisi ottaa 1 ottelupallo takaisin pöydälle.],
+  "3.3",
+)
+
+# LUKU 2 - OSANOTTAJAT
+
+# LUKU 2
+
+#case(
+  "2.1.1",
+  [Mitä päätuomarin tulee tehdä, jos hän huomaa joukkueen viivyttävän peliä jättämällä palaamatta välittömästi kentälle, koska pelaajat puhuvat valmentajalleen, joka on vapaa-alueen ulkopuolella?],
+  [Päätuomarin tulee rangaista joukkuetta viivytysvaroituksella tai -rangaistuksella (tilanteen mukaan). Hänen tulee myös pyytää teknistä delegaattia tulemaan kentän laidalle tutkimaan valmennusta koskeva asia.],
+  ("4.1.4")
+)
+
+#case(
+  "2.1.2",
+  [Jos kapteeni pyytää tuomaria kiinnittämään huomiota siihen, että toista joukkuetta valmennetaan, mikä tulisi olla päätuomarin toiminta?],
+  [Päätuomarin tulee pyytää teknistä delegaattia tulemaan kentän laidalle.],
+  ("4.1.4", "Tuomariohjeet ja -ohjeistukset")
+)
+
+#case(
+  "2.2.1",
+  [Onko pelaajan sallittua pelata sormus sormessaan, jos siinä on terävä timantti?],
+  [Ei, pelaajan on otettava sormus pois tai teipattava se estääkseen terävän timantin aiheuttamat mahdolliset vammat.],
+  ("4.5")
+)
+
+#case(
+  "2.2.2",
+  [Jos päätuomari huomaa, että molemmat joukkueet käyttävät samanvärisiä peliasuja, mitä hänen tulisi tehdä? Viite: Tapaus 10.2],
+  [Tuomarin tulee yrittää löytää ratkaisu puhumalla molempien joukkueiden kapteenien kanssa ja tarvittaessa suorittaa arvonta. Jos ongelma ei ratkea, hänen tulee ilmoittaa asiasta tekniselle delegaatille.],
+  ("4.4")
+)
+
+#case(
+  "2.2.3",
+  [Jos pelaaja kysyy päätuomarilta, saako hän pelata alushousuilla/trikoilla lääketieteellisen vamman vuoksi, onko päätuomarilla lupa sallia tämä?],
+  [Pelaajan ei tarvitse pyytää päätuomarin hyväksyntää alushousujen/trikoiden käyttämiseen. Uusien peliasumääräysten mukaan pelaajat voivat vapaasti käyttää pitkiä hihoja/leggingsejä mieltymyksensä mukaan ilman, että parin tarvitsee tehdä samoin. Mitään lisäehtoja, kuten minimilämpötilaa jne., ei aseteta ennakkoehdoiksi. Saman joukkueen urheilijoiden ei tarvitse käyttää pitkiä hihoja/leggingsejä samassa ottelussa. Kuitenkin, jos molemmat saman joukkueen urheilijat valitsevat käyttää pitkiä hihoja/leggingsejä samassa ottelussa, asun tulee olla tyyliltään ja väriltään samanlainen.],
+  ("4.4.3")
+)
+
+#case(
+  "2.2.4",
+  [Jos pelaajan shortsit repeävät pahasti vahingossa ottelun aikana, onko päätuomarin sallittua antaa pelaajan vaihtaa shortsit vastaavaan pariin ilman, että ottelu viivästyy merkittävästi?],
+  [Kyllä, päätuomari voi sallia tämän. Joukkueelta ei veloiteta aikalisää tai anneta viivytysrangaistusta.],
+  ("4.4.2")
+)
+
+#case(
+  "2.2.5",
+  [Onko sallittua pelata kello kädessä?],
+  [Kyllä, pelaajat voivat pelata kello kädessä.],
+  ("4.5.1", "FIVB:n päätös")
+)
+
+#case(
+  "2.2.6",
+  [Voiko pelaaja pelata hiekkasukilla?],
+  [Kyllä, pyynnöstä päätuomarille pelaajat saavat käyttää erilaisia jalkineita, mukaan lukien sukat, kumitossut tai kengät.],
+  ("4.3.2", "4.4.1", "Tuomariohjeet ja -ohjeistukset")
+)
+
+#case(
+  "2.2.7",
+  [Mitä tuomarin tulisi tehdä, jos hän huomaa, että kahdella pelaajalla on numerot, jotka eivät vastaa pöytäkirjassa olevia? Viite: Tapaus 10.2],
+  [Hänen tulee antaa korjata asia vaihtamalla nopeasti jompikumpi tai molemmat peliasut. Rangaistusta ei anneta. Tulos säilyy ennallaan ja kyseinen syöttävä joukkue jatkaa ottelua.],
+  ("4.4")
+)
+
+#case(
+  "2.3.1",
+  [Voiko kapteeni pyytää päätuomaria pyytämään rajatuomaria toistamaan näyttönsä?],
+  [Kyllä, kapteeni voi pyytää lupaa puhua päätuomarille ja sitten pyytää selitystä tuomion tulkinnasta. Tuomarin on vastattava pyyntöön, ja rajatuomaria voidaan pyytää toistamaan lippunäyttö.],
+  ("5.1.2.1")
+)
+
+#case(
+  "2.3.2",
+  [Jos päätuomari tekee selkeän sääntöjen väärintulkinnan, voiko kapteeni pyytää selitystä tuomarin päätökseen?],
+  [Kyllä, päätuomarin tulisi toistaa ja selittää päätös kapteenille käyttäen virallisia käsimerkkejä, jos se on tarkoituksenmukaista. Jos kapteeni ei hyväksy tätä selitystä, hän voi ilmoittaa aikomuksestaan tehdä vastalause vastalauseprotokollan sääntöjen mukaisesti. Päätuomarin on määritettävä, täyttääkö pyyntö vastalauseen kriteerit, ja jos näin on, hänellä ei ole oikeutta kieltäytyä joukkueen vastalauseesta, ja hänen on käynnistettävä protokolla ja kutsuttava tuomarivalmentaja paikalle.],
+  ("5.1.2.1", "Tuomariohjeet ja -ohjeistukset")
+)
+
+#case(
+  "2.3.3",
+  [Mitä tuomarin tulisi tehdä, jos hän haluaa käynnistää jäljen tarkistus -protokollan ja pelaaja pyyhkii pallon jäljen pois?],
+  [Päätuomari ei pysty päättämään, onko pallo sisällä vai ulkona. Hänen tulee rangaista kyseistä pelaajaa välittömästi käytösrangaistusasteikon mukaisesti (punainen kortti).],
+  ("20.2.1", "20.3.1")
+)
+
+#case(
+  "2.3.4",
+  [Mitä päätuomarin tulisi tehdä, jos pelaaja hänen päätöksensä ("sisällä" tai "ulkona") jälkeen suoristaa rajan, jota hän aiemmin siirsi pelisuorituksessaan?],
+  [Jos tuomari katsoo, että pelaaja yrittää peittää virheen, hän voi antaa pelaajalle asianmukaisen varoituksen/rangaistuksen.],
+  ("20.1", "20.2")
+)
+
+#case(
+  "2.3.5",
+  [Mikä tulisi olla päätuomarin reaktio, jos kapteeni kyseenalaistaa tuomarin kyvyn tehdä päätöksiä ja hänen puolueettomuutensa?],
+  [Tuomarin tulisi aina vastata kaikkiin kysymyksiin ammattimaisesti ja osoittaa hyvää harkintakykyä sen suhteen, mikä käytös on hyväksyttävää ja mikä ei. Päätuomarin ei tulisi sallia tällaista käytöstä. Tuomarin tulisi mahdollisuuksien mukaan käyttää suullisia varoituksia, joita seuraa virallinen varoitus (keltainen kortti), ja sitten harkita käytösrangaistusten käyttöä tilanteen mukaan.],
+  ("20.1", "20.2", "20.3")
+)
+
+#case(
+  "2.3.6",
+  [Jos joukkueen kapteeni kävelee pois kentältä heti ottelun jälkeen eikä allekirjoita pöytäkirjaa, mitä päätuomarin tulisi tehdä pöytäkirjan täydentämiseksi? Viite: Tapaus 10.3],
+  [Pöytäkirjan täydentämiseksi päätuomarin on kirjattava tämä tosiasia pöytäkirjan huomautussarakkeeseen ennen asian esittämistä tuomarivalmentajalle.],
+  ("5.1.3.1", "Pöytäkirjaohjeet")
+)
+
+# LUKU 3 - PISTEEN, ERÄN JA OTTELUN VOITTAMINEN
+
+# LUKU 3
+
+#case(
+  "3.1.1",
+  [Mitä menettelytapoja päätuomarin tulee noudattaa kirjatakseen pöytäkirjaan luovutuksen, joka perustuu ennen ottelun alkua tapahtuneeseen loukkaantumiseen? Viite: Tapaus 10.4],
+  [Molempien tuomarien tulee varmistaa, että pöytäkirja on täytetty kaikkine vaadittuine yksityiskohtineen, ja luovutuksen syy on merkitty pöytäkirjan huomautussarakkeeseen. Arvontaa tai lämmittelyä ei tarvitse suorittaa. Molempien joukkueiden tulee allekirjoittaa pöytäkirja tuloksen vahvistamiseksi. Päätuomarin on kutsuttava virallinen lääkintähenkilöstö kentälle ja tiedotettava kaikille pelaajille, asianomaisille teknisille delegaateille, turnauksen järjestäjille ja toimitsijoille luovutustilanteesta. Päätuomari vastaa kokonaisuudessaan luovutusmenettelyn kirjaamisesta pöytäkirjaan.],
+  ("6.4", "Tuomariohjeet ja -ohjeistukset"),
+)
+
+#case(
+  "3.1.2",
+  [Mitä toimia tuomarin tulisi tehdä vahvistaakseen joukkueiden syöttöjärjestyksen 2. erässä?],
+  [Tuomarin tulisi: 1) aluksi kysyä päätöstä joukkueelta, joka hävisi arvonnan ennen 1. erää; 2) kysyä toiselta joukkueelta sen päätöstä jäljellä olevien vaihtoehtojen perusteella. Nämä kaksi vaihetta määrittävät syöttävän joukkueen ja joukkueiden puolet. 3) lisäksi tuomarien tulisi määrittää joukkueiden syöttöjärjestys.],
+  "7.6",
+)
+
+# LUKU 4 - OTTELUN VALMISTELU, PELIN RAKENNE
+
+# LUKU 4
+
+#case(
+  "4.1.1",
+  [Voiko kapteeni arvonnan voittamisen jälkeen pyytää saada palata kentälle päättääkseen, kumman puolen valitsee? Viite: Tapaus 10.6],
+  [Tämä on hyväksyttävää, kunhan päätös tehdään nopeasti ja se antaa kirjurille riittävästi aikaa olla valmiina aloittamaan ottelu virallisen lämmittelyajan päätyttyä.],
+  "7.1",
+)
+
+#case(
+  "4.1.2",
+  [Voiko pelaaja pyytää päätuomarilta lupaa mennä WC:hen virallisen lämmittelyn lopussa?],
+  [Kyllä; kuitenkin, jos pelaaja viivyttää normaalia pelin kulkua käyttäessään WC:tä, tälle joukkueelle/pelaajalle määrätään lääkintäaikalisä. Kun pelaaja pyytää päästä WC:hen, hänen joukkueelleen on ilmoitettava, että päätuomari alkaa laskea kyseiselle pelaajalle määrättävää lääkintäaikalisää, kun ottelun alkua edeltävä aika tai säännöllisen katkon kesto (aikalisä, tekninen aikalisä, erätauko, 12 sekuntia pallorallien välillä) on kulunut loppuun. Ellei ottelussa ole mukana varatuomaria, verkkotuomarin on aina saitettava pelaajaa samalla kun päätuomari valvoo tilannetta lähellä kirjurinpöytää.],
+  ("17.1.2", "Tuomariohjeet ja -ohjeistukset"),
+)
+
+#case(
+  "4.1.3",
+  [Kun lämmittelykentät on suunnattu eri suuntaan kuin pelikenttä, onko pelaajilla lupa pyytää virallista 5 minuutin lämmittelyä normaalin 3 minuutin sijaan?],
+  [Tästä olisi pitänyt päättää järjestelytoimikunnan toimesta ja teknisen delegaatin olisi pitänyt tiedottaa asiasta kaikille osapuolille ennen kilpailun alkua. Kuitenkin, jos näin ei ole, tuomarin tulisi hyväksyä tämä pyyntö, koska olosuhteissa on merkittävä ero pelikentän ja lämmittelykentän välillä. Pelaajille tulisi antaa aikaa käyttää pelikenttää sopeutuakseen uusiin olosuhteisiin.],
+  "7.2",
+)
+
+#case(
+  "4.2.1",
+  [Jos kirjuri huomaa ennen 1. erän alkua, että syöttöjärjestys on eri kuin mitä pöytäkirja osoittaa, mitä hänen tulisi tehdä? Viite: Tapaus 10.5],
+  [Kirjurin tulee välittömästi kiinnittää tuomarin huomio siihen, että pöytäkirjassa on toinen syöttöjärjestys. Aluksi tuomarien on tarkistettava pöytäkirja sen oikeellisuuden varmistamiseksi. Jos on olemassa mahdollisuus virheeseen syöttöjärjestyksen ilmoittamisessa tai kirjaamisessa, tämä on korjattava ja asianomaisen pelaajan on annettava syöttää. Tuomarin tulisi yleensä hyväksyä pelaajien päätös, koska se ei muuta ottelun luonnetta olennaisesti eikä siitä saada suhteellista etua.],
+  ("7.3", "7.7"),
+)
+
+# LUKU 5 - PELITOIMINTA
+
+ # LUKU 5
+
+ #case(
+   "5.1.1",
+   [Miten molempien tuomarien tulisi viittoa seuraavassa tilanteessa? Ottelussa pallo on verkolla kiistanalainen nopeiden pelitilanteiden sarjassa. On epäselvää, kuka koskettaa palloa viimeisenä. Tämän jälkeen pallo putoaa sivurajan ulkopuolelle verkkotuomarin puolelle.],
+   [Verkkotuomarin tulee aluksi ja hyvin selvästi siirtyä sen joukkueen puolelle, joka teki virheen, ja osoittaa yksityismerkein päätuomarille pallo sisällä / pallo ulkona (vain päätuomarin avustamiseksi). Päätuomarin tulee havainnoida rajatuomarin ja verkkotuomarin merkkejä ja sitten näyttää syöttävä joukkue, virheen laatu ja tarvittaessa virheen tehnyt pelaaja. Jos päätuomari katsoo kosketuksen olleen samanaikainen, lopputulos on “pallo ulkona” ja virhe tuomitaan sille joukkueelle, joka on vastakkaisella puolella verkkoa siitä kohdasta, mihin pallo putosi. Päätuomari voi myös osoittaa viimeiseksi palloon koskettanutta pelaajaa päättäväisesti. Tuomareiden on kuitenkin erotettava samanaikainen kosketus ja “wipe off” -tilanne.],
+   ("9.1.2.2", "21.2.3.1"),
+ )
+
+ #case(
+   "5.1.2",
+   [Jos pallo putoaa rajan ulkopuolelle eikä osu rajaan, mutta raja liikkuu pallon hiekkavaikutuksen vuoksi, tuleeko päätuomarin tuomita pallo “sisälle”?],
+   [Tuomarin tulee tuomita pallo “ulos”. Rajojen liikkuminen ilman kosketusta on hyvin yleistä kentän pinnan ja rajojen luonteesta johtuen. Tuomarin tulee pystyä selittämään pelaajille tarkasti, milloin pallo on “sisällä”, ja oikaista mahdolliset väärinkäsitykset. Tuomareiden tulee myös huomioida, että pallo voi pudota ulos mutta osua koholla olevaan rajaan matkalla kentän ulkopuolelle. Tällöin, koska pallo koskettaa rajaa, se on tuomittava “sisälle”.],
+   "8.3",
+ )
+
+ #case(
+   "5.1.3",
+   [Kun pallo putoaa lähelle rajaa ja verkkotuomari antaa päätuomarille merkin, joka poikkeaa rajatuomarin merkistä, mikä on päätuomarin oikea toimintatapa?],
+   [Ihannetilanteessa verkkotuomarin ei tule avustaa eriävällä merkillä rajatuomariin nähden, ellei hän ole asiasta 100 % varma; ja tällöin päätuomarin tulisi seurata verkkotuomarin näyttöä. Käytännössä päätuomarin tulisi kuitenkin edetä seuraavasti: 1) viheltää välittömästi, 2) kerätä kaikki tieto muilta toimitsijoilta, 3) tehdä päätös ensisijaisesti oman havaintonsa perusteella ja 4) ottaa vastuu päätöksestä.],
+   ("8.3", "8.4", "Tuomariohjeet ja -ohjeistukset"),
+ )
+
+ #case(
+   "5.1.4",
+   [Pallo tulee hyvin lähelle rajaa. Rajatuomari näyttää “ulos”, mutta molemmat tuomarit ovat sitä mieltä, että pallo osui rajaan. Miten tuomarien tulisi toimia? Klikkaa tästä nähdäksesi videon.],
+   [Verkkotuomarin tulee osoittaa pallo “sisällä” (vain päätuomarin avustamiseksi). Päätuomarin on kumottava rajatuomarin näyttö (näyttämällä pallo “sisällä”).],
+   "8.3",
+ )
+
+ #case(
+   "5.1.5",
+   [Mitä tuomarin tulisi tehdä, jos pallo putosi rajan sisäpuolelle, mutta raja oli selvästi siirtynyt olennaisesti aiemman puolustustilanteen aikana?],
+   [Päätuomarin tulee korjauttaa raja ja tuomita sitten pallo “sisälle” tai “ulos” sen mukaan, mihin pallo putosi.],
+   ("8.3", "8.4", "Tuomariohjeet ja -ohjeistukset"),
+ )
+
+ #case(
+   "5.1.6",
+   [Mitä tuomarin tulisi tehdä, jos pallo pelattiin kentän sisäpuolelle ja kosketti sivurajaa, mutta raja oli selvästi siirtynyt vain hieman aiemman puolustustilanteen aikana?],
+   [Tässä tapauksessa päätuomarin tulee tuomita pallo “sisälle”. Pienet rajan liikkeet pallorallin aikana eivät johda rajan asettamiseen uudelleen, ja ratkaisu tehdään rajan ollessa siinä asennossa, jossa se on pallorallin päättyessä. Poikkeus on tilanne, jossa raja olisi siirtynyt aivan pelitilanteen viime hetkillä.],
+   ("8.3", "8.4", "Tuomariohjeet ja -ohjeistukset"),
+ )
+
+ #case(
+   "5.1.7",
+   [Kun syötetty pallo ylittää verkon ja voimakas tuuli puhaltaa sen takaisin niin, että pallo kulkee verkon alta ja putoaa takaisin syöttäjän puolelle hiekkaan, mikä on päätuomarin tuomio?],
+   [Tämä on hyvin poikkeuksellinen tilanne. Vastaanottavalla joukkueella oli kuitenkin mahdollisuus pelata pallo sen ollessa sen oman kentän yläpuolella, koska pallo kulki laillisesti ylityskaistan kautta. Siksi piste tulee antaa syöttävän joukkueen hyväksi.],
+   ("10.1.1", "12.6.2.1"),
+ )
+
+ #case(
+   "5.1.8",
+   [Joukkue pelaa pallon osittain antennin yli vastustajan kentälle verkkotuomarin puolelta. Tuleeko verkkotuomarin viheltää?],
+   [Kyllä. Verkkotuomarilla on toimivaltansa puitteissa oikeus ja velvollisuus viheltää ja näyttää tämä virhe, jos se tapahtuu hänen puolellaan. Rajatuomarin tulee samanaikaisesti näyttää “heilutus ja osoitus” -merkki. Huomaa ero tilanteeseen, jossa pallo pelataan kentältä osittain antennin yli vastustajan vapaa-alueelle – tällöin vihellystä tai merkkiä ei tarvita.],
+   ("10.1.2", "23.3.2.4"),
+ )
+
+ #case(
+   "5.2.1",
+   [Ottelussa molemmat joukkueet pelaavat palloa laillisesti verkon yläpuolella pallonväännössä (joust, pidennetty kosketus vastustajan kanssa), ja pallo putoaa joukkueen A kentän ulkopuolelle. Kumpi joukkue syöttää seuraavaksi?],
+   [Joukkue A syöttää, koska pallonväännön jälkeen, kun pallo menee ulos, viimeinen kosketus on vastustajalla eli sillä joukkueella, joka on vastakkaisella puolella verkkoa siitä kohdasta, mihin pallo putosi.],
+   ("9.1.2.2", "9.1.2.3", "9.2.2.2"),
+ )
+
+ #case(
+   "5.3.1",
+   [Pelaaja juoksi pallon perään kentän ulkopuolelle ja otti tukea kirjurinpöydästä voidakseen pelata pallon takaisin parilleen. Kosketus palloon tapahtui kirjurinpöydän sen päädyn yläpuolella, joka oli verkon toisella puolella vastustajan puolella. Päätuomari ei puuttunut tilanteeseen ja antoi pelin jatkua. Oliko pelaajalla oikeus pelata pallo tästä paikasta?],
+   [Kyllä. Tämä oli hyvin näyttävä suoritus. Sääntötekstin mukaan pallo voidaan pelata kirjurinpöydän koko pituuden yläpuolelta, myös siltä osalta, joka on vastustajan puolella. Tämä oli siis laillinen pelitilanne ja päätuomari toimi oikein salliessaan pallorallin jatkua.],
+   "9",
+ )
+
+ #case(
+   "5.3.2",
+   [Kun ottelussa pelaaja koskettaa palloa hieman ja päätuomari ei näe kosketusta, mitä hänen tulisi tehdä varmistaakseen, että tämän jälkeen sallitaan 2 tai 3 kosketusta? Klikkaa tästä nähdäksesi videon.],
+   [Tuomarin tulee aina pitää katsekontakti verkkotuomariin ja rajatuomareihin, jotta hän näkee mahdolliset avustavat merkit ennen lopullisen tuomion tekemistä.],
+   ("14.1.3", "14.4.1"),
+ )
+
+ #case(
+   "5.3.3",
+   [Jos tuomari katsoo syötön olevan “kova pallo” ja sallii vastaanottajalle pitkäkestoisemman kosketuksen sormilyönnillä (koppi), voiko syöttävän joukkueen kapteeni valittaa tuomarille?],
+   [Kyllä. Syöttö on kuitenkin erityispoikkeus sääntöihin, jotka määrittelevät kovan pallon. Syötön vastaanottaminen tällä tavalla on laitonta. Jos pelaaja koskettaa syöttöä sormilyönnillä (eli passaa pallon), kosketuksen on oltava puhdas (ei kaksoiskosketusta eikä koppia).],
+   ("9.2.2", "9.2.2.1", "9.2.2.2", "9.2.2.4", "9.3.3", "9.3.4"),
+ )
+
+ #case(
+   "5.3.4",
+   [Voiko pelaaja suorittaa passin mistä tahansa mahdollisesta asennosta? Klikkaa tästä nähdäksesi videon.],
+   [Tuomarin tulee arvioida vain sääntöjä. Tuomarin ei tule huomioida pelaajan asentoa ennen passia, sen aikana tai sen jälkeen. Pelaaja voi periaatteessa suorittaa laillisen passin mistä tahansa asennosta.],
+   ("9.2", "Tuomariohjeet ja -ohjeistukset"),
+ )
+
+ #case(
+   "5.3.5",
+   [Miten tulee arvioida, onko vastustajan puolelta tuleva pallo “kova hyökkäyslyönti”? Klikkaa tästä nähdäksesi videon 1. Klikkaa tästä nähdäksesi videon 2.],
+   [Tuomarin tulee arvioida, onko kyseessä kova hyökkäyslyönti, seuraavasti: 1) onko pelaajalla aikaa muuttaa tekniikkaansa? 2) aika ja etäisyys hyökkäyksen ja puolustustoiminnan välillä 3) muuttuiko pallon nopeus torjunnan tai verkkoon osumisen vuoksi? 4) onko toiminta luonteeltaan hyökkäävä vai puolustava?],
+   "9.2.2.1",
+ )
+
+ #case(
+   "5.3.6",
+   [Onko pelaajan sallittua puolustaa kovaa palloa, jos pallo käy kevyesti torjunnassa ilman että pallon nopeus tai suunta muuttuu?],
+   [Kyllä. Vaikka tämä kosketus on joukkueen toinen kosketus, pallo on laillista pelata tällä tavalla. Tuomarin on kuitenkin varmistuttava siitä, että pallo täyttää edelleen kovan pallon kriteerit, erityisesti sen osalta, oliko puolustajalla aikaa muuttaa pallon pelaamisen tekniikkaansa.],
+   ("9.2.2.1", "9.2.3.2", "9.3.3", "9.3.4"),
+ )
+
+ #case(
+   "5.3.7",
+   [Onko pelaajan sallittua puolustaa kovaa palloa, jos pallo osui verkon yläosaan ja pallon nopeus hidastui merkittävästi?],
+   [Ei. Tässä tilanteessa pallo on muuttanut nopeuttaan olennaisesti eikä se ole enää kova pallo, joten kyseessä on koppivirhe.],
+   ("9.2.2.1", "9.3.3"),
+ )
+
+ #case(
+   "5.3.8",
+   [Kovan tuulen vuoksi pelaajat hyökkäävät palloa seisten. Onko näitä hyökkäyksiä sallittua puolustaa “kovan pallon puolustuksena” (eli hetkellisesti pitkäkestoisella sormilyöntikosketuksella)?],
+   [Päätuomarin tulee kiinnittää erityistä huomiota siihen, kuinka paljon aikaa pelaajalla oli muuttaa tekniikkaansa pallon pelaamisessa. Oliko hänellä riittävästi aikaa muuttaa tekniikka puolustavasta hyökkääväksi? Tällöin tuomarin on arvioitava aikaa ja etäisyyttä. Ei ole merkityksellistä, löikö pelaaja palloa niin kovaa kuin pystyi tai käyttikö hän epätavallisia tekniikoita.],
+   "9.2.2.1",
+ )
+
+ #case(
+   "5.3.9",
+   [Passissa, mitä tekijöitä päätuomarin tulisi tarkkailla, jos pelaaja käyttää tekniikkaa, jossa pallon kosketusaika käsissä on pitkä (koppi)? Klikkaa tästä nähdäksesi videon.],
+   [Tuomarin tulee arvioida, kuinka puhdas kosketus oli. Koskettivatko kädet/sormet palloa samanaikaisesti ja pelattiinko pallo yhdellä nopealla liikkeellä – eli pallo ei näkyvästi “levännyt” pelaajan käsissä – vai käyttikö pelaaja tekniikkaa, jossa kosketusaika käsissä oli pitkä (koppi)?],
+   ("9.3.3", "9.3.4", "Tuomariohjeet ja -ohjeistukset"),
+ )
+
+ #case(
+   "5.3.10",
+   [Jos pelaaja pelaa palloa tietyllä tavalla – käyttäen kovaa palloa vastaan puolustustekniikkaa, jossa käsivarret ovat auki ja ojennettuina ja sormet osoittavat alaspäin kohti maata molemmissa käsissä – ja hän hetkellisesti pidentää käsikosketusta palloon (eli käsistä ei tapahdu heijastusta), tuleeko päätuomarin katsoa tämä “kopiksi”?],
+   [Kyllä. Mahdollista sormilyöntipassia lukuun ottamatta lentopallon lyönteihin kuuluu heijastus kosketuskohdasta. Tässä kuvattu toiminta tuottaa lyönnin, joka ei ole heijastus, koska tekniikassa molemmat ranteet ovat “käännettyinä” (sormet alaspäin kohti maata, kämmenet ylöspäin ja peukalot sivuille), minkä säännöt katsovat nimenomaisesti laittomaksi. Tuomarin tulee katsoa tämä koppivirheeksi.],
+   ("9.2.2.1", "9.3.3"),
+ )
+
+ #case(
+   "5.3.11",
+   [Voiko pallon suunta muuttua pallonväännössä (joust), kun molemmat pelaajat ovat kosketuksessa palloon?],
+   [Kyllä. Pallonväännössä (pidennetty pallokosketus) on laillista, että pallon suunta muuttuu vastustajien käsien kohdistamien voimien seurauksena. Peli jatkuu tämän jälkeen.],
+   "9.1.2.3",
+ )
+
+ #case(
+   "5.3.12",
+   [Onko sallittua pelata pallo “kovana pallona” (eli hetkellisesti pitkäkestoisella käsikosketuksella), jos pallo tulee vastustajan torjunnasta?],
+   [Kyllä. Tämä on laillista, jos kovan pallon puolustuksen edellytykset täyttyvät. Torjunnasta kimmonnut tai torjunnasta muuttunut pallo katsotaan hyökkäyslyönnin kaltaiseksi, ja tällöin pallon kosketus käsillä voi olla hieman pitkäkestoinen.],
+   "9.2.2.1",
+ )
+
+ #case(
+   "5.4.1",
+   [Jos syöttö vie pallon “antennin yli” verkkotuomarin puolella, tuleeko verkkotuomarin viheltää?],
+   [Tässä tilanteessa verkkotuomarin tulee viheltää, koska peli ei voi jatkua laillisesti (syötön jälkeen pallon on kuljettava kokonaan antennien välistä) ja tilanne kuuluu verkkotuomarin toimivaltaan, koska se tapahtuu hänen puolellaan kenttää. Näytetään pallo ulkona. Aktiiviset ja osaavat rajatuomarit ovat tärkeässä roolissa tällaisissa tilanteissa näyttäen “heilutus ja osoitus” -merkin.],
+   ("10.1.1.2", "23.3.2.4"),
+ )
+
+ #case(
+   "5.4.2",
+   [Kun pallo on kokonaan joukkueen A kentän yläpuolella, joukkueen A pelaaja lyö sen hyökkäyksenä. Samanaikaisesti myös vastustajan torjuja koskettaa palloa. Onko tämä torjuntavirhe? Klikkaa tästä nähdäksesi videon 1. Klikkaa tästä nähdäksesi videon 2. Klikkaa tästä nähdäksesi videon 3. Klikkaa tästä nähdäksesi videon 4. Klikkaa tästä nähdäksesi videon 5.],
+   [Kummankaan pelaajan toiminta ei ole virhe. Virhe olisi, jos torjuja olisi koskettanut palloa ensin. On tärkeää ymmärtää, että tämä ratkaisu koskee vain samanaikaisia hyökkäys–torjunta -tilanteita. Jos joukkueen A pelaaja olisi sen sijaan passannut palloa, koska pallo oli kokonaan joukkueen A tilassa, torjuja olisi tehnyt virheen “verkon yli kurottautumisesta” siepatessaan joukkueen A sisäisen passin.],
+   "14.3",
+ )
+
+ #case(
+   "5.5.1",
+   [Jos hyökkäävä pelaaja laskeutuu ja osuu vastustajaan vastustajan omalla kenttäpuoliskolla ja tilassa, ja tämä aiheuttaa vastustajalle kosketuksen verkon alaosaan, tuleeko verkkotuomarin viheltää häirintä?],
+   [Tämä on selkeä häirintä, joten hyökkäävälle pelaajalle tuomitaan virhe. Käsimerkkinä osoitetaan yksinkertaisesti virheen tehnyttä pelaajaa.],
+   ("11.2.1", "11.3.1", "11.4.2", "11.4.3", "Tuomariohjeet ja -ohjeistukset"),
+ )
+
+ #case(
+   "5.5.2",
+   [Jos pelaaja näyttävän sukelluksen jälkeen makaa vastustajan kentällä ja vastustajan torjuja lopettaa, koska hyppääminen toisi hänet makuulla olevan pelaajan “reitille”, tuleeko tämä tuomita häirinnäksi?],
+   [Kyllä, vaikka fyysistä kontaktia ei tapahtuisikaan. Virhe on, jos pelaaja kontaktilla tai kontaktin uhalla estää vastustajaa pelaamasta palloa tilanteessa, jossa vastustaja tuomarin arvion mukaan olisi voinut pelata tämän seuraavan pallon. Torjuva pelaaja on estetty pelaamasta palloa vastustajan pelaajan sijainnin vuoksi.],
+   ("11.2.1", "11.4.2", "11.4.3", "Tuomariohjeet ja -ohjeistukset"),
+ )
+
+ #case(
+   "5.5.3",
+   [Jos pelaaja hyökkäyksen jälkeen tulee verkon alta vastustajan puolelle ja koskettaa hieman torjujaa, katsotaanko tämä häirinnäksi? Klikkaa tästä nähdäksesi videon.],
+   [Tämä riippuu siitä, oliko torjuja sellaisessa asemassa, että hänen kykynsä pelata seuraavaa palloa heikkeni.],
+   ("11.1.2", "11.2.1", "11.4.2", "Tuomariohjeet ja -ohjeistukset"),
+ )
+
+ #case(
+   "5.5.4",
+   [Kun pelaaja A pelaa pallon antennin ulkopuolelta verkkotuomarin puolella ja hänen parinsa tulee verkon alta yrittääkseen pelata pallon takaisin, mutta vastustajan pelaaja estää tätä tarkoituksellisesti, tuleeko verkkotuomarin viheltää häirintä? Klikkaa tästä nähdäksesi videon.],
+   [Kyllä. Tämä on häirinnän muoto, vaikka fyysistä kontaktia ei tapahtuisi. Pelaajan on laitonta muuttaa merkittävästi asemaansa estääkseen vastustajia tekemästä laillista pelitoimintaa palloon.
+
+   Toisin päin: vaikka beach volleyssa pelaaja saa juosta vastustajan kentän läpi hakeakseen palloa vastustajan vapaa-alueelta riippumatta siitä, tiedostaako hän täysin miten pallo kulki ylityskaistan, tämä pelaaja on vastuussa mahdollisesta häirinnästä vastustajan kykyyn pelata palloa silloin, kun pallo kulki ylityskaistan sisällä – esimerkiksi tilanteessa, jossa vastustajan pelaaja estyy edes tekemästä päätöstä pelaako palloa vai ei, eli häiriö estää asianmukaisen päätöksenteon. Tämä voi olla perusteltu pohja häirinnän tuomitsemiselle.],
+   ("10.1.2", "10.1.2.1", "11.4.3", "Tuomariohjeet ja -ohjeistukset"),
+ )
+
+ #case(
+   "5.5.5",
+   [Torjunnan jälkeen torjuja (joukkue B) kaatuu hiekkaan osittain vastustajan puolelle (joukkue A). Pallo osuu verkkoon ja torjunnan jälkeen siirtyy joukkueen A tilaan, ja putoaa torjujan päälle tämän ollessa edelleen vastustajan puolella. Hyökkäävällä joukkueella ei ollut mahdollisuutta pelata palloa. Tuomitaanko tämä häirinnäksi?],
+   [Häirintä olisi kyseessä vain, jos maassa makaava torjuva pelaaja estäisi vastustajan laillisen yrityksen pelata palloa. Koska näin ei ollut tässä tapauksessa, tuomarin tulee käsitellä palloa ikään kuin se olisi pudonnut maahan, jolloin torjuva joukkue voittaa pallorallin oikein.],
+   ("11.2.1", "11.4.3"),
+ )
+
+ #case(
+   "5.5.6",
+   [Kun pallo pelataan antennien välistä kohti vastustajan (joukkue B:n) vapaa-aluetta ja pelaaja, joka yrittää mennä pelaamaan palloa, estetään vastustajan toimesta, tuleeko päätuomarin katsoa tätä häirinnäksi?],
+   [Ei. Ratkaisevaa on, että joukkueella (joukkue A), joka ohjasi pallon kohti vastustajan puolta, ei ole laillista pelitoimintaa palloon, koska pallo kulki kokonaan antennien välistä ja näin ollen vain joukkue B:n pelaajat saavat pelata palloa. Jos joukkueen A pelaaja kuitenkin koskettaisi palloa tässä tilanteessa, päätuomarin on vihellettävä välittömästi virhe.],
+   ("10.1.1", "13.1.2"),
+ )
+
+ #case(
+   "5.5.7",
+   [Ottelussa päätuomarin puolella oleva pelaaja tulee verkon ali vastustajan kentälle yrittäessään pelata takaisin palloa, joka ylitti verkon pystytason ylityskaistan kautta. Vastustajan pelaajaa, joka puolusti palloa, kosketetaan tämän verkon ali tulleen pelaajan toimesta. Mitä tuomarin tulee tehdä? Ja mitä tulee tehdä, jos vastaavassa tilanteessa pallo ylittäisi verkon pystytason ylityskaistan ulkopuolella?],
+   [Tässä tilanteessa on aina häirintä: ylityskaistan kautta kulkeneessa pallossa häirinnän tekee verkon ali tullut pelaaja. Jos pallo ylittäisi ylityskaistan ulkopuolelta, puolustavalla pelaajalla ei olisi oikeutta pelata palloa ja hänelle tulisi tuomita häirintä.],
+   "11.4.3",
+ )
+
+ #case(
+   "5.5.8",
+   [Kun pelaaja liikuttaa käsiään verkon lähellä omalla puolellaan muuttaakseen tarkoituksellisesti pallon kimmoamista, onko tämä sallittua? Klikkaa tästä nähdäksesi videon.],
+   [Ei. Tämä on virhe ja häirinnän muoto. Se rangaistaan verkkokosketuksena, koska pelaajan katsotaan koskettaneen verkkoa (ei verkon koskettaneen pelaajaa). Tuomarin tulee nähdä selvästi, että pelaaja on tarkoituksellisesti muuttanut asemaansa aloittaakseen tämän kontaktin verkon läpi ja saadakseen etua.],
+   "11.4.3",
+ )
+
+ #case(
+   "5.5.9",
+   [Pallo osuu verkon yläosaan, jolloin verkko koskettaa torjuvaa pelaajaa. Verkkotuomari viheltää torjuvan pelaajan virheen. Tämän jälkeen pallo menee ulos hyökkäävän joukkueen puolella. Päätuomari epäröi verkkotuomarin päätöstä ja määrää pallorallin pelattavaksi uudelleen. Voiko kapteeni pyytää vastalauseen?],
+   [Saatuaan selityksen kapteeni voi aina pyytää päätuomarilta vastalausetta. Päätuomarin on kuitenkin ennen vastalauseprotokollan käynnistämistä määritettävä, onko vastalause oikeutettu, harkitsemalla kriteereitä, joiden perusteella vastalause voidaan jättää.],
+   ("8.2", "12.3.3"),
+ )
+
+ #case(
+   "5.5.10",
+   [Pallo torjutaan suoraan alaspäin. Ennen kuin pallo putoaa vastustajan kentälle, se osuu keskitajuojan jalkaan, kun torjuja on jo seissyt hiekassa ilman aikomusta potkaista palloa. Jos jalkaan ei olisi osunut, pallo olisi pudonnut selvästi hiekkaan joukkueen B puolella. Voidaanko keskitajuojan jalkakosketus katsoa häirinnäksi vastustajan peliin?],
+   [Ei. Koska keskitajuojan jalkakosketus oli tahaton ja hän seisoi jo hiekassa, hän ei tehnyt virhettä. Jos kosketus olisi kuitenkin tapahtunut selvästi hiekasta irti ja vastustajalla olisi ollut mahdollinen pelitoiminta palloon, kyse olisi häirinnästä.],
+   "11.2.1",
+ )
+
+ #case(
+   "5.5.11",
+   [Joukkueen A puolustuksen jälkeen pallo nousee korkealle antennin “ympärille” ja sen oletetaan putoavan lähelle sivurajaa. On vaikea arvioida, kulkiko pallo ylityskaistan sisällä vai antennin yli. Joukkueen A pelaaja juoksee verkon ali pelatakseen pallon takaisin. Samaan aikaan joukkueen B pelaaja on myös valmiina pelaamaan palloa lähellä sivurajaa. Pelaajat ovat lähellä törmätä toisiinsa, mutta joukkueen B pelaaja pelaa pallon onnistuneesti ja palloralli jatkuu. Miten määritetään, onko virhe tapahtunut ja kumman pelaajan virhe se on? Klikkaa tästä nähdäksesi videon.],
+   [Ratkaiseva tekijä on pallon lentorata. Jos pallo ylitti verkon pystytason selvästi antennien välistä eli ylityskaistan kautta, joukkueella A ei ollut oikeutta pelata palloa takaisin. Tällöin juokseva joukkueen A pelaaja häiritsi vastustajan peliä ja teki virheen riippumatta siitä, onnistuiko vastustaja pelaamaan pallon.
+
+   Jos pallo ylitti verkon pystytason selvästi antennien yli tai antennien ulkopuolelta, eli osittain tai kokonaan ylityskaistan ulkopuolelta, joukkueella A oli oikeus pelata se takaisin. Tällöin joukkueen B pelaaja häiritsi vastustajan peliä ja teki virheen riippumatta siitä, onnistuiko vastustaja pelaamaan pallon.
+
+   Jos pallon lentorata jäi epäselväksi eikä kumpikaan tuomareista tai rajatuomareista pystynyt sitä määrittämään, molemmat pelaajat voivat laillisesti ajatella, että heidän yrityksensä pelata palloa on laillinen. Virheen tehnyttä pelaajaa on mahdotonta määrittää. Tällaisessa tilanteessa on usein perusteltua olla pysäyttämättä pallorallia.],
+   ("10.1", "11.2", "11.4.2"),
+ )
+
+ #case(
+   "5.6.1",
+   [Onko pelaajan sallittua olla valmiina syöttämään seisten sivurajojen jatkeiden ulkopuolella?],
+   [Kyllä. Pelaajalle voidaan antaa syöttölupa, vaikka hän/seisoisi sivurajojen jatkeiden ulkopuolella. Päätuomarin tulee soveltaa syöttöluvan antamisessa seuraavia kriteereitä: 1) kaikki muut pelaajat ja toimitsijat ovat valmiina, 2) syöttävällä pelaajalla on pallo hallussaan ja 3) syöttävä pelaaja on oikea syöttöjärjestyksen mukaisesti.],
+   "12.3",
+ )
+
+ #case(
+   "5.6.2",
+   [2. erän alussa väärä joukkue syöttää. Pallorallin jälkeen verkkotuomari ja kirjuri sekä molemmat joukkueet vahvistavat, että väärä joukkue tosiasiassa syötti. Mitä päätuomarin tulee tehdä?],
+   [Erä tulee aloittaa uudelleen. Jos väärä pelaaja syöttää ja palloralli on pelattu loppuun, joukkue voi säilyttää saamansa pisteet vain, jos oikea joukkue oli syöttövuorossa (ei kuten tässä tapauksessa, jossa syöttövuorossa oli väärä joukkue).],
+   "12.1.1",
+ )
+
+ #case(
+   "5.6.3",
+   [Mitä päätuomarin tulee tehdä, jos syöttäjän heitettyä pallon ilmaan pallo koskettaa kevyesti yläpuolella olevaa puomikameraa?],
+   [Tuomarin tulee määrätä palloralli pelattavaksi uudelleen ja antaa syöttölupa uudelleen. Syöttöön on tullut ulkopuolinen häiriö. Syöttäjää voidaan pyytää siirtämään hieman paikkaansa ongelman ratkaisemiseksi tai odottamaan hetki, että kamera liikkuu.],
+   ("12.3", "17.2"),
+ )
+
+ #case(
+   "5.6.4",
+   [Kun pelaaja syöttää toinen jalka lähellä päätyrajaa ja työntää hiekkaa niin, että raja liikkuu, onko päätuomarilla oikeus tuomita jalkavirhe? Klikkaa tästä nähdäksesi videon.],
+   [Tämä tilanne voi helposti johtaa päätuomarin virheeseen. Päätuomari on korkealla tuomaritornissa ja kaukana mahdollisesta virheestä. Raja voi liikkua, koska hiekka työntää rajaa. Vaikka virhettä ei ole tapahtunut, tilanne voi näyttää virheeltä.],
+   "12.4.3",
+ )
+
+ #case(
+   "5.6.5",
+   [Onko pallon pudottaminen välittömästi syöttöluvan jälkeen syöttövirhe? Klikkaa tästä nähdäksesi videon.],
+   [Ei. Jos pelaaja ei ole vapauttanut palloa (heittänyt sitä) syötön aloittamistarkoituksessa, hänelle tulee antaa lupa aloittaa syöttörutiini uudelleen. Tuomarin on ymmärrettävä, että pelaajilla on monia yksilöllisiä syöttörutiineja, joissa pallo voi hetkellisesti irrota pelaajan käsistä (esim. kädestä toiseen siirtäminen, pallon pyörittäminen jne.) ennen lopullista heittoa syötön suorittamiseksi.],
+   ("12.4.1", "12.4.2"),
+ )
+
+ #case(
+   "5.6.6",
+   [Kun pelaaja epäröi syötön suorittamisessa, tuleeko päätuomarin viheltää 5 sekunnin jälkeen ja antaa pallo vastustajille?],
+   [Tuomarin tulee huomioida pelaajan normaali syöttörutiini. Onko pelaaja selvästi nähnyt syöttöluvan (tai kuullut vihellyksen), vai onko hän selvästi aikeissa viivyttää syöttöä.],
+   "12.4.4",
+ )
+
+ #case(
+   "5.6.7",
+   [Syöttöluvan saatuaan pelaaja pudottaa pallon valmistautuessaan heittämään palloa syöttöä varten. Päätuomari huomaa, että pallo oli osittain märkä pelaajan märän pelipaidan kosketuksesta. Onko päätuomarin sallittua vaihtaa pallo?],
+   [Kyllä. Päätuomarin tulee päätöksessään huomioida selvästi seuraavat asiat: ettei kyseessä ollut tahallinen yritys viivyttää peliä. 1) pallon pudottaminen oli vahinko eikä tarkoituksellinen viivytystaktiikka, 2) sääntöjen henki ja 3) jotta normaalit peliolosuhteet säilyvät, tulee käyttää uutta palloa. Tämä voi tarkoittaa märän pallon vaihtamista.],
+   "3.1",
+ )
+
+ #case(
+   "5.6.8",
+   [Jos pelaaja syöttää sivurajojen jatkeiden ulkopuolelta, mikä on virheen virallinen käsimerkki?],
+   [Oikea käsimerkki on merkki 22, joka osoittaa, että syöttäjä kosketti maata aloitusalueen ulkopuolella. Tämä tehdään osoittamalla maahan siinä rajan jatkeessa, jonka ulkopuolelta pelaaja syötti.],
+   ("12.4.3", "Signal 12"),
+ )
+
+ #case(
+   "5.6.9",
+   [Kun syöttö lyödään kädestä, voi näyttää siltä, ettei pallo irronnut kädestä syöttösuorituksen hetkellä. Tuleeko tuomarin viheltää tästä virhe?],
+   [Ei välttämättä, koska pelaajat usein vapauttavat pallon aivan hieman ennen toisen käden osumista palloon.],
+   "12.4.1",
+ )
+
+ #case(
+   "5.6.10",
+   [Voiko päätuomari ennen seuraavan pallorallin alkua muuttaa edellisen päätöksensä, esimerkiksi jos rajatuomari näytti syöttäjän jalkavirhettä eikä päätuomari nähnyt rajatuomarin näyttöä oikealla hetkellä?],
+   [Kyllä. Päätöksen tekemiseksi hänen on noudatettava oikeaa tapahtumajärjestystä ja varmistettava rajatuomarilta näytön sisältö. Lisäksi syötön jälkeen on hyvä tuomarointitekniikka, että päätuomari tarkistaa lyhyesti mahdolliset näytöt asianomaisilta rajatuomareilta.],
+   ("12.6.1.2", "Tuomariohjeet ja -ohjeistukset"),
+ )
+
+ #case(
+   "5.6.11",
+   [Syöttövihellyksen jälkeen joukkueen A kapteeni pyytää verkkotuomarilta aikalisää ja alkaa kävellä kohti tuoleja. Verkkotuomari ei vihellä, vaan yrittää saada joukkueen takaisin pelikentälle. Päätuomari näkee tämän, määrää pallorallin pelattavaksi uudelleen ja myöntää joukkueelle A aikalisän. Onko tämä oikea menettely?],
+   [Ei. Syöttövihellyksen jälkeen joukkueen A kapteenilla ei ollut oikeutta pyytää aikalisää eikä hänelle ole voitu myöntää lupaa poistua kentältä. Päätuomarin syöttövihellyksen jälkeen syöttö tulee suorittaa.],
+   ("12.3", "15.5.4", "16.1", "16.2.1", "16.2.2", "16.2.3"),
+ )
+
+ #case(
+   "5.7.1",
+   [Jos hyökkäävä pelaaja työntää pallon avokämmenellä torjuntaan, onko tämä aina virhe?],
+   [Tuomarin tulee viheltää hyökkäyslyöntivirhe, jos hyökkäystoiminta tapahtui ennen torjuntatoimintaa. Jos toiminnot olivat samanaikaiset, virhettä ei ole ja peli jatkuu, kunhan osa pallosta on kummankin joukkueen puolella (eli kummankin joukkueen toiminta on laillinen).],
+   "13.2.3",
+ )
+
+ #case(
+   "5.7.2",
+   [Kun pallo on lähellä verkkoa, mutta torjuntatoiminta muistuttaa enemmän passia kuin torjuntaa, mikä on päätuomarin oikea reagointi?],
+   [Jos pelaajan toiminta ei ole torjunta, tuomarin tulee arvioida kosketuksen puhtautta (koppi tai kaksoiskosketus) sekä pallon lentorataa kosketuksen jälkeen.],
+   ("9.3.3", "9.3.4", "13.2.5"),
+ )
+
+ #case(
+   "5.7.3",
+   [Onko pelaajan sallittua pelata pallo viime hetkellä tarkoituksellisesti “käänteiseen suuntaan” olkapäiden yli vastustajan kentälle?],
+   [Kyllä, edellyttäen että pallo kulkee lentoradalla, joka on kohtisuorassa pelaajan olkapäiden linjaan nähden, ja että pelaaja on asettanut olkapääasentonsa ennen ensimmäistä kosketusta (joko eteen- tai taaksepäin suuntautuen).],
+   ("13.2.5", "Tuomariohjeet ja -ohjeistukset"),
+ )
+
+ #case(
+   "5.7.4",
+   [Jos pallo passataan puhtaasti ja tuuli vie pallon vastustajan puolelle verkon yli, tuleeko päätuomarin tuomita hyökkäyslyöntivirhe?],
+   [Ei. Tämä on yleinen sääntöjen väärintulkinta eikä kyseessä ole virhe. Jos joukkueen A pelaajan tarkoitus on passata pallo parilleen, virhettä ei ole. Tuulen aiheuttama pallon siirtyminen verkon yli tai pallon lentoradan poikkeaminen olkapäiden linjasta on merkityksetöntä virhettä arvioitaessa.],
+   ("13.2.5", "Tuomariohjeet ja -ohjeistukset"),
+ )
+
+ #case(
+   "5.8.1",
+   [Onko sallittua torjua taivassyöttö verkkoon ja sen jälkeen pelata pallo toisella kosketuksella parille?],
+   [Ei. Tämä on virhe. Syöttöä ei saa torjua. Ensimmäinen kosketus ei ollut laillinen, joten päätuomarin olisi pitänyt viheltää virhe heti, kun pelaaja torjui pallon.],
+   ("14.1.1", "14.1.3", "14.5", "14.6.3"),
+ )
+
+ #case(
+   "5.8.2",
+   [Jos pelaaja on myöhässä torjunnassa ja on tällöin noin 1 metrin päässä verkosta, voiko hän, jos pallo osuu hänen käsiinsä, pelata pallon toisen kerran peräkkäin? Klikkaa tästä nähdäksesi videon.],
+   [“Lähellä verkkoa” -käsitteelle ei ole määritelmää. Tuomarin tulee viheltää kaksoiskosketusvirhe, jos hän katsoo, ettei pelaajan ensimmäinen kosketus täyttänyt torjunnan vaatimuksia. Etäisyys verkosta on tärkeä, sillä torjunta on tehtävä “lähellä verkkoa”. Toisaalta pidemmän pelaajan vartalo voi olla kauempana verkosta kuin lyhyemmän, mutta kädet voivat silti olla verkon yli – joten “lähellä verkkoa” voi olla suhteellista ja riippua useista tekijöistä.],
+   ("9.3.4", "14.1.1"),
+ )
+
+ #case(
+   "5.8.3",
+   [Kun pallo tulee verkolle, onko torjuvan pelaajan sallittua ohjata pallo mihin tahansa suuntaan?],
+   [Vaikka torjunta on puolustustoiminta, se ei noudata samoja kriteereitä kuin kovan pallon puolustus. Tuomarin ei tule sallia torjunnassa pitkäkestoista kosketusta (eli koppia). Pallo voidaan ohjata torjunnalla, kunhan toiminta täyttää torjunnan määritelmän eikä kosketusaika ole pitkäkestoinen.],
+   "14.2",
+ )
+
+# LUKU 6 - AIKALISÄT JA VIIVYTYKSET
+
+# LUKU 6
+
+#case(
+  "6.1.1",
+  [Onko joukkueen sallittua jäädä pelikentälle pyydettyään aikalisää?],
+  [Ei, tämä ei ole sallittua. Kaikkien säännöllisten katkojen ja erätaukojen aikana (mukaan lukien tekniset aikalisät) pelaajien on mentävä heille osoitetulle pelaaja-alueelle.],
+  ("15.4.4", "Tuomariohjeet ja -ohjeistukset"),
+)
+
+#case(
+  "6.1.2",
+  [Kun 2. tuomari viheltää aikalisän päättyneeksi, ja pelaajat eivät liiku kentälle, onko 1. tuomarin oikein antaa viivytysrangaistus?],
+  [Jos pelaajat eivät ole palanneet kentälle 15 sekunnin kuluttua, viivytys on merkittävä. On erittäin tärkeää, että 2. tuomari on erittäin aktiivinen aikalisän lopussa kannustaen molempia joukkueita palaamaan pelikentälle. Näin ollen 1. tuomarin tulisi antaa viivytysrangaistus.],
+  ("15.4.1", "16.1.1", "Tuomariohjeet ja -ohjeistukset"),
+)
+
+#case(
+  "6.1.3",
+  [Onko toisen joukkueen sallittua pyytää aikalisää vastustajan aikalisän lopussa? Viite: Tapaus 10.7],
+  [Tuomarien tulisi hyväksyä tämä aikalisäpyyntö viheltämällä pilliin ja toistamalla viralliset käsimerkit. 30 sekunnin ajanoton tulisi alkaa, kun molemmat joukkueet ovat takaisin nimetyillä tuoleillaan (tai asianmukaisesti). 30 sekunnin päätyttyä tuomarien tulisi viheltää, näyttää merkki ja pyytää sanallisesti joukkueita palaamaan pelikentälle. 2. tuomarin tulisi tällöin ilmoittaa molemmille joukkueille, että ne ovat käyttäneet sallitut aikalisänsä.],
+  ("15.2.1", "Tuomariohjeet ja -ohjeistukset"),
+)
+
+#case(
+  "6.1.4",
+  [Ottelun aikana joukkueen A kapteeni pyysi toista aikalisää erässä. 2. tuomari hyväksyi sen, samalla kun hän totesi kirjurille, että ensimmäinen aikalisä oli merkitty joukkueelle B. Kun kirjuri oli korjannut pöytäkirjan, myöhemmin erässä joukkue B pyysi (ensimmäistä) aikalisäänsä. Kun 2. tuomari hylkäsi pyynnön ja joukkue B protestoi, 2. tuomari tajusi, että joukkueelle A oli myönnetty kaksi aikalisää erässä. Mikä olisi ratkaisu otteluhetkellä?],
+  [Vaikka joukkueen A kapteenin toisen pyynnön oikea hetki voitaisiin jäljittää, seuraavan pallorallin pelaamisen jälkeen tätä voidaan pitää vain kyseisen tuomarin virheenä. Joukkueella B ei ole oikeutta palata ajassa taaksepäin ja pelata ottelua uudelleen siitä pisteestä, kun joukkue A sai toisen aikalisänsä. (Tuolloin se olisi pitänyt kirjata virheelliseksi pyynnöksi tai viivytysrangaistukseksi.)],
+  ("15.5.3", "15.5.4", "16.1", "16.2.1", "16.2.2", "16.2.3"),
+)
+
+#case(
+  "6.1.5",
+  [Onko sallittua antaa virheellinen pyyntö aiemmin samassa ottelussa annetun viivytysvaroituksen tai -rangaistuksen jälkeen?],
+  [Joukkueen ensimmäinen virheellinen pyyntö ottelussa, joka ei vaikuta peliin tai viivytä sitä, hylätään ilman muita seurauksia. Säännössä ei mainita mitään aiemmista tapahtumista ennen virheellistä pyyntöä. Jos pyyntö on virheellinen ensimmäistä kertaa joukkueelta, se tulisi katsoa "virheelliseksi pyynnöksi"; sillä ei ole väliä, onko joukkue aiemmin saanut viivytysrangaistuksen. Joten viivytysvaroituksen (DW) tai -rangaistuksen (DP) jälkeen "virheellinen pyyntö" voidaan silti tehdä – ja kirjata pöytäkirjaan.],
+  "15.11.2",
+)
+
+#case(
+  "6.1.6",
+  [Ottelun aikana kävellessään suoraan joukkuealueelleen, joukkueen A pelaaja, joka ei ollut kapteeni, pyysi aikalisää. 2. tuomari ei hyväksynyt pyyntöä, ja joukkueelle A merkittiin "virheellinen pyyntö". Samaan aikaan joukkueen A kapteeni pyysi aikalisää samalla katkolla, jota 2. tuomari ei myöskään hyväksynyt. Oliko 2. tuomari oikeassa?],
+  [Tuomari on oikeassa antaessaan "virheellisen pyynnön". Se hylätään ilman rangaistusta, ellei se toistu tai vaikuta peliin tai viivytä sitä. Kuitenkin olosuhteista riippuen kuvattu skenaario voi johtaa yhteen kahdesta seuraavasta seurauksesta: 1) Jos viivytysrangaistusta ei sovelleta, mikään sääntö ei estä kapteenia tekemästä laillista pyyntöä saman katkon aikana. Joten tällaisessa tilanteessa 2. tuomarin olisi pitänyt hyväksyä kapteenin aikalisäpyyntö. 2) Jos sovellettiin viivytysrangaistusta, kapteenin aikalisäpyyntöä ei sallittaisi samalla katkolla.],
+  ("15.3", "15.5.2", "15.5.4"),
+)
+
+#case(
+  "6.1.7",
+  [Aikalisän kesto on asetettu 30 sekuntiin. Voidaanko tätä säätää?],
+  [Kyllä. Aikalisien kestoa voidaan säätää kilpailun tarpeiden mukaan. Tämä on eri asia kuin pelaajien salliminen palata kentälle ennen vihellystä, joka päättää aikalisän (mikä olosuhteista riippuen voidaan myös sallia).],
+  "15.4.1",
+)
+
+#case(
+  "6.2.1",
+  [Onko sallittua antaa kahta viivytysvaroitusta samalle joukkueelle yhdessä erässä? Viite: Tapaus 10.8],
+  [
+    1. tuomarin ei tulisi antaa kahta viivytysvaroitusta yhdelle joukkueelle samassa erässä tai samassa ottelussa. Viivytysvaroitukset kirjataan pöytäkirjaan, joten kirjurin tulisi välittömästi ilmoittaa 1. tuomarille (2. tuomarin kautta) tästä virheestä.
+  ],
+  ("16.2.1", "16.2.1.1", "16.2.1.2", "16.2.2", "16.2.3"),
+)
+
+#case(
+  "6.2.2",
+  [Onko pelaajien sallittua mennä usein hitaasti paikoilleen, pyyhkiä lasejaan ja puhdistaa hiekkaa kehostaan, ja siten pidentää aikaa pallorallien välillä yli 12 sekunnin?],
+  [
+    1. tuomarin tulisi säilyttää ottelun tahdin hallinta, eikä antaa pelaajien hallita sitä. Pidentämällä aikaa pallorallien välillä yli 12 sekunnin on tapahtunut viivytys. Tuomarin on hallittava pallorallien välistä aikaa varoittaen sanallisesti tarvittaessa. Sitten kun pelaaja tahallisesti tai toistuvasti viivyttää ottelua, anna virallinen viivytysvaroitus joukkueelle.
+  ],
+  "16.1.3",
+)
+
+#case(
+  "6.2.3",
+  [Kun pelaajat ovat paikallaan vastaanottaakseen seuraavan syötön, toinen heistä pyytää 1. tuomarilta lupaa pyyhkiä kasvonsa. Pitäisikö 1. tuomarin hyväksyä tämä pyyntö?],
+  [Tässä tapauksessa tuomarin tulisi hylätä pyyntö, koska pelaaja pidentää aikaa pallorallien välillä yli 12 sekunnin. Rallin päätyttyä pelaajan olisi pitänyt poistua kentältä nopeasti pyyhkimään kasvonsa. Tuomarin tulisi hyväksyä tämä pyyntö vain, jos: 1) pelaajalle on olemassa merkittävä vaara, ja 2) pelaaja ei tahallisesti aiheuttanut tätä viivytystä.],
+  ("16.1.3", "Tuomariohjeet ja -ohjeistukset"),
+)
+
+#case(
+  "6.2.4",
+  [Onko pelaajan sallittua pyyhkiä päätään ja käsiään verkkopylväässä roikkuvalla pienellä pyyhkeellä, joka on tarkoitettu pelaajien lasien puhdistamiseen? Viite: Tapaus 10.9],
+  [Ei, tämä ei ole sallittua. 1. tuomarin tulisi katsoa tämä pelin tahalliseksi viivyttämiseksi ja hänen tulisi antaa viivytysrangaistus.],
+  ("16.1.3", "Tuomariohjeet ja -ohjeistukset"),
+)
+
+#case(
+  "6.2.5",
+  [Jos joukkue viivyttää ottelun alkua jättämällä tulematta kentälle tuomarien pyynnöstä huolimatta, mikä olisi 1. tuomarin oikea menettelytapa? Viite: Tapaus 10.12],
+  [1. tuomarin tulisi antaa viivytysrangaistus ennen pelin alkua.],
+  "16.2.2",
+)
+
+#case(
+  "6.2.6",
+  [Ottelun aikana joukkueen A kapteeni pyytää toista aikalisää erässä. 2. tuomari hyväksyy sen. Kun pelaajat kävelevät tuoleilleen, kirjuri ilmoittaa 2. tuomarille, että joukkueella A oli jo yksi aikalisä kyseisessä erässä. 2. tuomari kutsuu molemmat joukkueet takaisin pelipaikoilleen, ja 1. tuomari antaa viivytysrangaistuksen joukkueelle A. Oliko tämä oikea menettelytapa?],
+  [Tämä on kulunut aika huomioiden oikea ratkaisu. 2. tuomarin on aina oltava tietoinen käytettyjen aikalisien määrästä, ja hänen olisi pitänyt hylätä pyyntö ja ohjeistaa kirjuria kirjaamaan virheellinen pyyntö pöytäkirjaan.],
+  ("15.5.3", "15.5.4", "16.1", "16.2.1", "16.2.2", "16.2.3"),
+)
+
+#case(
+  "6.3.1",
+  [Mitä tuomarin tulisi tehdä, jos pelaaja loukkaantumisen jälkeen poistuu kentältä eikä palaa 5 minuutin kuluessa? Viite: Tapaus 10.10],
+  [Heti kun 1. tuomari (nykyisten säännösten rajoissa) toteaa, että lääkintäapua tarvitaan, hänen on varmistettava: 1) että akkreditoitua lääkintähenkilöstöä ja delegaattia (delegaatteja) pyydetään tulemaan kentälle välittömästi. Huomaa, että varotoimenpiteenä akkreditoitua lääkintähenkilöstöä on pyydettävä tulemaan kentälle kaikissa loukkaantumistapauksissa riippumatta siitä, pyytääkö pelaaja sitä vai ei. 2) että pelaaja(t) pysyvät pelialueella tai kyseisen joukkueen alueella. 3) että jos tuomari sallii loukkaantuneen pelaajan poistua pelialueelta tai kyseisen joukkueen alueelta, tuomarin tulisi aluksi saattaa tätä pelaajaa. 4) että kirjuri on kirjannut kaikki tärkeät tiedot oikein. 5) että muille pelaajille tiedotetaan kaikista asiaankuuluvista tiedoista. Tässä tapauksessa pelaajan joukkue olisi pitänyt julistaa vajaalukuiseksi ja ottelu päättyneeksi.],
+  "17.1.2",
+)
+
+#case(
+  "6.3.2",
+  [Jos kyseessä on pieni verivamma, saako pelaaja nopeasti puhdistaa ja sitoa haavan? Viite: Tapaus 10.11],
+  [Kyllä. Tuomarien on oltava erittäin varovaisia verimääräysten toimeenpanossa kaikkien otteluun osallistujien turvallisuuden vuoksi. Jos vamma on pieni, tuomarit voivat sallia (ilman lääkintäaikalisän määräämistä joukkueelle) riittävästi aikaa vamman hoitamiseen.],
+  ("17.1.2", "Tuomariohjeet ja -ohjeistukset"),
+)
+
+#case(
+  "6.3.3",
+  [Vaikeissa sääolosuhteissa pelaaja ei pysty jatkamaan pelaamista, koska hänellä on hengitysvaikeuksia astman vuoksi. Miten tuomarien tulisi edetä?],
+  [Joukkueella on ensin oikeus aikalisään, jos se on käytettävissä, ja tarvittaessa lääkintäapukatkoon kyseiselle pelaajalle. Joten 2. tuomarin tulisi: 1) ensin hyväksyä joukkueen aikalisä, 2) sitten selvittää, haluaako pelaaja tulla hoidetuksi virallisen lääkintähenkilöstön vai joukkueen akkreditoidun lääkintähenkilöstön toimesta, 3) minkä jälkeen kutsua välittömästi asianomainen lääkintäapu kentälle, 4) sitten, vain jos asia ei ratkea, 2. tuomarin on annettava merkki 1. tuomarille tulla alas tornista ja ilmoittaa pelaajalle, että "toipumiskatko" hyväksytään ja aloitetaan 1. tuomarin toimesta. 1. tuomari tultuaan alas tornista ja ollessaan lähellä kirjurinpöytää: 1) varmistaa, että kaikki olennaiset seikat täyttyvät, eli: virallisen lääkintähenkilöstön saapuminen (jos tämä on ollut loukkaantuneen pelaajan valinta), tai jos virallista lääkintähenkilöstöä ei ole saatavilla, tai jos pelaaja pyysi omaa akkreditoitua lääkintähenkilöstöään, 2) minkä jälkeen aloittaa välittömästi "Toipumiskatko"-protokollan (RIT). 3) tämä tehdään viheltämällä ja näyttämällä numeroa 5 sormet koholla ja pyytämällä kirjuria aloittamaan ajanotto. Samanlainen prosessi toteutetaan, jos pelaajalla on samat oireet ennen ottelun tai erän alkua, koska joukkueella on laillinen oikeus aikalisään ja tarvittaessa lääkintäapukatkoon tietylle pelaajalle, vaikka joukkueet eivät ole aloittaneet pelaamista (ensimmäinen syöttö).],
+  ("17.1.2", "Tuomariohjeet ja -ohjeistukset"),
+)
+
+#case(
+  "6.3.4",
+  [Kun pelaaja pyytää "Toipumiskatkolla" (RIT) akkreditoitua lääkintähenkilöstöä, onko hänellä oikeus kieltäytyä nopeasti kentälle tulevan ensiapuhenkilön hoidosta?],
+  [Kyllä, jos pelaaja pyytää akkreditoitua lääkintähenkilöstöä, ensiapuhenkilöä ei katsota sellaiseksi. Delegaatin (delegaattien) tehtävänä on määrittää akkreditoidun lääkintähenkilöstön soveltuvuus tehtäväänsä.],
+  ("17.1.2", "Tuomariohjeet ja -ohjeistukset"),
+)
+
+#case(
+  "6.3.5",
+  [Onko pelaajan sallittua olla pyytämättä lääkintäapua pienen vamman jälkeen todeten, että kaikki on kunnossa lyhyessä ajassa?],
+  [Kyllä, jos aika, jonka pelaaja tarvitsee, on lyhyt, tuomarien tulisi sallia tämä. 2. tuomarin on valvottava pelaajaa tarkasti tänä aikana. Tuomarien tulisi huomata, että ellei kyseessä ole äärimmäinen tapaus, jossa virallinen lääkintähenkilöstö voi vastustaa sitä, on aina pelaajan lopullinen päätös, onko hän kunnossa jatkamaan ottelua. Tuomarien tulisi kaikissa loukkaantumistapauksissa kutsua valtuutettu lääkintähenkilöstö kentälle riippumatta siitä, toteutetaanko "Lääkintäapu"-protokolla vai ei.],
+  ("17.1.2", "Tuomariohjeet ja -ohjeistukset"),
+)
+
+#case(
+  "6.3.6",
+  [Joukkue pyytää teknistä delegaattia tarkistamaan valaistuksen puutteen. Delegaatti pysäyttää pelin ja ottelu alkaa uudelleen seuraavana aamuna tilanteesta 0-0. Mitkä ovat kriteerit, joiden perusteella tekninen delegaatti päättää, jatketaanko ottelua? Viite: Tapaus 10.13],
+  [Delegaatin tulisi harkita seuraavaa: 1) päiväotteluille ei ole määritelty luonnonvalon maksimi- tai minimimäärää; kuitenkin 1000 luksia 1 metrin korkeudella pelialustasta voidaan käyttää viitteenä. 2) ovatko normaalit peliolosuhteet mahdollisia pelaajille koko loppuottelun ajan. 3) haluavatko kapteenit pysäyttää ottelun. Molemmat joukkueet voivat sopia ottelun jatkamisesta. 4) keinovalojen saatavuus ottelun mahdollista jatkamista varten. 5) seuraavan päivän peliaikataulu.],
+  "1.6",
+)
+
+#case(
+  "6.3.7",
+  [Jos pelaaja pelin aikana teeskentelee loukkaantumista ja saa näin 1. tuomarin pysäyttämään pelin välittömästi, ja sen jälkeen pelaaja toteaa, ettei mikään estä häntä pelaamasta, onko tuomarilla mitään keinoa puuttua tähän epäurheilijamaiseen käytökseen?],
+  [Ei. Vihellettyään väitetyn loukkaantumisen vuoksi 1. tuomarilla ei ole keinoa perua päätöstään, ja hänen on annettava pallorallin pelattavaksi uudelleen. Pelisääntöjen mukaan tuomarin on vihellettävä, kun hän uskoo, että vakava loukkaantuminen on tapahtunut ja/tai jos pelaaja voi loukkaantua lisää, jos peli jatkuu. Tämä vihellys (jos se tapahtuu rallin aikana) johtaa pallon uusimiseen. Jos vihellys tapahtuu rallin päättymisen jälkeen, rallin tulos jää voimaan. Tuomarin ei tulisi ryhtyä väittelyyn loukkaantumisen pätevyydestä kummankaan pelaajan kanssa.],
+  ("17.1.1", "Tuomariohjeet ja -ohjeistukset"),
+)
+
+#case(
+  "6.3.8",
+  [Onko pelaajan sallittua pyytää tuomareilta suoraa apua kivun lievittämiseksi loukkaantumisessa?],
+  [Vaikka toimitsijoiden vastuulla on varmistaa turvalliset olosuhteet pelaajille, tämä ei sisällä henkilökohtaisen lääkintäavun antamista. Tuomarin ensisijainen vastuu tällaisissa tilanteissa on varmistaa lääkintähenkilöstön pääsy paikalle mahdollisimman nopeasti (noudattamalla Lääkintäapuprotokollaa).],
+  ("17.1.2", "23.2.7"),
+)
+
+#case(
+  "6.3.9",
+  [Onko joukkueen sallittua pyytää lääkintäapua erien väliseksi ajaksi tai aikalisän ja teknisen aikalisän aikana?],
+  [Kyllä. Tämä pyyntö on laillinen ja molempien toimitsijoiden tulisi aloittaa se mahdollisimman pian. Pelaajalla on oikeus pyytää ja sitten käyttää lääkintäapua heille osoitetuilla istuimilla koko erien välisen ajan (myös teknisten aikalisien ja aikalisien aikana).],
+  "Tuomariohjeet ja -ohjeistukset",
+)
+
+#case(
+  "6.3.10",
+  [Jos puun oksa roikkuu aloitusalueen yläpuolella, ja tekninen delegaatti on aiemmin hyväksynyt tämän ja tiedottanut siitä virallisesti, tekeekö pelaaja virheen, kun hän heittää pallon ilmaan syöttöä varten ja pallo osuu oksaan?],
+  [Pelaaja ei tee virhettä. Jos tekninen delegaatti hyväksyi nämä erityisolosuhteet ja tiedotti niistä virallisesti, 1. tuomarin tulisi määrätä syöttö uusittavaksi.],
+  ("1.1", "8.4.2", "17.2"),
+)
+
+#case(
+  "6.3.11",
+  [Tilanteessa 22-22 1. erässä ja joukkueen B hyökkäyksen jälkeen joukkueen A puolustava pelaaja ohjaa pallon virheellisesti kohti oman kenttänsä takaosaa (lähelle päätyrajaa). Joukkueen A pari lähtee tavoittelemaan palloa, mutta ennen kuin hän saavuttaa sen, irtopallo tulee vapaa-alueelle mainosaitojen ja saman päätyrajan väliin, kaikkien pelaajien ja tuomarien näkyviin. Molemmat joukkueen B pelaajat reagoivat sanallisesti ja heiluttavat käsiään tuomareille pelialueelle tulevan ulkoisen pallon vuoksi, ja näin ollen epäröivät jatkaa pallorallia, viivyttävät liikkeitään ja menettävät keskittymisensä, mikä sallii joukkueen A lyödä pallon helposti kenttään joukkueen B puolella ja voittaa rallin. Päinvastoin joukkueen A pelaajat eivät missään vaiheessa kyseenalaistaneet irtopallon sijaintia, säilyttivät keskittymisensä eivätkä lopettaneet pelaamista. Vaikka molemmat tuomarit näkivät ulkoisen pallon tulevan pelialueelle rallin aikana sekä joukkueen B pelaajien eleet ja epäröinnin, 1. tuomari myönsi pisteen joukkueelle A, siirtäen tilanteeksi 23-22. (Valitettavasti kirjuri ei siirtänyt pisteitä, ja e-pöytäkirjassa tilanne pysyi 22-22:ssa). Seuranneet toimet johtivat 14 minuutin viivästykseen ottelussa ennen pelin jatkumista. Olisiko tuomarien pitänyt pysäyttää ralli ja uusia se, ja onko kummallakaan joukkueella perusteita vastalauseelle?],
+  [Sääntö 17.2 toteaa, että "Jos pelin aikana ilmenee ulkoinen häiriö, peli on pysäytettävä ja palloralli pelattava uudelleen." Tässä tapauksessa molemmat tuomarit näkivät ulkoisen pallon tulevan pelialueelle, ja heidän olisi pitänyt pystyä tunnistamaan joukkueen B pelaajien vaatimus ja epäröinti, mutta silti molemmat tuomarit katsoivat, että toiminta ei häirinnyt peliä. Kuvattu tapaus viittaa ulkoiseen häiriöön, joten säännön suoraviivainen soveltaminen olisi ollut: keskeytä peli ja uusi ralli. Tämä olisi oikeuttanut joukkueen B lailliseen vastalauseprotokollapyyntöön säännön epäillyn väärintulkinnan vuoksi. Jos vastalause perustuu tähän tulkintakysymyksenä (judgment call) eikä säännön väärintulkintana/väärinsoveltamisena, tekninen delegaatti tuomarivalmentajan neuvosta ei voisi hyväksyä vastalauseprotokollaa. Tällä olisi vakavia taloudellisia seurauksia joukkueelle B (\$500). "Fiksu tuomarointi" edellyttää maalaisjärkeä. Jos reaktiota ei ole, mukaan lukien kun pelaajat eivät välitä siitä ja haluavat jatkaa pelaamista, silloin "fiksun tuomaroinnin" tulisi voittaa. Lopuksi, 14 minuutin viivästys liittyen tuomaripäätöksen kiistämiseen on täysin mahdotonta hyväksyä lajissamme.],
+  ("16", "17", "Tuomariohjeet ja -ohjeistukset"),
+)
+
+#case(
+  "6.3.12",
+  [Naisten pääsarjan ottelun aikana järjestelytoimikunta päätti pysäyttää kaikki ottelut ukkosmyrskyn vuoksi. Keskeytys kesti noin 1 tunnin. E-pöytäkirjaan kirjattu tulos keskeytyshetkellä 2. erässä oli 8-6 joukkueen A hyväksi, joukkueen A syöttäessä. Lämmittelyn lopussa ottelun jatkamiseksi, 1. tuomarin ollessa tornissa, joukkue B väitti ensin 2. tuomarille ja kirjurille, että tulos oli väärä, ja sitten kentältä käsin he puhuivat katsomossa olleelle TD/RC:lle sanoen, että he johtivat 8-6, eikä joukkue A. Valitus ei ollut virallinen vastalause. RC päätti mennä pyytämään 2. tuomaria tarkistamaan pöytäkirjan, ja muutaman sekunnin kuluttua 2. tuomari ilmoitti, että tulos oli oikein (8-6 joukkueelle A), ja että hän oli varma siitä. RC kertoi sitten joukkueelle B, että heidän oli jatkettava peliä, minkä he tekivät. Myöhemmin RC päätti ladata ottelun videotallenteen ja pöytäkirjan. Hän tajusi, että kun tilanne oli 7-6 joukkueen A hyväksi, joukkue A oli itse asiassa syöttänyt verkkoon. Tilanteen olisi pitänyt olla 7-7 keskeytyshetkellä joukkueen B syöttäessä. Tarkistamalla pöytäkirjan RC havaitsi, että kirjuri oli myöntänyt pisteen joukkueelle A vahingossa (tehden tilanteeksi 8-6 joukkueelle A). Kukaan kentällä ei tuolla hetkellä tajunnut virhettä, ja kaikki poistuivat ukkosmyrskykeskeytyksen vuoksi. RC:n olisi pitänyt käyttää vain pari minuuttia katsoakseen viralliselta videotallenteelta oikea tilanne ja syöttäjä.],
+  [Kirjuri teki selvästi virheen e-pöytäkirjassa, kun joukkue B voitti rallin ja syötön joukkueen A virheellisen syötön jälkeen tilanteessa 7-6, joukkueiden vaihtaessa puolia vaaditusti (puoltenvaihto olisi pitänyt kirjata tilanteessa 7-7). Tapahtui useita muita menettelyvirheitä, jotka olisivat estäneet nolon tilanteen väärällä tuloksella ja väärällä syöttävällä joukkueella pelin jatkuessa. Näitä olivat: 1) välittömästi puoltenvaihdon jälkeen 2. ja 1. tuomari, ennen/tai lopulta sen jälkeen kun he poistuivat kentältä, eivät tarkistaneet kunnolla (kuten vaaditaan), että kaikki oli rekisteröity oikein e-pöytäkirjaan (oikealla tuloksella, oikealla syöttäjällä jne.) 2) kun joukkue B kyseenalaisti tuloksen, jo näin pitkän sääolosuhteista johtuvan tauon jälkeen, RC:n olisi pitänyt käyttää tilaisuus hyväkseen ja käyttää vain pari minuuttia katsoakseen viralliselta videotallenteelta oikea tilanne ja syöttäjä.],
+  ("17.3.1", "23.2.3"),
+)
+
+#case(
+  "6.4.1",
+  [Jos erässä puoltenvaihto huomataan myöhässä pelaajien, kirjurin ja tuomarin toimesta, tulisiko pisteet korjata?],
+  [Ei, pisteitä ei tule korjata. Joukkueiden on vaihdettava puolia heti, kun virhe on huomattu.],
+  "18.2.2",
+)
+
+#case(
+  "6.4.2",
+  [Jos ottelun aikana pelin tahti kärsii monien TV:n uusintapyyntöjen vuoksi, mitä 1. tuomari voi tehdä?],
+  [On tärkeää, että 1. tuomari sopivimmalla hetkellä välittää tämän tiedon tekniselle delegaatille (delegaateille). Vaikka ottelun toimitsijoiden vastuulla on työskennellä yhteistyössä TV-koordinaattorin ja hänen henkilökuntansa kanssa, he edustavat myös FIVB:tä (pelaajien toimitsijat jne.) ja virallisten sääntöjen henkeä. Tekniselle delegaatille tulisi ilmoittaa kaikista olosuhteista, joissa tuomari katsoo otteluolosuhteiden vaarantuvan. Tässä tilanteessa on myös asianmukaista, että 1. tuomari puhuu pelaajille ja selittää tilanteen.],
+  ("16.1.3", "Tuomariohjeet ja -ohjeistukset"),
+)
+
+# LUKU 7 - KÄYTÖSRIKKEET
+
+# LUKU 7
+
+#case(
+  "7.1.1",
+  [Varoittaako tuomari tosiasiassa molempia pelaajia (koko joukkuetta), kun hän antaa suullisen varoituksen ja keltaisen kortin joukkueen yhdelle pelaajalle? Viite: Tapaus 10.14],
+  [Kyllä. 1. tuomari toimii oikein varoittaessaan pelaajia suullisesti, kun he syyllistyvät lievään käytösrikkeeseen. Antaessaan virallisen varoituksen keltaisella kortilla, tuomari viestittää joukkueelle, että se on saavuttanut rangaistuskynnyksen; tämä kuitenkin näytetään asianomaiselle pelaajalle.],
+  ("20.1", "20.2", "Tuomariohjeet ja -ohjeistukset")
+)
+
+#case(
+  "7.1.2",
+  [Kuinka monta lievästä käytösrikkeestä johtuvaa varoitusta ja rangaistusta joukkue/pelaaja voi saada ottelun aikana? Viite: Tapaus 10.15],
+  [Tietylle joukkueelle voidaan antaa vain yksi virallinen käytösvaroitus keltaisella kortilla koko ottelun aikana. Jokainen joukkueen minkä tahansa pelaajan tekemä ylimääräinen lievä käytösrike ottelun aikana johtaa käytösrangaistukseen (enintään 2 erää kohden per pelaaja). Kuitenkaan toistuvasta lievästä käytösrikkeestä johtuvasta käytösrangaistuksesta ei asianomaisissa FIVB/BPT-kilpailuissa määrätä rahallista sanktiota.],
+  ("20.1", "Tuomariohjeet ja -ohjeistukset")
+)
+
+#case(
+  "7.1.3",
+  [1. erän tilanteessa 20-20, joukkueen A tehtyä 21. pisteen, toinen joukkueen B pelaajista valittaa siitä, että tuomari ei viheltänyt hänen mielestään virheellistä passisuoritusta. Koska joukkue B oli jo saanut virallisen käytösvaroituksen (keltainen kortti) kyseisen erän aikana, ja 1. tuomari katsoi joukkueen B pelaajan toiminnan lievän käytösrikkeen toistamiseksi antaen joukkueen B pelaajalle käytösrangaistuksen, tämä johti tilanteeseen 22-20 joukkueelle A. Oliko 1. tuomari oikeassa?],
+  [Minkä tahansa aiemmin virallisella käytösvaroituksella (keltainen kortti) rangaistun joukkueen pelaajan tekemä ylimääräinen lievä käytösrike ottelun aikana johtaa käytösrangaistukseen, ja siten, riippuen lievän käytösrikkeen vakavuudesta, tuomarilla on valtuudet rangaista pelaajaa käytösrangaistuksella. Tuomarin on kuitenkin arvioitava huolellisesti tällaisen lievän käytösrikkeen vakavuusaste, jotta estetään erän (tai pelin) ratkaiseminen rangaistuksella.],
+  ("20.1", "Tuomariohjeet ja -ohjeistukset")
+)
+
+#case(
+  "7.2.1",
+  [Onko oikein, että tuomari antaa punaisen kortin, kun pelaaja potkaisee tahallaan pallon kentän ulkopuolelle? Viite: Tapaus 10.16],
+  [Tuomari on oikeassa rangaistessaan pelaajaa räikeästä käytöksestä, koska rike on tahallinen ja merkittävä.],
+  ("20.2.1", "20.3.1")
+)
+
+#case(
+  "7.2.2",
+  [Kuinka monta kertaa pelaaja voi saada punaisen kortin yhdessä erässä? Viite: Tapaus 10.17],
+  [Kaksi kertaa. Saman pelaajan kolmas räikeä käytös samassa erässä johtaisi erästä poistamiseen.],
+  ("20.3.1")
+)
+
+#case(
+  "7.2.3",
+  [Mitä tapahtuu, jos pelaaja verkkoa vetämällä rikkoo yhden sitä pitävistä tolpista? Viite: Tapaus 10.18],
+  [Pelaajaa tulisi rangaista käytösrangaistuksella. Hänet sakotetaan ottelun jälkeen "Misconduct sanction fee scale" -taulukon mukaisesti. Ottelu voi alkaa uudelleen toisella kentällä samasta tilanteesta; kuitenkin käytösrangaistuksen vuoksi vastustajajoukkue saa yhden lisäpisteen tämän käytösrangaistuksen ja seuraavan syötön ansiosta.],
+  ("20.2.1", "20.3.1", "Tuomariohjeet ja -ohjeistukset")
+)
+
+#case(
+  "7.2.4",
+  [Jos erien välillä 2. tuomari kuulee äänekkään halventavan kommentin 1. tuomarista, mikä tulisi olla hänen toimintansa?],
+  [Aluksi 2. tuomarin on raportoitava tämä toiminta 1. tuomarille erätauon aikana. 1. tuomarin tulisi varoittaa tai rangaista pelaajaa, kuten hän katsoo sopivaksi. Tuomarin on tarkasteltava olosuhteita ja rikkeen tasoa tarkasti ja varoitettava tai rangaistava sen mukaisesti. Koska rike tapahtui erien välillä, se on sovellettava seuraavan erän alussa. Tämä koskee myös ennen ottelua tapahtuvaa käytösrikettä, jota sovelletaan ennen ottelun ensimmäistä syöttöä.],
+  ("20.1", "20.2", "20.4")
+)
+
+#case(
+  "7.2.5",
+  [Mitä toimenpiteitä 1. tuomarin tulisi soveltaa antaakseen käytösrangaistuksen erien välillä? Viite: Tapaus 10.19],
+  [1. tuomarin on sovellettava rangaistusta seuraavan erän alussa. Näytettyään punaista korttia asianomaiselle pelaajalle, hänen on sitten näytettävä toinen joukkue syöttämään. Jos rangaistuksen saanut joukkue oli syöttövuorossa, vastustaja saa oikeuden syöttää ja heidän on kierrettävä yksi paikka. Jos rangaistuksen saanut joukkue oli vastaanottavana, vastustaja saa 1 pisteen ja säilyttää syöttöjärjestyksen.],
+  ("20.3.1", "20.4", "Pöytäkirjaohjeet")
+)
+
+#case(
+  "7.2.6",
+  [Jos pelaaja, ollessaan eri mieltä tuomarin päätöksestä, repii peliasunsa vihasta, tulisiko 1. tuomarin pitää tätä käytösrikkeenä vai pelin viivyttämisenä? Viite: Tapaus 10.20],
+  [Tuomarin tulisi pitää tätä räikeänä käytöksenä. Pelaajan toiminta repiä pelipaitansa muodostaa välineiden väärinkäyttöskenaarion "peliasun väärinkäyttö", josta tulisi rangaista punaisella kortilla. Pelaaja voi saada enintään kaksi punaista korttia samassa erässä.],
+  ("20.3.1")
+)
+
+#case(
+  "7.2.7",
+  [Ottelun päätyttyä 1. tuomarin toimesta, jos pelaaja hermostuu ja poistaa pehmusteen tolpasta ja repii kentän numeron tuomaritornista, tulisiko tämä toiminta, vaikka se tapahtuukin ottelun päättymisen jälkeen, kirjata pöytäkirjaan? Viite: Tapaus 10.21],
+  [Kyllä. Tuomarin tulisi kirjata tällaiset toimet pöytäkirjan huomautussarakkeeseen.],
+  ("20.4", "Tuomariohjeet ja -ohjeistukset")
+)
+
+#case(
+  "7.2.8",
+  [Jos valmentaja, joka seisoo kentän ulkopuolella ottelun aikana, solvaa jatkuvasti tuomareita heidän päätöksistään kielenkäytöllä ja käsimerkeillä, mitä tuomarien tulisi tehdä?],
+  [Tuomari ei voi rangaista valmentajaa suoraan käytösrikkeestä, koska hän ei ole osallistuja ottelussa. Jos valmentaja on akkreditoitu, tuomarit voivat lähestyä teknistä delegaattia tästä asiasta, ja hän voi päättää, menettääkö valmentaja akkreditointinsa lopputurnauksen ajaksi.],
+  ("4.1.1", "4.1.4", "Tuomariohjeet ja -ohjeistukset")
+)
+
+#case(
+  "7.2.9",
+  [1. tuomarin pallonjälkiprotokollaa koskevan päätöksen jälkeen yksi pelaajista otti kameransa ja otti kuvan pallonjäljestä. Ottelun jälkeen hän etsi tuomarivalmentajaa (RC) yrittäen näyttää kuvaa ja väittäen, että 1. tuomari teki väärän päätöksen. Mitä RC:n tulisi tehdä? Ja mitä 1. tuomarin olisi pitänyt tehdä ottelun aikana?],
+  [1. tuomarin olisi pitänyt rangaista asianomaista pelaajaa räikeästä käytöksestä säännön 20.2.1 mukaisesti. Kaikkien FIVB:n toimitsijoiden tulisi kieltäytyä katsomasta minkäänlaisia tämän tyyppisiä kuvia, koska ne eivät ole virallista kuvamateriaalia eikä ole todisteita siitä, että ne liittyvät kyseiseen tapahtumaan kyseisen ottelun aikana.],
+  ("19.1.2", "19.1.3", "20.2.1")
+)
+
+#case(
+  "7.2.10",
+  [Jos teknisen aikalisän jälkeen punainen kortti (rangaistus) annetaan syöttövuorossa olevan joukkueen pelaajalle, koska hän käyttäytyi huonosti edellisen pisteen jakamisen aikana, joka johti tekniseen aikalisään, tulisiko tämän joukkueen menettää syöttöoikeus sillä hetkellä?],
+  [Kyllä, 1. tuomarin tulisi aina annettuaan punaisen kortin pelaajalle antaa syöttöoikeus vastustajajoukkueelle ja hyödyttää uutta syöttävää joukkuetta pisteellä.],
+  ("20.2.1", "20.3.1")
+)
+
+# LUKU 8 - TUOMARIT
+
+# LUKU 8
+
+#case(
+  "8.1.1",
+  [Ottelun viimeisen vihellyksen jälkeen hävinneen joukkueen kapteeni pyysi päätuomaria neuvottelemaan molempien rajatuomarien kanssa, jotka näyttivät torjuntakosketusta. Tuomari kieltäytyi tästä sanoen päätöksensä olevan lopullinen. Voiko kapteeni tehdä vastalauseen tästä kohdasta?],
+  [Päätuomarin tuomarointitekniikassa oli vakava ongelma, sillä yhteistyö on erittäin tärkeää tuomaritoiminnassa. Tätä vastalausetta ei kuitenkaan hyväksytä, koska kyse on tulkintakysymyksestä (judgment call) ja päätuomarin päätös on lopullinen.],
+  ("21.2", "Tuomariohjeet ja -ohjeistukset"),
+)
+
+#case(
+  "8.1.2",
+  [Puolivälieräottelussa pääkentällä, tilanteen ollessa 1-0 joukkueelle A 3. erässä, joukkue A voitti seuraavan pallorallin. Kirjuri lisäsi yhden pisteen joukkueelle A e-pöytäkirjan tabletilla. Tabletin hitaan vasteen vuoksi se ei kuitenkaan aluksi näyttänyt pistettä joukkueelle A, ja muutaman sekunnin kuluttua kirjuri, uskoen että pistettä ei oltu lisätty, painoi nappia uudelleen lisätäkseen pisteen joukkueelle A. Muutaman sekunnin kuluttua tabletti näytti tilanteeksi 3-0 joukkueelle A. Kollegoiden neuvoista huolimatta kirjuri vaati, että 3-0 oli oikea tulos. Joukkue A voitti lopulta kolmannen erän 15-12. Jonkin aikaa sen jälkeen, kun pöytäkirja oli allekirjoitettu, virhe vahvistettiin. Miten pistelaskuvirhe olisi pitänyt estää? Mitä ottelutulokselle voidaan nyt tehdä?],
+  [Beach volley -tapahtumien tiukat aikataulut tarkoittavat, että on elintärkeää, että kaikki pistelaskuongelmat ja vastalauseet käsitellään heti. Koska molemmat kapteenit allekirjoittivat pöytäkirjan ilman vastalausetta, vahvistaen tuloksen, tälle virheelle ei voida enää tehdä mitään. Oli vähintään VIISI (5) toimitsijaa, joiden olisi pitänyt tunnistaa pistelaskuvirhe ja joiden olisi pitänyt käyttää vaikutusvaltaansa sen korjaamiseksi ennen seuraavan pallorallin alkamista: 1) Kirjurin olisi pitänyt olla erityisen valpas tietääkseen tilanteen ennen sen muuttamista (eli 1-0) ja mikä sen pitäisi olla pisteen lisäämisen jälkeen (tässä tapauksessa 2-0). 2) Avustavan kirjurin (joka piti manuaalista varapöytäkirjaa ja joka neuvoi oikeasta tilanteesta) olisi pitänyt olla vaativampi ja ehdottaa 2. tuomarin kutsumista paikalle keskustelemaan ongelmasta ennen ottelun jatkamista. 3) Varatuomarin, joka hoiti e-pöytäkirjan/tabletin varmuuskopiointia, olisi pitänyt ilmoittaa tuomarivalmentajalle (RC) ensimmäisen erän aikana, että tekniikan kanssa oli ongelmia ja etteivät he pystyneet pitämään kirjaa pisteistä luotettavasti ottelun aikana. 4) Molempien tuomarien tulisi tarkistaa tilanne jokaisen pallorallin jälkeen varmistaakseen, että se etenee vain yhdellä pisteellä joka rallissa, ja että tulos on oikein valotaululla ja suurilla tulostauluilla. Parempi tiimityö, kunnioittaen samalla yksilöllisiä vastuita, ja epäröimätön puuttuminen asioihin varmistaisivat, ettei tämän tyyppistä virhettä tapahtuisi. Haastetuomari ja virallinen ajanottaja/tulostaulun käyttäjä, jotka olivat osa tätä ottelua, olisivat myös voineet olla osallisena pistelaskuvirheen käsittelyssä; kuitenkin viidellä yllä luetellulla toimitsijalla oli ensisijainen vastuu varmistaa, että tulos oli oikein ennen neljännen pallorallin alkua. Jopa tapauksessa, jossa otteluun ei ole nimetty yhtä monta toimitsijaa (esim. sivukenttäottelut), 1. ja 2. tuomarin on tarkistettava tulos jokaisen pallorallin jälkeen minimoidakseen tällaisen pistelaskuvirheen mahdollisuuden.],
+  ("6.1.3", "21.1", "23.2.3", "26.2.2.1", "27.2.2.1"),
+)
+
+#case(
+  "8.2.1",
+  [Jos tietyn joukkueen molemmat pelaajat menevät verkon ali kiistämään yhden rajatuomarin tuomion, tulisiko molemmille antaa punainen kortti?],
+  [Kyllä! Jokaisen pelaajan, joka menee verkon tai sen kuvitteellisen jatkeen ali tarkistaakseen pallonjäljen, tulisi saada käytösrangaistus tuomarilta. Kuitenkin asianomaisissa FIVB/BPT-kilpailuissa tästä käytösrangaistuksesta ei määrätä rahallista sanktiota.],
+  ("22.3.1.1", "22.3.2.2", "Tuomariohjeet ja -ohjeistukset"),
+)
+
+#case(
+  "8.2.2",
+  [Ottelu pysäytetään ja viivästyy, koska 1. tuomari rikkoi pillinsä ja unohti toisen pillin. Miten tuomarin olisi pitänyt estää tämä ongelma?],
+  [Tuomarien tulisi aina kantaa mukanaan henkilökohtaista varustesettiä, johon kuuluu kortit, kolikko ja pillit. Tuomarit eivät voi luottaa siihen, että varusteita on aina saatavilla tai että ne toimivat joka kerta. Heidän tulisi varautua tähän mahdollisuuteen.],
+  ("22.3", "Tuomariohjeet ja -ohjeistukset"),
+)
+
+#case(
+  "8.2.3",
+  [Jos pallonpalauttaja ottaa pallon kiinni pelialueella ennen kuin pelaaja pystyy pelaamaan sitä, tulisiko 1. tuomarin määrätä pallo uusittavaksi?],
+  [Kyllä, tuomari on oikeassa uusiessaan pisteen. Tässä tapauksessa katsotaan, että pallonpalauttaja on aloittanut kontaktin pallon kanssa. Tuomareita, TV-henkilökuntaa ja avustavia toimitsijoita vapaa-alueella ei katsota ulkoiseksi häiriöksi, elleivät he aloita kontaktia (tai sen uhkaa) pelaajan ja/tai pallon kanssa. Toimitsijoiden osuminen palloon normaalissa työskentelyasennossaan ei siten muodosta häiriötä.],
+  ("17.2", "Tuomariohjeet ja -ohjeistukset"),
+)
+
+#case(
+  "8.2.4",
+  [
+    2. erän alku viivästyy noin 9 minuuttia, koska sen jälkeen kun 1. tuomari oli antanut rangaistuksen, joka päätti 1. erän, toinen hävinneistä pelaajista alkoi käyttäytyä sanallisesti sopimattomasti kävellessään vaihtopenkilleen. Pelaajan jatkaessa sanallista solvaamista 1. tuomari pyysi 2. tuomaria kutsumaan teknisen delegaatin (TD) ja/tai tuomarivalmentajan (RC) apuun. Oliko tämä oikea toimenpide 1. tuomarilta?
+  ],
+  [Ellei kyseessä ole pätevä virallinen vastalause tuomarien sääntöjen soveltamisesta tai tulkinnasta, jolloin RC tai TD (soveltuvin osin) ottaisi vastuun vastalauseen lopputuloksen päättämisestä, 1. tuomari johtaa ottelua alusta loppuun. Ottelun aikana hänen päätöksensä ovat lopullisia. Tässä tapauksessa 1. tuomari ei ottanut vastuutaan. Tilanteen vakavuudesta riippuen, käsiteltyään sen virallisten sääntöjen mukaisesti (mitä ei itse asiassa tehty), tuomari olisi voinut kutsua asianomaisen FIVB:n delegaatin kentän laidalle, mutta hänen ei olisi koskaan pitänyt tulla alas tornista ja keskeyttää ottelun normaalia kulkua keskustellakseen mahdollisista toimista tuomarivalmentajan kanssa. Vaikka vastalauseprotokollaa ei tässä aloitettu, on oltava selvää, että 1. tuomari on vastuullinen toimitsija hyväksymään tällaisen pyynnön tietyltä joukkueelta, mutta vain siinä tapauksessa, että se täyttää pätevän vastalauseen kriteerit. Vain siinä tapauksessa asianomainen FIVB:n delegaatti seuraisi tällaista pyyntöä.],
+  ("22.2.1", "Tuomariohjeet ja -ohjeistukset"),
+)
+
+#case(
+  "8.2.5",
+  [Ottaen huomioon toisen pelaajan sanallisen solvauksen ottelun päättymisen jälkeen, 1. tuomari oli epävarma siitä, mitä huomautuksia pöytäkirjaan piti sisällyttää, joten hän päätti jättää sen allekirjoittamatta, kunnes TD ja RC tapasivat keskustellakseen siitä, mitä kirjataan, ja he sitten kirjoittivat kommentit ja allekirjoittivat pöytäkirjan tuomarin puolesta. Oliko tämä oikein?],
+  [
+    1. tuomari on viime kädessä vastuussa pöytäkirjan täyttämisestä ja allekirjoittamisesta ottelun lopussa, mukaan lukien mahdolliset raportit ottelun jälkeen tapahtuneista välikohtauksista. Tässä tapauksessa 1. tuomari ei ottanut tehtäviään hoitaakseen ja siirsi vastuut TD:lle/RC:lle.
+  ],
+  ("22.3.3", "Tuomariohjeet ja -ohjeistukset"),
+)
+
+#case(
+  "8.3.1",
+  [Jos pallo koskettaa hiekkaa eikä 1. tuomari ole oikeassa paikassa viheltääkseen tämän pallon, mitä 2. tuomarin tulisi tehdä?],
+  [2. tuomarin olisi pitänyt viheltää tämä välittömästi kosketushetkellä.],
+  "23.3.2.5",
+)
+
+#case(
+  "8.3.2",
+  [Syöttö koskettaa verkkoa kevyesti 2. tuomarin puolella. Onko hänellä oikeus viheltää tästä?],
+  [Ei. Pallon koskeminen verkkoon syötön jälkeen ei ole virhe.],
+  ("12.6.2.1", "23.3"),
+)
+
+#case(
+  "8.3.3",
+  [Vastustajan syöttöhetkellä 2. tuomari puhuu vastaanottavalle joukkueelle. Syöttävä pelaaja pysähtyy, kunnes vastaanottava joukkue on selvästi valmis, huolimatta siitä, että 1. tuomari on jo viheltänyt ja näyttänyt luvan syöttöön. Miten 2. tuomari olisi voinut estää tällaisen tapauksen?],
+  [
+    1. tuomari ei saa antaa lupaa syöttöön varmistamatta, että vastaanottava joukkue on valmis vastaanottamaan syötön. 2. tuomarin on välitettävä 1. tuomarille tieto siitä, ettei hän ole valmis tai ettei vastaanottava joukkue ole valmis – koska se vaikuttaisi päätökseen viheltääkö syöttölupa vai ei. Tällä tavoin 1. tuomari voi tehdä lopullisen päätöksen kaikkien saatavilla olevien tietojen perusteella. Tämä on osa tuomarien yhteistyötä.
+  ],
+  ("12.3", "21.2"),
+)
+
+#case(
+  "8.3.4",
+  [Syöttävä pelaaja syöttää sivurajan jatkeen ulkopuolelta ja 2. tuomari viheltää ja näyttää virheen. Onko tämä oikein?],
+  [Ei. 2. tuomari on viheltänyt toimivaltansa ulkopuolella.],
+  ("23.3", "Tuomariohjeet ja -ohjeistukset"),
+)
+
+#case(
+  "8.3.5",
+  [Pallo ohittaa verkon kokonaan alitse sen pystytason. Kenen tulisi viheltää tämä pallo?],
+  [Säännön 23.3.2.6 mukaan tämä virhe kuuluu nyt 2. tuomarin toimivaltaan. Näin ollen 1. tuomarin on odotettava, että 2. tuomari näyttää virheen laadun ja tarvittaessa virheen tehneen pelaajan, ja sitten näytettävä syöttävä joukkue.],
+  "23.3.2.6",
+)
+
+#case(
+  "8.4.1",
+  [Pelaaja \#1 syöttää pallon ja saa pisteen. Keskustelun jälkeen kirjuri ilmoittaa 2. tuomarille, että pelaajan \#2 olisi pitänyt syöttää edellinen syöttö. Miten tuomarien tulisi korjata tämä tilanne? Viite: Tapaus 10.22],
+  [Syöttävä joukkue säilyttää kaikki saamansa pisteet ja syöttö jatkuu pelaajan \#2 syöttäessä. Pöytäkirja saattaa vaatia korjausta ottelun jatkamiseksi. Jos väärän pelaajan havaitaan syöttäneen, heitä voidaan rangaista syötön menetyksellä vain, jos kirjuri (tai toinen tuomareista) oli ilmoittanut heille oikein, että he ovat väärä syöttäjä ennen syöttöä. Tässä tapauksessa kirjuri ja avustava kirjuri ovat tehneet virheen menettelyissään, koska he eivät ole ilmoittaneet väärää syöttäjää ennen syöttöä. 2. tuomarin ei tulisi koskaan pysäyttää rallia, jos kirjuri huomaa rallin aikana, että väärä syöttäjä suoritti syötön.],
+  ("12.2.1", "12.2.2", "12.3", "12.6.1.1", "26.2.2.2"),
+)
+
+#case(
+  "8.4.2",
+  [Onko kapteenin sallittua kysyä kirjurilta toisen joukkueen pyytämien aikalisien määrää? Viite: Tapaus 10.23],
+  [Kirjurin ei tulisi vastata tähän pyyntöön ja hänen tulisi ilmoittaa asiasta 2. tuomarille. Kapteenit saavat pyytää vain oman joukkueensa käyttämien aikalisien määrää eivätkä saa tehdä niin toistuvasti viivyttääkseen ottelua.],
+  ("15.1", "16.1", "26.2"),
+)
+
+#case(
+  "8.5.1",
+  [Jos toinen rajatuomari näyttää "ulos" ja toinen näyttää "kosketusta", minkä näytön 1. tuomarin tulisi hyväksyä?],
+  [
+    1. tuomarin olisi pitänyt hyväksyä molempien rajatuomarien näyttö riippumatta sijainnista kentällä ja sitten tehdä lopullinen päätös heidän näyttöjensä perusteella.
+  ],
+  ("28.2.1.1", "28.2.1.8", "Tuomariohjeet ja -ohjeistukset"),
+)
+
+#case(
+  "8.5.2",
+  [Jos rajatuomari näyttää yliastumista syötön suorituksen aikana ja kumpikaan tuomari ei huomaa sitä rallin aikana, voiko kapteeni pyytää tuomaria neuvottelemaan rajatuomarin kanssa rallin päätyttyä?],
+  [Kyllä, tuomarin tulisi pyytää rajatuomaria toistamaan näyttö. Lisäksi on hyväksyttävää, että tuomari puhuu rajatuomarille päätöksestä ja pyytää häntä pitämään näytön pidempään.],
+  ("21.2", "28.2.1.3", "28.2.1.5", "28.2.2"),
+)
+
+#case(
+  "8.6.1",
+  [Syöttäessään syöttäjä laittaa jalkansa syöttörajan alle (sisälle), ja rajatuomari näyttää tämän virheen. Mitä käsimerkkiä tuomarin tulisi sitten käyttää näyttääkseen virheen laadun?],
+  [
+    1. tuomarin tulisi käyttää käsimerkkiä 22 osoittamalla kyseistä rajaa. Tuomarin on käytettävä tätä merkkiä näyttääkseen tai selventääkseen selvästi virheen laadun.
+  ],
+  ("12.4.3", "Signal 22"),
+)
+
+#case(
+  "8.6.2",
+  [Mikä on oikea järjestys 2. tuomarin näytölle verkkovirheen viheltämisen jälkeen?],
+  [Viheltäessään virheen 2. tuomarin tulisi näyttää ensin virheen luonne, sitten tarvittaessa virheen tehnyt pelaaja, ja lopuksi odottaa, että 1. tuomari näyttää syöttävän joukkueen, ja seurata hänen näyttöään.],
+  ("21.2.3.2", "21.2.3.3"),
+)
+
+#case(
+  "8.6.3",
+  [Jos syötetty pallo osuu syöttäjän joukkuetoveriin, mikä olisi 1. tuomarin oikea käsimerkki?],
+  [
+    1. tuomarin tulisi näyttää syöttävä joukkue (käsimerkki 2), jota seuraa käsimerkki 19 "syötetty pallo ei läpäise vastustajalle ylityskaistan kautta" (tai "maski" jos soveltuu, mutta tässä viitataan pallon osumiseen pelaajaan).
+  ],
+  ("12.6.2.1", "signals 2 and 19"),
+)
+
+# LUKU 9 - ERITYISTAPAUKSET
+
+# LUKU 9
+
+#case(
+  "9.1",
+  [Jos ottelun päättävän suoran ässän jälkeen 1. tuomari päättää tuomita pallon ulos, onko kapteenilla lupa tehdä vastalause?],
+  [
+    1. tuomarin on ensin määritettävä, onko vastalause oikeutettu, harkitsemalla kriteereitä, joiden perusteella vastalause voidaan jättää, ennen vastalauseprotokollan aloittamista. Tässä tapauksessa 1. tuomarin olisi pitänyt kieltäytyä aloittamasta vastalauseprotokollaa, koska pallo sisällä/ulkona on tulkintakysymys (judgment call) eikä siitä voi tehdä vastalausetta.
+  ],
+  ("5.1.2.1", "22.2.1", "Tuomariohjeet ja -ohjeistukset"),
+)
+
+#case(
+  "9.2",
+  [Jos toinen joukkue nopeuttaa peliä ja toinen joukkue haluaa pelata hitaammalla tahdilla kuumuuden vuoksi, mitä tahtia 1. tuomarin tulisi noudattaa?],
+  [Tuomarien tulisi yrittää mahdollisuuksien mukaan pitää ottelun tahti tasaisena. Lisäksi tuomarien on tässä tapauksessa näyttäydyttävä puolueettomina ja oikeudenmukaisina ottelun tahdin hallinnassa, suosimatta kumpaakaan joukkuetta ja varoittaen tai rangaisten tarvittaessa.],
+  ("16.1.3", "Tuomariohjeet ja -ohjeistukset"),
+)
+
+#case(
+  "9.3",
+  [Ottelun aikana yksi joukkueen A pelaajista juoksi nopeasti pallon perään ja teki sensaatiomaisen puolustuslyönnin (haku) kaatuessaan mainosaidan yli. Pelaajan poikkeuksellinen yritys sai yleisöltä suuret suosionosoitukset. Kuitenkin pelaajan kosketus oli hieman pitkäkestoinen, ja 1. tuomari vihelsi pilliin ja näytti palloa "kopiksi"?],
+  [Tuomarien tulisi muistaa, että he eivät ole vain henkilöitä, jotka hallinnoivat ottelua sääntöjen mukaisesti, vaan he mahdollistavat ohjauksellaan beach volley -lajin edistämisen. Näyttävyyden kehittäminen on tärkeä osa minkä tahansa urheilulajin promootiota. Tuomarin on säilytettävä tasapaino lajin teknisten vaatimusten jäykän soveltamisen ja lajin myynnillisten, kulttuuristen ja yhteiskunnallisten näkökohtien välillä. On välttämätöntä, että tuomari sallii tämän pelin näyttävän toiminnan korostamisen sen teknisen luonteen kustannuksella.],
+  ("Philosophy of Rules and Refereeing", "Tuomariohjeet ja -ohjeistukset"),
+)
+
+#case(
+  "9.4",
+  [Jos pelaaja on eri mieltä kirjurin ja tuomarien kanssa siitä, kenen vuoro on syöttää, mitä tuomarien tulisi tarkistaa? Viite: Tapaus 10.24],
+  [On 4 laatikkoa, jotka on merkitty I–IV (1–4) ja jotka vastaavat syöttöjärjestystä. Pelaajan numero on merkitty tämän laatikon viereen. Joukkue, joka syöttää ensin, syöttää vuoroilla \# I ja \# III. Toinen joukkue vuoroilla \# II ja \# IV. Kirjuri noudattaa säännöllistä kaavaa syöttöjen kirjaamisessa riippumatta siitä, kumpi joukkue aloittaa syötön, A (vasen puoli) vai B (oikea puoli). On tärkeää, että 2. tuomari tarkistaa, että ottelun aivan ensimmäinen syöttö kirjataan ylimmän laatikon \# I viereen. Tämä varmistaa, että syöttöjärjestys kirjataan aluksi oikein.],
+  ("7.6", "Pöytäkirjaohjeet"),
+)
+
+#case(
+  "9.5",
+  [Jos hyökkäävän pelaajan lippis putoaa hänen päästään ja koskettaa verkon ylänauhaa, katsotaanko tämä virheeksi?],
+  [Ei, vaikka lippis katsotaan osaksi pelaajan peliasua ja siten osaksi pelaajaa (joka ei saa koskettaa verkkoa), tämä pätee vain, jos lippis on fyysisesti kosketuksissa pelaajaan (ts. on päässä). Tämä sääntö koskisi myös kelloa, laseja, koruja tai mitä tahansa muuta varustetta tai asustetta, jota pelaaja saattaa käyttää.],
+  ("11.3.1", "Tuomariohjeet ja -ohjeistukset"),
+)
+
+#case(
+  "9.6",
+  [Onko kapteenin sallittua tehdä vastalause ottelun päättymisen jälkeen, kun ottelun aikana ei tehty vastalausetta? Viite: Tapaus 10.25],
+  [Tätä vastalausetta ei tulisi hyväksyä, koska kapteeni ei varsinaisen tapahtuman aikana rekisteröinyt virallisesti vastalausetta (ts. ei pyytänyt vastalauseprotokollaa). Vastalauseet on pyydettävä tapahtumahetkellä. Se voidaan sitten joko ohjata vastalauseprotokollaan asianomaisen FIVB:n teknisen delegaatin toimesta välittömästi (Taso 1) tai järjestelytoimikunnalle ottelun jälkeen (Taso 2) olosuhteista riippuen.],
+  ("5.1.2.1", "Tuomariohjeet ja -ohjeistukset"),
+)
+
+#case(
+  "9.7",
+  [Tuomari toteaa tekniselle delegaatille, että hän teki ottelunsa aikana useita väärintulkintoja säännöistä. Joukkueet protestoivat tätä vastaan ottelun aikana ja sen jälkeen. Mitä teknisen delegaatin tulisi nyt tehdä?],
+  [Tämä tilanne asettaa tekniselle delegaatille erittäin vaikean päätöksen. Jos kaikki seuraavat ehdot täyttyivät, TD:n tulisi hyväksyä pelaajien vastalause, pitää vastalauseprotokolla (Taso 2) ja harkita mahdollisuutta pelata ottelu uudelleen asianmukaisesta aloituspisteestä: 1) vastalauseen tekohetkellä joukkueet ilmaisivat oikein aikomuksesa protestoida 1. tuomarille, joka kieltäytyi hyväksymästä vastalausetta. 2) vastalause vahvistettiin oikein Tason 2 vastalauseena ottelun jälkeen 20 minuutin kuluessa ja asianomaisen kapteenin allekirjoittamana. 3) vastalause täyttää vastalauseprotokollan pitämisen kriteerit (väärintulkinta jne.). 4) 1. tuomari (tai muu toimitsija) vahvistaa, että väärintulkinta jne. tapahtui (ts. vastalause on oikea). 5) että vastalauseella oli olennainen vaikutus ottelun tulokseen.],
+  ("5.1.2.1", "5.1.3.2", "Tuomariohjeet ja -ohjeistukset"),
+)
+
+#case(
+  "9.8",
+  [Jos joukkueen kapteeni pyytää tahallisesti aikalisää viime hetkellä tai jopa samanaikaisesti 1. tuomarin syöttövihellyksen kanssa, pitäisikö 2. tuomarin viheltää?],
+  [Ei, tuomarien ei tulisi sallia aikalisää, vaikka aikalisäpyyntö olisi ollut ennen syöttömerkkiä. Asianomaisten toimitsijoiden vihellysten ajoitus määrittää, hyväksytäänkö aikalisämerkki. Koska 1. tuomari oli jo antanut luvan syöttöön, aikalisäpyyntöä ei tule hyväksyä. On kapteenin vastuulla näyttää aikalisämerkki riittävän ajoissa, jotta tuomari voi viheltää ennen syöttölupaa.],
+  "15.5.1",
+)
+
+#case(
+  "9.9",
+  [Molempien joukkueiden pelaajat vaihtavat puolia, kun kentän tulostaulu näyttää 2-3 (3. erä). Kirjuri huomauttaa kuitenkin nopeasti, että tilanne on edelleen 2-2, eikä puoltenvaihtoa olisi pitänyt tapahtua. Miten tuomarien tulisi korjata tämä tilanne? Viite: Tapaus 10.26],
+  [Joukkueita tulisi nopeasti pyytää palaamaan aiemmille kenttäpuolilleen ja ottelua jatketaan pöytäkirjaan merkityllä oikealla tilanteella.],
+  ("18.2.1", "18.2.2"),
+)
+
+#case(
+  "9.10",
+  [Jos tuomari tekee virheen myöntämällä pisteen yhdelle joukkueelle, ja toinen joukkue pyytää aikalisää ennen kuin tuomari muuttaa päätöstään, onko tämä aikalisä edelleen voimassa? Viite: Tapaus 10.27],
+  [Ei, "koska tuomarin päätös (joka perustui aikalisäpyyntöön) on muutettu, joukkue voi peruuttaa aikalisäpyynnön". Vaikka aikalisä oli laillisesti pyydetty, se tulisi nyt peruuttaa ja pelaajia pyydetään palaamaan kentälle.],
+  "22.2.1",
+)
+
+#case(
+  "9.11",
+  [Kenellä on vastuu valvoa pallonpalauttajien työtä?],
+  [Vastuu valvoa pallonpalauttajien työtä on ensisijaisesti 1. tuomarilla, mutta 2. tuomari voi avustaa tässä tehtävässä.],
+  ("3.3", "22.2.2", "Tuomariohjeet ja -ohjeistukset"),
+)
+
+#case(
+  "9.12",
+  [Voiko tekninen delegaatti kumota 1. tuomarin antamat käytösrangaistukset?],
+  [Ei, tämä ei ole teknisen delegaatin tehtävä tai velvollisuus.],
+  ("20.1", "20.3.1", "22.2.1", "Tuomariohjeet ja -ohjeistukset"),
+)
+
+#case(
+  "9.13",
+  [Kun tuomari näkee pelaajan tulevan tuomarihuoneeseen valittamaan aiemmasta ottelusta, voiko tuomari seuraavassa ottelussa saman pelaajan kanssa väitellä tästä asiasta?],
+  [Ei. Tuomarin on käyttäydyttävä ammattimaisesti kaikkina aikoina ennen ottelua, sen aikana ja sen jälkeen. Pelaajan käytöksestä tulisi raportoida asianomaisten toimitsijoiden toimesta ja sitä käsittelevät vain tekniset delegaatit.],
+  ("Philosophy of Rules and Refereeing", "Tuomariohjeet ja -ohjeistukset"),
+)
+
+#case(
+  "9.14",
+  [Jos hyökkäykseen juokseva pelaaja astuu syvään kuoppaan hiekassa menettäen tasapainonsa iskiessään, tulisiko 1. tuomarin määrätä pallo uusittavaksi?],
+  [Ei, hiekan pinnan epätasaisuuden ei katsota muodostavan normaalisti vaaraa pelaajille. Tällaiset tilanteet voidaan kuitenkin estää siten, että tuomarit vaativat kentän lanaamista otteluiden välillä ja toimitsijat valvovat kentän kuntoa ottelun aikana.],
+  ("17.2", "22.2.5", "Tuomariohjeet ja -ohjeistukset"),
+)
+
+#case(
+  "9.15",
+  [Voiko 1. tuomari omatoimisesti päättää aloittaa vastalauseprotokollan? Ja voiko tekninen delegaatti päättää vaihtaa rajatuomarin?],
+  [
+    1. tuomarin tehtävänä ei ole aloittaa vastalauseprotokollaa ennen kuin joukkueen kapteeni ilmoittaa haluavansa protestoida. Ottelun aikana vain 1. tuomarilla on valtuudet vaihtaa tuomariston jäseniä, jotka eivät suorita tehtäviään asianmukaisesti.
+  ],
+  ("5.1.2.1", "22.2.1", "Tuomariohjeet ja -ohjeistukset"),
+)
+
+#case(
+  "9.16",
+  [Jos valmentaja välittää tietoa vastustajajoukkueen käsimerkeistä omalle joukkueelleen, mitä tuomarien tulisi tehdä?],
+  [Tuomarien tulisi ilmoittaa tilanteesta delegaatille (delegaateille) heti kun se on käytännössä mahdollista. On toivottavaa, että tämä aiheuttaa mahdollisimman vähän viivytystä otteluun. Tekniset delegaatit ovat sitten vastuussa tilanteen käsittelystä. Tekninen delegaatti voi vaatia, että ottelun toimitsijat tekevät nopean yhteenvedon havainnoistaan (ottelun jälkeen). Tuomarien ei ole mahdollista rangaista valmentajia suoraan (koska he eivät ole osallistujia), mutta jos valmentajien toimet aiheuttavat viivästyksen otteluun, heidän joukkueelleen on annettava viivytysrangaistus.],
+  ("4.1.4", "16.1", "Tuomariohjeet ja -ohjeistukset"),
+)
+
+#case(
+  "9.17",
+  [Voiko delegaatti (delegaatit) valita katsottavaksi videon jossain vaiheessa vastalauseprotokollaa?],
+  [Vastalauseprotokollan menettelyt eivät salli tuomarivalmentajan katsoa videomateriaalia epävirallisesta lähteestä Tasolla 1. (Epävirallisesta lähteestä peräisin olevaa videomateriaalia ei voida käyttää millään vastalauseen tasolla).],
+  ("5.1.2.1", "Tuomariohjeet ja -ohjeistukset"),
+)
+
+#case(
+  "9.18",
+  [Jos pelaaja pelisuorituksensa aikana osuu kameramieheen, joka oli siellä koko ottelun ajan, tulisiko tuomarin määrätä pallo uusittavaksi?],
+  [
+    1. tuomarilla on vastuu arvioida kaikki ulkoisen häiriön alueet, mukaan lukien avustavan henkilöstön jäsenet, katsojat ja muut esineet/henkilöt (Säännöt 17.2 ja 17.3). Koko pelialueella olevaa henkilöstöä (tuomariston jäsenet, avustava henkilöstö jne.) sekä kentän kilpailuvarusteita (ts. TV-kamerat, mikrofonit jne.), joiden läsnäolo vapaa-alueella on hyväksytty ennen ottelun alkua, ei voida pitää ulkoisena häiriönä, ellei: 1) heidän alkuperäisessä sijainnissaan tapahdu merkittävää muutosta (esim. verkkokamera putoaa pelin aikana) 2) tai tapahtuu tahallinen liike kohti pelaajaa, joka on pelaamassa palloa (esim. pallonpalauttaja juoksee kohti palloa tai vierittää palloa pelin aikana vaikuttaen pelaajan pelisuoritukseen). Näin ollen 1. tuomarin päätös perustuu siihen, oliko kameramies paikallaan olevassa asennossa lähellä kenttää, vai tapahtuiko hänen alkuperäisessä sijainnissaan merkittävä muutos tai tahallinen liike kohti pelaajaa, joka oli pelaamassa palloa.
+  ],
+  ("5.1.2.1", "17", "2", "Tuomariohjeet ja -ohjeistukset"),
+)
+
+#case(
+  "9.19",
+  [Aikalisän aikana, kun pelaaja istui joukkueen penkillä ja yritti juoda, ampiainen pisti häntä huuleen, ja sitten yrittäessään hätistää sitä pois ampiainen pisti häntä sormeen. Miten tuomarien tulisi käsitellä tämä lääkintäapuprotokolla?],
+  [Tuomarien tulisi olla tietoisia loukkaantumiseen/sairastumiseen johtaneista olosuhteista, sillä he ovat vastuussa sen luonteen ja laajuuden toteamisesta (vähäinen vai merkittävä). Tässä tapauksessa iho on rikkoutunut, vaikka verenvuotoa ei ole näkyvissä, joten jos hoitoa ei voida suorittaa loppuun aikalisän aikana, tai tapaus on merkittävämpi ja siten lääkintäapuprotokolla on 1. tuomarin hyväksymä, se tulisi tulkita lääkintäaikalisäksi (MTO). Tämä voisi olla tapaus myös esimerkiksi pelaajan vuotaessa verta sisäisesti suuontelossa kielen tai huulen sisäpuolen haavaumasta.],
+  ("17.1.2", "Tuomariohjeet ja -ohjeistukset"),
+)
+
+# LUKU 10 - KIRJURIN TAPAUKSET
+
+# LUKU 10
+
+#case(
+  "10.1",
+  [Ennen ottelua molemmat joukkueet lämmittelevät samanvärisissä peliasuissa. Onko kirjurilla mitään vastuuta joukkueiden peliasujen tarkistamisessa? Viite: Tapaus 2.2.2],
+  [Kirjurin ja avustavan kirjurin tulisi tarkistaa kaikki joukkueen peliasuun liittyvät asiat ennen ottelua, erityisesti virallisen lämmittelyn aikana. Tähän sisältyy se, että kirjuri tarkistaa, että oikeat pelaajat käyttävät oikeita peliasunumeroita 1 ja 2 pöytäkirjan mukaisesti, ja että avustava kirjuri tarkistaa, että tulostauluilla näkyvät värit ja pelaajanumerot vastaavat pelaajien peliasuja ja pöytäkirjaa. Kaikki huolenaiheet tulee välittömästi ilmoittaa tuomareille.],
+  ("4.3", "26.2.1.1", "27.2.1.1", "Tuomariohjeet ja -ohjeistukset")
+)
+
+#case(
+  "10.2",
+  [Mitä kirjurin tulisi tehdä, jos hän huomaa, että kahdella pelaajalla on numerot, jotka eivät vastaa pöytäkirjassa olevia? Viite: Tapaus 2.2.7],
+  [Tämä tulisi korjata pelaajien vaihtamalla nopeasti jompikumpi tai molemmat peliasut. Rangaistusta ei anneta. Kirjuria vaaditaan erityisesti tarkistamaan, että pelaajan nimi ja peliasunumero täsmäävät. Kapteeni vahvistaa allekirjoittamalla pöytäkirjan, että joukkueen kirjatut tiedot ovat oikein.],
+  ("5.1.1", "7.7.2", "26.2.1", "Tuomariohjeet ja -ohjeistukset")
+)
+
+#case(
+  "10.3",
+  [Mitä kirjurin tulisi tehdä, jos joukkueen kapteeni kävelee pois kentältä heti ottelun jälkeen allekirjoittamatta pöytäkirjaa?],
+  [Kun tuomarit lähestyvät kirjurinpöytää tarkistaakseen ottelupöytäkirjan, kirjurin tulisi välittömästi ilmoittaa tuomareille, että he eivät ole saaneet kapteenin allekirjoitusta pöytäkirjaan. Kirjurin vastuulla on täyttää pöytäkirja lukuun ottamatta toimitsijoiden allekirjoituksia ja joissakin tapauksissa huomautussaraketta.],
+  ("5.1.3.1", "26.2.3.3", "Pöytäkirjaohjeet")
+)
+
+#case(
+  "10.4",
+  [Mitä menettelytapoja kirjurin tulisi noudattaa kirjatakseen pöytäkirjaan loukkaantumisesta johtuvan luovutuksen? Viite: Tapaus 3.1.1],
+  [Kirjurin tulisi päättää ottelu tuloksella 21-0, 21-0 (2-0), mukaan lukien allekirjoitusten kerääminen ennen ottelua / ottelun jälkeen, ottelutulos Tulosruutuun ja erätulos Joukkue - Pisteet -riville erissä 1 ja 2 (0-21 yliviivattuna ja ympyröitynä molemmissa erissä), jne. 1. tuomarin ohjeiden mukaisesti kirjurin tulisi kirjoittaa huomautussarakkeeseen tiedot ennen tätä, ja tuomarit vahvistavat ja allekirjoittavat lopullisen tuloksen.],
+  ("6.4", "26.2.2.7", "Pöytäkirjaohjeet")
+)
+
+#case(
+  "10.5",
+  [Joukkueet lopettavat virallisen lämmittelynsä ja tulevat kentälle aloittamaan ottelunsa. Pelaaja \#1 joukkueesta "A" menee syöttöpaikalle. Kirjuri kiinnittää välittömästi tuomarin huomion siihen, että pöytäkirjan mukaan ensimmäisen syöttäjän pitäisi olla \#2. Mitä kirjurin tulisi nyt tehdä? Viite: Tapaus 4.2.1],
+  [Kirjurin tulisi odottaa, kunnes tuomarit ovat saaneet päätökseen sen selvittämisen, onko syöttöjärjestyksen ilmoittamisessa tapahtunut virhe. Jos 1. tuomari antaa luvan joukkueen A pelaajalle \#1 syöttää, kirjurin tulisi vain muuttaa joukkueen A syöttöjärjestyslaatikkoa. Kuitenkin, jos pelaaja \#2 laitetaan syöttämään, pöytäkirjaan ei tarvitse tehdä muutoksia. Kirjuri on oikeassa ilmoittaessaan toimitsijoille ja pelaajille tästä ongelmasta, mutta he eivät voi vaatia pelaajia vaihtamaan syöttäjää. Tämä on tuomarien vastuulla.],
+  ("7.7.2", "22.2.1", "22.3.1.2", "26.2.1.1", "26.2.2.2")
+)
+
+#case(
+  "10.6",
+  [Voitettuaan kolikonheiton joukkueen B kapteeni palaa kentälle päättämään puolen. Allekirjoitettuaan pöytäkirjan hän ei ilmoittanut kirjurille valinnastaan. Mitä kirjurin tulisi tehdä varmistaakseen, että tämä tieto saadaan? Viite: Tapaus 4.1.1],
+  [Kirjurin tulisi olla aktiivinen saadakseen päätöksen kenttäpuolesta ja syöttöjärjestyksestä joukkueelta B. Jos tuomarit tai joukkue eivät ole välittäneet päätöstä kirjurille 1 minuutin kuluessa, tuomareille (yleensä 2. tuomarille) tulisi ilmoittaa tästä.],
+  ("7.1", "26.2.1.2", "Tuomariohjeet ja -ohjeistukset")
+)
+
+#case(
+  "10.7",
+  [Joukkueen "A" kapteeni pyytää aikalisää joukkueen "B" aikalisän lopussa. Mitä menettelyä kirjurien tulisi nyt noudattaa? Viite: Tapaus 6.1.3],
+  [Kirjurin tulisi aluksi varmistaa, kumpi joukkue pyysi aikalisää, ja sitten kirjata se asianmukaiseen ruutuun. Joukkueiden ollessa nimetyillä tuoleillaan kirjurin tulisi näyttää 2. tuomarille joukkueiden käyttämien aikalisien määrä (molemmat yksi). Tässä tapauksessa enempää aikalisä ei sallita. Tämän ilmoittaisi sitten 2. tuomari, ei kirjuri, 1. tuomarille ja joukkueille aikalisän lopussa.],
+  ("23.2.6", "26.2.2.3")
+)
+
+#case(
+  "10.8",
+  [Mitä kirjurin tulisi tehdä, jos 1. tuomari antaa toisen viivytysvaroituksen erässä tai ottelussa? Viite: Tapaus 6.2.1],
+  [Viivytysvaroitukset kirjataan pöytäkirjaan, joten kirjurin tulisi välittömästi ilmoittaa 1. tuomarille (2. tuomarin kautta) tästä virheestä.],
+  ("16.2.1", "26.2")
+)
+
+#case(
+  "10.9",
+  [Onko pelaajan sallittua pyyhkiä päätään ja käsiään verkkopylväässä roikkuvalla pienellä pyyhkeellä, joka on tarkoitettu pelaajien lasien puhdistamiseen? Viite: Tapaus 6.2.4],
+  [Ei, tämä ei ole sallittua. 1. tuomarin tulisi katsoa tämä pelin tahalliseksi viivyttämiseksi ja hänen tulisi antaa pelaajalle viivytysrangaistus. Kirjurien on tarkistettava huolellisesti, onko joukkue saanut suullisen varoituksen tai viivytysvaroituksen. Jos kirjuri on epävarma, hänen tulisi aina tarkistaa asia tuomareilta.],
+  ("16.2", "26.2.2.6", "Tuomariohjeet ja -ohjeistukset")
+)
+
+#case(
+  "10.10",
+  [Mitä kirjurin tulisi tehdä, jos pelaaja loukkaantumisen jälkeen poistuu kentältä mennen lääkintähenkilöstön alueelle, eikä palaa 5 minuutin kuluessa? Viite: Tapaus 6.3.1],
+  [On tärkeää, että kirjuri kirjaa kahdet ajat: 1) milloin 1. tuomari vihelsi "Lääkintäapu"-protokollan aloittamiseksi? 2) milloin 1. tuomari vihelsi "Lääkintäapu"-protokollan päättymiseksi? (Suurimman sallitun 5 minuutin jälkeen, tai heti kun virallinen lääkintähenkilöstö ilmoittaa hoidon päättyneen, tai jos hoitoa ei voida antaa, tai kun pelaaja ilmoittaa olevansa valmis jatkamaan peliä). Lisäksi kirjurin tulisi kirjata huomautussarakkeeseen nykyinen tilanne sekä syöttävä joukkue ja pelaaja sillä hetkellä, kun tuomari pysäytti ottelun loukkaantumisen vuoksi. Kirjurin tulisi kirjata riittävästi yksityiskohtia, jotta ottelu voitaisiin mahdollisesti jatkaa tismalleen samasta tilanteesta tai jotta delegaatti voisi selkeästi laskea keskeytyksen keston. 1. tuomarin ja delegaatin vastuulla on kirjata syyt päätökselle julistaa joukkue vajaalukuiseksi pöytäkirjan huomautussarakkeeseen.],
+  ("6.4.3", "17.1", "23.2.7", "26.2.2.7", "Tuomariohjeet ja -ohjeistukset")
+)
+
+#case(
+  "10.11",
+  [Jos kyseessä on pieni verivamma, saako pelaaja nopeasti puhdistaa ja sitoa haavan? Tulisiko kirjurin kirjata huomautuksia tästä lyhyestä viivästyksestä? Viite: Tapaus 6.3.2],
+  [Tuomarit sallivat pelaajan käyttää lyhyen ajan tämän ongelman korjaamiseen. Ei, kirjurin ei tulisi kirjata mitään pöytäkirjaan, koska viivytystä tai "Lääkintäaikalisää" ei tapahtunut.],
+  ("Tuomariohjeet ja -ohjeistukset")
+)
+
+#case(
+  "10.12",
+  [1. tuomari aloitti ottelun viivytysvaroituksella. Miten tämä kirjattaisiin pöytäkirjaan? Viite: Tapaus 6.2.5],
+  [Kirjurin tulisi kirjata aika, jolloin ottelu alkoi viivästyksen jälkeen (esim. 09:02), 1. erän alkamisaikaruutuun. Sitten kyseisellä joukkueella on oltava kirjattuna viivytysrangaistuslaatikkoonsa tilanne 0:0. Tässä vaiheessa pöytäkirjan huomautussarakkeeseen ei tulisi kirjoittaa mitään.],
+  ("26.2.2.6", "Pöytäkirjaohjeet")
+)
+
+#case(
+  "10.13",
+  [Joukkue pyytää teknistä delegaattia tarkistamaan valaistuksen puutteen. Tekninen delegaatti pysäyttää pelin ja ottelu alkaa uudelleen seuraavana aamuna tilanteesta 0-0. Miten kirjurin tulisi kirjata yksityiskohdat tästä päätöksestä? Viite: Tapaus 6.3.6],
+  [Kirjurin ei tulisi muuttaa mitään osaa pöytäkirjasta lukuun ottamatta kirjaamista pöytäkirjan huomautussarakkeeseen: tarkka aika, nykyinen tilanne sekä syöttävä joukkue ja pelaaja sillä hetkellä, kun tuomari pysäytti ottelun valon puutteen vuoksi. Nämä samat yksityiskohdat tulisi kirjata joka kerta, kun ottelu pysäytetään tapahtumien kuten sateen, valon tai tuulen vuoksi. Kirjurin tulisi kirjata riittävästi yksityiskohtia, jotta ottelu voitaisiin mahdollisesti jatkaa tismalleen samasta tilanteesta tai jotta tekninen delegaatti voisi selkeästi laskea keskeytyksen keston. 1. tuomarin ja teknisen delegaatin vastuulla on kirjata pöytäkirjan huomautussarakkeeseen syyt päätökselle pysäyttää peli ja sitten jatkaa seuraavana päivänä.],
+  ("17.3", "26.2.2.7", "Tuomariohjeet ja -ohjeistukset")
+)
+
+#case(
+  "10.14",
+  [1. tuomari antaa ensin suullisen varoituksen joukkueelle kapteenin kautta, ja myöhemmin näyttää keltaista korttia yhdelle joukkueen pelaajista, joka toistaa lievän käytösrikkeen. Miten kirjurin tulisi kirjata nämä varoitukset pelaajille? Viite: Tapaus 7.1.1],
+  [1. tuomarin antamia suullisia varoituksia ei kirjata pöytäkirjaan. Vain tuomarin myöhemmin keltaisella kortilla antama virallinen käytösvaroitus kirjataan sitten kirjurin toimesta asianmukaiseen ruutuun.],
+  ("20.1", "Pöytäkirjaohjeet")
+)
+
+#case(
+  "10.15",
+  [Kun pelaaja saa suullisen varoituksen ja keltaisen kortin 1. erässä ja seuraavassa erässä saa käytösrangaistuksen, mitä lisätoimenpiteitä kirjurin on tehtävä 2. erän alussa? Viite: Tapaus 7.1.2],
+  [Kirjurin tulisi kirjata virallinen käytösvaroitus pöytäkirjaan 1. erän asianmukaisiin ruutuihin. Sitten ennen 2. erän alkua kirjurin tulisi yliviivata viralliset varoitusruudut kyseiseltä joukkueelta. 2. erässä kirjurin tulisi kirjata rangaistus suoraan kyseisen pelaajan ensimmäiseen käytösrangaistusruutuun kyseiselle erälle.],
+  ("20.1", "20.2", "20.3", "Pöytäkirjaohjeet")
+)
+
+#case(
+  "10.16",
+  [Jos 1. tuomari antaa punaisen kortin (käytösrangaistus) räikeästä käytöksestä, mihin kirjurin tulisi kirjata tämä pöytäkirjassa? Viite: Tapaus 7.2.1],
+  [Tämä tulisi kirjata pöytäkirjan käytösrangaistusosioon rangaistua pelaajaa vastaavaan ruutuun. Tilanne rangaistushetkellä (ei sen jälkeen) tulisi syöttää, ja koska kyseessä on ylimääräinen saatu piste, se tulisi ympyröidä pisterivillä. Kirjurin on näytettävä merkki tuomareille, kun hän on saanut kirjattua tämän rangaistuksen yksityiskohdat. Pelin lopussa tämä rike on kirjattava tarkasti pöytäkirjan huomautussarakkeeseen, yksilöiden selkeästi rikkeen luonne (tyyppi) "Misconduct sanction fee scale" -kuvauksen mukaisesti.],
+  ("20.3.1", "Pöytäkirjaohjeet")
+)
+
+#case(
+  "10.17",
+  [Ottelussa pelaaja saa käytösrangaistuksen räikeästä käytöksestä. Myöhemmin samassa erässä samaa pelaajaa rangaistaan uudelleen räikeästä käytöksestä. Mitä kirjurin tulisi tehdä tässä tilanteessa? Viite: Tapaus 7.2.2],
+  [Kirjurin tulisi täyttää rangaistus kyseisen pelaajan toiseen käytösrangaistusruutuun kyseiselle erälle ja ilmoittaa 2. tuomarille, että pelaaja on saavuttanut käytösrangaistusrajansa kyseisessä erässä.],
+  ("20.3.1", "Pöytäkirjaohjeet")
+)
+
+#case(
+  "10.18",
+  [Ottelun aikana pelaaja veti verkkoa sellaisella voimalla, että se rikkoi verkkoa pitävän tolpan. Ottelu aloitettiin myöhemmin uudelleen toisella kentällä samasta tilanteesta 1 tunnin viivästyksen ja rikkeen tehneelle pelaajalle annetun käytösrangaistuksen jälkeen. Miten kirjuri kirjaisi 1 tunnin viivästyksen pöytäkirjaan? Viite: Tapaus 7.2.3],
+  [Kirjurin ei tulisi muuttaa mitään osaa pöytäkirjasta lukuun ottamatta kirjaamista pöytäkirjan huomautussarakkeeseen: tarkka aika, jolloin tuomari pysäytti ottelun verkkojärjestelmän rikkoutumisen vuoksi, nykyinen tilanne - ja käytösrangaistuksen vuoksi vastustajajoukkue syöttää ja saa yhden lisäpisteen. Hänen tulisi myöhemmin kirjata uudelleen pöytäkirjan huomautussarakkeeseen tarkka aika, jolloin ottelu jatkui, ja uusi kenttä. Näiden huomautusten tulisi sisältää riittävästi yksityiskohtia, jotta tekninen delegaatti voi selkeästi laskea keskeytyksen keston. 1. tuomarin ja teknisen delegaatin vastuulla on kirjata pöytäkirjaan (huomautussarakkeeseen) syyt päätökselle pysäyttää peli ja sitten jatkaa toisella kentällä.],
+  ("17.3", "Pöytäkirjaohjeet")
+)
+
+#case(
+  "10.19",
+  [Kun 1. tuomari antaa käytösrangaistuksen erien välillä, mitä toimenpiteitä kirjurin tulisi soveltaa? Viite: Tapaus 7.2.5],
+  [1. tuomarin on sovellettava rangaistusta seuraavan erän alussa. Näytettyään punaista korttia asianomaiselle pelaajalle, hänen on sitten näytettävä toinen joukkue syöttämään. Jos rangaistuksen saanut joukkue oli syöttövuorossa, vastustaja saa oikeuden syöttää ja heidän on kierrettävä yksi paikka. Jos rangaistuksen saanut joukkue oli vastaanottavana, vastustaja saa 1 pisteen ja säilyttää syöttöjärjestyksen. Kirjurin tulisi kirjata tämä asianmukaisesti, mukaan lukien se tosiasia, että pisterivillä tämä piste tulisi ympyröidä, koska se tuli rangaistuksesta. Tämän lisäksi kirjurin tulisi kirjata rangaistus asianomaisen pelaajan käytösrangaistusruutuun kolmannelle erälle tilanteessa 0:0. Pelin lopussa tämä rike on kirjattava tarkasti pöytäkirjan huomautussarakkeeseen, yksilöiden selkeästi rikkeen luonne (tyyppi) "Misconduct sanction fee scale" -kuvauksen mukaisesti.],
+  ("20.3.1", "20.4", "Pöytäkirjaohjeet")
+)
+
+#case(
+  "10.20",
+  [Jos pelaaja käytösrangaistuksen saatuaan on eri mieltä tuomarin päätöksestä, repii peliasunsa vihasta, ja 1. tuomari pitää tätä räikeänä käytöksenä, miten kirjurin tulisi kirjata tämä? Viite: Tapaus 7.2.6],
+  [Kirjurin tulisi yliviivata molemmat pisteet kyseiseltä Joukkue - Pisteet -riviltä. Koska kumpikin näistä pisteistä saatiin rangaistuksesta, ne tulisi lisäksi ympyröidä. Molempien rikkeiden kirjaaminen pöytäkirjan huomautussarakkeeseen on kirjoitettava tarkasti yksilöiden selkeästi kunkin rikkeen luonne (tyyppi) "Misconduct sanction fee scale" -kuvauksen mukaisesti.],
+  ("20.3.1", "Pöytäkirjaohjeet")
+)
+
+#case(
+  "10.21",
+  [Jos pelaaja, ottelun päätyttyä 1. tuomarin toimesta, hermostuu ja poistaa pehmusteen tolpasta ja repii kentän numeron tuomaritornista, miten tämä toiminta - vaikka se tapahtuukin ottelun päättymisen jälkeen - tulisi kirjata pöytäkirjaan? Viite: Tapaus 7.2.7],
+  [Kirjuri ei tee päätöstä siitä, annetaanko pelaajan tai tuomarin kirjoittaa pöytäkirjan huomautussarakkeeseen. Tämä on tuomarien ja teknisen delegaatin vastuulla. 1. tuomarin tulisi käyttää huomautussaraketta kirjatakseen tietoja tästä ongelmasta, vaikka ottelu olisi päättynyt ja tulos vahvistettu.],
+  ("20.4", "Tuomariohjeet ja -ohjeistukset")
+)
+
+#case(
+  "10.22",
+  [Pelaaja \#1 syöttää pallon ja saa pisteen. Keskustelun jälkeen kirjuri ilmoittaa 2. tuomarille, että pelaajan \#2 olisi pitänyt syöttää edellinen syöttö. Mikä on seuraava vaihe kirjurille? Viite: Tapaus 8.4.1],
+  [Varmistaa, että syöttävä joukkue säilyttää kaikki saamansa pisteet, ja syöttö jatkuu pelaajan \#2 syöttäessä. Pöytäkirja saattaa vaatia korjausta ottelun jatkamiseksi. Jos väärän pelaajan havaitaan syöttäneen, heitä voidaan rangaista syötön menetyksellä vain, jos kirjuri (tai toinen tuomareista) oli ilmoittanut heille oikein, että hän on väärä syöttäjä, ennen kuin he syöttivät. Tässä tapauksessa kirjuri ja avustava kirjuri ovat tehneet virheen menettelyissään, koska he eivät ole ilmoittaneet väärää syöttäjää ennen syöttöosumaa. 2. tuomarin ei tulisi koskaan pysäyttää rallia, jos kirjuri huomaa rallin aikana, että väärä syöttäjä suoritti syötön.],
+  ("12.2.1", "12.2.2", "12.3", "12.6.1.1", "26.2.2.2")
+)
+
+#case(
+  "10.23",
+  [Mikä on oikea vastaus kirjurilta, jos kapteeni kysyy vastustajajoukkueen aikalisien määrää? Viite: Tapaus 8.4.2],
+  [Kirjurin ei tulisi vastata tähän pyyntöön, vaan hänen tulisi ilmoittaa asiasta 2. tuomarille, jonka tulisi pyytää joukkueita jatkamaan ottelua.],
+  ("15.1", "16.1", "26.2")
+)
+
+#case(
+  "10.24",
+  [Jos pelaaja on eri mieltä kirjurin ja tuomarien kanssa siitä, kenen vuoro on syöttää, mitä kirjurin tulisi tarkistaa? Viite: Tapaus 9.4],
+  [Pöytäkirja on suunniteltu siten, että syöttöjärjestys on helppo tarkistaa. On 4 laatikkoa, jotka on merkitty I–IV (1–4) ja jotka vastaavat syöttöjärjestystä. Pelaajan numero on merkitty tämän laatikon viereen. Joukkue, joka syöttää ensin, syöttää vuoroilla \#I ja \#III. Toinen joukkue vuoroilla \#II ja \#IV. Kirjuri noudattaa säännöllistä kaavaa syöttöjen kirjaamisessa riippumatta siitä, kumpi joukkue aloittaa syötön, A (vasen puoli) vai B (oikea puoli). On tärkeää, että 2. tuomari tarkistaa, että ottelun aivan ensimmäinen syöttö kirjataan ylimmän laatikon \# I viereen. Tämä varmistaa, että syöttöjärjestys kirjataan aluksi oikein.],
+  ("26.2.2.2", "Pöytäkirjaohjeet")
+)
+
+#case(
+  "10.25",
+  [Jos kapteeni ottelun päätyttyä pyytää saada kirjoittaa vastalauseen pöytäkirjaan, kun ottelun aikana ei tehty vastalausetta, tulisiko kirjurin sallia tämän vastalauseen kirjaaminen? Viite: Tapaus 9.6],
+  [Ei. Kirjuri voi sallia asianomaisen kapteenin kirjoittaa lausunnon vastalauseen kohteena olevasta tapahtumasta vain 1. tuomarin luvalla.],
+  ("26.2.3.2", "Tuomariohjeet ja -ohjeistukset")
+)
+
+#case(
+  "10.26",
+  [Molempien joukkueiden pelaajat vaihtavat puolia, kun kentän tulostaulu näyttää 2-3 (3. erä). Kirjuri huomauttaa kuitenkin nopeasti, että tilanne on edelleen 2-2, eikä puoltenvaihtoa olisi pitänyt tapahtua. Mitä tekniikoita kirjurin tulisi käyttää estääkseen tämän virheen? Viite: Tapaus 9.9],
+  [Kirjurin tulisi aina ilmoittaa vaihdon aiheuttava piste 2. tuomarille (esim. 2-2) ja sitten ilmoittaa puoltenvaihto (esim. 3-2). Tuomarien tulisi asianmukaisesti kuitata molemmat näistä kirjurin ilmoituksista. Tässä tapauksessa kirjuri toimi oikein korjatessaan nopeasti virheellisen puoltenvaihdon välttääkseen pitkän viivästyksen ottelussa.],
+  ("18.2.1", "26.2.2.5")
+)
+
+#case(
+  "10.27",
+  [Jos tuomari tekee virheen myöntämällä pisteen yhdelle joukkueelle, ja toinen joukkue pyytää aikalisää ennen kuin tuomari muuttaa päätöstään, aikalisä peruutetaan. Mitä kirjurin tulisi tässä tapauksessa tehdä? Viite: Tapaus 9.10],
+  [Kirjurin tulisi peruuttaa aikalisän kirjaaminen ja korjata pisterivi ja syöttöjärjestyslaatikot. On tärkeää, että kirjuri kirjaa kahdet ajat: 1) milloin 1. tuomari aloitti protokollan? 2) milloin peli jatkui, tai tässä erityisessä olosuhteessa, milloin joukkue julistettiin vajaalukuiseksi? Tämä kirjaaminen tulisi tehdä tunneissa / minuuteissa / sekunneissa. Lisäksi kirjurin tulisi kirjata riittävästi yksityiskohtia, jotta hän voisi täyttää pöytäkirjan siltä varalta, että joukkue julistetaan vajaalukuiseksi.],
+  ("6.4.3", "7.1.2.3", "17.1", "23.2.7", "23.3.1", "26.2.1")
+)
+
+#case(
+  "10.29",
+  [Kun kirjuri on aloittanut ottelun ja saanut ensimmäisen erän valmiiksi paperista pöytäkirjaa käyttäen, "VolleyStation"-käyttäjä kopioi kaikki olennaiset tiedot sähköiseen pöytäkirjaan, ts. tuloksen, rotaatiot, aikalisät, tekniset aikalisät sekä puoltenvaihdot jne., ja kirjuri jatkaa ottelun täydentämistä sähköisellä pöytäkirjalla. Tulisiko ottelun sähköistä pöytäkirjaa pitää pätevänä virallisena asiakirjana?],
+  [2. tuomarin vastuulla on valvoa kirjurin työtä. 2. tuomarin olisi pitänyt olla tietoinen tilanteesta ja estää se, että kirjuri hylkäsi paperisen pöytäkirjan täyttämisen kesken prosessin, sillä tämä on kyseisen ottelun ainoa asiakirja, jota, jos se on täydellinen, voidaan pitää ottelun virallisena asiakirjana. Tietojen yrittäminen jäljentää sähköiseen pöytäkirjaan ei-reaaliaikaisesti koko erän osalta on epätarkkaa, koska on mahdotonta jäljentää ottelun tarkkoja ja todellisia ajoituksia.],
+  ("23.2.3", "23.3.1", "26.2", "Pöytäkirjaohjeet")
+)
+
+# OSA III - TERMINOLOGIA
+// #include "casebook/part-3-terminology.md"

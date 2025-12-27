@@ -1,8 +1,8 @@
 site_name: Beach Volley -säännöt (FI)
 site_description: Beach Volley -säännöt, tuomariohjeet ja tapauskirja suomeksi.
 site_author: Beach Volley Rules Team
-repo_url: https://github.com/your-repo/beach-volleyball-rules
-repo_name: beach-volleyball-rules
+repo_url: https://github.com/jarkko/beach-volleyball-rules-fi
+repo_name: jarkko/beach-volleyball-rules-fi
 
 theme:
   name: material
@@ -35,15 +35,7 @@ theme:
 
 nav:
   - Etusivu: index.md
-  - Säännöt (Rules):
-    - Sisällysluettelo: beach/rules/index.md
-    - Luku 1 (Peliolosuhteet): beach/rules/chapter-1.md
-    - Luku 2 (Osallistujat): beach/rules/chapter-2.md
-    - Luku 3 (Pelitapa): beach/rules/chapter-3.md
-    - Luku 4 (Pelaaminen): beach/rules/chapter-4.md
-    - Luku 5 (Katkot): beach/rules/chapter-5.md
-    - Luku 6 (Käytös): beach/rules/chapter-6.md
-    - Luku 7-8 (Tuomarit): beach/rules/chapter-7-8.md
+  - Säännöt (Rules): beach/rules/index.md
   - Tuomariohjeet (Guidelines): beach/guidelines/index.md
   - Tapauskirja (Casebook): beach/casebook/index.md
 

@@ -1,8 +1,4 @@
 
-  title: "Beach volleyn tuomariohjeet ja -ohjeistukset",
-  authors: ("Suomen Lentopalloliitto",),
-  date: datetime.today(),
-)
 
 # OSA 2 - JAKSO 2: TUOMARIOHJEET JA -OHJEISTUKSET
 

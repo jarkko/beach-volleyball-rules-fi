@@ -1,8 +1,4 @@
 
-  title: "Viralliset beach volleyn säännöt 2025-2028",
-  authors: ("Suomen Lentopalloliitto",),
-  date: datetime.today(),
-)
 
 # OSA 1: SÄÄNTÖJEN JA TUOMARITOIMINNAN FILOSOFIA
 
@@ -68,15 +64,11 @@ Niille, jotka ovat lukeneet tähän asti: katsokaa seuraavia sääntöjä hienon
 [subrule,number="1.1",title="MITAT"]
 ====
 
-
-
 1.1.1 Pelikenttä on suorakulmio kooltaan 16 x 8 m. Sitä ympäröi vapaa-alue, joka on vähintään 3 m leveä kaikilla sivuilla.
 
   {.refs data-refs="D2"}
 
   Vapaa pelitila on pelialueen yläpuolella oleva tila, jossa ei saa olla mitään esteitä. Vapaan pelitilan on oltava vähintään 7 m korkea pelialustasta mitattuna.
-
-
 
 1.1.2 FIVB:n, maailmanlaajuisissa ja virallisissa kilpailuissa vapaa-alue on vähintään 5 m ja enintään 6 m pääty- ja sivurajoista. Vapaan pelitilan on oltava vähintään 12,5 m korkea pelialustasta mitattuna.
 
@@ -85,23 +77,13 @@ Niille, jotka ovat lukeneet tähän asti: katsokaa seuraavia sääntöjä hienon
 [subrule,number="1.2",title="PELIALUSTA"]
 ====
 
-
-
 1.2.1 Alustan on oltava tasoitettua hiekkaa, mahdollisimman tasainen ja yhtenäinen, vapaa kivistä, simpukankuorista ja kaikesta muusta, mikä voi aiheuttaa loukkaantumisriskin pelaajille.
-
-
 
 1.2.2 FIVB:n, maailmanlaajuisissa ja virallisissa kilpailuissa hiekan on oltava vähintään 40 cm syvää ja koostuttava hienojakoisista, löyhästi pakkautuneista rakeista.
 
-
-
 1.2.3 Pelialusta ei saa aiheuttaa loukkaantumisvaaraa pelaajille.
 
-
-
 1.2.4 FIVB:n, maailmanlaajuisissa ja virallisissa kilpailuissa hiekka on myös seulottava sopivaan raekokoon, ei liian karkeaksi, ja sen on oltava vapaa kivistä ja vaarallisista hiukkasista. Se ei saa olla liian hienoa, jotta se ei aiheuta pölyä ja tartu ihoon.
-
-
 
 1.2.5 FIVB:n, maailmanlaajuisissa ja virallisissa kilpailuissa suositellaan keskuskentän peittämistä pressulla sateen varalta.
 
@@ -110,13 +92,9 @@ Niille, jotka ovat lukeneet tähän asti: katsokaa seuraavia sääntöjä hienon
 [subrule,number="1.3",title="KENTÄN RAJAT"]
 ====
 
-
-
 1.3.1 Kaikki rajat ovat 5 cm leveitä. Rajojen värin on erotuttava selvästi hiekan väristä.
 
   {.refs data-refs="D2"}
-
-
 
 1.3.2 Rajaviivat
 
@@ -130,8 +108,6 @@ Niille, jotka ovat lukeneet tähän asti: katsokaa seuraavia sääntöjä hienon
 ====
 
   Pelialueella on vain pelikenttä, aloitusalue ja vapaa-alue, joka ympäröi pelikenttää.
-
-
 
 1.4.1 Aloitusalue on 8 m leveä alue päätyrajan takana, joka ulottuu vapaa-alueen reunaan asti.
  #label("rule-1.4.2")
@@ -162,8 +138,6 @@ Niille, jotka ovat lukeneet tähän asti: katsokaa seuraavia sääntöjä hienon
 [subrule,number="2.1",title="VERKON KORKEUS"]
 ====
 
-
-
 2.1.1 Pystysuoraan kentän keskikohdan yläpuolelle asetetaan verkko, jonka yläreuna on 2,43 m korkeudella miehillä ja 2,24 m naisilla.
 
   Huom: Verkon korkeutta voidaan muuttaa tietyissä ikäryhmissä seuraavasti:
@@ -175,8 +149,6 @@ Niille, jotka ovat lukeneet tähän asti: katsokaa seuraavia sääntöjä hienon
     [14 vuotta ja alle], [2.12 m], [2.12 m],
     [12 vuotta ja alle], [2.00 m], [2.00 m],
   )
-
-
 
 2.1.2 Verkon korkeus mitataan pelikentän keskeltä mittatankolla. Verkon korkeuden (molempien sivurajojen kohdalla) on oltava täsmälleen sama, eikä se saa ylittää virallista korkeutta enempää kuin 2 cm.
 
@@ -224,12 +196,9 @@ Niille, jotka ovat lukeneet tähän asti: katsokaa seuraavia sääntöjä hienon
 
   {.refs data-refs="D2,D3"}
 
-
 2.5.1 Verkkoa kannattelevat pylväät sijoitetaan 0,70-1,00 m etäisyydelle kummastakin sivurajasta. Ne ovat 2,55 m korkeita ja mieluiten säädettäviä.
 
   FIVB:n, maailmanlaajuisissa ja virallisissa kilpailuissa verkkoa kannattelevat pylväät sijoitetaan 1 m etäisyydelle sivurajojen ulkopuolelle.
-
-
 
 2.5.2 Pylväiden on oltava pyöreitä ja sileitä, ja ne on kiinnitettävä maahan ilman vaijereita. Ei saa olla vaarallisia tai estäviä laitteita. Pylväiden on oltava pehmustettuja.
 
@@ -288,19 +257,11 @@ Niille, jotka ovat lukeneet tähän asti: katsokaa seuraavia sääntöjä hienon
 [subrule,number="4.1",title="JOUKKUEEN KOKOONPANO"]
 ====
 
-
-
 4.1.1 Joukkue muodostuu ainoastaan kahdesta pelaajasta.
-
-
 
 4.1.2 Vain pöytäkirjaan merkityillä kahdella pelaajalla on oikeus osallistua otteluun.
 
-
-
 4.1.3 Toinen pelaajista on joukkueen kapteeni, joka on merkittävä pöytäkirjaan.
-
-
 
 4.1.4 FIVB:n, maailmanlaajuisissa ja virallisissa kilpailuissa pelaajat eivät saa ottaa vastaan ulkopuolista apua tai valmennusta ottelun aikana (Poikkeukset: katso Ikäkausikilpailujen ja Continental Cupin vaiheiden 1 ja 2 erityismääräykset).
 
@@ -319,23 +280,13 @@ Niille, jotka ovat lukeneet tähän asti: katsokaa seuraavia sääntöjä hienon
   Pelaajan varusteet koostuvat shortseista tai uima-asusta. Pelipaita tai "tank-top" on vapaaehtoinen, ellei turnaussäännöissä toisin määrätä. Pelaajat saavat käyttää hattua/päähinettä.
   {.refs data-refs="4.1.1"}
 
-
-
 4.3.1 FIVB:n, maailmanlaajuisissa ja virallisissa kilpailuissa saman joukkueen pelaajien on käytettävä samanvärisiä ja -tyylisiä peliasuja turnaussääntöjen mukaisesti. Pelaajien asujen on oltava puhtaat.
-
-
 
 4.3.2 Pelaajien on pelattava paljain jaloin, ellei päätuomari anna lupaa muuhun.
 
-
-
 4.3.3 Pelaajien paitojen (tai shortsien, jos pelaajat saavat pelata ilman paitaa) on oltava numeroituja 1 ja 2.
 
-
-
 4.3.3.1 Numeron on oltava rinnassa (tai shortsien etupuolella).
-
-
 
 4.3.3.2 Numeron on oltava erottuvaa väriä paitaan nähden ja vähintään 10 cm korkea. Numeron muodostavan nauhan on oltava vähintään 1,5 cm leveä.
 
@@ -348,17 +299,11 @@ Niille, jotka ovat lukeneet tähän asti: katsokaa seuraavia sääntöjä hienon
 
   Päätuomari voi antaa luvan yhdelle tai useammalle pelaajalle:
 
-
-
 4.4.1 pelata sukilla ja/tai kengillä,
-
-
 
 4.4.2 vaihtaa märät paidat erien välillä, edellyttäen että uudet ovat myös turnaus- ja FIVB-sääntöjen mukaiset.
 
   {.refs data-refs="4.3.3"}
-
-
 
 4.4.3 Pelaajan pyynnöstä päätuomari voi antaa hänelle luvan pelata aluspaidalla ja harjoitushousuilla.
 
@@ -367,15 +312,9 @@ Niille, jotka ovat lukeneet tähän asti: katsokaa seuraavia sääntöjä hienon
 [subrule,number="4.5",title="KIELLETYT ESINEET"]
 ====
 
-
-
 4.5.1 On kiellettyä käyttää esineitä, jotka voivat aiheuttaa vammoja tai antaa keinotekoista etua pelaajalle.
 
-
-
 4.5.2 Pelaajat saavat käyttää silmälaseja tai piilolinssejä omalla vastuullaan.
-
-
 
 4.5.3 Kompressiosuojia (pehmustettuja vammansuojia) saa käyttää suojana tai tukena.
 
@@ -395,24 +334,16 @@ Niille, jotka ovat lukeneet tähän asti: katsokaa seuraavia sääntöjä hienon
 [subrule,number="5.1",title="KAPTEENI"]
 ====
 
-
-
 5.1.1 ENNEN OTTELUA joukkueen kapteeni:
 
   a) Allekirjoittaa pöytäkirjan.
   b) Edustaa joukkuettaan arvonnassa.
 
-
-
 5.1.2 Ottelun aikana vain kapteeni on oikeutettu puhumaan tuomareille pallon ollessa poissa pelistä seuraavissa kolmessa tapauksessa:
 
   {.refs data-refs="8.2"}
 
-
-
 5.1.2.1 pyytääkseen selitystä sääntöjen soveltamisesta tai tulkinnasta; jos selitys ei tyydytä kapteenia, hänen on välittömästi ilmoitettava päätuomarille halustaan protestoida;
-
-
 
 5.1.2.2 pyytääkseen lupaa:
 
@@ -421,23 +352,15 @@ Niille, jotka ovat lukeneet tähän asti: katsokaa seuraavia sääntöjä hienon
   c) tarkistaa verkkoa, palloa, hiekkaa jne.,
   d) oikaista lattiaviivaa;
 
-
-
 5.1.2.3 pyytääkseen aikalisää.
 
   {.refs data-refs="15.3"}
 
   Huom: Pelaajien on pyydettävä lupa tuomareilta poistuakseen pelialueelta.
 
-
-
 5.1.3 OTTELUN LOPUSSA joukkueen kapteeni:
 
-
-
 5.1.3.1 kiittää tuomareita ja allekirjoittaa pöytäkirjan vahvistaakseen tuloksen;
-
-
 
 5.1.3.2 jos hän on aiemmin ilmoittanut erimielisyydestään päätuomarille, hänellä on oikeus vahvistaa protesti kirjaamalla se pöytäkirjaan.
 
@@ -453,37 +376,23 @@ Niille, jotka ovat lukeneet tähän asti: katsokaa seuraavia sääntöjä hienon
 [subrule,number="6.1",title="PISTEEN SAAMINEN"]
 ====
 
-
-
 6.1.1 Piste
 
   Joukkue saa pisteen:
 
-
 6.1.1.1 saadessaan pallon koskettamaan vastapuolen kenttää;
-
-
 
 6.1.1.2 jos vastapuolen joukkue tekee virheen;
 
-
-
 6.1.1.3 jos vastapuolen joukkueelle määrätään rangaistus.
-
-
 
 6.1.2 Virhe
 
   Joukkue tekee virheen, kun se tekee näiden sääntöjen vastaisen pelisuorituksen (tai muuten rikkoo sääntöjä). Tuomarit arvioivat virheet ja määräävät niille rangaistukset näiden sääntöjen mukaan:
 
-
 6.1.2.1 Jos kaksi tai useampia virheitä tehdään peräkkäin, vain ensimmäinen niistä otetaan huomioon.
 
-
-
 6.1.2.2 Jos molemmat joukkueet tekevät virheen samanaikaisesti, tuomitaan KAKSOISVIRHE, ja pallo pelataan uudelleen.
-
-
 
 6.1.3 Palloralli ja päättynyt palloralli
 
@@ -491,11 +400,7 @@ Niille, jotka ovat lukeneet tähän asti: katsokaa seuraavia sääntöjä hienon
   - rangaistuksen saamisen
   - syötön menetyksen aloitusvirheen vuoksi.
 
-
-
 6.1.3.1 Jos aloituksen suorittanut joukkue voittaa pallorallin, se saa pisteen ja jatkaa aloittamista.
-
-
 
 6.1.3.2 Jos aloituksen vastaanottanut joukkue voittaa pallorallin, se saa pisteen ja suorittaa seuraavan aloituksen.
 
@@ -514,10 +419,7 @@ Niille, jotka ovat lukeneet tähän asti: katsokaa seuraavia sääntöjä hienon
 
   {.refs data-refs=""}")
 
-
 6.3.1 Ottelun voittaa joukkue, joka ensin voittaa kaksi erää.
-
-
 
 6.3.2 Kun erätilanne on 1-1, ratkaiseva erä (kolmas) pelataan 15 pisteeseen vähintään kahden pisteen erolla vastapuoleen.
 
@@ -526,17 +428,11 @@ Niille, jotka ovat lukeneet tähän asti: katsokaa seuraavia sääntöjä hienon
 [subrule,number="6.4",title="LUOVUTUS JA JOUKKUEEN JÄÄMINEN VAJAAKSI"]
 ====
 
-
-
 6.4.1 Jos joukkue kieltäytyy kehotuksen jälkeenkin pelaamasta, se julistetaan hävinneeksi ottelu luovutuksella, tuloksella 0-2 ja jokainen erä numeroin 0-21.
 
   {.refs data-refs="6.2,6.3"}
 
-
-
 6.4.2 Joukkueen, joka ilman asianmukaista syytä jää saapumatta pelipaikalle ajoissa, katsotaan luovuttaneen ottelun; seuraukset kuten edellä, säännössä 6.4.1.
-
-
 
 6.4.3 Joukkue, joka todetaan VAJAAKSI erässä tai koko ottelussa menettää vastaavasti erän tai koko ottelun. Vastapuolelle annetaan erän tai ottelun voittoon tarvittavat pisteet, tai pisteet ja erät. Vajaaksi jäänyt joukkue säilyttää pisteensä ja eränsä.
 
@@ -555,11 +451,7 @@ Niille, jotka ovat lukeneet tähän asti: katsokaa seuraavia sääntöjä hienon
   Ennen ottelua päätuomari suorittaa arvonnan ensimmäisen erän ensimmäisen aloittajan ja kenttäpuolten määräämiseksi. Jos joudutaan ratkaisevaan erään, arvonta suoritetaan uudelleen.
   {.refs data-refs="12.1.1"}
 
-
-
 7.1.1 Arvonnassa ovat mukana joukkueiden kapteenit.
-
-
 
 7.1.2 Arvonnan voittaja valitsee JOKO:
 
@@ -579,8 +471,6 @@ Niille, jotka ovat lukeneet tähän asti: katsokaa seuraavia sääntöjä hienon
 [subrule,number="7.3",title="JOUKKUEEN KOKOONPANO"]
 ====
 
-
-
 7.3.1 Molempien pelaajien on oltava pelissä koko ajan.
 
 ====
@@ -591,16 +481,12 @@ Niille, jotka ovat lukeneet tähän asti: katsokaa seuraavia sääntöjä hienon
   {.refs data-refs="D4,12.2.2"}
   Aloitushetkellä molempien joukkueiden on oltava omalla kenttäpuolellaan (aloittajaa lukuun ottamatta).
 
-
-
 7.4.1 Pelaajat voivat olla millä tahansa paikalla kenttäpuolellaan (ei määrättyjä pelipaikkoja).
 
 ====
 
 [subrule,number="7.5",title="SIJOITTUMISVIRHE"]
 ====
-
-
 
 7.5.1 Sijoittumisvirheitä EI OLE.
 
@@ -609,13 +495,9 @@ Niille, jotka ovat lukeneet tähän asti: katsokaa seuraavia sääntöjä hienon
 [subrule,number="7.6",title="SYÖTTÖJÄRJESTYS"]
 ====
 
-
-
 7.6.1 Joukkueen aloituskokoonpano määrää sen syöttöjärjestyksen. Tätä järjestystä on noudatettava koko erän ajan.
 
   {.refs data-refs="5.1.1"}
-
-
 
 7.6.2 Kun aloituksen vastaanottanut joukkue on saanut aloitusoikeuden, sen pelaajat suorittavat kiertovaihdon: pelaaja, joka ei syöttänyt edellisellä kerralla, suorittaa aloituksen.
 
@@ -624,13 +506,9 @@ Niille, jotka ovat lukeneet tähän asti: katsokaa seuraavia sääntöjä hienon
 [subrule,number="7.7",title="VÄÄRÄ SYÖTTÖJÄRJESTYS"]
 ====
 
-
-
 7.7.1 Virhe syöttöjärjestyksessä tapahtuu, kun aloitusta ei suorita se pelaaja, jonka vuoro on syöttää. Joukkuetta rangaistaan antamalla piste ja seuraava aloitus vastapuolelle.
 
   {.refs data-refs=""}")
-
-
 
 7.7.2 Kirjurin on valvottava syöttöjärjestystä ja ilmoitettava virheestä tuomareille ennen aloitusvihellystä.
 
@@ -666,18 +544,13 @@ Niille, jotka ovat lukeneet tähän asti: katsokaa seuraavia sääntöjä hienon
 #subrule("8.4", "PALLO \"ULKONA\"")[
   Pallo on "ulkona", kun se:
 
-
 8.4.1 putoaa maahan kokonaan rajojen ulkopuolelle (koskettamatta niitä);
 
   {.refs data-refs="1.3.2"}", "D10 (2)")
 
-
-
 8.4.2 koskettaa esinettä kentän ulkopuolella tai pelin ulkopuolella olevaa henkilöä;
 
   {.refs data-refs=""}", "D10 (4)")
-
-
 
 8.4.3 koskettaa antenneja, köysiä, pylväitä tai verkkoa itseään sivunauhojen ulkopuolella;
 
@@ -687,8 +560,6 @@ Niille, jotka ovat lukeneet tähän asti: katsokaa seuraavia sääntöjä hienon
     "8.4.4",
   )[ylittää verkon pystytason osittain tai kokonaan ylityskaistan ulkopuolelta aloituksessa tai joukkueen toisen tai kolmannen lyönnin aikana (poikkeus: Sääntö 10.1.2).]
   {.refs data-refs="2.3,10.1.2.2,D4a"}", "D10 (4)")
-
-
 
 8.4.5 ylittää kokonaan verkon alla olevan tilan.
 
@@ -714,14 +585,10 @@ Niille, jotka ovat lukeneet tähän asti: katsokaa seuraavia sääntöjä hienon
 
   Näihin joukkueen lyönteihin lasketaan paitsi pelaajien tahalliset lyönnit, myös tahattomat kosketukset palloon.
 
-
-
 9.1.1 PERÄKKÄISET KOSKETUKSET
 
   Pelaaja ei saa koskettaa palloa kaksi kertaa peräkkäin (poikkeukset, katso Säännöt: 9.2.2.2, 9.2.2.3, 14.2 ja 14.4.2).
   {.refs data-refs="9.2.2.1,14.2,14.4.2"}")
-
-
 
 9.1.2 SAMANAIKAISET KOSKETUKSET
 
@@ -748,8 +615,6 @@ Niille, jotka ovat lukeneet tähän asti: katsokaa seuraavia sääntöjä hienon
     "9.1.2.4",
   )[Jos pallo osuu antenniin kahden vastustajan samanaikaisen, verkon päällä tapahtuneen lyönnin jälkeen, palloralli pelataan uudelleen.]
 
-
-
 9.1.3 AVUSTETTU LYÖNTI
 
   Pelialueella pelaaja ei saa tukeutua joukkuetoveriinsa tai mihinkään rakenteeseen/esineeseen lyödäkseen palloa.
@@ -761,24 +626,16 @@ Niille, jotka ovat lukeneet tähän asti: katsokaa seuraavia sääntöjä hienon
 [subrule,number="9.2",title="LYÖNNIN OMINAISUUDET"]
 ====
 
-
-
 9.2.1 Pallo saa koskettaa mitä tahansa kehon osaa.
-
-
 
 9.2.2 Palloa ei saa ottaa kopiksi eikä heittää. Se voi kimmota mihin suuntaan tahansa.
 
   {.refs data-refs="9.3.3"}
 
-
-
 9.2.2.1 Samanaikaiset kosketukset:
 
   Pallo voi koskettaa useita kehon osia, edellyttäen että kosketukset tapahtuvat samanaikaisesti.
   {.refs data-refs="9.2.1"}
-
-
 
 9.2.2.2 Peräkkäiset kosketukset:
 
@@ -786,8 +643,6 @@ Niille, jotka ovat lukeneet tähän asti: katsokaa seuraavia sääntöjä hienon
 
   Jos joukkueen ensimmäinen lyönti suoritetaan sormilyöntinä, pallo EI saa koskettaa sormia/käsiä peräkkäin, vaikka kosketukset tapahtuisivat yhden suorituksen aikana.
   {.refs data-refs="9.3.4"}
-
-
 
 9.2.2.3 Poikkeukset:
 
@@ -798,8 +653,6 @@ Niille, jotka ovat lukeneet tähän asti: katsokaa seuraavia sääntöjä hienon
 
 [subrule,number="9.3",title="VIRHEET PALLON PELAAMISESSA"]
 ====
-
-
 
 9.3.1 NELJÄ LYÖNTIÄ: Joukkue lyö palloa neljä kertaa ennen sen palauttamista.
 
@@ -814,8 +667,6 @@ Niille, jotka ovat lukeneet tähän asti: katsokaa seuraavia sääntöjä hienon
     "9.3.3",
   )[KOPPI: Pallo otetaan kopiksi ja/tai heitetään; se ei kimpoa lyönnistä. (Poikkeukset: Säännöt 9.2.2.1, 9.2.2.2).]
   {.refs data-refs="9.2.2"}")
-
-
 
 9.3.4 KAKSOISKOSKETUS: Pelaaja lyö palloa kaksi kertaa peräkkäin tai pallo koskettaa eri kehon osia peräkkäin.
 
@@ -835,14 +686,9 @@ Niille, jotka ovat lukeneet tähän asti: katsokaa seuraavia sääntöjä hienon
     "10.1.1",
   )[Pallo, joka lähetetään vastustajan kentälle, on mentävä verkon yli ylityskaistan kautta. Ylityskaista on osa verkon pystytasoa ja sitä rajoittavat:]
 
-
 10.1.1.1 alhaalta verkon yläreuna;
 
-
-
 10.1.1.2 sivuilta antennit ja niiden kuvitteelliset jatkeet;
-
-
 
 10.1.1.3 ylhäältä katto tai muu este (jos on).
 
@@ -851,16 +697,11 @@ Niille, jotka ovat lukeneet tähän asti: katsokaa seuraavia sääntöjä hienon
   )[Pallo, joka on ylittänyt verkkotason (kokonaan tai osittain) ylityskaistan ulkopuolelta, voidaan palauttaa peliin joukkuetoverin toimesta, edellyttäen että:]
   {.refs data-refs="D5b"}
 
-
 10.1.2.1 joukkue ei ole käyttänyt kolmea lyöntiään;
-
-
 
 10.1.2.2 pallo koskettaa verkkotasoa ylittäessään jälleen ylityskaistan ulkopuolella samalla puolella kenttää.
 
   Vastustajajoukkue ei saa estää tätä toimintaa.
-
-
 
 10.1.3 Pallo on "ulkona", kun se ylittää verkon kokonaan alapuolitse.
 
@@ -883,11 +724,7 @@ Niille, jotka ovat lukeneet tähän asti: katsokaa seuraavia sääntöjä hienon
 [subrule,number="10.3",title="PALLO VERKOSSA"]
 ====
 
-
-
 10.3.1 Verkkoon osunutta palloa saa pelata, kunhan joukkueen kolmea lyöntiä ei ole käytetty.
-
-
 
 10.3.2 Jos pallo repii verkon tai pudottaa sen, palloralli mitätöidään ja pelataan uudelleen.
 
@@ -925,8 +762,6 @@ Niille, jotka ovat lukeneet tähän asti: katsokaa seuraavia sääntöjä hienon
 [subrule,number="11.3",title="VERKKOKOSKETUS"]
 ====
 
-
-
 11.3.1 Pelaajan verkkokosketus antennien välissä pallon pelaamisen aikana on virhe.
 
   Pelaaminen pallolla sisältää (muun muassa) ponnistuksen, lyönnin (tai yrityksen) ja alastulon.
@@ -935,8 +770,6 @@ Niille, jotka ovat lukeneet tähän asti: katsokaa seuraavia sääntöjä hienon
   #r(
     "11.3.2",
   )[Pelaajat saavat koskettaa pylväitä, köysiä tai mitä tahansa esinettä antennien ulkopuolella, mukaan lukien verkkoa itseään, edellyttäen ettei se häiritse peliä.]
-
-
 
 11.3.3 Kun pallo lyödään verkkoon, ja se aiheuttaa verkon osumisen vastustajaan, virhettä ei tuomita.
 
@@ -949,8 +782,6 @@ Niille, jotka ovat lukeneet tähän asti: katsokaa seuraavia sääntöjä hienon
     "11.4.1",
   )[Pelaaja koskettaa palloa tai vastustajaa vastustajan tilassa ennen vastustajan hyökkäyslyöntiä tai sen aikana.]
   {.refs data-refs="11.1.1"}")
-
-
 
 11.4.2 Pelaaja häiritsee vastustajan peliä tunkeutuessaan vastustajan tilaan verkon alla.
 
@@ -973,8 +804,6 @@ Niille, jotka ovat lukeneet tähän asti: katsokaa seuraavia sääntöjä hienon
 [subrule,number="12.1",title="ERÄN ENSIMMÄINEN ALOITUSSYÖTTÖ"]
 ====
 
-
-
 12.1.1 Erän ensimmäisen aloitussyötön suorittaa joukkue, joka on saanut siihen oikeuden arvonnassa.
 
   {.refs data-refs="6.3.2,7.1"}
@@ -984,17 +813,11 @@ Niille, jotka ovat lukeneet tähän asti: katsokaa seuraavia sääntöjä hienon
 [subrule,number="12.2",title="SYÖTTÖJÄRJESTYS"]
 ====
 
-
-
 12.2.1 Pelaajien on noudatettava pöytäkirjaan merkittyä syöttöjärjestystä.
 
   {.refs data-refs="7.6"}
 
-
-
 12.2.2 Erän ensimmäisen aloitussyötön jälkeen syöttävä pelaaja määräytyy seuraavasti:
-
-
 
 12.2.2.1 kun aloitussyötön suorittanut joukkue voittaa pallorallin, sama pelaaja syöttää uudelleen.
 
@@ -1021,8 +844,6 @@ Niille, jotka ovat lukeneet tähän asti: katsokaa seuraavia sääntöjä hienon
   )[Aloitussyöttö on suoritettava lyömällä palloa yhdellä kädellä tai käsivarren osalla sen jälkeen, kun se on heitetty tai irrotettu kädestä.]
   {.refs data-refs=""}")
 
-
-
 12.4.2 Vain yksi pallon heitto tai irrotus on sallittu. Pallon liikuttelu käsissä on sallittua.
 
   #r(
@@ -1030,13 +851,9 @@ Niille, jotka ovat lukeneet tähän asti: katsokaa seuraavia sääntöjä hienon
   )[Syöttäjä saa liikkua vapaasti aloitusalueella. Syöttöhetkellä tai ponnistuksessa hyppysyöttöön syöttäjä ei saa koskettaa kenttää (päätyraja mukaan lukien) eikä lattiaa aloitusalueen ulkopuolella. Lyönnin jälkeen hän saa astua tai laskeutua aloitusalueen ulkopuolelle tai kentälle.]
   {.refs data-refs="1.4.2"}", "D10 (4)")
 
-
-
 12.4.4 Syöttäjän on lyötävä palloa 5 sekunnin kuluessa päätuomarin vihellyksestä.
 
   {.refs data-refs=""}")
-
-
 
 12.4.5 Ennen vihellystä suoritettu syöttö mitätöidään ja uusitaan.
 
@@ -1045,8 +862,6 @@ Niille, jotka ovat lukeneet tähän asti: katsokaa seuraavia sääntöjä hienon
   #r(
     "12.4.6",
   )[Jos pallo, sen jälkeen kun syöttäjä on heittänyt tai irrottanut sen, putoaa maahan ilman että syöttäjä koskettaa tai ottaa sen kiinni, se katsotaan suoritetuksi syötöksi.]
-
-
 
 12.4.7 Uutta syöttöyritystä ei sallita.
 
@@ -1057,14 +872,11 @@ Niille, jotka ovat lukeneet tähän asti: katsokaa seuraavia sääntöjä hienon
 
   {.refs data-refs=""}")
 
-
 12.5.1 Syöttävän joukkueen pelaaja ei saa peittää vastustajalta näkyvyyttä syöttäjään tai pallon lentorataan.
 
   #r(
     "12.5.2",
   )[Syöttävän joukkueen pelaaja tekee peittämisen, jos hän heiluttaa käsiään, hyppii tai liikkuu sivuttain syötön aikana, tai seisoo ryhmässä peittääkseen pallon lentoradan.]
-
-
 
 12.5.3 Vastaanottavan joukkueen pyynnöstä pelaajan on siirryttävä sivusuunnassa.
 
@@ -1073,38 +885,29 @@ Niille, jotka ovat lukeneet tähän asti: katsokaa seuraavia sääntöjä hienon
 [subrule,number="12.6",title="VIRHEET ALOITUSLYÖNNISSÄ"]
 ====
 
-
-
 12.6.1 Aloitusvirheet:
 
   Seuraavat virheet johtavat syötön vaihtumiseen. Syöttäjä:
-
 
 12.6.1.1 rikkoo syöttöjärjestystä;
 
   {.refs data-refs="12.2"}")
 
-
 12.6.1.2 ei suorita aloitusta oikein.
 
   {.refs data-refs="12.4"}
-
-
 
 12.6.2 Virheet aloituslyönnin jälkeen:
 
   Kun pallo on lyöty oikein, aloitus on virheellinen, jos pallo:
 
-
 12.6.2.1 koskettaa syöttävän joukkueen pelaajaa tai ei ylitä verkkotasoa kokonaan ylityskaistan kautta;
 
   {.refs data-refs=""}")
 
-
 12.6.2.2 menee "ulos";
 
   {.refs data-refs="8.4"}")
-
 
 12.6.2.3 menee peiton yli.
 
@@ -1120,11 +923,7 @@ Niille, jotka ovat lukeneet tähän asti: katsokaa seuraavia sääntöjä hienon
 [subrule,number="13.1",title="HYÖKKÄYSLYÖNNIN OMINAISUUDET"]
 ====
 
-
-
 13.1.1 Kaikkea pallon suuntaamista vastapuolelle, paitsi aloitusta ja torjuntaa, pidetään hyökkäyslyöntinä.
-
-
 
 13.1.2 Hyökkäyslyönti on suoritettu, kun pallo on ylittänyt verkkotason kokonaan tai koskettanut vastustajaa.
 
@@ -1138,13 +937,9 @@ Niille, jotka ovat lukeneet tähän asti: katsokaa seuraavia sääntöjä hienon
 [subrule,number="13.2",title="VIRHEET HYÖKKÄYSLYÖNNISSÄ"]
 ====
 
-
-
 13.2.1 Pelaaja lyö palloa vastapuolen pelitilassa.
 
   {.refs data-refs="13.1.2"}")
-
-
 
 13.2.2 Pelaaja lyö pallon "ulos".
 
@@ -1179,20 +974,14 @@ Niille, jotka ovat lukeneet tähän asti: katsokaa seuraavia sääntöjä hienon
     "14.1.1",
   )[Torjuminen on pelaajien verkon tuntumassa tapahtuvaa toimintaa vastapuolelta tulevan pallon pysäyttämiseksi kurottautumalla verkon yläpuolelle. Pallokosketuksen hetkellä jonkin kehon osan on oltava verkon yläreunan yläpuolella.]
 
-
-
 14.1.2 Torjuntayritys
 
   Torjuntayritys on torjuntatoiminta ilman pallokosketusta.
-
-
 
 14.1.3 Suoritettu torjunta
 
   Torjunta on suoritettu aina, kun torjuja koskettaa palloa.
   {.refs data-refs="D6"}
-
-
 
 14.1.4 Yhteistorjunta
 
@@ -1240,23 +1029,15 @@ Niille, jotka ovat lukeneet tähän asti: katsokaa seuraavia sääntöjä hienon
 [subrule,number="14.6",title="TORJUNTAVIRHEET"]
 ====
 
-
-
 14.6.1 Torjuja koskettaa palloa VASTUSTAJAN tilassa ennen vastustajan hyökkäyslyöntiä.
 
   {.refs data-refs="14.3"}")
 
-
-
 14.6.2 Pallon torjuminen vastustajan tilassa antennin ulkopuolelta.
-
-
 
 14.6.3 Pelaaja torjuu vastustajan aloituksen.
 
   {.refs data-refs=""}")
-
-
 
 14.6.4 Pallo menee torjunnasta "ulos".
 
@@ -1286,15 +1067,9 @@ Niille, jotka ovat lukeneet tähän asti: katsokaa seuraavia sääntöjä hienon
 [subrule,number="15.2",title="SÄÄNTÖMÄÄRÄISTEN PELIKATKOJEN JÄRJESTYS"]
 ====
 
-
-
 15.2.1 Molempien joukkueiden aikalisäpyynnöt voivat seurata toisiaan saman katkon aikana.
 
-
-
 15.2.2 Pelaajavaihtoja ei ole.
-
-
 
 15.2.3 Ei ole sallittua pyytää mitään sääntömääräistä pelikatkoa sen jälkeen, kun pyyntö on hylätty ja sanktioitu viivytysvaroituksella saman katkon aikana (ts. ennen seuraavan päättyneen pallorallin loppua).
 
@@ -1310,21 +1085,13 @@ Niille, jotka ovat lukeneet tähän asti: katsokaa seuraavia sääntöjä hienon
 [subrule,number="15.4",title="AIKALISÄT JA TEKNISET AIKALISÄT"]
 ====
 
-
-
 15.4.1 Aikalisäpyynnöt on tehtävä näyttämällä vastaavaa käsimerkkiä, kun pallo on poissa pelistä ja ennen aloitusvihellystä. Kaikki pyydetyt aikalisät kestävät 30 sekuntia.
 
   {.refs data-refs=""}")
 
-
-
 15.4.2 FIVB:n, maailmanlaajuisissa ja virallisissa kilpailuissa erissä 1 ja 2 pidetään yksi ylimääräinen 30 sekunnin "tekninen aikalisä" automaattisesti, kun joukkueiden pisteiden summa on 21 pistettä. Aikalisien ja teknisten aikalisien pituutta voidaan säätää, jos FIVB hyväksyy järjestäjän pyynnön.
 
-
-
 15.4.3 Ratkaisevassa (3.) erässä ei ole teknisiä aikalisä; kumpikin joukkue voi pyytää vain yhden 30 sekunnin aikalisän.
-
-
 
 15.4.4 Kaikkien sääntömääräisten katkojen (mukaan lukien tekniset aikalisät) ja erätaukojen aikana pelaajien on mentävä heille osoitetulle pelaaja-alueelle.
 
@@ -1337,27 +1104,19 @@ Niille, jotka ovat lukeneet tähän asti: katsokaa seuraavia sääntöjä hienon
 
   Aikalisän pyytäminen on virheellistä muun muassa:
 
-
 15.5.1 pallorallin aikana tai aloitusvihellyksen hetkellä tai sen jälkeen;
 
   {.refs data-refs="6.1.3"}
 
-
 15.5.2 jos sen tekee muu kuin valtuutettu joukkueen jäsen;
-
-
 
 15.5.3 sen jälkeen, kun sallitut aikalisät on käytetty.
 
   {.refs data-refs="15.1"}
 
-
-
 15.5.4 Joukkueen ensimmäinen virheellinen pyyntö ottelussa, joka ei vaikuta peliin tai viivytä sitä, hylätään, mutta se on merkittävä pöytäkirjaan ilman muita seuraamuksia.
 
   {.refs data-refs="16.1.2,26.2.2.4,26.2.2.6"}
-
-
 
 15.5.5 Mikä tahansa myöhempi virheellinen pyyntö samassa ottelussa saman joukkueen toimesta katsotaan viivytykseksi.
 
@@ -1375,21 +1134,13 @@ Niille, jotka ovat lukeneet tähän asti: katsokaa seuraavia sääntöjä hienon
 
   Joukkueen sopimaton toiminta, joka viivyttää pelin jatkamista, on viivytystä ja sisältää muun muassa:
 
-
-
 16.1.1 aikalisien pitkittämisen sen jälkeen, kun on kehotettu jatkamaan peliä;
-
-
 
 16.1.2 virheellisen pyynnön toistamisen;
 
   {.refs data-refs="15.5"}
 
-
-
 16.1.3 pelin viivyttämisen (12 sekuntia on enimmäisaika pallorallin päättymisestä aloitusvihellykseen normaaleissa peliolosuhteissa);
-
-
 
 16.1.4 pelin viivyttämisen joukkueen jäsenen toimesta.
 
@@ -1398,31 +1149,19 @@ Niille, jotka ovat lukeneet tähän asti: katsokaa seuraavia sääntöjä hienon
 [subrule,number="16.2",title="VIIVYTYSSEURAAMUKSET"]
 ====
 
-
-
 16.2.1 "Viivytysvaroitus" ja "viivytysrangaistus" ovat joukkuerangaistuksia.
-
-
 
 16.2.1.1 Viivytysseuraamukset pysyvät voimassa koko ottelun ajan.
 
-
-
 16.2.1.2 Kaikki viivytysseuraamukset merkitään pöytäkirjaan.
-
-
 
 16.2.2 Joukkueen jäsenen ensimmäisestä viivytyksestä ottelussa seuraa "VIIVYTYSVAROITUS".
 
   {.refs data-refs=""}", "D7b")
 
-
-
 16.2.3 Saman joukkueen minkä tahansa jäsenen toisesta ja seuraavista viivytyksistä samassa ottelussa (riippumatta viivytystyypistä) seuraa "VIIVYTYSRANGAISTUS": piste ja aloitus vastapuolelle.
 
   {.refs data-refs=""}", "D7b")
-
-
 
 16.2.4 Ennen erää tai erien välillä määrätyt viivytysseuraamukset sovelletaan seuraavassa erässä.
 
@@ -1436,13 +1175,9 @@ Niille, jotka ovat lukeneet tähän asti: katsokaa seuraavia sääntöjä hienon
 [subrule,number="17.1",title="LOUKKAANTUMINEN/SAIRASTUMINEN"]
 ====
 
-
-
 17.1.1 Jos vakava onnettomuus tapahtuu pallon ollessa pelissä, tuomarin on pysäytettävä peli välittömästi ja sallittava lääkintäavun tulo kentälle.
 
   Palloralli pelataan tällöin uudelleen.
-
-
 
 17.1.2 Loukkaantuneelle/sairastuneelle pelaajalle annetaan enintään 5 minuuttia toipumisaikaa. Tuomarin on annettava asianmukaisesti akkreditoidulle lääkintähenkilöstölle lupa tulla pelikentälle hoitamaan pelaajaa. Vain päätuomari voi antaa pelaajalle luvan poistua pelialueelta ilman rangaistusta.
 
@@ -1467,15 +1202,9 @@ Niille, jotka ovat lukeneet tähän asti: katsokaa seuraavia sääntöjä hienon
 [subrule,number="17.3",title="PITKÄT KESKEYTYKSET"]
 ====
 
-
-
 17.3.1 Jos odottamattomat olosuhteet keskeyttävät ottelun, päätuomari, järjestäjä ja kilpailun jury (jos sellainen on) päättävät toimenpiteistä normaalien olosuhteiden palauttamiseksi.
 
-
-
 17.3.2 Jos yksi tai useampi keskeytys ei ylitä yhteensä 4 tuntia, ottelua jatketaan saavutetusta tilanteesta, riippumatta siitä jatketaanko samalla vai toisella pelikentällä.
-
-
 
 17.3.3 Jos yksi tai useampi keskeytys ylittää yhteensä 4 tuntia, koko ottelu pelataan uudelleen.
 
@@ -1489,8 +1218,6 @@ Niille, jotka ovat lukeneet tähän asti: katsokaa seuraavia sääntöjä hienon
 [subrule,number="18.1",title="ERÄTAUOT"]
 ====
 
-
-
 18.1.1 Erätauko on erien välinen aika. Kaikki erätauot kestävät yhden minuutin.
 
   Tänä aikana suoritetaan puoltenvaihto (jos pyydetty) ja joukkueiden syöttöjärjestyksen merkintä pöytäkirjaan.
@@ -1503,13 +1230,9 @@ Niille, jotka ovat lukeneet tähän asti: katsokaa seuraavia sääntöjä hienon
 [subrule,number="18.2",title="PUOLTENVAIHTO"]
 ====
 
-
-
 18.2.1 Joukkueet vaihtavat puolia jokaisen 7 pelatun pisteen jälkeen (erät 1 ja 2) ja 5 pisteen jälkeen (erä 3).
 
   {.refs data-refs=""}")
-
-
 
 18.2.2 Puoltenvaihdon aikana joukkueiden on vaihdettava välittömästi ilman viivytystä.
 
@@ -1528,18 +1251,12 @@ Niille, jotka ovat lukeneet tähän asti: katsokaa seuraavia sääntöjä hienon
 [subrule,number="19.1",title="URHEILULLINEN KÄYTÖS"]
 ====
 
-
-
 19.1.1 Osanottajien on tunnettava "Viralliset Beach Volley -säännöt" ja noudatettava niitä.
-
-
 
 19.1.2 Osanottajien on hyväksyttävä tuomarien päätökset urheilullisesti, väittelemättä niistä.
 
   Epäselvissä tapauksissa selvennystä voi pyytää ainoastaan kapteeni.
   {.refs data-refs="5.1.2.1"}
-
-
 
 19.1.3 Osanottajien on pidättäydyttävä toimista tai asenteista, joiden tarkoituksena on vaikuttaa tuomarien päätöksiin tai peitellä oman joukkueen tekemiä virheitä.
 
@@ -1548,11 +1265,7 @@ Niille, jotka ovat lukeneet tähän asti: katsokaa seuraavia sääntöjä hienon
 [subrule,number="19.2",title="REILUN PELIN HENKI"]
 ====
 
-
-
 19.2.1 Osanottajien on käyttäydyttävä kunnioittavasti ja kohteliaasti REILUN PELIN HENGESSÄ, ei ainoastaan tuomareita kohtaan, vaan myös muita toimitsijoita, vastustajia, joukkuetovereita ja yleisöä kohtaan.
-
-
 
 19.2.2 Kommunikointi joukkueen jäsenten välillä ottelun aikana on sallittua.
 
@@ -1582,15 +1295,9 @@ Niille, jotka ovat lukeneet tähän asti: katsokaa seuraavia sääntöjä hienon
   Joukkueen jäsenen epäasiallinen käytös toimitsijoita, vastustajia, joukkuetovereita tai yleisöä kohtaan luokitellaan kolmeen luokkaan rikkeen vakavuuden mukaan.
   {.refs data-refs="4.1.1"}
 
-
-
 20.2.1 Räikeä käytös: hyvien tapojen tai moraalisten periaatteiden vastainen toiminta.
 
-
-
 20.2.2 Loukkaava käytös: herjaavat tai loukkaavat sanat tai eleet, mukaan lukien kaikki halveksuntaa ilmaisevat toimet.
-
-
 
 20.2.3 Väkivaltainen käytös: fyysinen hyökkäys tai väkivaltainen tai uhkaava käytös.
 
@@ -1602,21 +1309,15 @@ Niille, jotka ovat lukeneet tähän asti: katsokaa seuraavia sääntöjä hienon
   Päätuomarin harkinnan ja rikkeen vakavuuden mukaan sovellettavat ja pöytäkirjaan merkittävät rangaistukset ovat: Rangaistus, Erästä poistaminen tai Ottelusta poistaminen.
   {.refs data-refs="D7a"}
 
-
-
 20.3.1 Rangaistus
 
   Räikeästä käytöksestä tai yhdestä räikeän käytöksen toistamisesta samassa erässä saman pelaajan toimesta. Kahdella ensimmäisellä kerralla joukkuetta rangaistaan pisteellä ja aloitusoikeudella vastustajalle. Pelaajan kolmas räikeä käytös samassa erässä johtaa erästä poistamiseen. Räikeän käytöksen rangaistuksia voidaan kuitenkin antaa samalle pelaajalle seuraavissa erissä.
   {.refs data-refs=""}")
 
-
-
 20.3.2 Erästä poistaminen
 
   Ensimmäinen loukkaava käytös rangaistaan erästä poistamisella. Pelaajan, joka poistetaan erästä, on poistuttava pelialueelta ja hänen joukkueensa julistetaan vajaaksi erän ajaksi.
   {.refs data-refs="6.4.3,7.3.1"}")
-
-
 
 20.3.3 Ottelusta poistaminen
 
@@ -1693,30 +1394,20 @@ Niille, jotka ovat lukeneet tähän asti: katsokaa seuraavia sääntöjä hienon
 [subrule,number="21.2",title="MENETTELYT"]
 ====
 
-
-
 21.2.1 Ainoastaan pää- ja verkkotuomari saavat viheltää ottelun aikana:
  #label("rule-21.3")
-
 
 21.2.1.1 päätuomari antaa merkin aloitukseen, joka aloittaa pallorallin;
 
   {.refs data-refs=""}")
 
-
 21.2.1.2 pää- tai verkkotuomari viheltää pallorallin päättyneeksi, edellyttäen että he ovat varmoja virheen tapahtumisesta ja ovat tunnistaneet sen luonteen.
 
-
-
 21.2.2 He voivat viheltää pallon ollessa poissa pelistä merkiksi siitä, että he hyväksyvät tai hylkäävät joukkueen pyynnön.
-
-
 
 21.2.3 Välittömästi sen jälkeen, kun tuomari on viheltänyt pallorallin päättyneeksi, heidän on näytettävä virallisilla käsimerkeillä:
 
   {.refs data-refs="21.2.1.2,29.1"}
-
-
 
 21.2.3.1 Jos virheen vihelsi päätuomari, hän näyttää järjestyksessä:
 
@@ -1725,8 +1416,6 @@ Niille, jotka ovat lukeneet tähän asti: katsokaa seuraavia sääntöjä hienon
   b) virheen luonteen,
   c) virheen tehneen pelaajan/pelaajat (tarvittaessa).
 
-
-
 21.2.3.2 Jos virheen vihelsi verkkotuomari, hän näyttää:
 
   a) virheen luonteen,
@@ -1734,8 +1423,6 @@ Niille, jotka ovat lukeneet tähän asti: katsokaa seuraavia sääntöjä hienon
   c) joukkueen, joka saa seuraavan aloituksen, seuraten päätuomarin käsimerkkiä.
   {.refs data-refs=""}")
   Tässä tapauksessa päätuomari ei näytä virheen luonnetta eikä virheen tehnyttä pelaajaa, vaan ainoastaan aloitukseen oikeutetun joukkueen.
-
-
 
 21.2.3.3 Kaksoisvirheen sattuessa molemmat tuomarit näyttävät järjestyksessä:
 
@@ -1763,33 +1450,21 @@ Niille, jotka ovat lukeneet tähän asti: katsokaa seuraavia sääntöjä hienon
 [subrule,number="22.2",title="VALTUUDET"]
 ====
 
-
-
 22.2.1 Päätuomari johtaa ottelua alusta loppuun. Hänellä on määräysvalta kaikkiin tuomariston jäseniin ja joukkueiden jäseniin.
 
   Ottelun aikana hänen päätöksensä ovat lopullisia. Hänellä on valtuudet kumota muiden tuomariston jäsenten päätökset, jos hän huomaa heidän erehtyneen.
   Hän voi jopa vaihtaa tuomariston jäsenen, joka ei hoida tehtäviään asianmukaisesti.
 
-
-
 22.2.2 Hän valvoo myös pallonpalauttajien ja hiekan tasoittajien työtä.
 
-
-
 22.2.3 Hänellä on valta päättää kaikista peliin liittyvistä asioista, myös niistä, joita säännöt eivät mainitse.
-
-
 
 22.2.4 Hän ei saa sallia mitään keskustelua päätöksistään.
 
   Kuitenkin kapteenin pyynnöstä päätuomari antaa selityksen sääntöjen soveltamisesta tai tulkinnasta, johon hän on päätöksensä perustanut.
   Jos kapteeni on eri mieltä selityksestä ja tekee virallisen protestin, päätuomarin on sallittava protestiprotokollan aloittaminen.
 
-
-
 22.2.5 Päätuomari on vastuussa sen määrittämisestä ennen ottelua ja sen aikana, täyttävätkö pelialue ja olosuhteet pelivaatimukset.
-
-
 
 22.2.6 Riippuen olosuhteista, jotka johtivat pelaajan mahdolliseen loukkaantumiseen/sairastumiseen, päätuomari antaa luvan lääkintäapuun ja käynnistää toipumisajan.
 
@@ -1800,35 +1475,19 @@ Niille, jotka ovat lukeneet tähän asti: katsokaa seuraavia sääntöjä hienon
 [subrule,number="22.3",title="TEHTÄVÄT"]
 ====
 
-
-
 22.3.1 Ennen ottelua päätuomari:
-
-
 
 22.3.1.1 tarkastaa pelialueen kunnon, pallot ja muut varusteet;
 
-
-
 22.3.1.2 suorittaa arvonnan joukkueiden kapteenien kanssa;
-
-
 
 22.3.1.3 valvoo joukkueiden lämmittelyä.
 
-
-
 22.3.2 Ottelun aikana hän on valtuutettu:
-
-
 
 22.3.2.1 antamaan varoituksia joukkueille;
 
-
-
 22.3.2.2 rankaisemaan käyttäytymisrikkeistä ja viivytyksistä;
-
-
 
 22.3.2.3 päättämään:
 
@@ -1839,8 +1498,6 @@ Niille, jotka ovat lukeneet tähän asti: katsokaa seuraavia sääntöjä hienon
   d) pallon ylittämisestä kokonaan verkon alla olevan tilan kautta;
   {.refs data-refs=""}")
   e) syötetyn pallon ja toisen lyönnin menemisestä antennin yli tai sen ulkopuolelta hänen puolellaan kenttää.
-
-
 
 22.3.3 Ottelun lopussa hän tarkistaa pöytäkirjan ja allekirjoittaa sen.
 
@@ -1862,46 +1519,28 @@ Niille, jotka ovat lukeneet tähän asti: katsokaa seuraavia sääntöjä hienon
 [subrule,number="23.2",title="VALTUUDET"]
 ====
 
-
-
 23.2.1 Verkkotuomari on päätuomarin avustaja, mutta hänellä on myös oma toimivalta-alueensa.
 
   {.refs data-refs="23.3"}
   Jos päätuomari on estynyt jatkamaan työtään, verkkotuomari voi korvata hänet.
 
-
-
 23.2.2 Hän voi viheltämättä näyttää myös toimivalta-alueensa ulkopuolella tapahtuvat virheet, mutta ei saa vaatia niitä päätuomarilta.
-
-
 
 23.2.3 Hän valvoo kirjuri(e)n työtä.
 
-
-
 23.2.4 Hän ilmoittaa kaikista käyttäytymisrikkeistä päätuomarille.
-
-
 
 23.2.5 Hän antaa luvan aikalisille ja puoltenvaihdoille, valvoo niiden kestoa ja hylkää virheelliset pyynnöt.
 
   {.refs data-refs=""}")
 
-
-
 23.2.6 Hän tarkistaa kummankin joukkueen käyttämien aikalisien määrän ja ilmoittaa siitä päätuomarille ja asianosaisille pelaajille aikalisän päätyttyä.
-
-
 
 23.2.7 Tapauksessa, jossa päätuomari antaa luvan lääkintäapuun pelaajalle, hän avustaa prosessissa, mukaan lukien toipumisajan hallinta.
 
   {.refs data-refs="17.1.2"}
 
-
-
 23.2.8 Hän tarkistaa ottelun aikana, että pallot täyttävät edelleen sääntöjen vaatimukset.
-
-
 
 23.2.9 Hän suorittaa arvonnan erien 2 ja 3 välillä, jos päätuomari ei pysty siihen. Hän antaa sitten kaikki asiaankuuluvat tiedot kirjurille.
 
@@ -1910,48 +1549,33 @@ Niille, jotka ovat lukeneet tähän asti: katsokaa seuraavia sääntöjä hienon
 [subrule,number="23.3",title="TEHTÄVÄT"]
 ====
 
-
-
 23.3.1 Kunkin erän alussa ja aina tarvittaessa verkkotuomari valvoo kirjurin työtä ja tarkistaa, että pallo on oikealla syöttäjällä.
 
-
-
 23.3.2 Ottelun aikana verkkotuomari päättää, viheltää ja näyttää:
-
-
 
 23.3.2.1 häirinnän, joka johtuu tunkeutumisesta vastustajan kentälle ja verkon alla olevaan tilaan;
 
   {.refs data-refs="11.2"}")
 
-
 23.3.2.2 pelaajan virheellisen kosketuksen verkkoon ensisijaisesti (mutta ei yksinomaan) torjunnan puolella ja antenniin hänen puolellaan kenttää;
 
   {.refs data-refs="11.3.1"}
-
 
 23.3.2.3 pallon kosketuksen ulkopuoliseen esineeseen;
 
   {.refs data-refs="8.4.2,8.4.3"}", "D10 (4)")
 
-
 23.3.2.4 pallon, joka ylittää verkon kokonaan tai osittain ylityskaistan ulkopuolelta vastustajan kentälle tai koskettaa antennia hänen puolellaan kenttää, mukaan lukien aloituksessa;
 
   {.refs data-refs="8.4.3,8.4.4,D3,D4a"}")
 
-
 23.3.2.5 pallon kosketuksen hiekkaan, kun päätuomari ei ole sijoittunut näkemään kosketusta;
-
-
 
 23.3.2.6 pallon, joka haetaan kokonaan vastustajan puolelta verkon alta;
 
   {.refs data-refs=""}")
 
-
 23.3.2.7 syötetyn pallon ja toisen lyönnin menemisen antennin yli tai sen ulkopuolelta hänen puolellaan kenttää.
-
-
 
 23.3.3 Ottelun lopussa hän tarkistaa ja allekirjoittaa pöytäkirjan.
 
@@ -1974,21 +1598,13 @@ Niille, jotka ovat lukeneet tähän asti: katsokaa seuraavia sääntöjä hienon
 [subrule,number="24.2",title="TEHTÄVÄT"]
 ====
 
-
-
 24.2.1 Hän valvoo haastoprosessia ja varmistaa, että se etenee voimassa olevien haastorä-sääntöjen mukaisesti.
 
-
-
 24.2.2 Haastetuomarin on käytettävä virallista tuomariasua suorittaessaan tehtäviään.
-
-
 
 24.2.3 Haastoprosessin jälkeen hän ilmoittaa päätuomarille virheen luonteen.
 
   {.refs data-refs="21.2.3.1"}")
-
-
 
 24.2.4 Ottelun lopussa hän allekirjoittaa pöytäkirjan.
 
@@ -2013,38 +1629,25 @@ Niille, jotka ovat lukeneet tähän asti: katsokaa seuraavia sääntöjä hienon
 
   Varalla oleva tuomari on velvollinen:
 
-
 25.2.1 Käyttämään virallista tuomariasua suorittaessaan tehtäviään.
-
-
 
 25.2.2 Korvaamaan verkkotuomarin poissaolotapauksessa tai jos hän on estynyt jatkamaan työtään tai jos verkkotuomari siirtyy päätuomariksi.
 
   {.refs data-refs="23.2.1"}
 
-
-
 25.2.3 Avustamaan verkkotuomaria vapaa-alueen pitämisessä vapaana.
 
   {.refs data-refs="D9"}
-
-
 
 25.2.4 Tuomaan verkkotuomarille neljä ottelupalloa välittömästi pelaajaesittelyn jälkeen.
 
   {.refs data-refs="3.3"}
 
-
-
 25.2.5 Antamaan verkkotuomarille ottelupallon sen jälkeen, kun hän on tarkistanut syöttävän pelaajan.
-
-
 
 25.2.6 Avustamaan päätuomaria hiekan tasoittajien työn ohjaamisessa.
 
   {.refs data-refs="22.2.2"}
-
-
 
 25.2.7 Jos Video Challenge System (VCS) on käytössä, hän valvoo kirjuria haastejärjestelmän prosessin täyttämisessä sähköiseen pöytäkirjaan.
 
@@ -2071,69 +1674,39 @@ Niille, jotka ovat lukeneet tähän asti: katsokaa seuraavia sääntöjä hienon
   Kirjuri täyttää pöytäkirjaa sääntöjen mukaisesti yhteistyössä verkkotuomarin kanssa.
   Hän käyttää summeria tai muuta äänilaitetta ilmoittaakseen sääntöjenvastaisuuksista tai antaakseen merkkejä tuomareille vastuualueensa perusteella.
 
-
-
 26.2.1 Ennen ottelua ja erää kirjuri:
-
-
 
 26.2.1.1 rekisteröi ottelun ja joukkueiden tiedot voimassa olevien menettelyjen mukaisesti ja hankkii kapteenien allekirjoitukset;
 
-
-
 26.2.1.2 kirjaa kummankin joukkueen syöttöjärjestyksen.
-
-
 
 26.2.2 Ottelun aikana kirjuri:
 
-
-
 26.2.2.1 kirjaa saadut pisteet;
-
-
 
 26.2.2.2 valvoo kummankin joukkueen syöttöjärjestystä ja ilmoittaa mahdollisesta virheestä ennen aloituslyöntiä;
 
-
-
 26.2.2.3 kirjaa aikalisät, valvoo niiden määrää ja ilmoittaa verkkotuomarille;
-
-
 
 26.2.2.4 ilmoittaa tuomareille virheellisestä aikalisäpyynnöstä;
 
   {.refs data-refs="15.5"}
 
-
 26.2.2.5 ilmoittaa tuomareille puoltenvaihdoista ja erien päättymisestä;
-
-
 
 26.2.2.6 kirjaa kaikki rangaistukset ja virheelliset pyynnöt;
 
-
-
 26.2.2.7 kirjaa kaikki muut tapahtumat verkkotuomarin ohjeiden mukaisesti, esim. toipumisaika, pitkät keskeytykset, ulkopuolinen häiriö jne.;
-
-
 
 26.2.2.8 valvoo erien välistä taukoa.
 
-
-
 26.2.3 Ottelun lopussa kirjuri:
 
-
-
 26.2.3.1 kirjaa lopputuloksen;
-
-
 
 26.2.3.2 protestitapauksessa, päätuomarin aiemmalla luvalla, kirjoittaa tai sallii asianosaisen kapteenin kirjoittaa pöytäkirjaan lausunnon protestoitavasta tapahtumasta;
 
   {.refs data-refs="5.1.2.1,5.1.3.2"}
-
 
 26.2.3.3 allekirjoittaa pöytäkirjan ennen kuin hän hankkii joukkueiden kapteenien ja sitten tuomarien allekirjoitukset.
 
@@ -2158,47 +1731,25 @@ Niille, jotka ovat lukeneet tähän asti: katsokaa seuraavia sääntöjä hienon
   Hän avustaa kirjurin hallinnollisissa tehtävissä.
   Jos kirjuri ei pysty jatkamaan työtään, avustava kirjuri korvaa kirjurin.
 
-
-
 27.2.1 Ennen ottelua ja erää avustava kirjuri:
-
-
 
 27.2.1.1 tarkistaa, että tulostaululla/tauluilla näkyvät tiedot ovat oikein.
 
-
-
 27.2.2 Ottelun aikana avustava kirjuri:
-
-
 
 27.2.2.1 näyttää kummankin joukkueen syöttöjärjestyksen näyttämällä kylttiä, jossa on numero 1 tai 2 vastaten syöttävää pelaajaa, ja
 
-
-
 27.2.2.2 ilmoittaa summerilla virheistä tuomareille välittömästi;
-
-
 
 27.2.2.3 käyttää manuaalista tulostaulua kirjuripöydällä;
 
-
-
 27.2.2.4 tarkistaa, että tulostaulut täsmäävät;
-
-
 
 27.2.2.5 aloittaa ja lopettaa teknisten aikalisien ajanoton;
 
-
-
 27.2.2.6 tarvittaessa päivittää varapöytäkirjaa ja antaa sen kirjurille.
 
-
-
 27.2.3 Ottelun lopussa avustava kirjuri:
-
-
 
 27.2.3.1 allekirjoittaa pöytäkirjan.
 
@@ -2223,59 +1774,39 @@ Niille, jotka ovat lukeneet tähän asti: katsokaa seuraavia sääntöjä hienon
 [subrule,number="28.2",title="TEHTÄVÄT"]
 ====
 
-
-
 28.2.1 Rajatuomarit suorittavat tehtävänsä käyttämällä lippuja (40 x 40 cm) näyttääkseen:
 
   {.refs data-refs="D10"}
-
-
 
 28.2.1.1 pallon "sisällä" ja "ulkona" aina kun pallo laskeutuu heidän rajansa lähelle. (Huom: ensisijaisesti pallon lentorataa lähinnä oleva rajatuomari on vastuussa merkistä);
 
   {.refs data-refs="8.3,8.4"}")
 
-
-
 28.2.1.2 vastaanottavan joukkueen kosketukset "ulos" menneisiin palloihin;
 
   {.refs data-refs="8.4"}")
-
-
 
 28.2.1.3 pallon kosketuksen antenniin, syötetyn pallon ja joukkueen toisen lyönnin ylittämisen verkon ylityskaistan ulkopuolelta jne.;
 
   {.refs data-refs="8.4.3,8.4.4,10.1.1,D4a"}")
 
-
-
 28.2.1.4 minkä tahansa pelaajan (paitsi syöttäjän) astumisen kentän ulkopuolelle aloituslyönnin hetkellä;
 
   {.refs data-refs="7.4,12.4.3"}")
-
-
 
 28.2.1.5 syöttäjän jalkavirheet;
 
   {.refs data-refs="12.4.3"}")
 
-
-
 28.2.1.6 minkä tahansa pelaajan kosketuksen antennin yläosaan (80 cm) heidän puolellaan kenttää pallon pelaamisen tai pelin häiritsemisen aikana;
 
   {.refs data-refs="11.3.1,11.4.3,D3"}")
-
-
 
 28.2.1.7 pallon ylittämisen verkon ylityskaistan ulkopuolelta vastustajan kentälle tai kosketuksen antenniin heidän puolellaan kenttää;
 
   {.refs data-refs="10.1.1,D4a"}")
 
-
-
 28.2.1.8 torjuntakosketukset pallorallin aikana.
-
-
 
 28.2.2 Päätuomarin pyynnöstä rajatuomarin on toistettava merkkinsä.
 
@@ -2317,7 +1848,7 @@ Niille, jotka ovat lukeneet tähän asti: katsokaa seuraavia sääntöjä hienon
 
   Liittyvät säännöt: 1, 22.1, 23.1, 26.1, 27.1, 28.1
 
-  ![Image](../assets/images/rules_diagrams/diagram-1.png)
+  ![Image](assets/images/rules_diagrams/diagram-1.png)
 
 ====
 
@@ -2326,7 +1857,7 @@ Niille, jotka ovat lukeneet tähän asti: katsokaa seuraavia sääntöjä hienon
 
   Liittyvät säännöt: 1.1, 1.3, 2.5
 
-  ![Image](../assets/images/rules_diagrams/diagram-2.png)
+  ![Image](assets/images/rules_diagrams/diagram-2.png)
 
 ====
 
@@ -2335,7 +1866,7 @@ Niille, jotka ovat lukeneet tähän asti: katsokaa seuraavia sääntöjä hienon
 
   Liittyvät säännöt: 2, 8.4.3
 
-  ![Image](../assets/images/rules_diagrams/diagram-3.png)
+  ![Image](assets/images/rules_diagrams/diagram-3.png)
 
 ====
 
@@ -2344,7 +1875,7 @@ Niille, jotka ovat lukeneet tähän asti: katsokaa seuraavia sääntöjä hienon
 
   Liittyvät säännöt: 8.4.3, 8.4.4, 8.4.5, 10.1.1, 10.1.3, 23.3.2.4, 28.2.1.3, 28.2.1.7 #label("rule-D4")
 
-  ![Image](../assets/images/rules_diagrams/diagram-4a.png)
+  ![Image](assets/images/rules_diagrams/diagram-4a.png)
 
 ====
 
@@ -2353,7 +1884,7 @@ Niille, jotka ovat lukeneet tähän asti: katsokaa seuraavia sääntöjä hienon
 
   Liittyvät säännöt: 10.1.2, 10.1.2.1, 10.1.2.2
 
-  ![Image](../assets/images/rules_diagrams/diagram-4b.png)
+  ![Image](assets/images/rules_diagrams/diagram-4b.png)
 
 ====
 
@@ -2362,7 +1893,7 @@ Niille, jotka ovat lukeneet tähän asti: katsokaa seuraavia sääntöjä hienon
 
   Liittyvät säännöt: 12.5.1, 12.5.2, 12.6.2.3, 22.3.2.3
 
-  ![Image](../assets/images/rules_diagrams/diagram-5.png)
+  ![Image](assets/images/rules_diagrams/diagram-5.png)
 
 ====
 
@@ -2371,7 +1902,7 @@ Niille, jotka ovat lukeneet tähän asti: katsokaa seuraavia sääntöjä hienon
 
   Liittyvät säännöt: 14.1.3
 
-  ![Image](../assets/images/rules_diagrams/diagram-6.png)
+  ![Image](assets/images/rules_diagrams/diagram-6.png)
 
 ====
 
@@ -2457,7 +1988,7 @@ Niille, jotka ovat lukeneet tähän asti: katsokaa seuraavia sääntöjä hienon
 
   Liittyvät säännöt: 3.3, 21.1, 22.1, 23.1, 26.1, 27.1, 28.1
 
-  ![Image](../assets/images/rules_diagrams/diagram-8.png)
+  ![Image](assets/images/rules_diagrams/diagram-8.png)
 
 ====
 
@@ -2466,14 +1997,14 @@ Niille, jotka ovat lukeneet tähän asti: katsokaa seuraavia sääntöjä hienon
 
   Liittyvät säännöt: 29.1
 
-  ![Image](../assets/images/rules_diagrams/diagram-9-page-58.png)
-  ![Image](../assets/images/rules_diagrams/diagram-9-page-59.png)
-  ![Image](../assets/images/rules_diagrams/diagram-9-page-60.png)
-  ![Image](../assets/images/rules_diagrams/diagram-9-page-61.png)
-  ![Image](../assets/images/rules_diagrams/diagram-9-page-62.png)
-  ![Image](../assets/images/rules_diagrams/diagram-9-page-63.png)
-  ![Image](../assets/images/rules_diagrams/diagram-9-page-64.png)
-  ![Image](../assets/images/rules_diagrams/diagram-9-page-65.png)
+  ![Image](assets/images/rules_diagrams/diagram-9-page-58.png)
+  ![Image](assets/images/rules_diagrams/diagram-9-page-59.png)
+  ![Image](assets/images/rules_diagrams/diagram-9-page-60.png)
+  ![Image](assets/images/rules_diagrams/diagram-9-page-61.png)
+  ![Image](assets/images/rules_diagrams/diagram-9-page-62.png)
+  ![Image](assets/images/rules_diagrams/diagram-9-page-63.png)
+  ![Image](assets/images/rules_diagrams/diagram-9-page-64.png)
+  ![Image](assets/images/rules_diagrams/diagram-9-page-65.png)
 
 ====
 
@@ -2482,8 +2013,8 @@ Niille, jotka ovat lukeneet tähän asti: katsokaa seuraavia sääntöjä hienon
 
   Liittyvät säännöt: 29.2
 
-  ![Image](../assets/images/rules_diagrams/diagram-10-page-66.png)
-  ![Image](../assets/images/rules_diagrams/diagram-10-page-67.png)
+  ![Image](assets/images/rules_diagrams/diagram-10-page-66.png)
+  ![Image](assets/images/rules_diagrams/diagram-10-page-67.png)
 
 ====
 

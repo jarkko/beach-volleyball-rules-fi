@@ -7,7 +7,6 @@
 
 #outline()
 
-#include "guidelines/refereeing-guidelines.typ"
+#include "guidelines/refereeing-guidelines.md"
 #pagebreak()
-#include "guidelines/guidelines-protocols.typ"
-
+#include "guidelines/guidelines-protocols.md"

@@ -24,7 +24,12 @@ def combine_includes(content, base_dir):
             # Pattern 3: "guidelines/refereeing-guidelines.typ" -> "src-rules/guidelines/refereeing-guidelines.md"
 
             include_path_parts = Path(include_rel).parts
-            src_rules_dir = base_dir.parent / 'src-rules' if base_dir.name == 'src-rules' else base_dir
+            # base_dir is typically one of:
+            # - src-rules
+            # - src-rules/guidelines
+            # - src-rules/casebook
+            # We want src_rules_dir to be the src-rules root in all these cases.
+            src_rules_dir = base_dir if base_dir.name == 'src-rules' else base_dir.parent
 
             # Reconstruct path
             if len(include_path_parts) > 1:
@@ -72,12 +77,11 @@ def process_file(input_path, output_path):
     with open(input_path, 'r', encoding='utf-8') as f:
         content = f.read()
 
-    # Remove/show directives that don't translate
+    # Remove show/outline directives that don't translate
+    # Remove full multi-line project metadata blocks (we'll use Pandoc metadata instead)
+    content = re.sub(r'#show:\s*project\.with\([\s\S]*?\)\s*\n', '', content)
     content = re.sub(r'#show:.*?\n', '', content)
     content = re.sub(r'#outline\(\)\n', '', content)
-
-    # Remove project metadata (we'll use Pandoc metadata instead)
-    content = re.sub(r'#show: project\.with\([^)]+\)\n', '', content)
 
     # Combine includes
     content = combine_includes(content, base_dir)

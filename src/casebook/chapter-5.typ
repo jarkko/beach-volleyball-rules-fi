@@ -4,365 +4,373 @@
 
 #case(
   "5.1.1",
-  [How should both referees signal the  following situation? During a match the ball is disputed at the net with a series of quick play actions. It is unclear who touches the ball last. After these actions the ball lands outside the sideline near the 2nd Referee.],
-  [The 2nd Referee should initially and very obviously move into the side of the team committing the fault and using private signals indicate ball in  or out (to assist the 1st referee only). The 1st Referee should observe the line judge and 2nd  Referee’s signal(s) and then signal the team to serve, the nature of the fault and, if necessary, the player at fault. If the 1st Referee decides that the contact  was simultaneous, then the result should be “ball  out”, and the fault is against the team on the opposite side of the net from where the ball  landed. The 1st Referee can indicate the player who last touched the ball in a decisive manner. However, referees must distinguish between simultaneous and “wipe off” actions.],
+  [Miten molempien tuomarien tulisi viittoa seuraavassa tilanteessa? Ottelussa pallo on verkolla kiistanalainen nopeiden pelitilanteiden sarjassa. On epäselvää, kuka koskettaa palloa viimeisenä. Tämän jälkeen pallo putoaa sivurajan ulkopuolelle verkkotuomarin puolelle.],
+  [Verkkotuomarin tulee aluksi ja hyvin selvästi siirtyä sen joukkueen puolelle, joka teki virheen, ja osoittaa yksityismerkein päätuomarille pallo sisällä / pallo ulkona (vain päätuomarin avustamiseksi). Päätuomarin tulee havainnoida rajatuomarin ja verkkotuomarin merkkejä ja sitten näyttää syöttävä joukkue, virheen laatu ja tarvittaessa virheen tehnyt pelaaja. Jos päätuomari katsoo kosketuksen olleen samanaikainen, lopputulos on “pallo ulkona” ja virhe tuomitaan sille joukkueelle, joka on vastakkaisella puolella verkkoa siitä kohdasta, mihin pallo putosi. Päätuomari voi myös osoittaa viimeiseksi palloon koskettanutta pelaajaa päättäväisesti. Tuomareiden on kuitenkin erotettava samanaikainen kosketus ja “wipe off” -tilanne.],
   ("9.1.2.2", "21.2.3.1"),
 )
 
 #case(
   "5.1.2",
-  [If a ball falls outside a boundary line, and the line is not hit, but moves due to the impact of the ball with the sand, should the 1st Referee call this ball as “in“?],
-  [The referee should call this ball “out”. The line moving, although it was not contacted, is very common due to the nature of the court surface and lines. The referee should be able to give the players a precise and correct definition of ball “in” clarifying any misinterpretation. Referees should be aware that the ball may land out, but has struck the line, which is in a raised position, on the way out of court. In this case, since the ball contacts the line, it must be called “in”.],
+  [Jos pallo putoaa rajan ulkopuolelle eikä osu rajaan, mutta raja liikkuu pallon hiekkavaikutuksen vuoksi, tuleeko päätuomarin tuomita pallo “sisälle”?],
+  [Tuomarin tulee tuomita pallo “ulos”. Rajojen liikkuminen ilman kosketusta on hyvin yleistä kentän pinnan ja rajojen luonteesta johtuen. Tuomarin tulee pystyä selittämään pelaajille tarkasti, milloin pallo on “sisällä”, ja oikaista mahdolliset väärinkäsitykset. Tuomareiden tulee myös huomioida, että pallo voi pudota ulos mutta osua koholla olevaan rajaan matkalla kentän ulkopuolelle. Tällöin, koska pallo koskettaa rajaa, se on tuomittava “sisälle”.],
   "8.3",
 )
 
 #case(
   "5.1.3",
-  [When a ball lands near the line, and the 2nd Referee gives a signal to the 1st Referee which is different from the line judge signal, what will be the proper action by the 1st Referee?],
-  [Ideally the 2nd Referee must not assist with a different signal from the line judge unless he/she is 100% sure, and that being the case, then the 1st Referee should follow the 2nd Referee indication. However, the 1st Referee should actually, in sequence: 1)  whistle immediately, then 2) take in all the information from the other officials, then 3) decide, based on what he  / she has seen him/herself 4)  take responsibility for that decision.],
+  [Kun pallo putoaa lähelle rajaa ja verkkotuomari antaa päätuomarille merkin, joka poikkeaa rajatuomarin merkistä, mikä on päätuomarin oikea toimintatapa?],
+  [Ihannetilanteessa verkkotuomarin ei tule avustaa eriävällä merkillä rajatuomariin nähden, ellei hän ole asiasta 100 % varma; ja tällöin päätuomarin tulisi seurata verkkotuomarin näyttöä. Käytännössä päätuomarin tulisi kuitenkin edetä seuraavasti: 1) viheltää välittömästi, 2) kerätä kaikki tieto muilta toimitsijoilta, 3) tehdä päätös ensisijaisesti oman havaintonsa perusteella ja 4) ottaa vastuu päätöksestä.],
   ("8.3", "8.4", "Tuomariohjeet ja -ohjeistukset"),
 )
 
 #case(
   "5.1.4",
-  [A ball comes very close to a line. The line judge signals “out”, yet both referees believe that the ball touched the line. How should both referees deal with this situation? Click Here for Video],
-  [The 2nd Referee should indicate ball “in” (to assist the 1st Referee only). The 1st R eferee must overrule the line judge (signaling the ball as “in”).],
+  [Pallo tulee hyvin lähelle rajaa. Rajatuomari näyttää “ulos”, mutta molemmat tuomarit ovat sitä mieltä, että pallo osui rajaan. Miten tuomarien tulisi toimia? Klikkaa tästä nähdäksesi videon.],
+  [Verkkotuomarin tulee osoittaa pallo “sisällä” (vain päätuomarin avustamiseksi). Päätuomarin on kumottava rajatuomarin näyttö (näyttämällä pallo “sisällä”).],
   "8.3",
 )
 
 #case(
   "5.1.5",
-  [What should the referee do if a ball landed  inside the line, but obviously the line had been  displaced substantially during a previous defending action?],
-  [The 1st Referee should have the line corrected, and then call the ball “in” or “out”, depending on where the ball landed.],
+  [Mitä tuomarin tulisi tehdä, jos pallo putosi rajan sisäpuolelle, mutta raja oli selvästi siirtynyt olennaisesti aiemman puolustustilanteen aikana?],
+  [Päätuomarin tulee korjauttaa raja ja tuomita sitten pallo “sisälle” tai “ulos” sen mukaan, mihin pallo putosi.],
   ("8.3", "8.4", "Tuomariohjeet ja -ohjeistukset"),
 )
 
 #case(
   "5.1.6",
-  [What should the referee do if a ball was played inside the court, touching the side line but obviously the line was minimally displaced during a previous defending action?],
-  [In this case the 1st Referee should call the ball “in”. Small movements of the lines during a rally shall not result in the replacement of the line and a decision would be made with the line in its position at the end of the rally. The exception to this would be if the line would have been displaced at the very last stages of the play.],
+  [Mitä tuomarin tulisi tehdä, jos pallo pelattiin kentän sisäpuolelle ja kosketti sivurajaa, mutta raja oli selvästi siirtynyt vain hieman aiemman puolustustilanteen aikana?],
+  [Tässä tapauksessa päätuomarin tulee tuomita pallo “sisälle”. Pienet rajan liikkeet pallorallin aikana eivät johda rajan asettamiseen uudelleen, ja ratkaisu tehdään rajan ollessa siinä asennossa, jossa se on pallorallin päättyessä. Poikkeus on tilanne, jossa raja olisi siirtynyt aivan pelitilanteen viime hetkillä.],
   ("8.3", "8.4", "Tuomariohjeet ja -ohjeistukset"),
 )
 
 #case(
   "5.1.7",
-  [When a ball crosses the net during service and is blown back, due to strong wind, under the net, coming back on to the sand on the server’s side, what will be the call by the 1st Referee?],
-  [This is a very unusual circumstance. The  receiving team did, however, have the opportunity to play the ball while it was in the space above its playing court, the ball having legally travelled through the crossing space. Therefore, the point should be awarded to the team of the server.],
+  [Kun syötetty pallo ylittää verkon ja voimakas tuuli puhaltaa sen takaisin niin, että pallo kulkee verkon alta ja putoaa takaisin syöttäjän puolelle hiekkaan, mikä on päätuomarin tuomio?],
+  [Tämä on hyvin poikkeuksellinen tilanne. Vastaanottavalla joukkueella oli kuitenkin mahdollisuus pelata pallo sen ollessa sen oman kentän yläpuolella, koska pallo kulki laillisesti ylityskaistan kautta. Siksi piste tulee antaa syöttävän joukkueen hyväksi.],
   ("10.1.1", "12.6.2.1"),
 )
 
 #case(
   "5.1.8",
-  [A team passes the ball partly over the antenna to the opponent court on the side of the 2nd Referee. Must the 2nd Referee whistle?],
-  [Yes, a 2nd Referee has within his/her authority the right and obligation to whistle and signal this fault if this occurs on his/her side of the  court. The line judge should at the same moment use the “wave and point” signal. Notice the difference if the pass travels from the court partly over the antenna to the opponent free zone – no whistle or signal is required here.],
+  [Joukkue pelaa pallon osittain antennin yli vastustajan kentälle verkkotuomarin puolelta. Tuleeko verkkotuomarin viheltää?],
+  [Kyllä. Verkkotuomarilla on toimivaltansa puitteissa oikeus ja velvollisuus viheltää ja näyttää tämä virhe, jos se tapahtuu hänen puolellaan. Rajatuomarin tulee samanaikaisesti näyttää “heilutus ja osoitus” -merkki. Huomaa ero tilanteeseen, jossa pallo pelataan kentältä osittain antennin yli vastustajan vapaa-alueelle – tällöin vihellystä tai merkkiä ei tarvita.],
   ("10.1.2", "23.3.2.4"),
 )
 
 #case(
   "5.2.1",
-  [In a match the ball is played legally by both  teams above the net in a joust (extended contact with the],
-  [The team “A” will serve, because after the joust and the ball goes out, the last contact was made by 16 ball by opponents), and then lands outside the court of Team “A”. Who now has the serve? the team on the opposite side from where the  ball touched the ground.],
+  [Ottelussa molemmat joukkueet pelaavat palloa laillisesti verkon yläpuolella pallonväännössä (joust, pidennetty kosketus vastustajan kanssa), ja pallo putoaa joukkueen A kentän ulkopuolelle. Kumpi joukkue syöttää seuraavaksi?],
+  [Joukkue A syöttää, koska pallonväännön jälkeen, kun pallo menee ulos, viimeinen kosketus on vastustajalla eli sillä joukkueella, joka on vastakkaisella puolella verkkoa siitä kohdasta, mihin pallo putosi.],
   ("9.1.2.2", "9.1.2.3", "9.2.2.2"),
 )
 
 #case(
   "5.3.1",
-  [A player chased the ball out of court, then took support from the score table to return the ball to his partner. The contact with the ball was over the end of the score table which was on the opponent’s side of the net. The 1 st referee took no action and allowed play to continue. Did the player have the right to play the ball from this position?],
-  [Yes. This was a very spectacular action. According to the rule text, the ball may be retrieved from over the complete length of the score table, even the part on the side of the opponent. So this was a legal play and the 1 st referee was correct to allow the rally to continue.],
+  [Pelaaja juoksi pallon perään kentän ulkopuolelle ja otti tukea kirjurinpöydästä voidakseen pelata pallon takaisin parilleen. Kosketus palloon tapahtui kirjurinpöydän sen päädyn yläpuolella, joka oli verkon toisella puolella vastustajan puolella. Päätuomari ei puuttunut tilanteeseen ja antoi pelin jatkua. Oliko pelaajalla oikeus pelata pallo tästä paikasta?],
+  [Kyllä. Tämä oli hyvin näyttävä suoritus. Sääntötekstin mukaan pallo voidaan pelata kirjurinpöydän koko pituuden yläpuolelta, myös siltä osalta, joka on vastustajan puolella. Tämä oli siis laillinen pelitilanne ja päätuomari toimi oikein salliessaan pallorallin jatkua.],
   "9",
 )
 
 #case(
   "5.3.2",
-  [When, in a match, a ball was slightly touched by the player and the 1st referee didn’t see it, what should he/she do anyway to be sure that after this ball 2 or 3 contacts are permitted? Click Here for Video],
-  [The referee should always have eye contact  with his/her 2nd Referee and line judges, to see if they are helping with their signals before making a judgment call.],
+  [Kun ottelussa pelaaja koskettaa palloa hieman ja päätuomari ei näe kosketusta, mitä hänen tulisi tehdä varmistaakseen, että tämän jälkeen sallitaan 2 tai 3 kosketusta? Klikkaa tästä nähdäksesi videon.],
+  [Tuomarin tulee aina pitää katsekontakti verkkotuomariin ja rajatuomareihin, jotta hän näkee mahdolliset avustavat merkit ennen lopullisen tuomion tekemistä.],
   ("14.1.3", "14.4.1"),
 )
 
 #case(
   "5.3.3",
-  [If a referee judges a service ball as a hard driven ball, and allows the receiving player an extended contact overhand with fingers (catch), can the captain of  the serving team complain to the referee?],
-  [Yes, he/she can - the service is a specific exception to the rules that define a hard driven ball. It is illegal to receive a served ball in this way. If the player contacts the ball overhand with fingers, (i.e., setting the ball) this contact must be  clean (not double contact or catch).],
+  [Jos tuomari katsoo syötön olevan “kova pallo” ja sallii vastaanottajalle pitkäkestoisemman kosketuksen sormilyönnillä (koppi), voiko syöttävän joukkueen kapteeni valittaa tuomarille?],
+  [Kyllä. Syöttö on kuitenkin erityispoikkeus sääntöihin, jotka määrittelevät kovan pallon. Syötön vastaanottaminen tällä tavalla on laitonta. Jos pelaaja koskettaa syöttöä sormilyönnillä (eli passaa pallon), kosketuksen on oltava puhdas (ei kaksoiskosketusta eikä koppia).],
   ("9.2.2", "9.2.2.1", "9.2.2.2", "9.2.2.4", "9.3.3", "9.3.4"),
 )
 
 #case(
   "5.3.4",
-  [Can a player complete a set from any  possible position? Click Here for Video],
-  [The referee must consider only the rules. The referee should not consider the player’s position prior to, during or after the set. A player can potentially complete a legal set from any position.],
+  [Voiko pelaaja suorittaa passin mistä tahansa mahdollisesta asennosta? Klikkaa tästä nähdäksesi videon.],
+  [Tuomarin tulee arvioida vain sääntöjä. Tuomarin ei tule huomioida pelaajan asentoa ennen passia, sen aikana tai sen jälkeen. Pelaaja voi periaatteessa suorittaa laillisen passin mistä tahansa asennosta.],
   ("9.2", "Tuomariohjeet ja -ohjeistukset"),
 )
 
 #case(
   "5.3.5",
-  [What should be considered as a hard driven attack ball, coming from the opponent side? Click Here for Video 1 Click Here for Video 2],
-  [The referee should consider if it is a hard driven attack as follows: 1) does the player have time to change his/  her technique? 2) the time and distance between the attack and the defensive action 3) did the speed of the ball change due to a block or hitting the net? 4) is the action offensive or defensive in nature?],
+  [Miten tulee arvioida, onko vastustajan puolelta tuleva pallo “kova hyökkäyslyönti”? Klikkaa tästä nähdäksesi videon 1. Klikkaa tästä nähdäksesi videon 2.],
+  [Tuomarin tulee arvioida, onko kyseessä kova hyökkäyslyönti, seuraavasti: 1) onko pelaajalla aikaa muuttaa tekniikkaansa? 2) aika ja etäisyys hyökkäyksen ja puolustustoiminnan välillä 3) muuttuiko pallon nopeus torjunnan tai verkkoon osumisen vuoksi? 4) onko toiminta luonteeltaan hyökkäävä vai puolustava?],
   "9.2.2.1",
 )
 
 #case(
   "5.3.6",
-  [Is it allowed for a player to play a hard driven defence ball, if the ball is slightly touched by the block, without the speed or direction of the ball being altered?],
-  [Yes. Although this contact is the second contact of the team, it is legal to play the ball in this way.  The referee must be sure that the ball still satisfies  the criteria of a hard driven ball especially regarding the time the defensive player has to change his/  her technique of playing the ball.],
+  [Onko pelaajan sallittua puolustaa kovaa palloa, jos pallo käy kevyesti torjunnassa ilman että pallon nopeus tai suunta muuttuu?],
+  [Kyllä. Vaikka tämä kosketus on joukkueen toinen kosketus, pallo on laillista pelata tällä tavalla. Tuomarin on kuitenkin varmistuttava siitä, että pallo täyttää edelleen kovan pallon kriteerit, erityisesti sen osalta, oliko puolustajalla aikaa muuttaa pallon pelaamisen tekniikkaansa.],
   ("9.2.2.1", "9.2.3.2", "9.3.3", "9.3.4"),
 )
 
 #case(
   "5.3.7",
-  [Is it allowed for a player to play a hard driven defence ball, if the ball touched the top of the net and the speed of the ball was significantly reduced?],
-  [No. Because in this situation the ball has substantially changed its speed and therefore the ball is now not hard driven, so it is a CATCH fault.],
+  [Onko pelaajan sallittua puolustaa kovaa palloa, jos pallo osui verkon yläosaan ja pallon nopeus hidastui merkittävästi?],
+  [Ei. Tässä tilanteessa pallo on muuttanut nopeuttaan olennaisesti eikä se ole enää kova pallo, joten kyseessä on koppivirhe.],
   ("9.2.2.1", "9.3.3"),
 )
 
 #case(
   "5.3.8",
-  [Because of heavy wind, the players are attacking the ball in standing position. Is it allowed to defend these attacks with the hard driven ball defence manner? (i.e., slightly extended contact, overhand with fingers)],
-  [The 1st Referee must particularly focus on the time the player had to change his/ her technique in playing the ball. Did he/she have enough time to change the technique from being defensive to being offensive? In this way it is a matter for the referee to consider time and distance. It is not relevant if the player hit the  ball as hard as he/she could or used unusual techniques.],
+  [Kovan tuulen vuoksi pelaajat hyökkäävät palloa seisten. Onko näitä hyökkäyksiä sallittua puolustaa “kovan pallon puolustuksena” (eli hetkellisesti pitkäkestoisella sormilyöntikosketuksella)?],
+  [Päätuomarin tulee kiinnittää erityistä huomiota siihen, kuinka paljon aikaa pelaajalla oli muuttaa tekniikkaansa pallon pelaamisessa. Oliko hänellä riittävästi aikaa muuttaa tekniikka puolustavasta hyökkääväksi? Tällöin tuomarin on arvioitava aikaa ja etäisyyttä. Ei ole merkityksellistä, löikö pelaaja palloa niin kovaa kuin pystyi tai käyttikö hän epätavallisia tekniikoita.],
   "9.2.2.1",
 )
 
 #case(
   "5.3.9",
-  [In setting, what factors should the 1st Referee look at if the player is using a technique that involves a long and protracted contact time (CATCH) with the hands? Click Here for Video],
-  [The referee should consider how clean the  contact was. Were the hands  / fingers simultaneous in contacting the ball, and was the ball played  with one quick motion - i.e., not visibly resting in the player's hands - or was the player using a technique that involved a long and protracted contact time (CATCH) with the    hands?],
+  [Passissa, mitä tekijöitä päätuomarin tulisi tarkkailla, jos pelaaja käyttää tekniikkaa, jossa pallon kosketusaika käsissä on pitkä (koppi)? Klikkaa tästä nähdäksesi videon.],
+  [Tuomarin tulee arvioida, kuinka puhdas kosketus oli. Koskettivatko kädet/sormet palloa samanaikaisesti ja pelattiinko pallo yhdellä nopealla liikkeellä – eli pallo ei näkyvästi “levännyt” pelaajan käsissä – vai käyttikö pelaaja tekniikkaa, jossa kosketusaika käsissä oli pitkä (koppi)?],
   ("9.3.3", "9.3.4", "Tuomariohjeet ja -ohjeistukset"),
 )
 
 #case(
   "5.3.10",
-  [If a player is playing the ball in a specific way - by utilizing a defensive technique on a hard driven ball, with open outstretched forearms and with fingers pointing downwards to the ground on both hands - and extends his/her hand contact with the ball momentarily (i.e. there is no REBOUND from the hands), should the 1st referee consider this as a “Catch”?],
-  [Yes. With the possible exception of setting overhand with fingers, Volleyball hits involve a rebound from the contact point. The action described in the case will create a hit which is not a rebound, because this technique involves both wrists being invert ed (thus fingers pointing downwards to the ground, palms upwards and thumbs facing sideways – which the rules specifically regard as illegal) the referee should consider this as a CATCH.],
+  [Jos pelaaja pelaa palloa tietyllä tavalla – käyttäen kovaa palloa vastaan puolustustekniikkaa, jossa käsivarret ovat auki ja ojennettuina ja sormet osoittavat alaspäin kohti maata molemmissa käsissä – ja hän hetkellisesti pidentää käsikosketusta palloon (eli käsistä ei tapahdu heijastusta), tuleeko päätuomarin katsoa tämä “kopiksi”?],
+  [Kyllä. Mahdollista sormilyöntipassia lukuun ottamatta lentopallon lyönteihin kuuluu heijastus kosketuskohdasta. Tässä kuvattu toiminta tuottaa lyönnin, joka ei ole heijastus, koska tekniikassa molemmat ranteet ovat “käännettyinä” (sormet alaspäin kohti maata, kämmenet ylöspäin ja peukalot sivuille), minkä säännöt katsovat nimenomaisesti laittomaksi. Tuomarin tulee katsoa tämä koppivirheeksi.],
   ("9.2.2.1", "9.3.3"),
 )
 
 #case(
   "5.3.11",
-  [During a joust, can the ball’s direction change while],
-  [Yes, it is legal within a joust (extended ball contact) 18 both players are in contact with the ball? for the ball’s direction to change  due to the forces applied by the opponents’ hands. Play continues afterwards.],
+  [Voiko pallon suunta muuttua pallonväännössä (joust), kun molemmat pelaajat ovat kosketuksessa palloon?],
+  [Kyllä. Pallonväännössä (pidennetty pallokosketus) on laillista, että pallon suunta muuttuu vastustajien käsien kohdistamien voimien seurauksena. Peli jatkuu tämän jälkeen.],
   "9.1.2.3",
 )
 
 #case(
   "5.3.12",
-  [Is it allowed to play a ball as a hard driven ball ( i.e., by momentary extended contact with hands) if the ball is coming from the opponent’s block?],
-  [Yes. This is legal if satisfying the requirements of  a hard driven ball defence. The ball rebounding or being deflected off the block is considered like an attack hit and in this case the ball contact with the hands may be slightly extended.],
+  [Onko sallittua pelata pallo “kovana pallona” (eli hetkellisesti pitkäkestoisella käsikosketuksella), jos pallo tulee vastustajan torjunnasta?],
+  [Kyllä. Tämä on laillista, jos kovan pallon puolustuksen edellytykset täyttyvät. Torjunnasta kimmonnut tai torjunnasta muuttunut pallo katsotaan hyökkäyslyönnin kaltaiseksi, ja tällöin pallon kosketus käsillä voi olla hieman pitkäkestoinen.],
   "9.2.2.1",
 )
 
 #case(
   "5.4.1",
-  [If the service takes the ball “over” the antenna, on the side of the 2nd  Referee, should he/she whistle this ball?],
-  [This is a situation where the 2nd Referee must blow his / her whistle, as play cannot legally continue (the ball must pass completely between the antennae after a serve) and it lies within the jurisdiction of the 2nd Referee because it happens on his/ her side of the court, signaling OUT. Active and competent line judges play an important role in such plays, giving a “wave and point” signal.],
+  [Jos syöttö vie pallon “antennin yli” verkkotuomarin puolella, tuleeko verkkotuomarin viheltää?],
+  [Tässä tilanteessa verkkotuomarin tulee viheltää, koska peli ei voi jatkua laillisesti (syötön jälkeen pallon on kuljettava kokonaan antennien välistä) ja tilanne kuuluu verkkotuomarin toimivaltaan, koska se tapahtuu hänen puolellaan kenttää. Näytetään pallo ulkona. Aktiiviset ja osaavat rajatuomarit ovat tärkeässä roolissa tällaisissa tilanteissa näyttäen “heilutus ja osoitus” -merkin.],
   ("10.1.1.2", "23.3.2.4"),
 )
 
 #case(
   "5.4.2",
-  [When the ball was completely above the court of team A, it was attacked by the team A player. Simultaneous with this, the opponent blocker also contacted the ball. Is this a blocking fault? Click Here for Video 1 Click Here for Video 2 Click Here for Video 3 Click Here for Video 4 Click Here for Video 5],
-  [This is not a fault of either player. It would be a fault if the blocker had contacted the ball first, however. It is important to appreciate that this ruling only applies to attack-block simultaneous actions. Had the team A player been setting the ball, on the other hand, because the ball was completely in the space of team A, the blocker would have been at fault for “reaching beyond the net” to intercept an internal pass.],
+  [Kun pallo on kokonaan joukkueen A kentän yläpuolella, joukkueen A pelaaja lyö sen hyökkäyksenä. Samanaikaisesti myös vastustajan torjuja koskettaa palloa. Onko tämä torjuntavirhe? Klikkaa tästä nähdäksesi videon 1. Klikkaa tästä nähdäksesi videon 2. Klikkaa tästä nähdäksesi videon 3. Klikkaa tästä nähdäksesi videon 4. Klikkaa tästä nähdäksesi videon 5.],
+  [Kummankaan pelaajan toiminta ei ole virhe. Virhe olisi, jos torjuja olisi koskettanut palloa ensin. On tärkeää ymmärtää, että tämä ratkaisu koskee vain samanaikaisia hyökkäys–torjunta -tilanteita. Jos joukkueen A pelaaja olisi sen sijaan passannut palloa, koska pallo oli kokonaan joukkueen A tilassa, torjuja olisi tehnyt virheen “verkon yli kurottautumisesta” siepatessaan joukkueen A sisäisen passin.],
   "14.3",
 )
 
 #case(
   "5.5.1",
-  [If the attacking player lands, hits an opponent in his own playing court and space, causing the opponent to contact the lower part of the net, should the 2nd Referee whistle for interference?],
-  [This is clearly interference, so the attacking player should be whistled. The signal is simply to indicate the offending player.],
+  [Jos hyökkäävä pelaaja laskeutuu ja osuu vastustajaan vastustajan omalla kenttäpuoliskolla ja tilassa, ja tämä aiheuttaa vastustajalle kosketuksen verkon alaosaan, tuleeko verkkotuomarin viheltää häirintä?],
+  [Tämä on selkeä häirintä, joten hyökkäävälle pelaajalle tuomitaan virhe. Käsimerkkinä osoitetaan yksinkertaisesti virheen tehnyttä pelaajaa.],
   ("11.2.1", "11.3.1", "11.4.2", "11.4.3", "Tuomariohjeet ja -ohjeistukset"),
 )
 
 #case(
   "5.5.2",
-  [If a player after a spectacular diving action is lying],
-  [Yes, even though no contact has occurred. It is a 19 in the opponent’s court, and the blocker on that side stops because jumping will bring him into the path of the player lying on the sand, should this be called interference? fault if the player, through contact or the threat of contact, prevents a player from making a play on the ball, when they in the referee’s judgment would have been able to play this subsequent shot. The blocking player has been prevented by the opponent player’s position from playing the ball],
+  [Jos pelaaja näyttävän sukelluksen jälkeen makaa vastustajan kentällä ja vastustajan torjuja lopettaa, koska hyppääminen toisi hänet makuulla olevan pelaajan “reitille”, tuleeko tämä tuomita häirinnäksi?],
+  [Kyllä, vaikka fyysistä kontaktia ei tapahtuisikaan. Virhe on, jos pelaaja kontaktilla tai kontaktin uhalla estää vastustajaa pelaamasta palloa tilanteessa, jossa vastustaja tuomarin arvion mukaan olisi voinut pelata tämän seuraavan pallon. Torjuva pelaaja on estetty pelaamasta palloa vastustajan pelaajan sijainnin vuoksi.],
   ("11.2.1", "11.4.2", "11.4.3", "Tuomariohjeet ja -ohjeistukset"),
 )
 
 #case(
   "5.5.3",
-  [If a player, after attacking a ball, comes underneath the net and slightly touches the blocker, is this considered as interference? Click Here for Video],
-  [This depends only on whether the blocker was in  a position that his ability to play the next ball was reduced.],
+  [Jos pelaaja hyökkäyksen jälkeen tulee verkon alta vastustajan puolelle ja koskettaa hieman torjujaa, katsotaanko tämä häirinnäksi? Klikkaa tästä nähdäksesi videon.],
+  [Tämä riippuu siitä, oliko torjuja sellaisessa asemassa, että hänen kykynsä pelata seuraavaa palloa heikkeni.],
   ("11.1.2", "11.2.1", "11.4.2", "Tuomariohjeet ja -ohjeistukset"),
 )
 
 #case(
   "5.5.4",
-  [If a ball is passed by player A outside the antenna on the side of the 2nd Referee and his/her teammate, coming under the net to try to retrieve the ball, is deliberately obstructed by the player on the opponent side, should the 2nd Referee whistle this action as interference? Click Here for Video],
-  [Yes. This is a form of interference even if a physical contact has not occurred. It is illegal for a player, to substantially alter his/ her position in order to prevent the opponents from making a legitimate play on the ball. The other way around, despite at Beach Volleyball a player being allowed to run through the opponent's court to retrieve balls at the opponent's free zone regardless his/her full awareness on how the ball travelled the crossing space, that player, in the case the ball travelled inside the crossing space will be accountable for possible interference with the opponents’ ability to play the ball , i.e.: the case where the opponent player would be inhibited from even making a decision whether or not to play the ball...so preventing proper decision making. This might be a valid basis for calling it interference.],
+  [Kun pelaaja A pelaa pallon antennin ulkopuolelta verkkotuomarin puolella ja hänen parinsa tulee verkon alta yrittääkseen pelata pallon takaisin, mutta vastustajan pelaaja estää tätä tarkoituksellisesti, tuleeko verkkotuomarin viheltää häirintä? Klikkaa tästä nähdäksesi videon.],
+  [Kyllä. Tämä on häirinnän muoto, vaikka fyysistä kontaktia ei tapahtuisi. Pelaajan on laitonta muuttaa merkittävästi asemaansa estääkseen vastustajia tekemästä laillista pelitoimintaa palloon.
+
+    Toisin päin: vaikka beach volleyssa pelaaja saa juosta vastustajan kentän läpi hakeakseen palloa vastustajan vapaa-alueelta riippumatta siitä, tiedostaako hän täysin miten pallo kulki ylityskaistan, tämä pelaaja on vastuussa mahdollisesta häirinnästä vastustajan kykyyn pelata palloa silloin, kun pallo kulki ylityskaistan sisällä – esimerkiksi tilanteessa, jossa vastustajan pelaaja estyy edes tekemästä päätöstä pelaako palloa vai ei, eli häiriö estää asianmukaisen päätöksenteon. Tämä voi olla perusteltu pohja häirinnän tuomitsemiselle.],
   ("10.1.2", "10.1.2.1", "11.4.3", "Tuomariohjeet ja -ohjeistukset"),
 )
 
 #case(
   "5.5.5",
-  [After a block, the blocker (Team B)  falls on the sand, partially on the opponent side (Team A). The ball, hitting the net a n d  e n t e r i n g  t h e  s p a c e o f  T e a m  A after the block, falls on the blocker, still lying on the side of the opponent. The attacking team had no chance of playing this ball. Is this called interference?],
-  [Interference would only occur if the blocking player lying in the ground would hinder an  opponent’s legitimate attempt to play the ball. As this was not the case here, the referee should treat this ball as if it had landed on the ground, with the blocking team consequently and correctly winning the rally.],
+  [Torjunnan jälkeen torjuja (joukkue B) kaatuu hiekkaan osittain vastustajan puolelle (joukkue A). Pallo osuu verkkoon ja torjunnan jälkeen siirtyy joukkueen A tilaan, ja putoaa torjujan päälle tämän ollessa edelleen vastustajan puolella. Hyökkäävällä joukkueella ei ollut mahdollisuutta pelata palloa. Tuomitaanko tämä häirinnäksi?],
+  [Häirintä olisi kyseessä vain, jos maassa makaava torjuva pelaaja estäisi vastustajan laillisen yrityksen pelata palloa. Koska näin ei ollut tässä tapauksessa, tuomarin tulee käsitellä palloa ikään kuin se olisi pudonnut maahan, jolloin torjuva joukkue voittaa pallorallin oikein.],
   ("11.2.1", "11.4.3"),
 )
 
 #case(
   "5.5.6",
-  [When a ball was played between the antennae going to  the opponent’s (Team B’s)  fre e  zo n e and a player, trying to go to this ball to play it, was obstructed by the opponent, should the 1st Referee see this as interference?],
-  [No, the overriding consideration must be that the team (Team A) directing the ball towards the opponent’s side does not have a legal play on the ball because the ball passed completely between the antennae and so only the Team B players may 20 play the ball. Should the Team A player actually contact the ball in this case, the 1st Referee must immediately whistle a fault.],
+  [Kun pallo pelataan antennien välistä kohti vastustajan (joukkue B:n) vapaa-aluetta ja pelaaja, joka yrittää mennä pelaamaan palloa, estetään vastustajan toimesta, tuleeko päätuomarin katsoa tätä häirinnäksi?],
+  [Ei. Ratkaisevaa on, että joukkueella (joukkue A), joka ohjasi pallon kohti vastustajan puolta, ei ole laillista pelitoimintaa palloon, koska pallo kulki kokonaan antennien välistä ja näin ollen vain joukkue B:n pelaajat saavat pelata palloa. Jos joukkueen A pelaaja kuitenkin koskettaisi palloa tässä tilanteessa, päätuomarin on vihellettävä välittömästi virhe.],
   ("10.1.1", "13.1.2"),
 )
 
 #case(
   "5.5.7",
-  [In a match one player close to the 1st  Referee crossed under the net to the opponent’s court whilst trying to recover a ball that had passed the vertical plane of the net through the crossing space. The opponent player whilst playing the ball in his/her defensive action was contacted by the player who came under the   net.  What should   the referee   do?   And what should he do if in a similar situation the ball was crossing the vertical plane of the net outside the crossing space?],
-  [In this scenario there was always interference involved – by the player who was crossing underneath the net, if the ball was going through the crossing space. If the ball crossed outside the  crossing space, then the defensive player had no right to play the ball and should be called for interference.],
+  [Ottelussa päätuomarin puolella oleva pelaaja tulee verkon ali vastustajan kentälle yrittäessään pelata takaisin palloa, joka ylitti verkon pystytason ylityskaistan kautta. Vastustajan pelaajaa, joka puolusti palloa, kosketetaan tämän verkon ali tulleen pelaajan toimesta. Mitä tuomarin tulee tehdä? Ja mitä tulee tehdä, jos vastaavassa tilanteessa pallo ylittäisi verkon pystytason ylityskaistan ulkopuolella?],
+  [Tässä tilanteessa on aina häirintä: ylityskaistan kautta kulkeneessa pallossa häirinnän tekee verkon ali tullut pelaaja. Jos pallo ylittäisi ylityskaistan ulkopuolelta, puolustavalla pelaajalla ei olisi oikeutta pelata palloa ja hänelle tulisi tuomita häirintä.],
   "11.4.3",
 )
 
 #case(
   "5.5.8",
-  [When a player is moving his/her hand(s) close to the net on their side deliberately altering the rebound of the ball, is this permitted? Click Here for Video],
-  [No. This is a fault and is a form of interference. It is penalized as a net touch, as the player is considered to have touched the net, not the net touching the player. The referee must clearly see that the player has deliberately altered his/her position in order to initiate this contact through the net, creating an advantage.],
+  [Kun pelaaja liikuttaa käsiään verkon lähellä omalla puolellaan muuttaakseen tarkoituksellisesti pallon kimmoamista, onko tämä sallittua? Klikkaa tästä nähdäksesi videon.],
+  [Ei. Tämä on virhe ja häirinnän muoto. Se rangaistaan verkkokosketuksena, koska pelaajan katsotaan koskettaneen verkkoa (ei verkon koskettaneen pelaajaa). Tuomarin tulee nähdä selvästi, että pelaaja on tarkoituksellisesti muuttanut asemaansa aloittaakseen tämän kontaktin verkon läpi ja saadakseen etua.],
   "11.4.3",
 )
 
 #case(
   "5.5.9",
-  [The ball hits the top of the net, causing the net to touch the blocking player. The 2nd Referee blows the fault of the blocking player. After that the ball goes out on the side of the attacking player. The 1st Referee   is in doubt about the decision of the 2nd Referee and calls a replay. Can a captain ask for a Protest?],
-  [After receiving the explanation, a captain can always ask the 1st Referee for a Protest. However, it is the 1 s tReferee who must determine whether the protest is legitimate by considering the criteria under which a protest can be lodged before initiating the Protest Protocol.],
+  [Pallo osuu verkon yläosaan, jolloin verkko koskettaa torjuvaa pelaajaa. Verkkotuomari viheltää torjuvan pelaajan virheen. Tämän jälkeen pallo menee ulos hyökkäävän joukkueen puolella. Päätuomari epäröi verkkotuomarin päätöstä ja määrää pallorallin pelattavaksi uudelleen. Voiko kapteeni pyytää vastalauseen?],
+  [Saatuaan selityksen kapteeni voi aina pyytää päätuomarilta vastalausetta. Päätuomarin on kuitenkin ennen vastalauseprotokollan käynnistämistä määritettävä, onko vastalause oikeutettu, harkitsemalla kriteereitä, joiden perusteella vastalause voidaan jättää.],
   ("8.2", "12.3.3"),
 )
 
 #case(
   "5.5.10",
-  [A ball was blocked straight down. Before the ball landed on the opponent’s court, the ball  touched the leg of the middle blocker, who was already standing on the sand without the intention of kicking the ball. If there was no leg hit, the ball would have landed clearly on th e sand on team B’s side. Can the middle blocker’s leg touch be considered as an interference to the opponent’s play?],
-  [No. Because the middle blocker’s leg  touch was unintentional and he already stood on the sand, he made no mistake. However, if the contact was well above the sand, and there was an opponent player with a potential play on the ball, then this is interference.],
+  [Pallo torjutaan suoraan alaspäin. Ennen kuin pallo putoaa vastustajan kentälle, se osuu keskitajuojan jalkaan, kun torjuja on jo seissyt hiekassa ilman aikomusta potkaista palloa. Jos jalkaan ei olisi osunut, pallo olisi pudonnut selvästi hiekkaan joukkueen B puolella. Voidaanko keskitajuojan jalkakosketus katsoa häirinnäksi vastustajan peliin?],
+  [Ei. Koska keskitajuojan jalkakosketus oli tahaton ja hän seisoi jo hiekassa, hän ei tehnyt virhettä. Jos kosketus olisi kuitenkin tapahtunut selvästi hiekasta irti ja vastustajalla olisi ollut mahdollinen pelitoiminta palloon, kyse olisi häirinnästä.],
   "11.2.1",
 )
 
 #case(
   "5.5.11",
-  [After a dig by team A the ball went high around the antenna and it was supposed to land close to the sideline. It was difficult to determine if the path was within the crossing space or over the antenna. A player from team A was running under the net to replay the ball. Meanwhile a player from team B was also read y to play close to the sideline. However, the 2 players almost collided with each other, the player of team B played the ball successfully and the rally continued. How should it be determined if a fault has been committed and in this case which player was at fault? Click Here for Video],
-  [The crucial point is the trajectory of the ball. If the ball clearly passed the net plane within the antennae, i.e., through the crossing space, team A had no right to play it back . It means the running player of team A interfered with the opponent’s play and made a fault regardless, if the opponent successfully hit the ball. If the ball clearly passed the net plane over or outside the antennae, i.e., partly or totally outside of the crossing space, team A had the right to play it back. In this case the team B’s player interfered with the opponent’s play and made a fault regardless of whether the opponent successfully hit the ball. If the ball’s trajectory was in doubt, and neither referees, nor line judges could determine this, both players may legally think, that their action to try to play the ball is legal.  It is impossible to determine the faulty player. In such a situation it is worth not stopping the rally.],
+  [Joukkueen A puolustuksen jälkeen pallo nousee korkealle antennin “ympärille” ja sen oletetaan putoavan lähelle sivurajaa. On vaikea arvioida, kulkiko pallo ylityskaistan sisällä vai antennin yli. Joukkueen A pelaaja juoksee verkon ali pelatakseen pallon takaisin. Samaan aikaan joukkueen B pelaaja on myös valmiina pelaamaan palloa lähellä sivurajaa. Pelaajat ovat lähellä törmätä toisiinsa, mutta joukkueen B pelaaja pelaa pallon onnistuneesti ja palloralli jatkuu. Miten määritetään, onko virhe tapahtunut ja kumman pelaajan virhe se on? Klikkaa tästä nähdäksesi videon.],
+  [Ratkaiseva tekijä on pallon lentorata. Jos pallo ylitti verkon pystytason selvästi antennien välistä eli ylityskaistan kautta, joukkueella A ei ollut oikeutta pelata palloa takaisin. Tällöin juokseva joukkueen A pelaaja häiritsi vastustajan peliä ja teki virheen riippumatta siitä, onnistuiko vastustaja pelaamaan pallon.
+
+    Jos pallo ylitti verkon pystytason selvästi antennien yli tai antennien ulkopuolelta, eli osittain tai kokonaan ylityskaistan ulkopuolelta, joukkueella A oli oikeus pelata se takaisin. Tällöin joukkueen B pelaaja häiritsi vastustajan peliä ja teki virheen riippumatta siitä, onnistuiko vastustaja pelaamaan pallon.
+
+    Jos pallon lentorata jäi epäselväksi eikä kumpikaan tuomareista tai rajatuomareista pystynyt sitä määrittämään, molemmat pelaajat voivat laillisesti ajatella, että heidän yrityksensä pelata palloa on laillinen. Virheen tehnyttä pelaajaa on mahdotonta määrittää. Tällaisessa tilanteessa on usein perusteltua olla pysäyttämättä pallorallia.],
   ("10.1", "11.2", "11.4.2"),
 )
 
 #case(
   "5.6.1",
-  [Is it allowed for a player to be ready for service, standing outside the extension of the side lines?],
-  [Yes. A player can be authorized to serve even though he/ she is outside the extension of the sidelines. The criteria the 1st Referee should apply before authorization for serve should be if: 1) all other players and officials are ready. 2) the serving player is in possession of the ball. 3) the player to serve is correct according to the service order.],
+  [Onko pelaajan sallittua olla valmiina syöttämään seisten sivurajojen jatkeiden ulkopuolella?],
+  [Kyllä. Pelaajalle voidaan antaa syöttölupa, vaikka hän/seisoisi sivurajojen jatkeiden ulkopuolella. Päätuomarin tulee soveltaa syöttöluvan antamisessa seuraavia kriteereitä: 1) kaikki muut pelaajat ja toimitsijat ovat valmiina, 2) syöttävällä pelaajalla on pallo hallussaan ja 3) syöttävä pelaaja on oikea syöttöjärjestyksen mukaisesti.],
   "12.3",
 )
 
 #case(
   "5.6.2",
-  [At the start of the 2nd set the wrong team is executing the service. And after the rally, the 2nd],
-  [The set should be restarted. If a wrong player serves and the rally is completed 22 Referee and  the scorer, as well as both teams acknowledge that indeed the wrong team took the service, what should the 1st  Referee do in such a case? a team can only maintain any points gained if the correct team was serving (not as in this case  the incorrect team).],
+  [
+    2. erän alussa väärä joukkue syöttää. Pallorallin jälkeen verkkotuomari ja kirjuri sekä molemmat joukkueet vahvistavat, että väärä joukkue tosiasiassa syötti. Mitä päätuomarin tulee tehdä?
+  ],
+  [Erä tulee aloittaa uudelleen. Jos väärä pelaaja syöttää ja palloralli on pelattu loppuun, joukkue voi säilyttää saamansa pisteet vain, jos oikea joukkue oli syöttövuorossa (ei kuten tässä tapauksessa, jossa syöttövuorossa oli väärä joukkue).],
   "12.1.1",
 )
 
 #case(
   "5.6.3",
-  [What should the 1st  Referee do if, after the  server tosses the ball in the air, it slightly contacts  the overhead boom camera?],
-  [The referee should call a replay and  re-authorize service. There has been external interference to the service. The server could be requested to move  his/her position slightly to solve the problem or to wait for a short time for the camera to move.],
+  [Mitä päätuomarin tulee tehdä, jos syöttäjän heitettyä pallon ilmaan pallo koskettaa kevyesti yläpuolella olevaa puomikameraa?],
+  [Tuomarin tulee määrätä palloralli pelattavaksi uudelleen ja antaa syöttölupa uudelleen. Syöttöön on tullut ulkopuolinen häiriö. Syöttäjää voidaan pyytää siirtämään hieman paikkaansa ongelman ratkaisemiseksi tai odottamaan hetki, että kamera liikkuu.],
   ("12.3", "17.2"),
 )
 
 #case(
   "5.6.4",
-  [When a player is serving with one foot close to the end line, and pushes some sand causing the line to move, is the 1st Referee entitled to call a foot fault? Click Here for Video],
-  [This situation can easily lead to a 1st Referee error. The 1st Referee is at a higher position (being on the referee’s stand) and a long distance from the potential fault. The line may move due to  sand pushing the line. Although no fault has  been committed, this may look like a fault.],
+  [Kun pelaaja syöttää toinen jalka lähellä päätyrajaa ja työntää hiekkaa niin, että raja liikkuu, onko päätuomarilla oikeus tuomita jalkavirhe? Klikkaa tästä nähdäksesi videon.],
+  [Tämä tilanne voi helposti johtaa päätuomarin virheeseen. Päätuomari on korkealla tuomaritornissa ja kaukana mahdollisesta virheestä. Raja voi liikkua, koska hiekka työntää rajaa. Vaikka virhettä ei ole tapahtunut, tilanne voi näyttää virheeltä.],
   "12.4.3",
 )
 
 #case(
   "5.6.5",
-  [Is dropping a ball , immediately after the authorization of the service, considered as a service fault? Click Here for Video],
-  [No. If a player has not released the ball (tossed), with the intention of initiating a service, he/she should be authorized to initiate the serving routine again. A referee must understand that players have many unique serving action techniques that may involve the ball actually leaving the players hands ( e.g., from one hand to another, spinning, etc .) before the final toss for initiating service.],
+  [Onko pallon pudottaminen välittömästi syöttöluvan jälkeen syöttövirhe? Klikkaa tästä nähdäksesi videon.],
+  [Ei. Jos pelaaja ei ole vapauttanut palloa (heittänyt sitä) syötön aloittamistarkoituksessa, hänelle tulee antaa lupa aloittaa syöttörutiini uudelleen. Tuomarin on ymmärrettävä, että pelaajilla on monia yksilöllisiä syöttörutiineja, joissa pallo voi hetkellisesti irrota pelaajan käsistä (esim. kädestä toiseen siirtäminen, pallon pyörittäminen jne.) ennen lopullista heittoa syötön suorittamiseksi.],
   ("12.4.1", "12.4.2"),
 )
 
 #case(
   "5.6.6",
-  [When a player hesitates in executing the  service, should the 1st Referee whistle after 5 seconds and give the ball to the opponents?],
-  [The referee must consider the player’s normal service routine. Has the player clearly seen the service authorization (or heard the whistle) or is the player clearly intending to delay the service.],
+  [Kun pelaaja epäröi syötön suorittamisessa, tuleeko päätuomarin viheltää 5 sekunnin jälkeen ja antaa pallo vastustajille?],
+  [Tuomarin tulee huomioida pelaajan normaali syöttörutiini. Onko pelaaja selvästi nähnyt syöttöluvan (tai kuullut vihellyksen), vai onko hän selvästi aikeissa viivyttää syöttöä.],
   "12.4.4",
 )
 
 #case(
   "5.6.7",
-  [After having been authorized to serve, th e player drops the ball during the action of preparing to toss the ball for service. The 1st R eferee observed that the ball  was partly wet due to contact with the player’s wet top.  In this case, is the 1st Referee allowed to replace the ball?],
-  [Yes. The 1st Referee has clearly considered  the following in making this decision: That there was no deliberate attempt to delay  the game. 1) that the action of dropping the ball was accidental and was not an intentional tactic to delay. 23 2) the spirit of the rules of the game. 3) to ensure that normal playing conditions  are maintained a new ball should be utilised. This  may involve the wet ball being replaced.],
+  [Syöttöluvan saatuaan pelaaja pudottaa pallon valmistautuessaan heittämään palloa syöttöä varten. Päätuomari huomaa, että pallo oli osittain märkä pelaajan märän pelipaidan kosketuksesta. Onko päätuomarin sallittua vaihtaa pallo?],
+  [Kyllä. Päätuomarin tulee päätöksessään huomioida selvästi seuraavat asiat: ettei kyseessä ollut tahallinen yritys viivyttää peliä. 1) pallon pudottaminen oli vahinko eikä tarkoituksellinen viivytystaktiikka, 2) sääntöjen henki ja 3) jotta normaalit peliolosuhteet säilyvät, tulee käyttää uutta palloa. Tämä voi tarkoittaa märän pallon vaihtamista.],
   "3.1",
 )
 
 #case(
   "5.6.8",
-  [If a player serves from a position outside  the extensions of the side -lines, what is the official signal for this fault?],
-  [The correct signal would be signal 22, indicating that the server touched the ground outside the  service zone. This is done by pointing to the ground in  the extension of the line that the player has  served outside.],
+  [Jos pelaaja syöttää sivurajojen jatkeiden ulkopuolelta, mikä on virheen virallinen käsimerkki?],
+  [Oikea käsimerkki on merkki 22, joka osoittaa, että syöttäjä kosketti maata aloitusalueen ulkopuolella. Tämä tehdään osoittamalla maahan siinä rajan jatkeessa, jonka ulkopuolelta pelaaja syötti.],
   ("12.4.3", "Signal 12"),
 )
 
 #case(
   "5.6.9",
-  [Serving the ball from the hand, could seem like the ball was not released at the moment of the execution of the serve. Should the referee call this ball?],
-  [Not necessarily, because players often release the ball fractionally before contact by the other hand.],
+  [Kun syöttö lyödään kädestä, voi näyttää siltä, ettei pallo irronnut kädestä syöttösuorituksen hetkellä. Tuleeko tuomarin viheltää tästä virhe?],
+  [Ei välttämättä, koska pelaajat usein vapauttavat pallon aivan hieman ennen toisen käden osumista palloon.],
   "12.4.1",
 )
 
 #case(
   "5.6.10",
-  [Can the 1st  Referee, before the start of the next rally, reconsider his/her previous decision; for example, if a line judge signaled a foot fault of the server and the 1st referee at the appropriate time didn’t see the signaling of this Line Judge?],
-  [Yes. He/she must follow a correct sequence of events to make a final decision by clarifying with the line judge the nature of their signal. However, at the time immediately after the service it good technique for the 1st Referee to check momentarily for any possible signal from  the respective line judges.],
+  [Voiko päätuomari ennen seuraavan pallorallin alkua muuttaa edellisen päätöksensä, esimerkiksi jos rajatuomari näytti syöttäjän jalkavirhettä eikä päätuomari nähnyt rajatuomarin näyttöä oikealla hetkellä?],
+  [Kyllä. Päätöksen tekemiseksi hänen on noudatettava oikeaa tapahtumajärjestystä ja varmistettava rajatuomarilta näytön sisältö. Lisäksi syötön jälkeen on hyvä tuomarointitekniikka, että päätuomari tarkistaa lyhyesti mahdolliset näytöt asianomaisilta rajatuomareilta.],
   ("12.6.1.2", "Tuomariohjeet ja -ohjeistukset"),
 )
 
 #case(
   "5.6.11",
-  [After the whistle for service, the captain of team  A requests a TO from the 2nd  Referee and starts walking to the chairs. The 2nd  Referee does not blow the whistle and tries to get the team back into the playing court. The 1st Referee, seeing this, calls a replay, and grants team A their request for TO. Is this the proper procedure?],
-  [No - after the referee has whistled for service,  the captain of team A had no right to ask for the TO, and certainly was not granted permission to leave  the court. After the whistle for service by the 1st  Referee, the service should be executed.],
+  [Syöttövihellyksen jälkeen joukkueen A kapteeni pyytää verkkotuomarilta aikalisää ja alkaa kävellä kohti tuoleja. Verkkotuomari ei vihellä, vaan yrittää saada joukkueen takaisin pelikentälle. Päätuomari näkee tämän, määrää pallorallin pelattavaksi uudelleen ja myöntää joukkueelle A aikalisän. Onko tämä oikea menettely?],
+  [Ei. Syöttövihellyksen jälkeen joukkueen A kapteenilla ei ollut oikeutta pyytää aikalisää eikä hänelle ole voitu myöntää lupaa poistua kentältä. Päätuomarin syöttövihellyksen jälkeen syöttö tulee suorittaa.],
   ("12.3", "15.5.4", "16.1", "16.2.1", "16.2.2", "16.2.3"),
 )
 
 #case(
   "5.7.1",
-  [If an attacking player, pushes the ball with open hand into the block, is this always consider as a fault?],
-  [The referee should call an attack hit fault if  the attacking action was prior to the block  action. However, if the actions were simultaneous,  there would be no fault and play should continue, as long as part of the ball was on each team’s side (i.e., making each team’s play legal).],
+  [Jos hyökkäävä pelaaja työntää pallon avokämmenellä torjuntaan, onko tämä aina virhe?],
+  [Tuomarin tulee viheltää hyökkäyslyöntivirhe, jos hyökkäystoiminta tapahtui ennen torjuntatoimintaa. Jos toiminnot olivat samanaikaiset, virhettä ei ole ja peli jatkuu, kunhan osa pallosta on kummankin joukkueen puolella (eli kummankin joukkueen toiminta on laillinen).],
   "13.2.3",
 )
 
 #case(
   "5.7.2",
-  [When the ball is close to the net, but the  blocking action resembles more a set than a block,  what should be the reaction of the 1st Referee?],
-  [If the player’s action is not regarded as being a block then the referee may need to look at how clean was the contact (catch or double contact) and  the trajectory of the ball after the contact.],
+  [Kun pallo on lähellä verkkoa, mutta torjuntatoiminta muistuttaa enemmän passia kuin torjuntaa, mikä on päätuomarin oikea reagointi?],
+  [Jos pelaajan toiminta ei ole torjunta, tuomarin tulee arvioida kosketuksen puhtautta (koppi tai kaksoiskosketus) sekä pallon lentorataa kosketuksen jälkeen.],
   ("9.3.3", "9.3.4", "13.2.5"),
 )
 
 #case(
   "5.7.3",
-  [Is a player allowed to play the ball at the last minute intentionally in a reverse direction over his/her shoulders into the opponent’s court?],
-  [Yes, provided that the ball travels in a trajectory perpendicular to the line of the player’s  shoulders, and that the player has established his/her shoulder position before the initial contact is made (either in a forward or backward direction).],
+  [Onko pelaajan sallittua pelata pallo viime hetkellä tarkoituksellisesti “käänteiseen suuntaan” olkapäiden yli vastustajan kentälle?],
+  [Kyllä, edellyttäen että pallo kulkee lentoradalla, joka on kohtisuorassa pelaajan olkapäiden linjaan nähden, ja että pelaaja on asettanut olkapääasentonsa ennen ensimmäistä kosketusta (joko eteen- tai taaksepäin suuntautuen).],
   ("13.2.5", "Tuomariohjeet ja -ohjeistukset"),
 )
 
 #case(
   "5.7.4",
-  [If the ball is set cleanly, and the wind catches the ball and places the ball at the opponent side of the net, should the 1st Referee penalize the team for an attack hit fault?],
-  [No. This is a common misinterpretation of the rules and is not a fault. If the intention of the team “A” player is to set the ball to their partner, no fault exists. The wind causing the ball to cross over the net or the trajectory of the ball not being in line with the player’s shoulders is irrelevant in deciding on this fault.],
+  [Jos pallo passataan puhtaasti ja tuuli vie pallon vastustajan puolelle verkon yli, tuleeko päätuomarin tuomita hyökkäyslyöntivirhe?],
+  [Ei. Tämä on yleinen sääntöjen väärintulkinta eikä kyseessä ole virhe. Jos joukkueen A pelaajan tarkoitus on passata pallo parilleen, virhettä ei ole. Tuulen aiheuttama pallon siirtyminen verkon yli tai pallon lentoradan poikkeaminen olkapäiden linjasta on merkityksetöntä virhettä arvioitaessa.],
   ("13.2.5", "Tuomariohjeet ja -ohjeistukset"),
 )
 
 #case(
   "5.8.1",
-  [Is it legal to block a sky service ball into the net and then play it the second time to your partner?],
-  [No. This is a fault. It is not legal to block a service. The first contact is not legal so the 1st referee should have whistled a fault as soon as the player blocked the ball.],
+  [Onko sallittua torjua taivassyöttö verkkoon ja sen jälkeen pelata pallo toisella kosketuksella parille?],
+  [Ei. Tämä on virhe. Syöttöä ei saa torjua. Ensimmäinen kosketus ei ollut laillinen, joten päätuomarin olisi pitänyt viheltää virhe heti, kun pelaaja torjui pallon.],
   ("14.1.1", "14.1.3", "14.5", "14.6.3"),
 )
 
 #case(
   "5.8.2",
-  [If a player is late in blocking and in doing so  is approximately 1 meter from the net, can he/she, if the ball touches his/her hands, play the ball for  a second consecutive time Click Here for Video],
-  [There is no definition of “close to the net”. The referee must penalize it as a double contact fault if he/she believes the first contact of this player did not satisfy the requirements of a block. The distance from the net is important, as a block must be completed “close to the  net”. However, a taller player’s body may be further from the net than a smaller one, yet the hands can be over the net – so “close to the net” can be relative, and depend on a variety of factors.],
+  [Jos pelaaja on myöhässä torjunnassa ja on tällöin noin 1 metrin päässä verkosta, voiko hän, jos pallo osuu hänen käsiinsä, pelata pallon toisen kerran peräkkäin? Klikkaa tästä nähdäksesi videon.],
+  [“Lähellä verkkoa” -käsitteelle ei ole määritelmää. Tuomarin tulee viheltää kaksoiskosketusvirhe, jos hän katsoo, ettei pelaajan ensimmäinen kosketus täyttänyt torjunnan vaatimuksia. Etäisyys verkosta on tärkeä, sillä torjunta on tehtävä “lähellä verkkoa”. Toisaalta pidemmän pelaajan vartalo voi olla kauempana verkosta kuin lyhyemmän, mutta kädet voivat silti olla verkon yli – joten “lähellä verkkoa” voi olla suhteellista ja riippua useista tekijöistä.],
   ("9.3.4", "14.1.1"),
 )
 
 #case(
   "5.8.3",
-  [If the ball is coming to the net, is the blocking player allowed to redirect the ball in any position?],
-  [While the block is a defensive action it does not follow the same criteria as a hard driven ball 25 defence. The referee should not allow prolonged contact ( i.e., catch) of the block. The ball can be redirected by a block provided that it satisfies the definition of a block and the contact time is not prolonged.],
+  [Kun pallo tulee verkolle, onko torjuvan pelaajan sallittua ohjata pallo mihin tahansa suuntaan?],
+  [Vaikka torjunta on puolustustoiminta, se ei noudata samoja kriteereitä kuin kovan pallon puolustus. Tuomarin ei tule sallia torjunnassa pitkäkestoista kosketusta (eli koppia). Pallo voidaan ohjata torjunnalla, kunhan toiminta täyttää torjunnan määritelmän eikä kosketusaika ole pitkäkestoinen.],
   "14.2",
 )
 

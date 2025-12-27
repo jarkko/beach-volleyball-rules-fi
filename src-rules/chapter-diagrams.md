@@ -12,7 +12,7 @@
 
   Liittyvät säännöt: 1, 22.1, 23.1, 26.1, 27.1, 28.1
 
-  ![Image](../assets/images/rules_diagrams/diagram-1.png)
+  ![Image](assets/images/rules_diagrams/diagram-1.png)
 
 ====
 
@@ -21,7 +21,7 @@
 
   Liittyvät säännöt: 1.1, 1.3, 2.5
 
-  ![Image](../assets/images/rules_diagrams/diagram-2.png)
+  ![Image](assets/images/rules_diagrams/diagram-2.png)
 
 ====
 
@@ -30,7 +30,7 @@
 
   Liittyvät säännöt: 2, 8.4.3
 
-  ![Image](../assets/images/rules_diagrams/diagram-3.png)
+  ![Image](assets/images/rules_diagrams/diagram-3.png)
 
 ====
 
@@ -39,7 +39,7 @@
 
   Liittyvät säännöt: 8.4.3, 8.4.4, 8.4.5, 10.1.1, 10.1.3, 23.3.2.4, 28.2.1.3, 28.2.1.7 #label("rule-D4")
 
-  ![Image](../assets/images/rules_diagrams/diagram-4a.png)
+  ![Image](assets/images/rules_diagrams/diagram-4a.png)
 
 ====
 
@@ -48,7 +48,7 @@
 
   Liittyvät säännöt: 10.1.2, 10.1.2.1, 10.1.2.2
 
-  ![Image](../assets/images/rules_diagrams/diagram-4b.png)
+  ![Image](assets/images/rules_diagrams/diagram-4b.png)
 
 ====
 
@@ -57,7 +57,7 @@
 
   Liittyvät säännöt: 12.5.1, 12.5.2, 12.6.2.3, 22.3.2.3
 
-  ![Image](../assets/images/rules_diagrams/diagram-5.png)
+  ![Image](assets/images/rules_diagrams/diagram-5.png)
 
 ====
 
@@ -66,7 +66,7 @@
 
   Liittyvät säännöt: 14.1.3
 
-  ![Image](../assets/images/rules_diagrams/diagram-6.png)
+  ![Image](assets/images/rules_diagrams/diagram-6.png)
 
 ====
 
@@ -152,7 +152,7 @@
 
   Liittyvät säännöt: 3.3, 21.1, 22.1, 23.1, 26.1, 27.1, 28.1
 
-  ![Image](../assets/images/rules_diagrams/diagram-8.png)
+  ![Image](assets/images/rules_diagrams/diagram-8.png)
 
 ====
 
@@ -161,14 +161,14 @@
 
   Liittyvät säännöt: 29.1
 
-  ![Image](../assets/images/rules_diagrams/diagram-9-page-58.png)
-  ![Image](../assets/images/rules_diagrams/diagram-9-page-59.png)
-  ![Image](../assets/images/rules_diagrams/diagram-9-page-60.png)
-  ![Image](../assets/images/rules_diagrams/diagram-9-page-61.png)
-  ![Image](../assets/images/rules_diagrams/diagram-9-page-62.png)
-  ![Image](../assets/images/rules_diagrams/diagram-9-page-63.png)
-  ![Image](../assets/images/rules_diagrams/diagram-9-page-64.png)
-  ![Image](../assets/images/rules_diagrams/diagram-9-page-65.png)
+  ![Image](assets/images/rules_diagrams/diagram-9-page-58.png)
+  ![Image](assets/images/rules_diagrams/diagram-9-page-59.png)
+  ![Image](assets/images/rules_diagrams/diagram-9-page-60.png)
+  ![Image](assets/images/rules_diagrams/diagram-9-page-61.png)
+  ![Image](assets/images/rules_diagrams/diagram-9-page-62.png)
+  ![Image](assets/images/rules_diagrams/diagram-9-page-63.png)
+  ![Image](assets/images/rules_diagrams/diagram-9-page-64.png)
+  ![Image](assets/images/rules_diagrams/diagram-9-page-65.png)
 
 ====
 
@@ -177,8 +177,8 @@
 
   Liittyvät säännöt: 29.2
 
-  ![Image](../assets/images/rules_diagrams/diagram-10-page-66.png)
-  ![Image](../assets/images/rules_diagrams/diagram-10-page-67.png)
+  ![Image](assets/images/rules_diagrams/diagram-10-page-66.png)
+  ![Image](assets/images/rules_diagrams/diagram-10-page-67.png)
 
 ====
 

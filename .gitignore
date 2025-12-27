@@ -36,11 +36,11 @@ translation_brief*.md
 # Screenshots (keep diagram images)
 screenshots/
 *.png
-!src/assets/images/**/*.png
+!src-rules/assets/images/**/*.png
 *.jpg
-!src/assets/images/**/*.jpg
+!src-rules/assets/images/**/*.jpg
 *.jpeg
-!src/assets/images/**/*.jpeg
+!src-rules/assets/images/**/*.jpeg
 *.jp2
 *.tif
 *.tiff

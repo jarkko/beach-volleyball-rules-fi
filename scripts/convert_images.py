@@ -24,9 +24,9 @@ def convert_images(directory):
 
 def main():
     dirs = [
-        "src/assets/images/rules",
-        "src/assets/images/guidelines",
-        "src/assets/images/casebook"
+        "src-rules/assets/images/rules",
+        "src-rules/assets/images/guidelines",
+        "src-rules/assets/images/casebook"
     ]
 
     for d in dirs:
