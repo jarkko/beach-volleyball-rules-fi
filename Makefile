@@ -44,7 +44,7 @@ output/%.html: src-rules/%.md
 		--template=$(HTML_TEMPLATE) \
 		--lua-filter=$(FILTERS) \
 		--standalone \
-		--css=styles/html-margin-refs.css \
+		--css=assets/styles/html-margin-refs.css \
 		--output=$@
 
 # Markdown is the authoritative source on main.
@@ -88,13 +88,14 @@ test:
 	@which $(LATEX_ENGINE) || (echo "Error: $(LATEX_ENGINE) not found" && exit 1)
 	@echo "Pandoc setup OK"
 
-# Copy generated outputs into repo root so they can be linked directly from GitHub
-# and served by GitHub Pages (when Pages is configured to serve from the branch).
-.PHONY: root-artifacts
-root-artifacts: pdf html
-	cp output/rules-combined.pdf saannot.pdf
-	cp output/guidelines-combined.pdf tuomariohjeet.pdf
-	cp output/casebook-combined.pdf tapausesimerkit.pdf
-	cp output/rules-combined.html saannot.html
-	cp output/guidelines-combined.html tuomariohjeet.html
-	cp output/casebook-combined.html tapausesimerkit.html
+# Copy generated outputs into docs/ so branch-based GitHub Pages (Source: /docs)
+# serves them from the site root as /saannot.pdf etc.
+.PHONY: docs-artifacts
+docs-artifacts: pdf html
+	@mkdir -p docs
+	cp output/rules-combined.pdf docs/saannot.pdf
+	cp output/guidelines-combined.pdf docs/tuomariohjeet.pdf
+	cp output/casebook-combined.pdf docs/tapausesimerkit.pdf
+	cp output/rules-combined.html docs/saannot.html
+	cp output/guidelines-combined.html docs/tuomariohjeet.html
+	cp output/casebook-combined.html docs/tapausesimerkit.html

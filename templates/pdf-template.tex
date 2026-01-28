@@ -9,6 +9,7 @@
 \usepackage{xcolor}
 \usepackage{hyperref}
 \usepackage{marginnote}
+\usepackage{fontspec}
 \usepackage{booktabs}
 \usepackage{longtable}
 \usepackage{graphicx}
@@ -17,15 +18,18 @@
 \usepackage{enumitem}
 \usepackage{parskip}
 \usepackage{setspace}
-\usepackage{helvet}
 
 % Colors
 \definecolor{fivb-blue}{RGB}{0,51,153}
 
 % Fonts
-% Use LaTeX's Helvetica family (via the `helvet` package / PSNFSS).
-% This avoids relying on system-installed macOS Helvetica, so CI/Linux builds work.
-\renewcommand{\familydefault}{\sfdefault}
+% Use Inter everywhere (bundled into docs/assets so GitHub Pages serves it too).
+% For PDFs we load the local variable fonts directly (no system font dependency).
+\setmainfont[
+  Path=docs/assets/fonts/Inter/,
+  UprightFont=InterVariable.ttf,
+  ItalicFont=InterVariable-Italic.ttf
+]{Inter}
 
 % Hyperlink styling
 \hypersetup{

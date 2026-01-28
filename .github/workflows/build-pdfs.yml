@@ -37,7 +37,7 @@ jobs:
 
       - name: Build PDFs + single-page HTML and copy to repo root
         run: |
-          make pdf html root-artifacts
+          make pdf html docs-artifacts
 
       - name: Install Vale
         run: |
@@ -63,7 +63,7 @@ jobs:
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git add docs/ src-rules/*-combined.md saannot.pdf tuomariohjeet.pdf tapausesimerkit.pdf saannot.html tuomariohjeet.html tapausesimerkit.html
+          git add docs/ src-rules/*-combined.md
           if ! git diff --staged --quiet; then
             git commit -m "Refresh docs and published artifacts [skip ci]"
             git push

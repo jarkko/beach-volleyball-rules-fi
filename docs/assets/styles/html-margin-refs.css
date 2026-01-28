@@ -1,7 +1,4 @@
-/* Additional CSS for margin references in HTML output */
-
-/* NOTE: The published site serves CSS from docs/assets/styles/*.css.
-   This file is a build-time source; see docs/assets/styles/html-margin-refs.css for deployed CSS. */
+@import url('inter-fonts.css');
 
 /* Container for content with margin space */
 .content-with-margins {
@@ -47,5 +44,3 @@
     margin-right: 220px;
   }
 }
-
-
