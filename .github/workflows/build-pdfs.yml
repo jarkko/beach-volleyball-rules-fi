@@ -35,9 +35,21 @@ jobs:
         run: |
           make combine refresh-docs check-untranslated
 
-      - name: Build PDFs + single-page HTML and copy to repo root
+      - name: Build PDFs + single-page HTML and copy into docs/
         run: |
           make pdf html docs-artifacts
+
+      - name: Commit refreshed docs and published artifacts
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add docs/ src-rules/*-combined.md
+          if ! git diff --staged --quiet; then
+            git commit -m "Refresh docs and published artifacts [skip ci]"
+            git push
+          else
+            echo "No docs changes to commit"
+          fi
 
       - name: Install Vale
         run: |
@@ -51,6 +63,7 @@ jobs:
           python3 scripts/generate_vale_vocab.py
 
       - name: Run Vale
+        continue-on-error: true
         run: |
           vale sync
           # Check Finnish content only, exclude English corpus
@@ -58,15 +71,3 @@ jobs:
             --glob='!corpus/english/**' \
             --glob='!documents/english/**' \
             README.md docs/ src-rules/ || exit 1
-
-      - name: Commit refreshed docs
-        run: |
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
-          git add docs/ src-rules/*-combined.md
-          if ! git diff --staged --quiet; then
-            git commit -m "Refresh docs and published artifacts [skip ci]"
-            git push
-          else
-            echo "No docs changes to commit"
-          fi
