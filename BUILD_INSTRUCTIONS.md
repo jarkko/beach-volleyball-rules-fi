@@ -96,17 +96,21 @@ The Lua filters then convert these blocks to appropriate LaTeX/HTML output.
 ## Troubleshooting
 
 ### Pandoc not found
+
 - Install Pandoc using your system's package manager
 - Verify with: `pandoc --version`
 
 ### XeLaTeX not found
+
 - Install a TeX distribution (MacTeX, TeX Live, or MiKTeX)
 - Verify with: `xelatex --version`
 
 ### Font issues in PDF
+
 - Ensure system fonts are accessible
 - The template uses Helvetica/Liberation Sans/DejaVu Sans
 
 ### Filter errors
+
 - Check that Lua filters are in the `filters/` directory
 - Verify filter syntax with: `pandoc --lua-filter=filters/margin-refs.lua --help`

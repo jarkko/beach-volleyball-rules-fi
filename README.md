@@ -13,16 +13,19 @@ Official Finnish translation of the FIVB Beach Volleyball Rules 2025-2028, Refer
 The compiled documents are published on GitHub Pages:
 
 **PDFs:**
+
 - [saannot.pdf](https://jarkko.github.io/beach-volleyball-rules-fi/saannot.pdf) - Official Beach Volleyball Rules 2025-2028
 - [tuomariohjeet.pdf](https://jarkko.github.io/beach-volleyball-rules-fi/tuomariohjeet.pdf) - Refereeing Guidelines and Instructions
 - [tapausesimerkit.pdf](https://jarkko.github.io/beach-volleyball-rules-fi/tapausesimerkit.pdf) - Casebook
 
 **Single-page HTML (Pandoc):**
+
 - [saannot.html](https://jarkko.github.io/beach-volleyball-rules-fi/saannot.html)
 - [tuomariohjeet.html](https://jarkko.github.io/beach-volleyball-rules-fi/tuomariohjeet.html)
 - [tapausesimerkit.html](https://jarkko.github.io/beach-volleyball-rules-fi/tapausesimerkit.html)
 
 **HTML Documentation (automatically published to GitHub Pages via MkDocs):**
+
 - [Documentation Site](https://jarkko.github.io/beach-volleyball-rules-fi/)
 
 ### Structure
@@ -51,6 +54,7 @@ HTML documentation is also available via [MkDocs](https://www.mkdocs.org/) from 
 ### Translation Workflow
 
 This project uses a learning-based translation approach:
+
 - Terminology is maintained in `data/memory.json`
 - Finnish indoor volleyball rules are used as a reference corpus for idiomatic Finnish
 - Scripts in `scripts/` help extract and scaffold content from source PDFs
@@ -58,6 +62,7 @@ This project uses a learning-based translation approach:
 **Automatic Terminology Enforcement:** This project uses [Vale](https://vale.sh/) to automatically check terminology consistency. Vale rules are automatically generated from `data/memory.json`.
 
 **For AI Agents/Editors:** Before editing Finnish text, ALWAYS:
+
 1. Look up terms: `python3 scripts/get_term.py <term>` or `--doc-names` for document names
 2. Validate text: `python3 scripts/validate_terminology.py <text_or_file>`
 3. Run Vale: `vale README.md docs/` after editing
@@ -84,11 +89,13 @@ Virallinen suomennos FIVB:n beach volleyn säännöistä 2025-2028, tuomariohjei
 Käännettyjä dokumentteja on saatavilla GitHub Pagesissa:
 
 **PDF-tiedostot:**
+
 - [saannot.pdf](https://jarkko.github.io/beach-volleyball-rules-fi/saannot.pdf) - Viralliset beach volleyn säännöt 2025-2028
 - [tuomariohjeet.pdf](https://jarkko.github.io/beach-volleyball-rules-fi/tuomariohjeet.pdf) - Beach volleyn tuomariohjeet ja -ohjeistukset
 - [tapausesimerkit.pdf](https://jarkko.github.io/beach-volleyball-rules-fi/tapausesimerkit.pdf) - Beach volleyn tapausesimerkit 2025
 
 **HTML-dokumentaatio (julkaistaan automaattisesti GitHub Pagesiin MkDocs:lla):**
+
 - [Dokumentaatiosivusto](https://jarkko.github.io/beach-volleyball-rules-fi/)
 
 ### Rakenne
@@ -118,6 +125,7 @@ HTML-dokumentaatio on saatavilla myös [MkDocs](https://www.mkdocs.org/):n kautt
 ### Käännösprosessi
 
 Tämä projekti käyttää oppimispohjaista käännöstapaa:
+
 - Terminologia ylläpidetään tiedostossa `data/memory.json`
 - Suomenkielisiä lentopallon sääntöjä käytetään viitekorpuksena idiomaattiselle suomelle
 - `scripts/`-kansiossa olevat skriptit auttavat sisällön poiminnassa ja käsittelyssä
@@ -125,6 +133,7 @@ Tämä projekti käyttää oppimispohjaista käännöstapaa:
 **Automaattinen terminologian valvonta:** Projekti käyttää [Vale](https://vale.sh/)-työkalua terminologian yhdenmukaisuuden automaattiseen tarkistamiseen. Vale-säännöt luodaan automaattisesti `data/memory.json`-tiedostosta.
 
 **AI-agenttien/editorien käyttöön:** Ennen suomenkielisen tekstin muokkaamista, AINA:
+
 1. Tarkista termit: `python3 scripts/get_term.py <termi>` tai `--doc-names` dokumenttien nimille
 2. Validoi teksti: `python3 scripts/validate_terminology.py <teksti_tai_tiedosto>`
 3. Muokkauksen jälkeen tarkista Vale:llä: `vale README.md docs/`

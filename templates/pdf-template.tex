@@ -9,7 +9,6 @@
 \usepackage{xcolor}
 \usepackage{hyperref}
 \usepackage{marginnote}
-\usepackage{fontspec}
 \usepackage{booktabs}
 \usepackage{longtable}
 \usepackage{graphicx}
@@ -18,13 +17,15 @@
 \usepackage{enumitem}
 \usepackage{parskip}
 \usepackage{setspace}
+\usepackage{helvet}
 
 % Colors
 \definecolor{fivb-blue}{RGB}{0,51,153}
 
 % Fonts
-% Use a TeX Live font (Helvetica-like) so CI/Linux builds are reliable.
-\setmainfont{TeX Gyre Heros}
+% Use LaTeX's Helvetica family (via the `helvet` package / PSNFSS).
+% This avoids relying on system-installed macOS Helvetica, so CI/Linux builds work.
+\renewcommand{\familydefault}{\sfdefault}
 
 % Hyperlink styling
 \hypersetup{
