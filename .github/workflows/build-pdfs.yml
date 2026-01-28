@@ -21,7 +21,10 @@ jobs:
       - name: Install Pandoc and LaTeX (for PDFs)
         run: |
           sudo apt-get update
-          sudo apt-get install -y pandoc texlive-xetex texlive-fonts-recommended
+          sudo apt-get install -y \
+            pandoc \
+            texlive-xetex texlive-fonts-recommended texlive-latex-recommended texlive-latex-extra \
+            fonts-dejavu fonts-liberation
 
       - name: Setup Python
         uses: actions/setup-python@v5

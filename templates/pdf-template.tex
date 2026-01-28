@@ -23,12 +23,20 @@
 \definecolor{fivb-blue}{RGB}{0,51,153}
 
 % Fonts
-\setmainfont{Helvetica}[
-  UprightFont=*,
-  BoldFont=*-Bold,
-  ItalicFont=*-Oblique,
-  BoldItalicFont=*-BoldOblique
-]
+% Prefer Helvetica when available (macOS), but fall back to common fonts on CI/Linux.
+\IfFontExistsTF{Helvetica}{
+  \setmainfont{Helvetica}
+}{
+  \IfFontExistsTF{Liberation Sans}{
+    \setmainfont{Liberation Sans}
+  }{
+    \IfFontExistsTF{DejaVu Sans}{
+      \setmainfont{DejaVu Sans}
+    }{
+      \setmainfont{TeX Gyre Heros}
+    }
+  }
+}
 
 % Hyperlink styling
 \hypersetup{

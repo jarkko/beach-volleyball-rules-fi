@@ -1,10 +1,11 @@
 name: Publish to GitHub Pages
 
 on:
-  push:
-    branches:
-      - main
   workflow_dispatch:
+  # NOTE:
+  # This workflow deploys via GitHub Pages "Source: GitHub Actions".
+  # If the repo is configured to deploy Pages from a branch, GitHub will run the
+  # built-in "pages-build-deployment" job instead and this workflow will fail.
 
 permissions:
   contents: read
@@ -32,7 +33,10 @@ jobs:
       - name: Install Pandoc and LaTeX
         run: |
           sudo apt-get update
-          sudo apt-get install -y pandoc texlive-xetex texlive-fonts-recommended
+          sudo apt-get install -y \
+            pandoc \
+            texlive-xetex texlive-fonts-recommended texlive-latex-recommended texlive-latex-extra \
+            fonts-dejavu fonts-liberation
 
       - name: Setup Python
         uses: actions/setup-python@v5
