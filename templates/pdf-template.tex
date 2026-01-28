@@ -98,6 +98,11 @@
 % Line spacing
 \onehalfspacing
 
+% Pandoc emits \tightlist for compact lists; define it for LaTeX.
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}%
+}
+
 \begin{document}
 $body$
 \end{document}
