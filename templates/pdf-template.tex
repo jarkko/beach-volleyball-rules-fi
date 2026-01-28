@@ -23,20 +23,8 @@
 \definecolor{fivb-blue}{RGB}{0,51,153}
 
 % Fonts
-% Prefer Helvetica when available (macOS), but fall back to common fonts on CI/Linux.
-\IfFontExistsTF{Helvetica}{
-  \setmainfont{Helvetica}
-}{
-  \IfFontExistsTF{Liberation Sans}{
-    \setmainfont{Liberation Sans}
-  }{
-    \IfFontExistsTF{DejaVu Sans}{
-      \setmainfont{DejaVu Sans}
-    }{
-      \setmainfont{TeX Gyre Heros}
-    }
-  }
-}
+% Use a TeX Live font (Helvetica-like) so CI/Linux builds are reliable.
+\setmainfont{TeX Gyre Heros}
 
 % Hyperlink styling
 \hypersetup{
@@ -48,13 +36,14 @@
 }
 
 % Custom commands for rules
-\newcommand{\rule}[2]{%
+% NOTE: Don't name this \rule because LaTeX already defines \rule.
+\newcommand{\RuleBlock}[2]{%
   \phantomsection\label{rule-#1}%
   \noindent\rule{\textwidth}{0.5pt}\\[0.5em]
   {\color{fivb-blue}\textbf{\large #1 #2}}\\[0.5em]
 }
 
-\newcommand{\subrule}[2]{%
+\newcommand{\SubruleBlock}[2]{%
   \phantomsection\label{rule-#1}%
   \vspace{1.2em}
   \noindent\textbf{#1 #2}\\[0.3em]
@@ -66,7 +55,7 @@
   \textbf{#1} \hspace{0.5em} #2
 }
 
-\newcommand{\diagram}[2]{%
+\newcommand{\DiagramBlock}[2]{%
   \phantomsection\label{rule-D#1}%
   \noindent\rule{\textwidth}{0.5pt}\\[0.5em]
   {\color{fivb-blue}\textbf{\large KAAVIO #1: #2}}\\[0.5em]

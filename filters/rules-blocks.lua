@@ -8,10 +8,10 @@ function Div(el)
     local title = el.attributes['title'] or ''
 
     if FORMAT:match 'latex' or FORMAT:match 'pdf' then
-      -- LaTeX: use \rule command
+      -- LaTeX: use custom macro (avoid built-in \rule)
       local content = pandoc.write(pandoc.Pandoc({el}), 'latex')
       return pandoc.RawBlock('latex',
-        string.format('\\rule{%s}{%s}%%s', number, title) .. '\n' .. content
+        string.format('\\RuleBlock{%s}{%s}%%s', number, title) .. '\n' .. content
       )
     elseif FORMAT:match 'html' then
       -- HTML: use div with class
@@ -34,7 +34,7 @@ function Div(el)
     if FORMAT:match 'latex' or FORMAT:match 'pdf' then
       local content = pandoc.write(pandoc.Pandoc({el}), 'latex')
       return pandoc.RawBlock('latex',
-        string.format('\\subrule{%s}{%s}%%s', number, title) .. '\n' .. content
+        string.format('\\SubruleBlock{%s}{%s}%%s', number, title) .. '\n' .. content
       )
     elseif FORMAT:match 'html' then
       el.classes = {'subrule', 'subrule-block'}
@@ -55,7 +55,7 @@ function Div(el)
     if FORMAT:match 'latex' or FORMAT:match 'pdf' then
       local content = pandoc.write(pandoc.Pandoc({el}), 'latex')
       return pandoc.RawBlock('latex',
-        string.format('\\diagram{%s}{%s}%%s', number, title) .. '\n' .. content
+        string.format('\\DiagramBlock{%s}{%s}%%s', number, title) .. '\n' .. content
       )
     elseif FORMAT:match 'html' then
       el.classes = {'diagram', 'diagram-block'}
