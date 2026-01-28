@@ -87,3 +87,14 @@ test:
 	@which $(PANDOC) || (echo "Error: pandoc not found" && exit 1)
 	@which $(LATEX_ENGINE) || (echo "Error: $(LATEX_ENGINE) not found" && exit 1)
 	@echo "Pandoc setup OK"
+
+# Copy generated outputs into repo root so they can be linked directly from GitHub
+# and served by GitHub Pages (when Pages is configured to serve from the branch).
+.PHONY: root-artifacts
+root-artifacts: pdf html
+	cp output/rules-combined.pdf saannot.pdf
+	cp output/guidelines-combined.pdf tuomariohjeet.pdf
+	cp output/casebook-combined.pdf tapausesimerkit.pdf
+	cp output/rules-combined.html saannot.html
+	cp output/guidelines-combined.html tuomariohjeet.html
+	cp output/casebook-combined.html tapausesimerkit.html

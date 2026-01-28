@@ -18,6 +18,11 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
+      - name: Install Pandoc and LaTeX (for PDFs)
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y pandoc texlive-xetex texlive-fonts-recommended
+
       - name: Setup Python
         uses: actions/setup-python@v5
         with:
@@ -26,6 +31,10 @@ jobs:
       - name: Refresh combined sources and docs
         run: |
           make combine refresh-docs check-untranslated
+
+      - name: Build PDFs + single-page HTML and copy to repo root
+        run: |
+          make pdf html root-artifacts
 
       - name: Install Vale
         run: |
@@ -51,9 +60,9 @@ jobs:
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git add docs/ src-rules/*-combined.md
+          git add docs/ src-rules/*-combined.md saannot.pdf tuomariohjeet.pdf tapausesimerkit.pdf saannot.html tuomariohjeet.html tapausesimerkit.html
           if ! git diff --staged --quiet; then
-            git commit -m "Refresh docs [skip ci]"
+            git commit -m "Refresh docs and published artifacts [skip ci]"
             git push
           else
             echo "No docs changes to commit"
