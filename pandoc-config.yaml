@@ -12,6 +12,7 @@ variables:
 
 # Filters
 filters:
+  - filters/typst-markup.lua
   - filters/margin-refs.lua
   - filters/rules-blocks.lua
 

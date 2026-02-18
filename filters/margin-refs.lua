@@ -16,17 +16,57 @@ local function normalize_quotes(s)
   return (s:gsub('“', '"'):gsub('”', '"'))
 end
 
+local function trim(s)
+  if not s then
+    return ''
+  end
+  return (s:gsub('^%s+', ''):gsub('%s+$', ''))
+end
+
 local function parse_refs_marker(text)
   if not text then
     return nil
   end
 
   text = normalize_quotes(text)
-  local refs = text:match('^%{[^}]*%.refs[^}]*data%-refs%s*=%s*"([^"]*)"[^}]*%}%s*$')
+
+  -- Allow trailing junk after the closing brace (common in Typst-originated content).
+  -- Example:
+  --   {.refs data-refs="2.3"}", "D10 (4)")
+  local refs = text:match('^%{[^}]*%.refs[^}]*data%-refs%s*=%s*"([^"]*)"[^}]*%}%s*(.*)$')
+  local tail = nil
   if refs then
-    return refs
+    tail = select(2, text:match('^%{[^}]*%.refs[^}]*data%-refs%s*=%s*"([^"]*)"[^}]*%}%s*(.*)$'))
+  else
+    refs = text:match('^%{[^}]*%.refs[^}]*data%-refs%s*=%s*([^%s}]+)[^}]*%}%s*(.*)$')
+    if refs then
+      tail = select(2, text:match('^%{[^}]*%.refs[^}]*data%-refs%s*=%s*([^%s}]+)[^}]*%}%s*(.*)$'))
+    end
   end
-  refs = text:match('^%{[^}]*%.refs[^}]*data%-refs%s*=%s*([^%s}]+)[^}]*%}%s*$')
+
+  if not refs then
+    return nil
+  end
+
+  refs = trim(refs)
+  if tail and tail ~= '' then
+    -- Append any extra quoted tokens in the tail as additional refs.
+    local extras = {}
+    for q in tail:gmatch('"([^"]+)"') do
+      q = trim(q)
+      if q ~= '' then
+        table.insert(extras, q)
+      end
+    end
+    if #extras > 0 then
+      if refs == '' then
+        refs = table.concat(extras, ',')
+      else
+        refs = refs .. ',' .. table.concat(extras, ',')
+      end
+    end
+  end
+
   return refs
 end
 

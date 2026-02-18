@@ -6,8 +6,8 @@ SOURCES = src-rules/rules-combined.md src-rules/guidelines-combined.md src-rules
 PDF_OUTPUTS = $(SOURCES:src-rules/%.md=output/%.pdf)
 HTML_OUTPUTS = $(SOURCES:src-rules/%.md=output/%.html)
 
-# Filters
-FILTERS = filters/margin-refs.lua filters/rules-blocks.lua
+# Filters (order matters: preprocess Typst-like markup first)
+FILTERS = filters/typst-markup.lua filters/margin-refs.lua filters/rules-blocks.lua
 FILTER_ARGS = $(foreach f,$(FILTERS),--lua-filter=$(f))
 
 # Templates
