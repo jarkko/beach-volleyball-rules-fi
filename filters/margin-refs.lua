@@ -4,8 +4,63 @@
 -- Usage in Markdown:
 -- Some text.{.refs data-refs="1.1,D1"}
 --
+-- This repo also frequently uses the marker on its own line:
+--   {.refs data-refs="1.1,D1"}
+-- In that case Pandoc parses it as a standalone paragraph, so we merge it into
+-- the previous paragraph as an inline Span.
+--
 -- PDF: Converts to LaTeX \marginnote{}
 -- HTML: Converts to <span class="margin-ref"> with CSS positioning
+
+local function normalize_quotes(s)
+  return (s:gsub('“', '"'):gsub('”', '"'))
+end
+
+local function parse_refs_marker(text)
+  if not text then
+    return nil
+  end
+
+  text = normalize_quotes(text)
+  local refs = text:match('^%{[^}]*%.refs[^}]*data%-refs%s*=%s*"([^"]*)"[^}]*%}%s*$')
+  if refs then
+    return refs
+  end
+  refs = text:match('^%{[^}]*%.refs[^}]*data%-refs%s*=%s*([^%s}]+)[^}]*%}%s*$')
+  return refs
+end
+
+local function is_block_with_only_refs(block)
+  if not block or (block.t ~= 'Para' and block.t ~= 'Plain') then
+    return nil
+  end
+  local text = pandoc.utils.stringify(block)
+  return parse_refs_marker(text)
+end
+
+function Pandoc(doc)
+  local out = {}
+  for _, block in ipairs(doc.blocks) do
+    local refs_str = is_block_with_only_refs(block)
+
+    if refs_str then
+      local span = pandoc.Span({}, pandoc.Attr('', { 'refs' }, { ['data-refs'] = refs_str }))
+
+      local prev = out[#out]
+      if prev and (prev.t == 'Para' or prev.t == 'Plain') then
+        table.insert(prev.c, pandoc.Space())
+        table.insert(prev.c, span)
+      else
+        table.insert(out, pandoc.Para({ span }))
+      end
+    else
+      table.insert(out, block)
+    end
+  end
+
+  doc.blocks = out
+  return doc
+end
 
 function Span(el)
   if el.classes:includes('refs') and el.attributes['data-refs'] then
