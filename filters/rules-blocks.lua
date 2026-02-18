@@ -21,12 +21,19 @@ local function normalize_quotes(s)
   return (s:gsub('“', '"'):gsub('”', '"'))
 end
 
+local function trim(s)
+  if not s then
+    return ''
+  end
+  return (s:gsub('^%s+', ''):gsub('%s+$', ''))
+end
+
 local function parse_marker(text)
   if not text then
     return nil
   end
 
-  text = normalize_quotes(text)
+  text = trim(normalize_quotes(text))
   local kind, attrs = text:match('^%[(%a+),(.+)%]$')
   if not kind then
     return nil
@@ -54,7 +61,7 @@ local function is_delimiter_block(block)
   if not block or (block.t ~= 'Para' and block.t ~= 'Plain') then
     return false
   end
-  local text = normalize_quotes(pandoc.utils.stringify(block))
+  local text = trim(normalize_quotes(pandoc.utils.stringify(block)))
   if text:match('^=+$') and #text >= 4 then
     return true
   end
@@ -65,7 +72,7 @@ local function marker_from_header(block)
   if not block or block.t ~= 'Header' then
     return nil
   end
-  local text = pandoc.utils.stringify(block)
+  local text = trim(pandoc.utils.stringify(block))
   return parse_marker(text)
 end
 

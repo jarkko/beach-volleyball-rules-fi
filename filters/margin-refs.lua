@@ -67,6 +67,10 @@ local function parse_refs_marker(text)
     end
   end
 
+  if refs == '' then
+    return nil
+  end
+
   return refs
 end
 
@@ -76,6 +80,95 @@ local function is_block_with_only_refs(block)
   end
   local text = pandoc.utils.stringify(block)
   return parse_refs_marker(text)
+end
+
+local function inline_to_text(inline)
+  if not inline then
+    return ''
+  end
+  if inline.t == 'Str' then
+    return inline.c
+  end
+  if inline.t == 'Space' then
+    return ' '
+  end
+  if inline.t == 'SoftBreak' or inline.t == 'LineBreak' then
+    return ' '
+  end
+  return ''
+end
+
+local function convert_inline_refs(inlines)
+  local out = {}
+  local changed = false
+  local i = 1
+
+  while i <= #inlines do
+    local inline = inlines[i]
+
+    if inline and inline.t == 'Str' then
+      local s = normalize_quotes(inline.c)
+
+      -- If the marker is stuck to preceding text (e.g. "word{.refs ...}"),
+      -- split it so we can parse the refs.
+      local pre, marker_start = s:match('^(.-)(%{%.refs.*)$')
+      if marker_start then
+        if pre ~= '' then
+          table.insert(out, pandoc.Str(pre))
+        end
+        inline = pandoc.Str(marker_start)
+        s = normalize_quotes(inline.c)
+        changed = true
+      end
+
+      if s:match('^%{%.refs') then
+        local buf = {}
+        local j = i
+        local saw_close = false
+
+        while j <= #inlines do
+          local t = inline_to_text(inlines[j])
+          table.insert(buf, t)
+          if t:find('}', 1, true) then
+            saw_close = true
+            break
+          end
+          j = j + 1
+        end
+
+        if saw_close then
+          local marker_text = trim(table.concat(buf))
+          local refs_str = parse_refs_marker(marker_text)
+          if refs_str then
+            local span = pandoc.Span({}, pandoc.Attr('', { 'refs' }, { ['data-refs'] = refs_str }))
+
+            -- If the marker starts on a new line, it often follows a SoftBreak.
+            -- Drop a trailing space/line break before inserting the span.
+            if #out > 0 and (out[#out].t == 'SoftBreak' or out[#out].t == 'LineBreak' or out[#out].t == 'Space') then
+              out[#out] = nil
+            end
+            if #out > 0 and out[#out].t ~= 'Space' then
+              table.insert(out, pandoc.Space())
+            end
+            table.insert(out, span)
+
+            changed = true
+            i = j + 1
+            goto continue
+          end
+        end
+      end
+    end
+
+    table.insert(out, inline)
+    i = i + 1
+    ::continue::
+  end
+
+  if changed then
+    return out
+  end
+  return nil
 end
 
 function Pandoc(doc)
@@ -170,6 +263,22 @@ function Span(el)
       return pandoc.Span({pandoc.Str('[' .. refs_text .. ']')}, {class = 'refs'})
     end
   end
+end
+
+function Para(el)
+  local converted = convert_inline_refs(el.c)
+  if converted then
+    return pandoc.Para(converted)
+  end
+  return nil
+end
+
+function Plain(el)
+  local converted = convert_inline_refs(el.c)
+  if converted then
+    return pandoc.Plain(converted)
+  end
+  return nil
 end
 
 

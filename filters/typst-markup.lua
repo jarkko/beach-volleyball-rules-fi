@@ -23,6 +23,23 @@ local function block_text(block)
   return normalize_quotes(pandoc.utils.stringify(block or {}))
 end
 
+local function inlines_to_text(inlines)
+  local parts = {}
+  for _, inline in ipairs(inlines or {}) do
+    if inline.t == 'Str' then
+      table.insert(parts, inline.c)
+    elseif inline.t == 'Code' then
+      -- inline.text in newer Pandoc, inline.c in older
+      table.insert(parts, inline.text or inline.c or '')
+    elseif inline.t == 'Space' then
+      table.insert(parts, ' ')
+    elseif inline.t == 'SoftBreak' or inline.t == 'LineBreak' then
+      table.insert(parts, '\n')
+    end
+  end
+  return normalize_quotes(table.concat(parts))
+end
+
 local function is_plain_or_para(block)
   return block and (block.t == 'Para' or block.t == 'Plain')
 end
@@ -49,6 +66,116 @@ local function parse_rule_open(line)
   end
 
   return nil
+end
+
+local function skip_ws(text, pos)
+  while pos <= #text and text:sub(pos, pos):match('%s') do
+    pos = pos + 1
+  end
+  return pos
+end
+
+local function parse_quoted(text, pos)
+  pos = skip_ws(text, pos)
+  if text:sub(pos, pos) ~= '"' then
+    return nil
+  end
+  pos = pos + 1
+  local out = {}
+  while pos <= #text do
+    local ch = text:sub(pos, pos)
+    if ch == '\\' then
+      local nextc = text:sub(pos + 1, pos + 1)
+      if nextc ~= '' then
+        table.insert(out, nextc)
+        pos = pos + 2
+      else
+        pos = pos + 1
+      end
+    elseif ch == '"' then
+      pos = pos + 1
+      return table.concat(out), pos
+    else
+      table.insert(out, ch)
+      pos = pos + 1
+    end
+  end
+  return nil
+end
+
+local function find_matching_bracket(text, open_pos)
+  local depth = 0
+  local i = open_pos
+  while i <= #text do
+    local ch = text:sub(i, i)
+    if ch == '[' then
+      depth = depth + 1
+    elseif ch == ']' then
+      depth = depth - 1
+      if depth == 0 then
+        return i
+      end
+    end
+    i = i + 1
+  end
+  return nil
+end
+
+local function parse_wrapped_block(text, kind)
+  text = normalize_quotes(text)
+  text = text:gsub('\r\n', '\n')
+  local t = trim(text)
+
+  if not t:match('^#' .. kind .. '%s*%(') then
+    return nil
+  end
+
+  local pos = 2 + #kind
+  pos = skip_ws(t, pos)
+  if t:sub(pos, pos) ~= '(' then
+    return nil
+  end
+  pos = pos + 1
+
+  local arg1, p1 = parse_quoted(t, pos)
+  if not arg1 then
+    return nil
+  end
+  pos = skip_ws(t, p1)
+  if t:sub(pos, pos) ~= ',' then
+    return nil
+  end
+  pos = pos + 1
+
+  local arg2, p2 = parse_quoted(t, pos)
+  if not arg2 then
+    return nil
+  end
+  pos = skip_ws(t, p2)
+  if t:sub(pos, pos) ~= ')' then
+    return nil
+  end
+  pos = pos + 1
+  pos = skip_ws(t, pos)
+  if t:sub(pos, pos) ~= '[' then
+    return nil
+  end
+
+  local open_bracket = pos
+  local close_bracket = find_matching_bracket(t, open_bracket)
+  if not close_bracket then
+    return nil
+  end
+
+  local body = t:sub(open_bracket + 1, close_bracket - 1)
+  local tail = t:sub(close_bracket + 1)
+
+  return {
+    number = trim(arg1),
+    title = trim(arg2),
+    body = body,
+    tail = trim(tail),
+  }
 end
 
 local function parse_r_block(text)
@@ -201,38 +328,50 @@ function Pandoc(doc)
 
     -- Handle multi-line #rule/#subrule blocks
     if is_plain_or_para(b) then
-      local t = trim(block_text(b))
-      local open = parse_rule_open(t)
-      if open then
-        local content = {}
-        i = i + 1
-        while i <= #doc.blocks and not is_line_block(doc.blocks[i], '^%]$') do
-          table.insert(content, doc.blocks[i])
-          i = i + 1
-        end
-        -- consume closing ] if present
-        if i <= #doc.blocks and is_line_block(doc.blocks[i], '^%]$') then
-          i = i + 1
-        end
+      local t = trim(inlines_to_text(b.c))
 
-        local kind = open.kind
-        if kind == 'subrule' then
-          table.insert(out, rule_div('subrule', open.number, open.title, content))
-        else
-          -- #rule: if the identifier is "safe", map it to our rule Div; otherwise render
-          -- as a bolded term + body to avoid LaTeX label issues.
-          if number_is_safe_rule_label(open.number) then
-            table.insert(out, rule_div('rule', open.number, open.title, content))
-          else
-            local body = pandoc.utils.stringify(pandoc.Pandoc(content))
-            local para = pandoc.Para({ pandoc.Strong({ pandoc.Str(open.number) }) })
-            if trim(body) ~= '' then
-              table.insert(para.c, pandoc.Str(' — ' .. trim(body)))
-            end
-            table.insert(out, para)
+      -- Drop a few Typst-only directives/comments that are not meaningful in Pandoc.
+      if t:match('^//') or t:match('^#show%s') or t:match('^#v%s*%(') then
+        i = i + 1
+        goto continue
+      end
+
+      -- Handle #subrule(...) [ ... ] even when Pandoc collapsed it into a single paragraph.
+      local sub = parse_wrapped_block(t, 'subrule')
+      if sub then
+        local parsed = pandoc.read(sub.body, 'markdown')
+        table.insert(out, rule_div('subrule', sub.number, sub.title, parsed.blocks))
+        if sub.tail and sub.tail ~= '' then
+          local tail_doc = pandoc.read(sub.tail, 'markdown')
+          for _, tb in ipairs(tail_doc.blocks) do
+            table.insert(out, tb)
           end
         end
+        i = i + 1
+        goto continue
+      end
 
+      -- Handle #rule(...) [ ... ] similarly.
+      local r = parse_wrapped_block(t, 'rule')
+      if r then
+        local parsed = pandoc.read(r.body, 'markdown')
+        if number_is_safe_rule_label(r.number) then
+          table.insert(out, rule_div('rule', r.number, r.title, parsed.blocks))
+        else
+          local body_txt = trim(pandoc.utils.stringify(parsed))
+          local para = pandoc.Para({ pandoc.Strong({ pandoc.Str(r.number) }) })
+          if body_txt ~= '' then
+            table.insert(para.c, pandoc.Str(' — ' .. body_txt))
+          end
+          table.insert(out, para)
+        end
+        if r.tail and r.tail ~= '' then
+          local tail_doc = pandoc.read(r.tail, 'markdown')
+          for _, tb in ipairs(tail_doc.blocks) do
+            table.insert(out, tb)
+          end
+        end
+        i = i + 1
         goto continue
       end
 
@@ -323,19 +462,32 @@ function Pandoc(doc)
 end
 
 function Para(el)
-  -- Convert inline #label("...") tokens into real anchors and remove the text.
+  -- Convert inline #label("...") tokens into real anchors.
   local out = {}
   local changed = false
 
   for _, inline in ipairs(el.c) do
     if inline.t == 'Str' then
       local s = normalize_quotes(inline.c)
-      local id = s:match('^#label%(%s*"([^"]+)"%s*%)$')
-      if id then
-        table.insert(out, pandoc.Span({}, pandoc.Attr(id, {}, {})))
+      local only_id = s:match('^#label%(%s*"([^"]+)"%s*%)$')
+      if only_id then
+        table.insert(out, pandoc.Span({}, pandoc.Attr(only_id, {}, {})))
         changed = true
       else
-        table.insert(out, inline)
+        -- Handle cases where #label(...) is embedded in a larger string.
+        local pre, id, post = s:match('^(.-)#label%(%s*"([^"]+)"%s*%)(.*)$')
+        if id then
+          if pre ~= '' then
+            table.insert(out, pandoc.Str(pre))
+          end
+          table.insert(out, pandoc.Span({}, pandoc.Attr(id, {}, {})))
+          if post and post ~= '' then
+            table.insert(out, pandoc.Str(post))
+          end
+          changed = true
+        else
+          table.insert(out, inline)
+        end
       end
     else
       table.insert(out, inline)
