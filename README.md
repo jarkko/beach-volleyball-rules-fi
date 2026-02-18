@@ -14,19 +14,19 @@ The compiled documents are published on GitHub Pages:
 
 **PDFs:**
 
-- [saannot.pdf](https://jarkko.github.io/beach-volleyball-rules-fi/saannot.pdf) - Official Beach Volleyball Rules 2025-2028
-- [tuomariohjeet.pdf](https://jarkko.github.io/beach-volleyball-rules-fi/tuomariohjeet.pdf) - Refereeing Guidelines and Instructions
-- [tapausesimerkit.pdf](https://jarkko.github.io/beach-volleyball-rules-fi/tapausesimerkit.pdf) - Casebook
+- [saannot.pdf](https://jarkko.github.io/beach-volleyball-rules-fi/docs/saannot.pdf) - Official Beach Volleyball Rules 2025-2028
+- [tuomariohjeet.pdf](https://jarkko.github.io/beach-volleyball-rules-fi/docs/tuomariohjeet.pdf) - Refereeing Guidelines and Instructions
+- [tapausesimerkit.pdf](https://jarkko.github.io/beach-volleyball-rules-fi/docs/tapausesimerkit.pdf) - Casebook
 
 **Single-page HTML (Pandoc):**
 
-- [saannot.html](https://jarkko.github.io/beach-volleyball-rules-fi/saannot.html)
-- [tuomariohjeet.html](https://jarkko.github.io/beach-volleyball-rules-fi/tuomariohjeet.html)
-- [tapausesimerkit.html](https://jarkko.github.io/beach-volleyball-rules-fi/tapausesimerkit.html)
+- [saannot.html](https://jarkko.github.io/beach-volleyball-rules-fi/docs/saannot.html)
+- [tuomariohjeet.html](https://jarkko.github.io/beach-volleyball-rules-fi/docs/tuomariohjeet.html)
+- [tapausesimerkit.html](https://jarkko.github.io/beach-volleyball-rules-fi/docs/tapausesimerkit.html)
 
 **HTML Documentation (automatically published to GitHub Pages via MkDocs):**
 
-- [Documentation Site](https://jarkko.github.io/beach-volleyball-rules-fi/)
+- [Documentation Site](https://jarkko.github.io/beach-volleyball-rules-fi/docs/)
 
 ### Structure
 
@@ -90,13 +90,13 @@ Käännettyjä dokumentteja on saatavilla GitHub Pagesissa:
 
 **PDF-tiedostot:**
 
-- [saannot.pdf](https://jarkko.github.io/beach-volleyball-rules-fi/saannot.pdf) - Viralliset beach volleyn säännöt 2025-2028
-- [tuomariohjeet.pdf](https://jarkko.github.io/beach-volleyball-rules-fi/tuomariohjeet.pdf) - Beach volleyn tuomariohjeet ja -ohjeistukset
-- [tapausesimerkit.pdf](https://jarkko.github.io/beach-volleyball-rules-fi/tapausesimerkit.pdf) - Beach volleyn tapausesimerkit 2025
+- [saannot.pdf](https://jarkko.github.io/beach-volleyball-rules-fi/docs/saannot.pdf) - Viralliset beach volleyn säännöt 2025-2028
+- [tuomariohjeet.pdf](https://jarkko.github.io/beach-volleyball-rules-fi/docs/tuomariohjeet.pdf) - Beach volleyn tuomariohjeet ja -ohjeistukset
+- [tapausesimerkit.pdf](https://jarkko.github.io/beach-volleyball-rules-fi/docs/tapausesimerkit.pdf) - Beach volleyn tapausesimerkit 2025
 
 **HTML-dokumentaatio (julkaistaan automaattisesti GitHub Pagesiin MkDocs:lla):**
 
-- [Dokumentaatiosivusto](https://jarkko.github.io/beach-volleyball-rules-fi/)
+- [Dokumentaatiosivusto](https://jarkko.github.io/beach-volleyball-rules-fi/docs/)
 
 ### Rakenne
 
