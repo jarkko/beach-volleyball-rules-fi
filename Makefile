@@ -8,6 +8,7 @@ HTML_OUTPUTS = $(SOURCES:src-rules/%.md=output/%.html)
 
 # Filters
 FILTERS = filters/margin-refs.lua filters/rules-blocks.lua
+FILTER_ARGS = $(foreach f,$(FILTERS),--lua-filter=$(f))
 
 # Templates
 PDF_TEMPLATE = templates/pdf-template.tex
@@ -30,7 +31,7 @@ output/%.pdf: src-rules/%.md
 		--resource-path=.:src-rules \
 		--pdf-engine=$(LATEX_ENGINE) \
 		--template=$(PDF_TEMPLATE) \
-		--lua-filter=$(FILTERS) \
+		$(FILTER_ARGS) \
 		--output=$@ \
 		--variable=geometry:margin=2.5cm,right=5cm,top=2.5cm,bottom=2.5cm
 
@@ -42,7 +43,7 @@ output/%.html: src-rules/%.md
 		-t html5 \
 		--resource-path=.:src-rules \
 		--template=$(HTML_TEMPLATE) \
-		--lua-filter=$(FILTERS) \
+		$(FILTER_ARGS) \
 		--standalone \
 		--css=assets/styles/html-margin-refs.css \
 		--output=$@

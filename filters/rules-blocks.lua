@@ -1,88 +1,166 @@
--- Pandoc filter to convert custom rule blocks to LaTeX/HTML
--- Handles: [rule], [subrule], [diagram], [case] blocks
+-- Pandoc filter to convert custom rule blocks to LaTeX/HTML.
+--
+-- Source syntax (non-standard Markdown) used in this repo:
+--   [rule,number="1",title="PELIALUE"]
+--   ====
+--   ...content...
+--   ====
+--
+-- Pandoc treats the first "====" as a Setext heading underline, so the marker
+-- line becomes a Header. We detect those Headers, gather blocks until the next
+-- "====" delimiter, and convert that region into a proper Div with attributes.
+
+local RULE_KINDS = {
+  rule = true,
+  subrule = true,
+  diagram = true,
+  case_ = true,
+}
+
+local function normalize_quotes(s)
+  return (s:gsub('“', '"'):gsub('”', '"'))
+end
+
+local function parse_marker(text)
+  if not text then
+    return nil
+  end
+
+  text = normalize_quotes(text)
+  local kind, attrs = text:match('^%[(%a+),(.+)%]$')
+  if not kind then
+    return nil
+  end
+
+  kind = kind:lower()
+  if kind == 'case' then
+    kind = 'case_'
+  end
+  if not RULE_KINDS[kind] then
+    return nil
+  end
+
+  local number = attrs:match('number="([^"]+)"') or attrs:match('number=([^,]+)') or ''
+  local title = attrs:match('title="([^"]*)"') or attrs:match('title=([^,]+)') or ''
+
+  return {
+    kind = kind,
+    number = number,
+    title = title,
+  }
+end
+
+local function is_delimiter_block(block)
+  if not block or (block.t ~= 'Para' and block.t ~= 'Plain') then
+    return false
+  end
+  local text = normalize_quotes(pandoc.utils.stringify(block))
+  if text:match('^=+$') and #text >= 4 then
+    return true
+  end
+  return false
+end
+
+local function marker_from_header(block)
+  if not block or block.t ~= 'Header' then
+    return nil
+  end
+  local text = pandoc.utils.stringify(block)
+  return parse_marker(text)
+end
+
+function Pandoc(doc)
+  local out = {}
+  local i = 1
+
+  while i <= #doc.blocks do
+    local block = doc.blocks[i]
+    local marker = marker_from_header(block)
+
+    if marker then
+      local content = {}
+      i = i + 1
+
+      while i <= #doc.blocks and not is_delimiter_block(doc.blocks[i]) do
+        table.insert(content, doc.blocks[i])
+        i = i + 1
+      end
+
+      -- Consume the closing delimiter if present.
+      if i <= #doc.blocks and is_delimiter_block(doc.blocks[i]) then
+        i = i + 1
+      end
+
+      local kind_class = marker.kind
+      if kind_class == 'case_' then
+        kind_class = 'case'
+      end
+      local attr = pandoc.Attr('', { kind_class }, { number = marker.number, title = marker.title })
+      table.insert(out, pandoc.Div(content, attr))
+    else
+      table.insert(out, block)
+      i = i + 1
+    end
+  end
+
+  doc.blocks = out
+  return doc
+end
+
+local function latex_macro_for(el)
+  local number = el.attributes['number'] or ''
+  local title = el.attributes['title'] or ''
+
+  if el.classes:includes('rule') then
+    return string.format('\\RuleBlock{%s}{%s}', number, title)
+  elseif el.classes:includes('subrule') then
+    return string.format('\\SubruleBlock{%s}{%s}', number, title)
+  elseif el.classes:includes('diagram') then
+    return string.format('\\DiagramBlock{%s}{%s}', number, title)
+  end
+
+  return nil
+end
+
+local function html_title_for(el)
+  local number = el.attributes['number'] or ''
+  local title = el.attributes['title'] or ''
+  if el.classes:includes('diagram') then
+    return 'KAAVIO ' .. number .. ': ' .. title
+  end
+  return number .. ' ' .. title
+end
 
 function Div(el)
-  -- Rule blocks (main rules like "1", "2", etc.)
-  if el.classes:includes('rule') then
-    local number = el.attributes['number'] or ''
-    local title = el.attributes['title'] or ''
+  if el.classes:includes('rule') or el.classes:includes('subrule') or el.classes:includes('diagram') then
+    if FORMAT:match('latex') or FORMAT:match('pdf') then
+      local macro = latex_macro_for(el)
+      if not macro then
+        return nil
+      end
 
-    if FORMAT:match 'latex' or FORMAT:match 'pdf' then
-      -- LaTeX: use custom macro (avoid built-in \rule)
-      local content = pandoc.write(pandoc.Pandoc({el}), 'latex')
-      return pandoc.RawBlock('latex',
-        string.format('\\RuleBlock{%s}{%s}%%s', number, title) .. '\n' .. content
-      )
-    elseif FORMAT:match 'html' then
-      -- HTML: use div with class
-      el.classes = {'rule', 'rule-block'}
-      el.attributes['data-rule-number'] = number
-      el.attributes['data-rule-title'] = title
-      -- Add rule number and title as first element
-      local title_block = pandoc.Div({
-        pandoc.Para({pandoc.Strong({pandoc.Str(number .. ' ' .. title)})})
-      }, {class = 'rule-title'})
-      table.insert(el.content, 1, title_block)
-      return el
+      local blocks = { pandoc.RawBlock('latex', macro) }
+      for _, b in ipairs(el.content) do
+        table.insert(blocks, b)
+      end
+      return blocks
     end
 
-  -- Subrule blocks (like "1.1", "1.2")
-  elseif el.classes:includes('subrule') then
-    local number = el.attributes['number'] or ''
-    local title = el.attributes['title'] or ''
-
-    if FORMAT:match 'latex' or FORMAT:match 'pdf' then
-      local content = pandoc.write(pandoc.Pandoc({el}), 'latex')
-      return pandoc.RawBlock('latex',
-        string.format('\\SubruleBlock{%s}{%s}%%s', number, title) .. '\n' .. content
-      )
-    elseif FORMAT:match 'html' then
-      el.classes = {'subrule', 'subrule-block'}
-      el.attributes['data-rule-number'] = number
-      el.attributes['data-rule-title'] = title
-      local title_block = pandoc.Div({
-        pandoc.Para({pandoc.Strong({pandoc.Str(number .. ' ' .. title)})})
-      }, {class = 'subrule-title'})
+    if FORMAT:match('html') then
+      local title_text = html_title_for(el)
+      local title_block = pandoc.Para({ pandoc.Strong({ pandoc.Str(title_text) }) })
       table.insert(el.content, 1, title_block)
-      return el
-    end
-
-  -- Diagram blocks
-  elseif el.classes:includes('diagram') then
-    local number = el.attributes['number'] or ''
-    local title = el.attributes['title'] or ''
-
-    if FORMAT:match 'latex' or FORMAT:match 'pdf' then
-      local content = pandoc.write(pandoc.Pandoc({el}), 'latex')
-      return pandoc.RawBlock('latex',
-        string.format('\\DiagramBlock{%s}{%s}%%s', number, title) .. '\n' .. content
-      )
-    elseif FORMAT:match 'html' then
-      el.classes = {'diagram', 'diagram-block'}
-      el.attributes['data-diagram-number'] = number
-      el.attributes['data-diagram-title'] = title
-      local title_block = pandoc.Div({
-        pandoc.Para({pandoc.Strong({pandoc.Str('KAAVIO ' .. number .. ': ' .. title)})})
-      }, {class = 'diagram-title'})
-      table.insert(el.content, 1, title_block)
-      return el
-    end
-
-  -- Case blocks (for casebook)
-  elseif el.classes:includes('case') then
-    local number = el.attributes['number'] or ''
-
-    if FORMAT:match 'latex' or FORMAT:match 'pdf' then
-      -- Handle case formatting
-      return el -- Process normally but can add LaTeX wrapper if needed
-    elseif FORMAT:match 'html' then
-      el.classes = {'case', 'case-block'}
-      el.attributes['data-case-number'] = number
+      el.attributes['data-rule-number'] = el.attributes['number'] or ''
+      el.attributes['data-rule-title'] = el.attributes['title'] or ''
       return el
     end
   end
 
-  return nil -- Don't modify if not a recognized block
+  if el.classes:includes('case') then
+    return nil
+  end
+
+  return nil
 end
 
 

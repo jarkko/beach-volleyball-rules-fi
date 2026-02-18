@@ -13,6 +13,7 @@ variables:
 # Filters
 filters:
   - filters/margin-refs.lua
+  - filters/rules-blocks.lua
 
 # Extensions
 from: markdown+smart+raw_html+hard_line_breaks
